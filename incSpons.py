@@ -1,3 +1,4 @@
+from urllib.request import urlopen
 import requests
 import json
 import base64
@@ -5,9 +6,9 @@ from bs4 import BeautifulSoup
 
 #Returns a list of ids used to search for bills in the legiscan api
 def getBillIdList():
-    r = requests.get("https://api.legiscan.com/?key=2d28553a502d7fed3b68863b2f592f19&op=getMasterList&state=AZ")
-    json_obj = r.json()
-    js = json_obj['masterlist']
+    r = urlopen("https://api.legiscan.com/?key=2d28553a502d7fed3b68863b2f592f19&op=getMasterList&state=AZ").read().decode('utf-8')
+    json_obj = json.loads(r)
+    js = json_obj.get('masterlist')
     bill_id_list= []
 
     for item in js.values():
