@@ -23,18 +23,22 @@ def getSponsors():
     bill_id_list = getBillIdList()
     billResults = getBill(bill_id_list)
     #needs to increment through bill_id_list and store in another list
+    #billResults = json.loads(billResults)
+    print(billResults)
 
+"""
     billDetails = billResults['bill']
     sponsors = billDetails['sponsors']
     sponsors = sponsors[0]
     sponsorId = sponsors['people_id']
     sponsorName = sponsors['name']
     print(sponsors, sponsorId, sponsorName)
-
+"""
 #Returns the text of a given bill by using bill id to find bill, then doc_id
 def getBillText():
     bill_id_list = getBillIdList()
     txt_json = getBill(bill_id_list)
+    """
     decoded_txt = ''
     txt_json = txt_json['bill']
 
@@ -65,13 +69,19 @@ def getBillText():
     ''' I've managed to parse the bill ids from the json file and can now use th
         em to begin pulling bill text. Bill text appears to be in pdf, so idk???
     '''
+    """
 
 #getBillText() will use the list of ids to increment api billText
 def getBill(list):
+    billStringList = []
+    """ 
+    for i in list:
+        billUrl = urlopen("https://api.legiscan.com/?key=2d28553a502d7fed3b68863b2f592f19&op=getBill&id="+str(i)).read().decode('utf-8')
+        billStringList.append(billUrl)
+    """   
     testBill = list[0]
-    billUrl = requests.get("https://api.legiscan.com/?key=2d28553a502d7fed3b68863b2f592f19&op=getBill&id="+str(testBill))
+    billUrl = urlopen("https://api.legiscan.com/?key=2d28553a502d7fed3b68863b2f592f19&op=getBill&id="+str(testBill)).read().decode('utf-8')
 
-    txt_json = billUrl.json()
-    return txt_json
+    return billUrl
 
 getSponsors()

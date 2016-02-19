@@ -1,18 +1,19 @@
-import requests
+from urllib.request import urlopen
 import json
 import base64
 from bs4 import BeautifulSoup
 #Modify this script for readability in json parsing 
 def getBillId():
-    r = requests.get("https://api.legiscan.com/?key=2d28553a502d7fed3b68863b2f592f19&op=getMasterList&state=AZ")
-    json_obj = r.json()
+    r = urlopen("https://api.legiscan.com/?key=2d28553a502d7fed3b68863b2f592f19&op=getMasterList&state=AZ").read().decode('utf-8')
+    json_obj = json.loads(r)
+
     #parsedJson = json.loads(json_obj)
-    js = json_obj['masterlist']
+    js = json_obj.get('masterlist')
     bill_id_list= []
 
     for item in js.values():
         try:
-            bill_id_list.append(item['bill_id'])
+            bill_id_list.append(item.get('bill_id'))
         except KeyError:
             pass
 
@@ -21,14 +22,14 @@ def getBillId():
     txt_json = txt_json['bill']
 
     #'text' is the first object in the json file, increment to the 'doc' object
-    txt_json = txt_json['texts']
-    txt_json = txt_json[0]
-    doc_id = txt_json['doc_id']
+    doc_id = txt_json.get('texts')[0].get('doc_id')
+    #txt_json = txt_json[0]
+    #doc_id = txt_json['doc_id']
     
-    searchId = requests.get('https://api.legiscan.com/?key=2d28553a502d7fed3b68863b2f592f19&op=getBillText&id='+str(doc_id))
-    resultsId = searchId.json()
-    resultsId = resultsId['text']
-    resultsId = resultsId['doc']
+    searchId = urlopen('https://api.legiscan.com/?key=2d28553a502d7fed3b68863b2f592f19&op=getBillText&id='+str(doc_id)).read().decode('utf-8')
+    resultsId = json.loads(searchId)
+    resultsId = resultsId.get('text').get('doc')
+    #resultsId = resultsId['doc']
     decodedResults = base64.b64decode(resultsId)
     bsObj2 = BeautifulSoup(decodedResults)
     bsObj2.style.decompose()
@@ -54,9 +55,9 @@ def getBillId():
 #getBillText() will use the list of ids to increment api billText
 def getBillText(list):
     testBill = list[0]
-    billUrl = requests.get("https://api.legiscan.com/?key=2d28553a502d7fed3b68863b2f592f19&op=getBill&id="+str(testBill))
+    billUrl = urlopen("https://api.legiscan.com/?key=2d28553a502d7fed3b68863b2f592f19&op=getBill&id="+str(testBill)).read().decode('utf-8')
 
-    txt_json = billUrl.json()
+    txt_json = json.loads(billUrl)
 
     
     return txt_json
