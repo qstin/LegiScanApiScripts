@@ -1,5 +1,4 @@
 from urllib.request import urlopen
-import requests
 import json
 import base64
 from bs4 import BeautifulSoup
@@ -16,15 +15,24 @@ def getBillIdList():
             bill_id_list.append(item['bill_id'])
         except KeyError:
             pass
+
     return bill_id_list
 
-#Will return either a csv or json of sponsor information
 def getSponsors():
     bill_id_list = getBillIdList()
     billResults = getBill(bill_id_list)
-    #needs to increment through bill_id_list and store in another list
-    #billResults = json.loads(billResults)
-    print(billResults)
+    sponsor_list = []
+    
+
+    for bill in billResults:
+        sponsors = bill.get('bill').get('sponsors')
+        for sponsor_id in sponsors:
+            if sponsor_id.get('people_id') not in sponsor_list:
+                sponsor_list.append(sponsor_id.get('people_id'))
+
+    f = open("sponsorIDs.txt", "w")
+    f.write("\n".join(map(lambda x: str(x), sponsor_list)))
+    f.close()
 
 """
     billDetails = billResults['bill']
@@ -72,16 +80,15 @@ def getBillText():
     """
 
 #getBillText() will use the list of ids to increment api billText
-def getBill(list):
-    billStringList = []
-    """ 
-    for i in list:
-        billUrl = urlopen("https://api.legiscan.com/?key=2d28553a502d7fed3b68863b2f592f19&op=getBill&id="+str(i)).read().decode('utf-8')
-        billStringList.append(billUrl)
-    """   
-    testBill = list[0]
-    billUrl = urlopen("https://api.legiscan.com/?key=2d28553a502d7fed3b68863b2f592f19&op=getBill&id="+str(testBill)).read().decode('utf-8')
+def getBill(bill_list):
 
-    return billUrl
+    bill_over_list = []
+    for i in bill_list:
+        billUrl = urlopen("https://api.legiscan.com/?key=2d28553a502d7fed3b68863b2f592f19&op=getBill&id="+str(i)).read().decode('utf-8')
+        json_obj = json.loads(billUrl)
+        bill_over_list.append(billUrl)
+
+    return bill_over_list
+
 
 getSponsors()
