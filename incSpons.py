@@ -86,7 +86,7 @@ def getBill(bill_list):
     for i in bill_list:
         billUrl = urlopen("https://api.legiscan.com/?key=2d28553a502d7fed3b68863b2f592f19&op=getBill&id="+str(i)).read().decode('utf-8')
         json_obj = json.loads(billUrl)
-        bill_over_list.append(billUrl)
+        bill_over_list.append(json_obj)
 
     return bill_over_list
 
