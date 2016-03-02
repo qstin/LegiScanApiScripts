@@ -34,14 +34,6 @@ def getSponsors():
     f.write("\n".join(map(lambda x: str(x), sponsor_list)))
     f.close()
 
-"""
-    billDetails = billResults['bill']
-    sponsors = billDetails['sponsors']
-    sponsors = sponsors[0]
-    sponsorId = sponsors['people_id']
-    sponsorName = sponsors['name']
-    print(sponsors, sponsorId, sponsorName)
-"""
 #Returns the text of a given bill by using bill id to find bill, then doc_id
 def getBillText():
     bill_id_list = getBillIdList()

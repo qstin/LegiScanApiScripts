@@ -2,12 +2,10 @@ from urllib.request import urlopen
 import json
 import base64
 from bs4 import BeautifulSoup
-#Modify this script for readability in json parsing 
+#Modify this script for readability in json parsing
 def getBillId():
     r = urlopen("https://api.legiscan.com/?key=2d28553a502d7fed3b68863b2f592f19&op=getMasterList&state=AZ").read().decode('utf-8')
     json_obj = json.loads(r)
-
-    #parsedJson = json.loads(json_obj)
     js = json_obj.get('masterlist')
     bill_id_list= []
 
@@ -17,49 +15,53 @@ def getBillId():
         except KeyError:
             pass
 
-    txt_json = getBillText(bill_id_list)
-    decoded_txt = ''
-    txt_json = txt_json['bill']
+    bills = getBills(bill_id_list)
 
-    #'text' is the first object in the json file, increment to the 'doc' object
-    doc_id = txt_json.get('texts')[0].get('doc_id')
-    #txt_json = txt_json[0]
-    #doc_id = txt_json['doc_id']
-    
-    searchId = urlopen('https://api.legiscan.com/?key=2d28553a502d7fed3b68863b2f592f19&op=getBillText&id='+str(doc_id)).read().decode('utf-8')
-    resultsId = json.loads(searchId)
-    resultsId = resultsId.get('text').get('doc')
-    #resultsId = resultsId['doc']
-    decodedResults = base64.b64decode(resultsId)
-    bsObj2 = BeautifulSoup(decodedResults)
-    bsObj2.style.decompose()
-    htmlText = bsObj2.getText()
+    num = 1
+    for bill in bills:
+
+        #iterate to the bill key
+        #get the doc_id to append to the API call
+        bill_num = bill.get("bill").get("bill_number")
+        doc_id = bill.get("bill").get("texts")[0].get("doc_id")
+        #append the doc_id to the API call and convert results to unicode string
+        searchId = urlopen('https://api.legiscan.com/?key=2d28553a502d7fed3b68863b2f592f19&op=getBillText&id='+str(doc_id)).read().decode('utf-8')
+
+        #create json object with API data
+        resultsId = json.loads(searchId)
+
+        #iterate to the document object
+        resultsId = resultsId.get('text').get('doc')
+
+        #decode the MIME 64 encoded text
+        decodedResults = base64.b64decode(resultsId)
+
+        #once decoded, the text is in an HTML string, use bs4 to
+        #make it parsable
+        bsObj2 = BeautifulSoup(decodedResults)
+        bsObj2.style.decompose()
+
+        #strip white space, encode in ascii and remove non-printing characters
+        htmlText = str(bsObj2.getText(strip=True).encode('ascii',
+        'ignore')).replace("\\r\\n", "")
+
+        #print each instance of htmlText to a unique file
+        f = open("/media/qstin/var1/azcir/bills/" + str(bill_num) + ".txt", "w")
+        f.write(htmlText)
+        f.close()
+        ++num
 
 
 
-    #the bill text is MIME:txt/html and base64 encoded. So decode it
-    #decoded_txt = base64.b64decode(txt_json.encode('ascii'))
+def getBills(bill_list):
+    """use the list of ids to increment api billText"""
 
-    #the decoded text is an ugly html string. Use BS to parse and clean it
-    #This only works when MIME is html, need to account for PDF****
-        #bsObj = BeautifulSoup(decoded_txt)
+    complete_bill_list = []
+    for i in bill_list:
+        billUrl = urlopen("https://api.legiscan.com/?key=2d28553a502d7fed3b68863b2f592f19&op=getBill&id="+str(i)).read().decode("utf-8")
+        json_obj = json.loads(billUrl)
+        complete_bill_list.append(json_obj)
 
-    #use BS to get the text from the bsObj
-        #prettyText = bsObj.getText()
+    return complete_bill_list
 
-    return htmlText
-    ''' I've managed to parse the bill ids from the json file and can now use th
-        em to begin pulling bill text. Bill text appears to be in pdf, so idk???
-    '''
-    
-#getBillText() will use the list of ids to increment api billText
-def getBillText(list):
-    testBill = list[0]
-    billUrl = urlopen("https://api.legiscan.com/?key=2d28553a502d7fed3b68863b2f592f19&op=getBill&id="+str(testBill)).read().decode('utf-8')
-
-    txt_json = json.loads(billUrl)
-
-    
-    return txt_json
-
-print(getBillId())
+getBillId()
