@@ -1,0 +1,118 @@
+
+
+
+
+
+PREFILED DEC 09 2015
+
+
+
+REFERENCE TITLE: confidential data; criminal records
+  check
+
+
+
+
+
+
+
+State of Arizona
+Senate
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+SB 1009
+
+
+
+
+
+
+
+
+
+Introduced by
+Senator
+  Kavanagh
+
+
+
+
+
+AN ACT
+
+amending section
+41710, Arizona Revised Statutes; relating to confidential data.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 41-710, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE41-710.Confidential data personnel; criminal records check;
+definitions
+A.Before accepting an offer of employment, an
+applicant for an information technology
+a confidential data position
+in the department of administration
+shall submit a full set of fingerprints to the department of administration for
+the purpose of obtaining a state and federal criminal records check pursuant to
+section 411750 and Public Law 92544.The director of
+the department of administration shall request personnel who were employed in information technology confidential data positions on
+or before July 18, 2000 to submit a full set of fingerprints if the director
+determines that it is necessary to ensure the privacy, confidentiality or
+integrity of confidential data
+within the department's control.
+The director of the department of
+administration may require an employee in a confidential data position to
+submit to periodic subsequent state and federal criminal records checks. The
+department of public safety may exchange this fingerprint data with the federal
+bureau of investigation.
+B.If a
+state agency obtains a state and federal criminal records check for other
+purposes that is substantially similar to the criminal records check required
+by subsection A of this section, the state agency may furnish and the director
+of the department of administration may accept the state and federal criminal
+records check to satisfy the requirements of subsection A of this section.
+C.The
+director of the department of administration may delegate the enforcement of
+the requirements of this section to the human resources manager of the state
+agency.
+B.D.The
+department of administration or a state
+agency shall not disclose information obtained pursuant to subsection A of this section
+except to members of the department's or
+the state agency's staff solely for the purpose of employment of information technology confidential data personnel by the department.
+C.E.For the purposes
+of this section:
+1."Applicant" means any person who seeks
+employment as a new hire or any employee of the department of administration a state agency who seeks a
+transfer, a reclassification
+reallocation or a
+reassignment to an information technology
+a confidential data position.
+2."Confidential
+data" means any department of administration data to which access is
+restricted by virtue of applicable federal or state laws, rules or regulations.
+2.3."Information technology confidential data position"
+means any position that is in the department
+of administration a state
+agency, that requires the operation of computer systems that
+contain or transmit data to which access is restricted by virtue of applicable
+federal or state laws, rules or regulations and that requires access to the restricted
+data in order to fulfill the requirements of the position.
+4."State
+agency" means any department, commission, board, institution or other
+agency of this state. END_STATUTE
+

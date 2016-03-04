@@ -1,0 +1,250 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: AHCCCS; podiatry services
+
+
+
+
+
+
+
+State of Arizona
+House of Representatives
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+HB 2357
+
+
+
+
+
+
+
+
+
+Introduced by
+Representative
+  Carter
+
+
+
+
+
+AN ACT
+
+repealing section
+362907, arizona revised statutes, as amended by laws 2015, chapter 195,
+section 57; Amending section 362907, Arizona Revised Statutes, as
+amended by laws 2015, chapter 264, section 1; relating to the Arizona health
+care cost containment system.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Repeal
+Section 362907, Arizona Revised Statutes, as amended by
+Laws 2015, chapter 195, section 57, is repealed.
+Sec.2.Section 36-2907, Arizona Revised
+Statutes, as amended by Laws 2015, chapter 264, section 1, is amended to read:
+START_STATUTE36-2907.Covered health and medical services; modifications;
+related delivery of service requirements; definition
+A.Subject to the limitations and exclusions
+specified in this section, contractors shall provide the following medically
+necessary health and medical services:
+1.Inpatient hospital services that are ordinarily
+furnished by a hospital for the care and treatment of inpatients and that are
+provided under the direction of a physician or a primary care
+practitioner.For the purposes of this section, inpatient hospital
+services exclude services in an institution for tuberculosis or mental diseases
+unless authorized under an approved section 1115 waiver.
+2.Outpatient health services that are ordinarily
+provided in hospitals, clinics, offices and other health care facilities by
+licensed health care providers. Outpatient health services include services
+provided by or under the direction of a physician or a primary care
+practitioner.
+3.Other laboratory and xray services ordered
+by a physician or a primary care practitioner.
+4.Medications that are ordered on prescription by a
+physician or a dentist licensed pursuant to title 32, chapter 11. Persons who
+are dually eligible for title XVIII and title XIX services must obtain
+available medications through a medicare licensed or certified medicare
+advantage prescription drug plan, a medicare prescription drug plan or any
+other entity authorized by medicare to provide a medicare part D prescription
+drug benefit.
+5.Medical supplies, durable medical equipment,
+insulin pumps and prosthetic devices ordered by a physician or a primary care
+practitioner. Suppliers of durable medical equipment shall provide the
+administration with complete information about the identity of each person who
+has an ownership or controlling interest in their business and shall comply
+with federal bonding requirements in a manner prescribed by the administration.
+6.For persons who are at least twentyone
+years of age, treatment of medical conditions of the eye, excluding eye
+examinations for prescriptive lenses and the provision of prescriptive lenses.
+7.Early and periodic health screening and
+diagnostic services as required by section 1905(r) of title XIX of the social
+security act for members who are under twentyone years of age.
+8.Family planning services that do not include
+abortion or abortion counseling.If a contractor elects not to
+provide family planning services, this election does not disqualify the
+contractor from delivering all other covered health and medical services under
+this chapter.In that event, the administration may contract
+directly with another contractor, including an outpatient surgical center or a
+noncontracting provider, to deliver family planning services to a member who is
+enrolled with the contractor that elects not to provide family planning
+services.
+9.Podiatry services that are performed by a podiatrist who is licensed
+pursuant to title 32, chapter 7 and ordered by a primary care physician
+or primary care practitioner.
+10.Nonexperimental transplants approved for title
+XIX reimbursement.
+11.Ambulance and nonambulance transportation,
+except as provided in subsection G of this section.
+12.Hospice care.
+13.Orthotics, if all of the following apply:
+(a)The use of the orthotic is medically necessary
+as the preferred treatment option consistent with medicare guidelines.
+(b)The orthotic is less expensive than all other
+treatment options or surgical procedures to treat the same diagnosed condition.
+(c)The orthotic is ordered by a physician or
+primary care practitioner.
+B.The limitations and exclusions for health and
+medical services provided under this section are as follows:
+1.Circumcision of newborn males is not a covered
+health and medical service.
+2.For eligible persons who are at least twentyone
+years of age:
+(a)Outpatient health services do not include
+occupational therapy or speech therapy.
+(b)Prosthetic devices do not include hearing aids,
+dentures, bone anchored boneanchored hearing
+aids or cochlear implants.Prosthetic devices, except prosthetic
+implants, may be limited to twelve thousand five hundred dollars per contract
+year.
+(c)Percussive vests and orthotics are not covered health and
+medical services.
+(d)Durable medical equipment is limited to items
+covered by medicare.
+(e)Podiatry
+services do not include services performed by a podiatrist.
+(f)(e)Nonexperimental transplants do
+not include pancreas only pancreasonly transplants.
+(g)(f)Bariatric surgery procedures,
+including laparoscopic and open gastric bypass and restrictive procedures, are
+not covered health and medical services.
+C.The system shall pay noncontracting providers
+only for health and medical services as prescribed in subsection A of this
+section and as prescribed by rule.
+D.The director shall adopt rules necessary to
+limit, to the extent possible, the scope, duration and amount of services,
+including maximum limitations for inpatient services that are consistent with
+federal regulations under title XIX of the social security act (P.L. 8997;
+79 Stat. 344; 42 United States Code section 1396 (1980)). To the extent
+possible and practicable, these rules shall provide for the prior approval of
+medically necessary services provided pursuant to this chapter.
+E.The director shall make available home health
+services in lieu of hospitalization pursuant to contracts awarded under this
+article. For the purposes of this subsection, "home health services"
+means the provision of nursing services, home health aide services or medical
+supplies, equipment and appliances that are provided on a parttime or
+intermittent basis by a licensed home health agency within a member's residence
+based on the orders of a physician or a primary care practitioner. Home health
+agencies shall comply with the federal bonding requirements in a manner
+prescribed by the administration.
+F.The director shall adopt rules for the coverage
+of behavioral health services for persons who are eligible under section 362901,
+paragraph 6, subdivision (a).The
+administration shall contract with the department of health services for the
+delivery of all medically necessary behavioral health services to persons who
+are eligible under rules adopted pursuant to this subsection.The
+division of behavioral health in the department of health services
+the administration acting through the
+regional behavioral health authorities shall establish a
+diagnostic and evaluation program to which other state agencies shall refer
+children who are not already enrolled pursuant to this chapter and who may be
+in need of behavioral health services.In addition to an evaluation,
+the division of behavioral health
+administration acting through regional
+behavioral health authorities shall also identify children who
+may be eligible under section 362901, paragraph 6, subdivision (a) or
+section 362931, paragraph 5 and shall refer the children to the
+appropriate agency responsible for making the final eligibility determination.
+G.The director shall adopt rules for the provision
+of transportation services and rules providing for copayment by members for
+transportation for other than emergency purposes.Subject to
+approval by the centers for medicare and medicaid services, nonemergency
+medical transportation shall not be provided except for stretcher vans and
+ambulance transportation.Prior authorization is required for
+transportation by stretcher van and for medically necessary ambulance transportation
+initiated pursuant to a physician's direction. Prior authorization is not
+required for medically necessary ambulance transportation services rendered to
+members or eligible persons initiated by dialing telephone number 911 or other
+designated emergency response systems.
+H.The director may adopt rules to allow the
+administration, at the director's discretion, to use a second opinion procedure
+under which surgery may not be eligible for coverage pursuant to this chapter
+without documentation as to need by at least two physicians or primary care
+practitioners.
+I.If the director does not receive bids within the
+amounts budgeted or if at any time the amount remaining in the Arizona health
+care cost containment system fund is insufficient to pay for full contract
+services for the remainder of the contract term, the administration, on
+notification to system contractors at least thirty days in advance, may modify
+the list of services required under subsection A of this section for persons
+defined as eligible other than those persons defined pursuant to section 362901,
+paragraph 6, subdivision (a). The director may also suspend services or may
+limit categories of expense for services defined as optional pursuant to title
+XIX of the social security act (P.L. 8997; 79 Stat. 344; 42 United
+States Code section 1396 (1980)) for persons defined pursuant to section 362901,
+paragraph 6, subdivision (a). Such reductions or suspensions do not apply to
+the continuity of care for persons already receiving these services.
+J.Additional, reduced or modified hospitalization
+and medical care benefits may be provided under the system to enrolled members
+who are eligible pursuant to section 362901, paragraph 6, subdivision
+(b), (c), (d) or (e).
+K.All health and medical services provided under
+this article shall be provided in the geographic service area of the member,
+except:
+1.Emergency services and specialty services
+provided pursuant to section 362908.
+2.That the director may permit the delivery of
+health and medical services in other than the geographic service area in this
+state or in an adjoining state if the director determines that medical practice
+patterns justify the delivery of services or a net reduction in transportation
+costs can reasonably be expected. Notwithstanding the definition of physician
+as prescribed in section 362901, if services are procured from a
+physician or primary care practitioner in an adjoining state, the physician or
+primary care practitioner shall be licensed to practice in that state pursuant
+to licensing statutes in that state similar to title 32, chapter 13, 15, 17 or
+25 and shall complete a provider agreement for this state.
+L.Covered outpatient services shall be
+subcontracted by a primary care physician or primary care practitioner to other
+licensed health care providers to the extent practicable for purposes
+including, but not limited to, making health care services available to
+underserved areas, reducing costs of providing medical care and reducing
+transportation costs.
+M.The director shall adopt rules that prescribe the
+coordination of medical care for persons who are eligible for system
+services.The rules shall include provisions for the transfer of
+patients, the transfer of medical records and the initiation of medical care.
+N.For the purposes of this section,
+"ambulance" has the same meaning prescribed in section 362201.
+END_STATUTE
+

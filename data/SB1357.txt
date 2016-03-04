@@ -1,0 +1,2764 @@
+
+
+
+
+
+
+
+
+
+REFERENCE TITLE: vehicle certificates of title
+
+
+
+
+
+
+
+State of Arizona
+Senate
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+SB 1357
+
+
+
+
+
+
+
+
+
+Introduced by
+Senator
+  Worsley; Representatives Fann, Gray
+
+
+
+
+
+AN ACT
+
+amending sections
+28-101, 28-370, 28-2008, 28-2009, 28-2011, 28-2012, 282013, 28-2051,
+28-2052, 28-2053, 29-2055, 28-2058, 28-2059, 28-2060, 282061, 28-2063,
+28-2064, 28-2065, 28-2091, 28-2094, 28-2095, 28-2097, 282131, 28-2132,
+28-2133, 28-2134, 28-2135, 28-2136, 28-2137, 28-2162, 282165, 28-3511,
+28-3512, 28-3514, 28-4335, 28-4361, 28-4403, 28-4409, 284410, 28-4412,
+28-4421, 28-4423, 28-4533, 28-4547, 28-4594, 28-5101, 285111 and
+47-9311, Arizona Revised Statutes; relating to vehicle titles.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 28-101, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-101.Definitions
+In this title, unless the context
+otherwise requires:
+1."Alcohol"
+means any substance containing any form of alcohol, including ethanol,
+methanol, propynol and isopropynol.
+2."Alcohol
+concentration" if expressed as a percentage means either:
+(a)The number of grams
+of alcohol per one hundred milliliters of blood.
+(b)The number of grams
+of alcohol per two hundred ten liters of breath.
+3."Allterrain
+vehicle" means either of the following:
+(a)A motor vehicle that
+satisfies all of the following:
+(i)Is designed
+primarily for recreational nonhighway allterrain travel.
+(ii)Is fifty or fewer
+inches in width.
+(iii)Has an unladen
+weight of one thousand two hundred pounds or less.
+(iv)Travels on three or
+more nonhighway tires.
+(v)Is operated on a
+public highway.
+(b)A recreational
+off-highway vehicle that satisfies all of the following:
+(i)Is designed
+primarily for recreational nonhighway all-terrain travel.
+(ii)Is sixtyfive
+or fewer inches in width.
+(iii)Has an unladen
+weight of one thousand eight hundred pounds or less.
+(iv)Travels on four or
+more nonhighway tires.
+4."Authorized
+emergency vehicle" means any of the following:
+(a)A fire department
+vehicle.
+(b)A police vehicle.
+(c)An ambulance or
+emergency vehicle of a municipal department or public service corporation that
+is designated or authorized by the department or a local authority.
+(d)Any other ambulance,
+fire truck or rescue vehicle that is authorized by the department in its sole
+discretion and that meets liability insurance requirements prescribed by the
+department.
+5."Autocycle"
+means a threewheeled motorcycle on which the driver and passengers ride
+in a completely enclosed seating area that is equipped with a roll cage, safety
+belts for each occupant and antilock brakes and that is designed to be
+controlled with a steering wheel and pedals.
+6."Aviation
+fuel" means all flammable liquids composed of a mixture of selected
+hydrocarbons expressly manufactured and blended for the purpose of effectively
+and efficiently operating an internal combustion engine for use in an aircraft
+but does not include fuel for jet or turbine powered aircraft.
+7."Bicycle"
+means a device, including a racing wheelchair, that is propelled by human power
+and on which a person may ride and that has either:
+(a)Two tandem wheels,
+either of which is more than sixteen inches in diameter.
+(b)Three wheels in
+contact with the ground, any of which is more than sixteen inches in diameter.
+8."Board" means the transportation board.
+9."Bus" means
+a motor vehicle designed for carrying sixteen or more passengers, including the
+driver.
+10."Business
+district" means the territory contiguous to and including a highway if
+there are buildings in use for business or industrial purposes within any six
+hundred feet along the highway, including hotels, banks or office buildings,
+railroad stations and public buildings that occupy at least three hundred feet
+of frontage on one side or three hundred feet collectively on both sides of the
+highway.
+11."Certificate of ownership" means a
+paper or an electronic record that is issued in another state or a foreign
+jurisdiction and that indicates ownership of a vehicle.
+12."Certificate of title" means a
+paper document or an electronic record that is issued by the department and
+that indicates ownership of a vehicle.
+11.13."Combination
+of vehicles" means a truck or truck tractor and semitrailer and any
+trailer that it tows but does not include a forklift designed for the purpose
+of loading or unloading the truck, trailer or semitrailer.
+12.14."Controlled
+substance" means a substance so classified under section 102(6) of the
+controlled substances act (21 United States Code section 802(6)) and includes
+all substances listed in schedules I through V of 21 Code of Federal
+Regulations part 1308.
+13.15."Conviction"
+means:
+(a)An
+unvacated adjudication of guilt or a determination that a person violated or
+failed to comply with the law in a court of original jurisdiction or by an
+authorized administrative tribunal.
+(b)An unvacated
+forfeiture of bail or collateral deposited to secure the person's appearance in
+court.
+(c)A plea of guilty or
+no contest accepted by the court.
+(d)The payment of a
+fine or court costs.
+14.16."County
+highway" means a public road that is constructed and maintained by a
+county.
+15.17."Dealer"
+means a person who is engaged in the business of buying, selling or exchanging
+motor vehicles, trailers or semitrailers and who has an established place of
+business.
+16.18."Department"
+means the department of transportation acting directly or through its duly
+authorized officers and agents.
+17.19."Digital
+network or software application" has the same meaning prescribed in
+section 289551.
+18.20."Director"
+means the director of the department of transportation.
+19.21."Drive"
+means to operate or be in actual physical control of a motor vehicle.
+20.22."Driver"
+means a person who drives or is in actual physical control of a vehicle.
+21.23."Driver
+license" means a license that is issued by a state to an individual and that
+authorizes the individual to drive a motor vehicle.
+22.24."Electric
+personal assistive mobility device" means a selfbalancing two
+nontandem wheeled device with an electric propulsion system that limits the
+maximum speed of the device to fifteen miles per hour or less and that is
+designed to transport only one person.
+23.25."Farm"
+means any lands primarily used for agriculture production.
+24.26."Farm
+tractor" means a motor vehicle designed and used primarily as a farm
+implement for drawing implements of husbandry.
+25.27."Foreign
+vehicle" means a motor vehicle, trailer or semitrailer that is brought
+into this state other than in the ordinary course of business by or through a
+manufacturer or dealer and that has not been registered in this state.
+26.28."Golf
+cart" means a motor vehicle that has not less than three wheels in contact
+with the ground, that has an unladen weight of less than one thousand eight
+hundred pounds, that is designed to be and is operated at not more than twentyfive
+miles per hour and that is designed to carry not more than four persons
+including the driver.
+27.29."Hazardous
+material" means a material, and its mixtures or solutions, that the United
+States department of transportation determines under 49 Code of Federal
+Regulations is, or any quantity of a material listed as a select agent or toxin
+under 42 Code of Federal Regulations part 73 that is, capable of posing an
+unreasonable risk to health, safety and property if transported in commerce and
+that is required to be placarded or marked as required by the department's
+safety rules prescribed pursuant to chapter 14 of this title.
+28.30."Implement
+of husbandry" means a vehicle designed primarily for agricultural purposes
+and used exclusively in the conduct of agricultural operations, including an
+implement or vehicle whether selfpropelled or otherwise that meets both
+of the following conditions:
+(a)Is used solely for
+agricultural purposes including the preparation or harvesting of cotton,
+alfalfa, grains and other farm crops.
+(b)Is only incidentally
+operated or moved on a highway whether as a trailer or selfpropelled
+unit.For the purposes of this subdivision, "incidentally
+operated or moved on a highway" means travel between a farm and another
+part of the same farm, from one farm to another farm or between a farm and a
+place of repair, supply or storage.
+29.31."Limousine"
+means a motor vehicle providing prearranged ground transportation service for
+an individual passenger, or a group of passengers, that is arranged in advance
+or is operated on a regular route or between specified points and includes
+ground transportation under a contract or agreement for services that includes
+a fixed rate or time and is provided in a motor vehicle with a seating capacity
+not exceeding fifteen passengers including the driver.
+30.32."Livery
+vehicle" means a motor vehicle that:
+(a)Has a seating
+capacity not exceeding fifteen passengers including the driver.
+(b)Provides passenger
+services for a fare determined by a flat rate or flat hourly rate between
+geographic zones or within a geographic area.
+(c)Is available for
+hire on an exclusive or shared ride basis.
+(d)May do any of the
+following:
+(i)Operate on a regular
+route or between specified places.
+(ii)Offer prearranged
+ground transportation service as defined in section 28141.
+(iii)Offer on demand
+ground transportation service pursuant to a contract with a public airport,
+licensed business entity or organization.
+31.33."Local
+authority" means any county, municipal or other local board or body
+exercising jurisdiction over highways under the constitution and laws of this
+state.
+32.34."Manufacturer"
+means a person engaged in the business of manufacturing motor vehicles,
+trailers or semitrailers.
+33.35."Moped"
+means a bicycle that is equipped with a helper motor if the vehicle has a
+maximum piston displacement of fifty cubic centimeters or less, a brake
+horsepower of one and onehalf or less and a maximum speed of twentyfive
+miles per hour or less on a flat surface with less than a one percent grade.
+34.36."Motor
+driven cycle" means a motorcycle, including every motor scooter, with a
+motor that produces not more than five horsepower.
+35.37."Motor
+vehicle":
+(a)Means either:
+(i)A selfpropelled
+vehicle.
+(ii)For the purposes of
+the laws relating to the imposition of a tax on motor vehicle fuel, a vehicle
+that is operated on the highways of this state and that is propelled by the use
+of motor vehicle fuel.
+(b)Does not include a
+motorized wheelchair, an electric personal assistive mobility device or a
+motorized skateboard. For the purposes of this subdivision:
+(i)"Motorized
+skateboard" means a selfpropelled device that has a motor, a deck
+on which a person may ride and at least two tandem wheels in contact with the
+ground.
+(ii)"Motorized
+wheelchair" means a selfpropelled wheelchair that is used by a
+person for mobility.
+36.38."Motor
+vehicle fuel" includes all products that are commonly or commercially
+known or sold as gasoline, including casinghead gasoline, natural gasoline and
+all flammable liquids, and that are composed of a mixture of selected
+hydrocarbons expressly manufactured and blended for the purpose of effectively
+and efficiently operating internal combustion engines. Motor vehicle fuel does
+not include inflammable liquids that are specifically manufactured for racing
+motor vehicles and that are distributed for and used by racing motor vehicles
+at a racetrack, use fuel as defined in section 285601, aviation fuel,
+fuel for jet or turbine powered aircraft or the mixture created at the
+interface of two different substances being transported through a pipeline,
+commonly known as transmix.
+37.39."Motorcycle"
+means a motor vehicle that has a seat or saddle for the use of the rider and
+that is designed to travel on not more than three wheels in contact with the
+ground but excludes a tractor and a moped.
+38.40."Motorized
+quadricycle" means a self-propelled motor vehicle to which all of the
+following apply:
+(a)The vehicle is
+self-propelled by an emission-free electric motor and may include pedals
+operated by the passengers.
+(b)The vehicle has at
+least four wheels in contact with the ground.
+(c)The vehicle seats at
+least eight passengers, including the driver.
+(d)The vehicle is
+operable on a flat surface using solely the electric motor without assistance
+from the pedals or passengers.
+(e)The vehicle is a
+commercial motor vehicle as defined in section 285201.
+(f)The vehicle is
+licensed by the department of weights and
+measures to operate as a limousine pursuant to section 289503.
+(g)The vehicle is
+manufactured by a motor vehicle manufacturer that is licensed pursuant to
+chapter 10 of this title.
+(h)The vehicle complies
+with the definition and standards for lowspeed vehicles set forth in
+federal motor vehicle safety standard 500 and 49 Code of Federal Regulations section sections 571.3(b) and 571.500, respectively.
+39.41."Neighborhood
+electric vehicle" means a selfpropelled electrically powered motor
+vehicle to which all of the following apply:
+(a)The vehicle is
+emission free.
+(b)The vehicle has at
+least four wheels in contact with the ground.
+(c)The vehicle complies
+with the definition and standards for low speed vehicles set forth in federal
+motor vehicle safety standard 500 and 49 Code of Federal Regulations sections
+571.3(b) and 571.500, respectively.
+40.42."Nonresident"
+means a person who is not a resident of this state as defined in section 282001.
+41.43."Offroad
+recreational motor vehicle" means a motor vehicle that is designed
+primarily for recreational nonhighway allterrain travel and that is not
+operated on a public highway.Offroad recreational motor
+vehicle does not mean a motor vehicle used for construction, building trade, mining
+or agricultural purposes.
+42.44."Operator"
+means a person who drives a motor vehicle on a highway, who is in actual
+physical control of a motor vehicle on a highway or who is exercising control
+over or steering a vehicle being towed by a motor vehicle.
+43.45."Owner"
+means:
+(a)A person who holds
+the legal title of a vehicle.
+(b)If a vehicle is the
+subject of an agreement for the conditional sale or lease with the right of
+purchase on performance of the conditions stated in the agreement and with an
+immediate right of possession vested in the conditional vendee or lessee, the
+conditional vendee or lessee.
+(c)If a mortgagor of a
+vehicle is entitled to possession of the vehicle, the mortgagor.
+44.46."Pedestrian"
+means any person afoot.A person who uses an electric personal
+assistive mobility device or a manual or motorized wheelchair is considered a
+pedestrian unless the manual wheelchair qualifies as a bicycle.For
+the purposes of this paragraph, "motorized wheelchair" means a selfpropelled
+wheelchair that is used by a person for mobility.
+45.47."Power
+sweeper" means an implement, with or without motive power, that is only
+incidentally operated or moved on a street or highway and that is designed for
+the removal of debris, dirt, gravel, litter or sand whether by broom, vacuum or
+regenerative air system from asphaltic concrete or cement concrete surfaces,
+including parking lots, highways, streets and warehouses, and a vehicle on
+which the implement is permanently mounted.
+46.48."Public
+transit" means the transportation of passengers on scheduled routes by
+means of a conveyance on an individual passenger farepaying basis
+excluding transportation by a sightseeing bus, school bus or taxi or a vehicle
+not operated on a scheduled route basis.
+47.49."Reconstructed
+vehicle" means a vehicle that has been assembled or constructed largely by
+means of essential parts, new or used, derived from vehicles or makes of
+vehicles of various names, models and types or that, if originally otherwise
+constructed, has been materially altered by the removal of essential parts or
+by the addition or substitution of essential parts, new or used, derived from
+other vehicles or makes of vehicles.For the purposes of this
+paragraph, "essential parts" means integral and body parts, the
+removal, alteration or substitution of which will tend to conceal the identity
+or substantially alter the appearance of the vehicle.
+48.50."Residence
+district" means the territory contiguous to and including a highway not comprising
+a business district if the property on the highway for a distance of three
+hundred feet or more is in the main improved with residences or residences and
+buildings in use for business.
+49.51."Rightofway"
+when used within the context of the regulation of the movement of traffic on a
+highway means the privilege of the immediate use of the
+highway.Rightofway when used within the context of
+the real property on which transportation facilities and appurtenances to the
+facilities are constructed or maintained means the lands or interest in lands
+within the rightofway boundaries.
+50.52."School
+bus" means a motor vehicle that is designed for carrying more than ten
+passengers and that is either:
+(a)Owned by any public
+or governmental agency or other institution and operated for the transportation
+of children to or from home or school on a regularly scheduled basis.
+(b)Privately owned and
+operated for compensation for the transportation of children to or from home or
+school on a regularly scheduled basis.
+51.53."Semitrailer"
+means a vehicle that is with or without motive power, other than a pole
+trailer, that is designed for carrying persons or property and for being drawn
+by a motor vehicle and that is constructed so that some part of its weight and
+that of its load rests on or is carried by another vehicle. For the purposes
+of this paragraph, "pole trailer" has the same meaning prescribed in
+section 28601.
+52.54."State"
+means a state of the United States and the District of Columbia.
+53.55."State
+highway" means a state route or portion of a state route that is accepted
+and designated by the board as a state highway and that is maintained by the
+state.
+54.56."State
+route" means a rightofway whether actually used as a highway
+or not that is designated by the board as a location for the construction of a
+state highway.
+55.57."Street"
+or "highway" means the entire width between the boundary lines of
+every way if a part of the way is open to the use of the public for purposes of
+vehicular travel.
+56.58."Taxi"
+means a motor vehicle that has a seating capacity not exceeding fifteen
+passengers, including the driver, that is registered as a taxi in this state or
+any other state, that provides passenger services and that:
+(a)Does not primarily
+operate on a regular route or between specified places.
+(b)Offers local
+transportation for a fare determined on the basis of the distance traveled or
+prearranged ground transportation service as defined in section 28141
+for a predetermined fare.
+59."Title transfer form" means a paper
+or an electronic form that is prescribed by the department for the purpose of
+transferring a certificate of title from one owner to another owner.
+57.60."Traffic
+survival school" means a school that offers educational sessions to
+drivers who are required to attend and successfully complete educational
+sessions pursuant to this title that are designed to improve the safety and
+habits of drivers and that are approved by the department.
+58.61."Trailer"
+means a vehicle that is with or without motive power, other than a pole
+trailer, that is designed for carrying persons or property and for being drawn
+by a motor vehicle and that is constructed so that no part of its weight rests
+on the towing vehicle. A semitrailer equipped with an auxiliary front axle
+commonly known as a dolly is deemed to be a trailer. For the purposes of this
+paragraph, "pole trailer" has the same meaning prescribed in section
+28601.
+59.62."Transportation
+network company" has the same meaning prescribed in section 289551.
+60.63."Transportation
+network company vehicle" has the same meaning prescribed in section 289551.
+61.64."Transportation
+network service" has the same meaning prescribed in section 289551.
+62.65."Truck"
+means a motor vehicle designed or used primarily for the carrying of property
+other than the effects of the driver or passengers and includes a motor vehicle
+to which has been added a box, a platform or other equipment for such carrying.
+63.66."Truck
+tractor" means a motor vehicle that is designed and used primarily for
+drawing other vehicles and that is not constructed to carry a load other than a
+part of the weight of the vehicle and load drawn.
+64.67."Vehicle"
+means a device in, on or by which a person or property is or may be transported
+or drawn on a public highway, excluding devices moved by human power or used
+exclusively on stationary rails or tracks.
+65.68."Vehicle
+transporter" means either:
+(a)A
+truck tractor capable of carrying a load and drawing a semitrailer.
+(b)A
+truck tractor with a stingersteered fifth wheel capable of carrying a
+load and drawing a semitrailer or a truck tractor with a dolly mounted fifth
+wheel that is securely fastened to the truck tractor at two or more points and
+that is capable of carrying a load and drawing a semitrailer. END_STATUTE
+Sec.2.Section 28-370, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-370.Oaths and acknowledgments; power of attorney; definition
+A.The director and officers, agents and employees
+of the department the director designates may administer oaths and acknowledge
+signatures, without a fee, in any matter connected with the administration of a
+law the enforcement of which is vested in the director.
+B.Notwithstanding title 14, chapter 5, article 5:
+1.The director or an officer, agent or employee of
+the department designated by the director may witness a power of attorney to be
+used solely in the performance of vehicle title and registration activities.
+2.For the purposes of executing a power of attorney
+in the performance of vehicle title and registration activities, the power of
+attorney is not required to be:
+(a)Notarized if it is witnessed by the director or
+an officer, agent or employee of the department designated by the director.
+(b)Notarized if it is involving a
+total loss vehicle settlement and an insurance company that is licensed
+pursuant to title 20 submits it electronically to the department in a manner
+approved by the director.
+(b)(c)Witnessed if it is notarized.
+C.For the purposes of this section,
+"agent" includes a motor vehicle dealer, a title service company or any other or a third party authorized
+pursuant to this title.END_STATUTE
+Sec.3.Section 28-2008, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-2008.Duplicate certificate of title, permit, registration card
+or license plates
+A.If
+a certificate of title,
+permit, registration card or license plate is lost or mutilated or becomes
+illegible, the person entitled to the certificate,
+permit, card or plate shall immediately apply for and obtain a duplicate or
+substitute certificate,
+permit, card or plate by furnishing information satisfactory to the department.
+B.If a paper certificate of title is
+lost or mutilated or becomes illegible, the person entitled to the certificate of
+title may apply for a duplicate or substitute certificate of title by
+furnishing information satisfactory to the department. The department may
+implement procedures related to the issuance of a duplicate paper certificate
+of title. END_STATUTE
+Sec.4.Section 28-2009, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-2009.Certificate of title; validity
+The certificate of title is valid for the life of the vehicle
+as long as the vehicle is owned by the original holder of the title, unless it
+has been replaced by a duplicate
+certificate of title pursuant to section 282008.END_STATUTE
+Sec.5.Section 28-2011, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-2011.Vehicle inspections
+A.The department may conduct the following levels
+of motor vehicle inspections:
+1.Level one.A level one inspection
+consists of matching the public vehicle identification number and a secondary
+vehicle identification number to the vehicle ownership documents to determine
+the identity of the vehicle.
+2.Level two.A level two inspection
+consists of matching the public vehicle identification number, a secondary
+vehicle identification number and the confidential vehicle identification
+number to the vehicle ownership documents to determine the identity of the
+vehicle.
+3.Level three.A level three inspection
+consists of a level two inspection plus verification of vehicle identification
+numbers on, at the discretion of the inspector, some or all component parts to
+determine the identity of the vehicle and that the vehicle is properly equipped
+for highway use.
+B.A person who submits a motor vehicle to the
+department for inspection shall pay the following fees:
+1.For a level two inspection, twenty dollars.
+2.For a level three inspection, fifty dollars.
+C.The department shall deposit the inspection fees
+in the vehicle inspection and certificate
+of title enforcement fund established by section 282012.
+D.An inspection fee is not required for an
+inspection of a motor vehicle owned by a foreign government, by a consul or any
+other representative of a foreign government, by the United States, by a state
+or political subdivision of a state or by an Indian tribal government.END_STATUTE
+Sec.6.Section 28-2012, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-2012.Vehicle inspection and certificate of title enforcement
+fund
+A.A The vehicle inspection and certificate of title
+enforcement fund is established consisting of monies deposited pursuant to
+sections 282011 and 282013 and section 282095, subsection
+G.
+B.Monies in the vehicle inspection and certificate of title
+enforcement fund are subject to legislative appropriation to the department to
+be used by the department to defray the cost of investigations involving
+certificates of title, licensing fraud, registration enforcement and automobile
+theft related issues.
+C.The vehicle inspection and certificate of title enforcement fund is
+exempt from the provisions of section 35190 relating to lapsing of
+appropriations.END_STATUTE
+Sec.7.Section 28-2013, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-2013.Disposition of property; deposit of proceeds
+A.The department may receive monies from any
+department or agency of the United States, this state or any political
+subdivision of this state,
+and may sell, transfer or otherwise dispose of all property seized and
+forfeited to the state, or otherwise awarded to the department, as a result of
+any investigation.
+B.The department shall deposit, pursuant to
+sections 35146 and 35147, any proceeds resulting from subsection
+A of this section, except an investigation or prosecution conducted pursuant to
+article 3 of this chapter, in the vehicle inspection and certificate of title enforcement fund
+established by section 282012.END_STATUTE
+Sec.8.Section 28-2051, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-2051.Application for certificate of title; vision screening
+test
+A.A person shall apply to the department on a form
+prescribed or authorized by the department for a certificate of title to a
+motor vehicle, trailer or semitrailer. The person shall make the application
+within fifteen days after the purchase or transfer of the vehicle, trailer or
+semitrailer except that a licensed motor vehicle dealer shall make the
+application within thirty days after the purchase or transfer.All
+transferees shall sign the application, except that one transferee may sign the
+application if both of the following apply:
+1.The application is for the purposes of converting
+an outofstate certificate of title to a certificate of title
+issued pursuant to this article.
+2.The ownership or legal status of the motor
+vehicle, trailer or semitrailer does not change.
+B.The application shall contain:
+1.The transferee's full name and either the driver
+license number of the transferee or a number assigned by the department.
+2.The transferee's complete residence address.
+3.A brief description of the vehicle to be titled issued a certificate of title.
+4.The name of the manufacturer of the vehicle.
+5.The serial number of the vehicle.
+6.The last license plate number if applicable and
+if known and the state in which the license plate number was issued.
+7.If the application is for a certificate of title
+to a new vehicle, the date of sale by the manufacturer or dealer to the person
+first operating the vehicle.
+8.If the application is in the name of a lessor:
+(a)The lessor shown on the application as the owner
+or transferee.
+(b)At the option of the lessor, the lessee shown on
+the application as the registrant.
+(c)The address of either the lessor or lessee.
+(d)The signature of the lessor.
+9.If the application is for a certificate of title
+to a specially constructed, reconstructed or foreign vehicle, a statement of
+that fact. For the purposes of this paragraph, "specially constructed
+vehicle" means a vehicle not originally constructed under a distinctive
+name, make, model or type by a generally recognized manufacturer of vehicles.
+10.If an applicant rents or intends to rent the
+vehicle without a driver, a statement of that fact.
+11.Other information required by the department.
+C.Unless subsection B, paragraph 8 of this section
+applies, on request of an applicant, the department shall allow the applicant
+to provide on the certificate of title
+of a motor vehicle, trailer or semitrailer a post office box address that is
+regularly used by the applicant.
+D.A person shall submit the following information
+with an application for a certificate of title:
+1.To a vehicle previously registered:
+(a)The odometer mileage disclosure statement
+prescribed by section 282058.
+(b)If the applicant is applying for a certificate of title pursuant to section 282060,
+the applicant's statement of the odometer reading as of the date of
+application.
+2.To a new vehicle:
+(a)A manufacturer's
+certificate or electronic
+title from the manufacturer of origin showing the date of sale to the dealer or person
+first receiving the vehicle from the manufacturer. Before the department
+issues a certificate of title to a new vehicle, a manufacturer's certificate or electronic title from the manufacturer of origin shall be surrendered
+to the department.
+(b)The name of the dealer or person.
+(c)A description sufficient to identify the
+vehicle.
+(d)A statement certifying that the vehicle was new
+when sold.
+(e)If sold through a dealer, a statement by the
+dealer certifying that the vehicle was new when sold to the applicant.
+E.The department may request that an applicant who
+appears in person for a certificate of title of a motor vehicle, trailer or
+semitrailer satisfactorily complete the vision screening test prescribed by the
+department. END_STATUTE
+Sec.9.Section 28-2052, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-2052.Title and registration of foreign vehicles
+A.Except as provided in subsection E of this
+section, the owner of a foreign vehicle that has been registered in another
+state or country and for which an application for a certificate of title is
+made shall surrender to the department the license plates assigned to the
+vehicle, the registration card, the
+certificate of title, the certificate of ownership or other
+evidence of foreign registration and satisfactory evidence of ownership showing
+that the applicant is the lawful owner or possessor of the vehicle.
+B.If in the course of interstate operation of a
+vehicle registered in another state or country it is desirable to retain
+registration of the vehicle in the other state or country, the applicant need
+not follow the requirements of subsection A of this section but shall submit
+evidence of the foreign registration and ownership for inspection. The
+department shall register the vehicle on a proper showing of evidence of
+registration but shall not issue a certificate of title for the vehicle.
+C.The department shall
+may inspect a foreign vehicle before titling
+issuing a certificate of title or before registration, including examination and
+inspection to establish compliance with section 28955, under conditions
+and standards as required by the director of environmental quality. The
+department may establish procedures to accept vehicle inspections completed in
+another state.
+D.Before the department issues a certificate of
+title to a vehicle imported into this country, the owner shall obtain a
+certificate of compliance that states that the vehicle meets all federal
+vehicle equipment and emissions equipment requirements. This subsection does
+not apply to a golf cart manufactured or modified before June 17, 1998 or
+neighborhood electric vehicle manufactured or modified before June 17, 1998.
+E.The department may establish procedures to accept
+evidence that the certificate of title or certificate of ownership has been voided
+or destroyed by another state. END_STATUTE
+Sec.10.Section 28-2053, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-2053.Certificate of title without registration
+A.The
+department may only issue
+a vehicle certificate of title without registration for a vehicle that is physically present in this state for
+any of the following reasons:
+1.The applicant for a certificate of title is a
+nonresident whose vehicle is not subject to vehicle registration in this state.
+2.The owner
+will register the vehicle under article 7 or 8 of this chapter.
+3.2.The applicant
+certifies that the vehicle was acquired for purposes other than highway use.
+4.3.The vehicle was
+acquired by operation of law.
+5.4.The vehicle is an
+offroad recreational motor vehicle required to be titled
+issued a certificate of title pursuant to section 282061.
+B.The department shall issue a
+certificate of title without registration for either of the following reasons:
+1.The
+owner will register the vehicle under article 7 or 8 of this chapter.
+2.the
+vehicle is a trailer or semitrailer that will be used in interstate commerce
+and that is registered in another state. END_STATUTE
+Sec.11.Section 28-2055, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-2055.Certificate of title; content requirements; transfer on
+death provision
+A.The department or an authorized third party shall
+print the certificate of title, and it
+shall contain forms for assignment of title or interest and warranty by the
+owner, do both of the
+following:
+1.Create the certificate of title with
+space for notation of liens and encumbrances on the vehicle at the time of
+transfer.The certificate of
+title shall also contain the odometer mileage disclosure statement pursuant to
+section 282058.
+2.Provide
+forms for assignment of title or interest and warranty by the owner that
+contains the odometer mileage disclosure statement pursuant to section 28-2058.
+B.At the request of the owner and on payment of a
+fee prescribed by the department by rule, the certificate of title may contain,
+by attachment, a transfer on death provision where the owner may designate a
+beneficiary of the title vehicle.
+C.If a motor vehicle, trailer or semitrailer has
+been registered in any other state or country, the department shall retain in
+its records the name of the state or country in which the prior registration
+took place.
+D.Except as
+provided in section 282064, the department shall deliver or mail the
+original certificate of title to:
+1.The
+applicant if there are not any liens or encumbrances on the certificate of
+title.
+2.The holder
+of the lien or encumbrance first in time on the date of the application if
+there are liens or encumbrances on the certificate of title. END_STATUTE
+Sec.12.Section 28-2058, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-2058.Transfer of title; odometer mileage disclosure statement
+A.When the owner of a registered or unregistered
+vehicle transfers or assigns the owner's title or interest to the vehicle:
+1.If the vehicle is registered:
+(a)The owner shall endorse on the certificate of
+title to the vehicle or title transfer form an
+assignment with the warranty of title in
+the form printed on the certificate.
+(b)Except as provided in section 282094, the
+owner shall deliver the certificate of
+title or title transfer form to the purchaser or transferee at
+the time of delivery of the vehicle to the purchaser or transferee.
+(c)The registration of the vehicle expires and the
+owner shall transfer the license plates, surrender the license plates to the
+department or an authorized third party or submit an affidavit of license plate
+destruction within thirty days after the owner transfers or assigns the owner's
+title or interest in the vehicle.
+(d)Except as provided in section 282091, the
+acquiring owner shall apply for registration or a certificate of title, or both, within
+fifteen days after the relinquishing owner transfers or assigns the
+relinquishing owner's title or interest in the vehicle.The director
+may prorate the registration period as the director deems necessary to coincide
+with emissions inspection requirements.
+(e)Except if the acquiring owner is an insurer who
+acquires the vehicle pursuant to a claim settlement, the acquiring owner shall
+display on the vehicle a temporary registration plate, another permit or a
+valid license plate as prescribed by the department until ownership of the
+vehicle is transferred in the department's records.
+2.Regardless of
+whether or not the vehicle is registered:
+(a)Except as
+provided in subsection B of this section, the owner shall deliver to the
+purchaser or transferee an odometer mileage disclosure statement in a form
+prescribed by the director.
+(b)Except as provided in sections 28-2051, 282060 and 282091, the
+purchaser or transferee shall present the certificate of title or title transfer form to
+thedepartment with the required fee within fifteen days after the
+transfer and:
+(i)Except as
+provided in section 282064, The department shall issue a
+new certificate of title.
+(ii)If required, the purchaser or transferee shall
+apply for and obtain registration, and the department shall issue new license
+plates to the purchaser or transferee.
+B.The odometer disclosure requirement of subsection
+A of this section does not apply to:
+1.A motor vehicle that is ten model years of age or
+older.
+2.A motor vehicle that has a gross vehicle weight
+rating of sixteen thousand pounds or more.
+3.A vehicle that is not selfpropelled.
+4.A motor vehicle that is sold directly by the
+manufacturer to an agency of the United States in conformity with contractual
+specifications.
+5.A new motor vehicle that is purchased for resale
+and not for use by the purchaser. END_STATUTE
+Sec.13.Section 28-2059, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-2059.Obtaining a certificate of title; revocation
+A.If satisfactory proof of ownership is furnished
+to the director, the director may issue a certificate of title for a motor
+vehicle, trailer or semitrailer whether or not a certificate of title has ever
+been issued for that motor vehicle, trailer or semitrailer.
+B.If the director determines that an applicant for
+a certificate of title to a motor vehicle, trailer or semitrailer is not
+entitled to a certificate of title, the director may refuse to issue a
+certificate of title or
+to register the vehicle. and, After notice and a hearing,
+the director may revoke a registration already acquired or an outstanding
+certificate of title.The director shall serve the notice in person
+or by regular first class
+mail.Within fifteen days after the date the notice is delivered or
+mailed, the applicant may request a hearing. END_STATUTE
+Sec.14.Section
+28-2060, Arizona Revised Statutes, is amended to read:
+START_STATUTE28-2060.Transfer of ownership by operation of law
+A.Except as provided
+in subsection F of this section, when the title or interest of an owner of a
+registered vehicle passes to another other than by voluntary transfer, the
+transferee shall obtain a transfer of registration within thirty days after the
+passing of the title or interest.
+B.Within thirty days after passing of the title or
+interest of an owner of a registered or unregistered vehicle, the transferee of
+the vehicle shall obtain a new certificate of title on proper application and
+presentation of the last certificate of title, if available, and such
+instruments or documents of authority or certified copies of the instruments or
+documents that are sufficient or required by law to evidence or effect a
+transfer of title or interest in or to chattels that pass to another other than
+by voluntary transfer.
+C.If a motor vehicle has been forfeited to the
+federal government and is sold at public auction pursuant to federal law, the
+purchaser at the sale takes title free of any liens or encumbrances if federal
+law so provides.If a motor vehicle has been forfeited to any local
+or state government entity, agency or political subdivision or to any federal
+law enforcement agency after the disposition of all claims under the laws of
+this state, the order of the court forfeiting the vehicle shall transfer good
+and sufficient title to the transferee and to any subsequent purchaser or
+transferee.The purchaser or transferee shall register the motor
+vehicle within thirty days after the sale or transfer, and the department shall
+issue a certificate of title to the purchaser or transferee on presentation of
+the evidence of title without any reference to liens or encumbrances.
+D.The transferee of a vehicle required to be titled have a certificate of title and be registered under section 282153
+or a mobile home required to be titled
+have a certificate of title under
+section 282063 may obtain a transfer of registration to the transferee
+and a new certificate of title if both of the following occur:
+1.The title or interest of the owner of the vehicle
+passes to another either:
+(a)Through notice and sale under the conditions
+contained in any security agreement, chattel mortgage, conditional sale or
+other evidence of lien or under the authority given by statute in cases arising
+under sections 331021 and 331022 or under section 331704.
+(b)For a mobile home the lien on which is also a
+lien on real property, through a contract for conveyance of real property, deed
+of trust or mortgage.
+2.Satisfactory evidence is presented to the
+director that the sale of the vehicle was fairly and lawfully conducted in
+conformity with all requirements of law after due notice to the former owner.
+In cases arising under section 331704, a declaration that is signed by
+both the seller and the buyer and that sets forth compliance with section 331704
+constitutes satisfactory evidence, and the director may rely on that
+declaration.
+E.Any administrator, executor, trustee or other
+representative of the owner, a peace officer or a person repossessing a vehicle
+under the terms of any conditional sales contract, lease, chattel mortgage or
+other security agreement or a purchaser at a sale foreclosing a lien, or the
+assignee or legal representative of any such person, may operate a vehicle from
+the place of repossession or place where it was formerly kept to a garage or
+place of storage in the county or state where the contract was recorded or
+where the person repossessing the vehicle resides or to any other garage or
+place of storage that is not more than seventyfive miles from the place
+of repossession or place where the vehicle was formerly kept by the owner if
+either of the following conditions exists:
+1.The license plates assigned to the vehicle are
+displayed on the vehicle.
+2.If license plates are not displayed, a written
+permit has been obtained from the department or the local authorities having
+jurisdiction over the highways and a placard that bears the name and address of
+the person authorizing the movement and that is legible from a distance of one
+hundred feet during daylight is displayed in plain sight on the vehicle.
+F.If ownership of a motor vehicle titled
+for which a certificate of title has been issued in this state or
+another state reverts through operation of state law to a lienholder of record
+through repossession pursuant to the terms of a security agreement or through
+another similar instrument that is valid in such state, an affidavit by the
+lienholder of record stating that the vehicle was repossessed on default of the
+terms stated in the security agreement or similar instrument is proof of
+ownership, right of possession and right of transfer.If the lienholder of record is a financial
+institution as defined in section 28-4301, the lienholder of record shall electronically
+submit the repossession affidavit to the department. The
+director shall prescribe the form and content of the affidavit.This
+state and its agencies, employees and agents are not liable for relying in good
+faith on the content of the affidavit. END_STATUTE
+Sec.15.Section 28-2061, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-2061.All-terrain vehicles; off-highway vehicles; offroad
+recreational motor vehicles; certificates of title; exemption
+A.On the retail sale of a new all-terrain vehicle,
+off-highway vehicle as defined in section 281171 or offroad
+recreational motor vehicle, the dealer or person first receiving the motor vehicle
+from the manufacturer shall apply, on behalf of the purchaser, to the
+department for a certificate of title to the motor vehicle in the name of the
+purchaser.If satisfied that the application is genuine and regular
+and that the applicant is entitled to a certificate of title, the department shall issue a
+certificate of title to the motor vehicle without requiring registration for
+the motor vehicle.
+B.A person who owns an all-terrain vehicle,
+off-highway vehicle as defined in section 281171 or off-road
+recreational motor vehicle shall apply for and obtain a certificate of title
+required by this section in the manner prescribed in this chapter on or before July 1, 2009. On
+the transfer of ownership of an all-terrain vehicle, off-highway vehicle as defined
+in section 281171 or offroad recreational motor vehicle for which
+a certificate of title is required by this section, a person shall apply for
+and obtain a new certificate of title in
+the manner prescribed in this chapter.
+C.A person participating in an offhighway
+vehicle special event as defined in section 281171 is exempt from the
+requirements of this section. END_STATUTE
+Sec.16.Section 28-2063, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-2063.Mobile home certificate of title; exceptions; fee
+A.The
+department shall issue a certificate of title for a mobile home
+that is customarily kept in this state shall
+be titled with the department and the fee required under section
+282003 shall be paid except for:
+1.A mobile home that is owned and held by a dealer
+solely for purposes of sale.
+2.A mobile home that is owned and operated
+exclusively in the public service by the United States, by this state or by any
+political subdivision of this state, except that it shall be titled have a certificate of title.
+3.A mobile home that is permanently affixed, as
+defined in section 331501 or
+4215201, and for which an affidavit of affixture has been recorded pursuant to section 33-1501.The
+owner shall surrender the original certificates of title or manufacturer's
+statements of origin to permanently affixed mobile homes to the department in
+the manner prescribed by the department.The department shall issue
+a receipt for the documents surrendered pursuant to this paragraph.
+B.The issuance of a certificate of title for a
+mobile home shall be as provided by law for titling the
+issuance of a certificate of title for motor vehicles, except
+that in the case of a mobile home that consists of two or more separate
+sections, each section shall have a separate certificate of title.
+C.A mobile home is subject to all applicable
+provisions of this title, except those relating to registration.
+D.If a certificate
+of title is applied for on a mobile home entering this state for
+sale or installation, a certificate of compliance or waiver issued by the
+office of manufactured housing is required and shall be submitted with the certificate of title application.
+END_STATUTE
+Sec.17.Section
+28-2064, Arizona Revised Statutes, is amended to read:
+START_STATUTE28-2064.Electronic certificates of title system; applicability;
+rules
+A.The director shall may establish a system to require recording
+of vehicle certificate of title information for newly
+issued, transferred and corrected certificates of title, including perfection
+and release of security interests, through electronic media in a costeffective
+manner in lieu of the submission and maintenance of paper documents as provided
+in this chapter.
+B.In the process of establishing the system, the
+director shall:
+1.Research
+methods by which the department, lending institutions and sales finance
+companies may exchange and maintain information concerning the perfection and
+release of vehicle security interests without submitting or receiving a paper
+title document.
+2.Develop
+methods by which lending institutions, sales finance companies and
+manufacturers may electronically submit updated information pertaining to the
+title record, including the addition, assignment or release of vehicle security
+interests.
+1.Establish procedures for issuing
+and maintaining an electronic certificate of title system that is applicable to
+all certificate of title transactions performed in this state. 
+2.Develop
+methods to electronically share information related to applications for
+certificates of title with law enforcement agencies and entities licensed under
+this title.
+C.Section 28444, subsection B applies to
+certificates of title under the system established pursuant to this section.
+D.This section does not apply to certificates of
+title for mobile homes.
+E.The
+director may adopt rules as necessary to implement this section, including the
+criteria for when the department may issue a paper certificate of title.
+END_STATUTE
+Sec.18.Section 28-2065, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-2065.Electronic and digital signatures; documents
+A.On or
+before January 1, 2009, The director in cooperation with a
+statewide association of franchised new motor vehicle dealers shall establish a
+schedule to develop a pilot
+program to accept and use electronic or digital signatures.
+B.In the process of developing the pilot program, the director shall research and
+develop methods to allow the department, authorized third parties, licensed
+financial institutions, licensed insurers or any other business or individual
+as determined by the director to accept, exchange and use electronic or digital
+signatures for any document or for any transaction prescribed in this chapter
+and sections 28370, 28444, 28453 and 285111.
+C.The participants shall ensure that adequate
+security measures are in place to prevent any illegal use of the signatures or
+other information exchanged pursuant to this section.
+D.Except for
+a statewide association of franchised new motor vehicle dealers, the director
+may limit the number of participants in the system but shall encourage
+authorized third parties and businesses of various sizes to participate.
+E.After the
+system has been operating for twelve months, the director may expand the system
+if the director determines the system is successful.
+F.D.The
+director may determine and require reimbursement from pilot program participants for costs related to
+computer programming, hardware, development and personnel.The
+department shall deposit, pursuant to sections 35146 and 35147,
+all monies received pursuant to this section in a separate account of the state
+highway fund established by section 28-6991. Monies in the separate account
+are continuously appropriated.The director may transfer monies
+deposited pursuant to this subsection from the separate account to the
+operating budget of the department's motor vehicle division for the purpose of
+reimbursing the department's operating budget for expenditures made by the
+division pursuant to this section.
+G.E.This
+section does not limit the use of electronic and digital signatures used by
+state agencies, boards or commissions pursuant to section 41-132.
+H.F.The
+director shall may adopt policies
+rules necessary to implement this section. END_STATUTE
+Sec.19.Section 28-2091, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-2091.Salvage certificate of title; stolen vehicle certificate
+of title; nonrepairable vehicle certificate of title; recovered vehicles;
+violation; classification; definitions
+A.If a vehicle that is subject to titling the
+issuance of a certificate of title or registration pursuant to
+this chapter becomes a salvage vehicle, stolen vehicle or nonrepairable vehicle
+and is acquired by an insurance company as a result of a total loss insurance
+settlement, the insurance company or its authorized agent shall submit an
+application, as determined by the insurance company or its authorized agent, to
+the department within thirty days after the certificate of title is properly assigned by
+the owner to the insurance company, with all liens released, on a form
+prescribed by the department for either a salvage certificate of title, stolen
+vehicle certificate of title or nonrepairable vehicle certificate of title.
+The selected certificate of title
+shall include the following:
+1.A properly endorsed certificate of title.
+2.A lien satisfaction, if applicable.
+3.The appropriate fees.
+B.Within thirty days after oral or written
+acceptance by the owner of an offer in settlement of total loss, if an
+insurance company or its authorized agent is unable to obtain the documents
+prescribed by subsection A, paragraphs 1 and 2 of this section, the insurance
+company or its agent, on a form provided by the department, may submit an
+application to the department for a salvage certificate of title, stolen
+vehicle certificate of title or nonrepairable vehicle certificate of title.
+The application shall include evidence that the insurance company or its agent
+has made two or more written attempts to obtain the documents prescribed by
+subsection A, paragraphs 1 and 2 of this section.The application shall
+include the appropriate fees prescribed by subsection A, paragraph 3 of this
+section. The insurance company shall indemnify and hold harmless the
+department for any claims resulting from the issuance of a salvage certificate
+of title, stolen vehicle certificate of title or nonrepairable vehicle
+certificate of title pursuant to this subsection.
+C.Except for vehicles registered pursuant to
+section 282482, 282483 or 282484, if the owner retains
+possession of a salvage vehicle or nonrepairable vehicle, the owner shall
+comply with this section before receiving a total loss settlement from the
+insurance company or otherwise disposing of the vehicle.
+D.Any other owner of a vehicle that is a salvage
+vehicle or nonrepairable vehicle shall apply for a salvage certificate of title
+or nonrepairable vehicle certificate of title pursuant to this section.
+E.On receipt of a proper application, the
+department shall issue a salvage certificate of title, stolen vehicle
+certificate of title or nonrepairable vehicle certificate of title for the
+vehicle.
+F.If the department issues a nonrepairable vehicle
+certificate of title for a vehicle, the registration of the vehicle is
+cancelled. The front of a nonrepairable vehicle certificate of title shall be
+branded with the word "nonrepairable". The ownership of a vehicle
+for which a nonrepairable vehicle certificate of title has been issued shall
+not be reassigned more than two times on that certificate of title or a title transfer form. If
+a nonrepairable vehicle certificate of title is issued for a vehicle, the
+department shall not perform any title
+transfers or issue any further paper certificate of title for that vehicle.
+G.An owner of a vehicle that is not a salvage
+vehicle who sells the vehicle as scrap or for purposes of dismantling or
+destroying shall assign the certificate of title or a title transfer form to the purchaser, and
+the purchaser shall comply with section 282094.
+H.On sale of the vehicle, an owner of a salvage
+vehicle for which a salvage certificate of title has been obtained or an owner
+of a nonrepairable vehicle for which a nonrepairable vehicle certificate of
+title has been obtained shall assign and deliver the salvage certificate of
+title or nonrepairable vehicle certificate of title or a title transfer form to the purchaser and
+shall notify the department of the name and address of the purchaser.
+I.Except as provided in subsection L of this
+section, the department shall issue a certificate of title to a vehicle that
+has been issued a salvage certificate of title or stolen vehicle certificate of
+title as a result of a total loss settlement by reason of theft if the vehicle
+is recovered and was not wrecked or stripped of essential parts and the
+insurance company or its authorized agent submits an affidavit to the
+department in a form prescribed by the department stating either of the
+following:
+1.The vehicle is a recovered theft and both of the
+following:
+(a)The vehicle was not wrecked or stripped of
+essential parts.
+(b)To the insurance company's or its authorized
+agent's actual knowledge, no air bag or component part necessary to the proper
+function of the air bag system deployed in the vehicle or was removed from the
+vehicle.
+2.The vehicle is a recovered theft and, to the
+insurance company's or its authorized agent's actual knowledge, an air bag or
+an air bag module deployed in the vehicle or was removed from the vehicle. The
+insurance company or its authorized agent shall list the location in the
+vehicle of each deployment or removal of an air bag or an air bag module.
+J.On receipt of an affidavit submitted pursuant to
+subsectionI, paragraph 2 of this section, the department shall mark its
+records to indicate the deployment or removal of the air bag or air bag module
+from the vehicle and the location of each deployment or removal.
+K.The insurance company or its authorized agent
+shall give the purchaser of a vehicle that is a recovered theft, as described
+in subsection I of this section, a copy of the affidavit submitted pursuant to
+subsection I of this section.
+L.If the vehicle is a recovered theft and
+components of the vehicle's air bag system, other than the air bag or the air
+bag module described in subsection I, paragraph 2 of this section, or other
+parts of the vehicle were removed compromising the functional integrity of the
+air bag system or the structural integrity of the vehicle, the insurance
+company or its authorized agent shall submit an affidavit to the department in
+a form prescribed by the department stating that the vehicle is a recovered
+theft and that components of the vehicle's air bag system, other than the air
+bag or the air bag module described in subsection I, paragraph 2 of this
+section, or other parts of the vehicle were removed compromising the functional
+integrity of the air bag system or the structural integrity of the vehicle.
+The department shall not issue a certificate of title to the vehicle but may
+issue a restored salvage certificate of title pursuant to section 282095
+if all of the following apply:
+1.The vehicle is repairable.
+2.The department successfully completes a level
+three inspection as prescribed in section 282011.
+3.The vehicle meets other requirements the director
+prescribes.
+M.Except as provided in subsection N of this
+section, any person who sells a vehicle that is issued a certificate of title
+pursuant to subsection I of this section and who has actual knowledge that an
+air bag, an air bag module or components of the vehicle's air bag system
+compromising the functional integrity of the air bag system deployed or were
+removed from the vehicle shall not fail to disclose the deployment or removal
+to the buyer before completion of the sale with the intention of concealing the
+deployment or removal. A person who violates this subsection is guilty of a
+class 1 misdemeanor.
+N.Subsection M of this section does not apply to
+either of the following:
+1.An insurance company or its authorized agent who
+issues an affidavit pursuant to subsection I of this section unless the
+insurance company or its authorized agent intentionally fails to disclose the
+deployment or removal of an air bag, an air bag module or components of the
+vehicle's air bag system that compromise the functional integrity of the air
+bag system.
+2.A person who owns a vehicle that is issued a
+certificate of title pursuant to subsection I of this section if the person
+repairs or replaces the air bag or air bag module in the vehicle.
+O.Any person who sells a vehicle for which a
+salvage certificate of title has been issued and who knows a salvage
+certificate of title has been issued for the vehicle shall disclose to the
+buyer before completion of the sale that the vehicle is a salvage vehicle.
+P.If a vehicle that is titled has a certificate of title as a salvage vehicle is to be
+scrapped, dismantled or destroyed, the owner or purchaser shall comply with
+section 282094.
+Q.The provisions of this chapter that refer to titles certificates of title apply to salvage
+certificates of title, stolen vehicle certificates of title and nonrepairable
+vehicle certificates of title issued pursuant to this section unless they
+conflict with this section.
+R.If a component part of a vehicle on which the
+vehicle identification number is affixed is to be replaced and if the vehicle
+is being repaired by a person other than its owner, the person shall notify the
+owner in writing and in the manner prescribed by the department that the part
+has been replaced, and the owner shall comply with section 282165. This
+subsection does not apply if the department has not issued a salvage
+certificate of title or a nonrepairable certificate of title and if the vehicle
+manufacturer or the manufacturer's authorized agent meets all of the following
+conditions:
+1.The frame is the component part replaced.
+2.The frame replacement is performed by the vehicle
+manufacturer or the manufacturer's authorized agent.
+3.If the original frame contained a vehicle
+identification number or serial number, the original vehicle identification
+number or serial number, in a similar size and style, is restamped in the
+replacement frame by the manufacturer or the manufacturer's authorized agent.
+4.Any existing manufacturer warranties remaining on
+the vehicle are not voided.
+5.The manufacturer or the manufacturer's authorized
+agent obliterates all vehicle identification numbers or serial numbers
+contained on the original frame.
+S.Except as otherwise provided, a person who
+violates this section is guilty of a class 2 misdemeanor.
+T.For the purposes of this section:
+1."Essential parts" means integral and
+body parts, the removal, alteration or substitution of which will tend to
+conceal the identity or substantially alter the appearance of the vehicle.
+2."Nonrepairable vehicle" means a vehicle
+of a type that is otherwise subject to titling the issuance of a certificate of title
+and registration pursuant to this chapter and that either:
+(a)Has no resale value except as a source of parts
+or scrap metal and the owner or insurer designates the vehicle solely as a
+source of parts or scrap metal.
+(b)Is a completely stripped vehicle that is
+recovered from theft and that is missing the engine or motor, the transmission,
+all of the bolton sheet metal body panels, all of the doors and hatches,
+substantially all of the interior components and substantially all of the grill
+and light assemblies or that the owner designates has little or no resale value
+except its worth as a source of scrap metal or as a source of a vehicle
+identification number that could be used illegally.
+(c)Is a completely burned vehicle that has been
+burned to the extent that there are no usable or repairable body or interior
+components, tires and wheels, engine or motor or transmission and that the
+owner irreversibly designates as having little or no resale value except as a
+source of scrap metal or as a source of a vehicle identification number that
+could be used illegally.
+3."Nonrepairable
+vehicle certificate of title" means a vehicle ownership document issued to
+the owner of a nonrepairable vehicle.
+4.3."Salvage
+vehicle" means a vehicle, other than a nonrepairable vehicle, of a type
+that is subject to titling the issuance of a certificate of title
+and registration pursuant to this chapter and that has been stolen, wrecked,
+destroyed, flood or water damaged or otherwise damaged to the extent that the
+owner, leasing company, financial institution or insurance company considers it
+uneconomical to repair the vehicle.
+5.4."Stolen
+vehicle certificate of title" means a vehicle ownership document issued to
+the owner of a vehicle that has been stolen and not recovered. END_STATUTE
+Sec.20.Section 28-2094, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-2094.Dismantling motor vehicle; application fee; certificate of
+title; exemption
+A.An owner who sells a motor vehicle, trailer or
+semitrailer as scrap or for dismantling or destroying shall assign the
+certificate of title or title transfer
+form of the vehicle to the purchaser.The purchaser
+shall deliver the following to the department:
+1.An application for a dismantle certificate of
+title to scrap, dismantle or destroy the vehicle.
+2.The certificate of title to or
+title transfer form of the vehicle purchased.
+3.The registration card of the vehicle.
+4.The license plate of the vehicle, if any.
+5.A fee of four dollars.
+B.Except as
+provided in subsection G, An
+owner who intends or desires to dismantle a vehicle shall first forward all of
+the following to the department:
+1.An application for a dismantle certificate of
+title to dismantle or wreck the vehicle.
+2.The certificate of title to or
+title transfer form of the vehicle.
+3.The registration card of the vehicle.
+4.The license plate of the vehicle, if any.
+5.A fee of four dollars.
+C.If the registration card or license plate is lost
+or destroyed, the applicant shall state in a form prescribed by the department
+under penalty of perjury the circumstances of the loss or
+destruction.Except as
+provided in subsection G, On
+receipt of the documents and fee required by this section, the department shall
+issue a dismantle certificate of title to the applicant to dismantle or destroy
+the vehicle.The dismantle certificate of title or title transfer form authorizes the person
+to transport or possess the vehicle or to transfer ownership by endorsement on
+the dismantle certificate of title or
+title transfer form.The department shall not issue a
+certificate of title for the vehicle if it is dismantled or destroyed.
+D.Except as
+provided in subsection G, A licensed automotive recycler who files with the
+application for a dismantle certificate of title under this section an Arizona
+certificate of title indicating that the vehicle is free of all liens or a
+valid release of any liens shown on the certificate
+of title may begin dismantling the vehicle five days after
+mailing or three days after delivery of the required documents and fee to the
+department unless notified by the department of the claim of lien or interest
+in the vehicle by some other person.If the department sends this
+notice, the licensed automotive recycler shall cease dismantling or sale of the
+vehicle and any of its parts until the rights of the other person are
+determined.
+E.A licensed automotive recycler may dismantle a
+vehicle without obtaining a dismantle certificate of title in the licensed
+automotive recycler's name if the vehicle has previously been issued a
+dismantle certificate of title, a salvage certificate of title or a nonrepairable
+vehicle certificate of title.The dismantle certificate of title,
+salvage certificate of title or nonrepairable vehicle certificate of title must
+be the current title of record.Except as provided in subsection G, An
+automotive recycler shall file a written request to dismantle the vehicle in a
+form prescribed by the department.The automotive recycler may begin
+dismantling the vehicle after completing
+the requirements imposed by the department pursuant to subsection G or
+after mailing or delivering the request. If the department notifies the
+automotive recycler of a claim of lien or interest in the vehicle by some other
+person, the automotive recycler shall cease dismantling or sale of the vehicle
+and any of its parts until the rights of the other person are determined.
+F.An owner may dismantle a vehicle without
+obtaining a dismantle certificate of title if a nonrepairable vehicle
+certificate of title has been issued for the vehicle.
+G.The
+director may establish an electronic title system to allow the voluntary
+recording of the information or documents required by this section through
+electronic media in a costeffective manner in lieu of the submission of
+paper documents as provided in this section. A valid electronic dismantle
+certificate of title issued by the department to a person authorizes the person
+to possess, transport, dismantle or destroy the vehicle.
+H.In the
+process of establishing the electronic title system, the director shall:
+1.Research
+methods by which the department and licensed automotive recyclers may exchange
+and maintain information concerning the electronic completion of dismantle
+certificates of title without submitting or receiving a paper document.
+2.Develop
+methods by which licensed automotive recyclers may electronically submit
+updated information pertaining to the vehicle record.
+3.Develop
+methods to electronically share information related to applications for
+dismantle certificates with law enforcement agencies and licensed automotive
+recyclers for the purpose of identifying stolen vehicles and stolen vehicle
+parts.
+I.The
+director may limit the number of licensed automotive recyclers participating in
+the electronic title system.
+J.G.The
+director may adopt rules to implement this section.
+K.H.This
+section does not apply to the removal of a part for the purpose of replacement.
+END_STATUTE
+Sec.21.Section
+28-2095, Arizona Revised Statutes, is amended to read:
+START_STATUTE28-2095.Restored salvage certificate of title; inspections;
+definitions
+A.If a salvage
+vehicle as defined in section 282091 is rebuilt or restored to
+operation, the owner of the motor vehicle shall not transfer the motor vehicle
+until a restored salvage certificate of title has been issued pursuant to this
+section.
+B.On application for a restored salvage certificate
+of title, the department shall conduct a level two or level three inspection of
+the vehicle that is the subject of the application to determine its proper
+identity pursuant to section 282011.The inspection may
+include a review of bills of sale and invoices for component parts used in the
+reconstruction process. If the department is unable to conduct a level three
+inspection for a restored salvage certificate of title within twenty days after
+a request is made, the department shall conduct an inspection of the vehicle
+within fortyeight hours after the twenty day period.
+C.The seller or agent of a seller of a salvage
+vehicle as defined in section 282091 shall inform the purchaser of a
+salvage vehicle that ownership documentation for certain replacement parts used
+in the repair of the salvage vehicle is required in connection with the
+inspection prescribed by this section.
+D.A person who possesses a salvage vehicle
+asdefined in section 282091 and who submits it for
+inspection as prescribed by this section shall submit to the department
+paperwork that is satisfactory to the director. Satisfactory paperwork may
+include copies of invoices, notarized bills of sale or other acceptable proof
+of ownership for component parts.
+E.If proper ownership documentation for a component
+part is not submitted as required by this section, the department may seize the
+component part.
+F.If the department finds a stolen component part
+in a vehicle while conducting an inspection provided for under this section,
+the department shall seize the component part pursuant to section 284594.
+G.The department shall deposit, pursuant to
+sections 35146 and 35147, any proceeds resulting from the seizure
+and forfeiture of a component part pursuant to subsection E or F of this
+section in the vehicle inspection and certificate
+of title enforcement fund established by section 282012.
+H.Any person who sells a vehicle for which a
+restored salvage certificate of title has been issued and who knows a restored
+salvage certificate of title has been issued for the vehicle shall disclose to
+the buyer before completion of the sale that the vehicle is a restored salvage
+vehicle.
+I.For the purposes of this section:
+1.For passenger vehicles, "component
+parts" includes the cowl or firewall, front end assembly, rear clip,
+including the roof panel, the roof panel if installed separately and the frame
+or any portion of the frame, or in the case of a unitized body, the supporting
+structure that serves as the frame, each door, the hood, each fender or quarter
+panel, the deck lid or hatchback, each bumper, transmissions or transaxles and
+an engine or motor. For the purposes of this paragraph:
+(a)"Front end assembly" includes the
+hood, fenders, bumper, radiator and supporting members for these
+items.For vehicles with a unitized body, the front end assembly
+also includes the frame support members.
+(b)"Rear clip" includes the roof, quarter
+panels, trunk lid, floor pan, rear bumper and support members for these items.
+2.For trucks or trucktype or bustype
+vehicles, "component parts" includes the cab, the frame or any
+portion of the frame, and in the case of a unitized body, the supporting
+structure that serves as a frame, the cargo compartment floor panel, the
+passenger compartment floor pan, the roof panel, transmissions or transaxles,
+engines or motors, each door, the hood, each fender or quarter panel, each
+bumper, the tailgate and all component parts that are included in paragraph 1
+of this subsection and that are not listed in this paragraph if the part is
+replaced.
+3.For motorcycles, "component parts"
+includes the engine or motor, transmission or transaxle, frame, front fork,
+crankcase and fairing and any other body molding.
+4."Restored salvage certificate of title vehicle" means a certificate of title issued to a vehicle that
+has been restored and for which a salvage certificate of title or a dismantle
+certificate of title has been issued. END_STATUTE
+Sec.22.Section 28-2097, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-2097.Modular motor homes; definition
+A.Notwithstanding any other provision of this
+title:
+1.If a refurbished coach or body component is
+remounted to a new cab and chassis power unit of a modular motor home, the
+department shall issue a certificate of
+title for the
+modular motor home according to the make of the refurbished
+coach.The manufacturer's cab and chassis vehicle identification
+number determines the model year.The department shall conduct a
+level one inspection of the vehicle and shall brand the certificate of title refurbished.
+2.If a modular motor home is separated by removal
+of the coach or body component from the cab and chassis power unit and a cargo
+box, container or structure, if any, other than a motor home coach, is fitted
+to the cab and chassis unit, it ceases to be a modular motor
+home.The department shall conduct a level one inspection and shall issue a certificate of title for the vehicle according to
+the body style determined by the inspection.The department shall
+use the make and model year of the cab and chassis for titling purposes the purpose of issuing a certificate of title
+and shall brand the certificate of title
+refurbished.
+B.If a vehicle covered by this section is offered
+for sale, a person who sells the vehicle shall keep full and complete disclosure
+statements and present those statements to any person or entity that requests
+them at the time of a sale or purchase.For the purposes of this
+subsection, full and complete disclosure statements are documents that
+accurately reflect the history of the original manufacturer's cab and chassis,
+including vehicle identification numbers, dates of required inspections,
+odometer readings and other information prescribed by the director in rules.
+C.For the purposes of this section, "modular
+motor home" means:
+1.A type of motor home that is primarily designed
+as temporary living quarters, that satisfies the requirements prescribed in
+section 284301, paragraph 20, subdivision (b) and that is intended from
+inception through final assembly to consist of an incomplete cab and chassis
+power unit component and a coach or body component that are designed and
+engineered to be joined or separated without sheet metal modifications to the
+cab and chassis power unit component.
+2.A vehicle that if joined to form a single unit
+consists of both:
+(a)A cab and chassis power unit component that is
+purchased or acquired new from an original manufacturer.
+(b)A coach or body component that is either
+purchased or acquired new from an original manufacturer or that is refurbished.
+END_STATUTE
+Sec.23.Section 28-2131, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-2131.Liens and encumbrances; validity
+The following, other than a lien dependent on possession, are
+not valid against the creditors of an owner acquiring a lien by levy or
+attachment or against subsequent purchasers or encumbrancers without notice
+until the requirements of this article are met:
+1.Any security agreement, conditional sale
+contract, conditional lease, chattel mortgage or other lien or encumbrance.
+2.A certificate
+of title retention instrument or any other instrument affecting
+or evidencing title to, ownership of or reservation of title to a vehicle
+required to be titled issued a certificate of title
+and registered under section 282153 or a mobile home required to be titled issued a certificate of title under section
+282063.
+3.A contract for conveyance of real property, deed
+of trust or mortgage securing a lien on a mobile home and on real property. END_STATUTE
+Sec.24.Section 28-2132, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-2132.Indication of lien or encumbrance
+A.The department shall provide on the application
+for a certificate of title
+and the application for registration only a section that provides for the
+indication of a lien or encumbrance on the vehicle.
+B.The applicant's signature on the application for a certificate of title or the
+application for registration only is consent for the lien or encumbrance to be
+indicated by the department on its official certificate of title record for the vehicle.
+C.Except as provided in subsection D of this section and on receipt
+of the application as provided in this section, the department shall endorse on
+the application the date and hour it was received at the registering office of
+the department. 
+D.The department shall not issue a new certificate
+of title if the outstanding certificate of title indicates an existing lien or
+encumbrance unless the lien or encumbrance has been satisfied or the lienor or
+encumbrancer has consented in writing or electronically to the transfer of
+title. END_STATUTE
+Sec.25.Section 28-2133, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-2133.Index and filing of liens, encumbrances or instruments;
+constructive notice
+A.The department shall maintain an appropriate
+index of all liens, encumbrances or title retention instruments filed as
+provided by this article.
+B.The filing and issuance of a new certificate of
+title as provided in this article is constructive notice to creditors of the
+owner or to subsequent purchasers of all liens and encumbrances against the
+vehicle described in the certificate of title, except those that are authorized
+by law and that are dependent on possession.If the documents
+referred to in this article are delivered to a registering office or an
+authorized third party provider of the department within thirty days after the
+date of their execution, the constructive notice dates from the time of
+execution. Otherwise, the notice dates from the time of receipt and filing of
+the documents by the department as shown by its endorsement. For the purposes
+of this subsection, the time stamp on the documents that is administered by the
+registering officer or authorized third party provider of the department
+electronically or otherwise is conclusive as to the time and date of delivery
+of the documents.
+C.The method provided in subsection B of this
+section for giving constructive notice of a lien or encumbrance on a vehicle required
+to be titled issued a certificate of title and registered
+under section 282153 or a mobile home required to be titled
+issued a certificate of title under section 282063 is
+exclusive, except for liens dependent on possession.A lien,
+encumbrance or title retention instrument or document that evidences any of
+them and that is filed as provided by this article is exempt from the
+provisions of law that otherwise require or relate to the recording or filing
+of instruments creating or evidencing title retention or other liens or
+encumbrances on vehicles of a type subject to registration under this chapter.
+D.Notwithstanding any other law and except as
+otherwise provided in this subsection, the failure of a motor vehicle dealer as
+defined in section 284301, a finance company or the department to
+complete the paperwork within thirty days as prescribed in subsection B of this
+section shall not result in the loss of the vehicle for either the lienholder
+or the person who purchased the vehicle. This subsection does not limit or
+negate the powers of a trustee under 11 United States Code section 547 or any
+successor statute. END_STATUTE
+Sec.26.Section 28-2134, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-2134.Satisfaction of lien or encumbrance; assignment of
+obligation by lienholder; civil penalty
+A.When a holder of a lien or encumbrance receives
+payment in full satisfying a lien or encumbrance recorded under this article,
+the holder of the lien or encumbrance shall release the lien or encumbrance and
+deliver the certificate of title to the
+next holder of a lien or encumbrance entitled to possession of the certificate
+of title or, if there is not another holder of a lien or encumbrance entitled
+to possession of the certificate of title, to notify the owner of the vehicle at the address
+shown on the certificate of title or, if the holder of the lien or encumbrance
+has been previously notified of sale or transfer of the vehicle, to the person who is legally entitled to
+possession that the department has
+issued a certificate of title to the person for the vehicle.
+B.If a holder of a lien or encumbrance assigns the
+obligation and the holder lawfully has possession of the certificate of title,
+the holder shall deliver the certificate of title at the time of assignment to
+the holder's assignee. If a holder of a lien or encumbrance is not entitled to
+possession of the certificate of title when the holder assigns the obligation,
+the holder shall immediately deliver the certificate of title to the assignee
+when the holder becomes lawfully entitled to and obtains lawful possession of
+the certificate of title. The holder's assignee is entitled to hold the certificate
+of title until the obligation is satisfied. When the obligation is satisfied,
+the assignee shall deliver the certificate of title to the next holder of a
+lien or encumbrance entitled to possession of the certificate of title or, if
+there is not another holder of a lien or encumbrance entitled to possession of
+the certificate of title, to the owner of the vehicle as prescribed in
+subsection A of this section.
+C.If a holder of a lien or encumbrance who
+possesses a certificate of title as provided in this article refuses or fails
+to surrender the certificate of title to the person who is legally entitled to
+possession of the certificate of title on that person's request and within
+fifteen business days after the holder receives payment in full satisfaction of
+the holder's lien or encumbrance, after an opportunity for an administrative
+hearing, the department may impose and collect a civil penalty from the holder
+of the lien or encumbrance to be deposited, pursuant to sections 35-146 and 35-147, in the
+state highway fund established by section 286991 as follows:
+1.Fifty dollars if the certificate of title is
+surrendered in accordance with this subsection within three additional business
+days.
+2.The penalty provided for in paragraph 1 of this
+subsection plus fifty dollars for each additional day exceeding eighteen
+business days that the certificate of title is not surrendered in accordance
+with this subsection up to a maximum of five hundred dollars for each
+certificate of title.
+D.The department may satisfy a lien or encumbrance
+on its records and on a certificate of title to a vehicle if the owner of the
+vehicle furnishes satisfactory proof of the payment in full of the underlying
+debt and an affidavit stating the following:
+1.That the owner has made a diligent search to
+locate the holder of the lien or encumbrance.
+2.With particularity the steps taken in the search.
+3.That after the search the holder of the lien or
+encumbrance could not be found.
+E.The department may satisfy a lien or encumbrance
+against a vehicle on its records by accepting a certificate of title to the
+vehicle issued by another jurisdiction if all of the following conditions
+exist:
+1.The lien previously recorded in this state does
+not appear on the title presented from another jurisdiction.
+2.The certificate
+of title was issued by the other jurisdiction at least one year
+before the time it was presented to this state.
+3.The law of the other jurisdiction requires a lien
+or encumbrance to be recorded on that state's certificate of title. END_STATUTE
+Sec.27.Section 28-2135, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-2135.Perfection of security interest in inventory and mobile
+homes
+Notwithstanding any other provision in this article:
+1.A security interest in inventory, as defined in
+section 479102, consisting in whole or in part of vehicles required to
+be titled issued a certificate of title and registered
+under section 282153 or of mobile homes shall be perfected in accordance
+with the filing provisions of title 47, chapter 9, article 5 to the extent that
+those provisions are applicable by virtue of title 47, chapter 9, article 3.
+2.A lien on a mobile home for which an affidavit of
+affixture has been recorded pursuant to section 4215203 shall be
+perfected either according to the laws governing perfection of liens on real
+property or according to the laws governing perfection of security interests in
+fixtures. END_STATUTE
+Sec.28.Section 28-2136, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-2136.Unsatisfied liens
+A.Except as provided in subsection B of this
+section, the department may remove from its records a lien on a vehicle
+required to be titled issued a certificate of title
+and registered under section 282153 if the lien remains on the records
+of the department as unsatisfied twelve years after filing with the department.
+B.This section applies only to noncommercial
+vehicles other than travel trailers, motor homes or mobile homes. END_STATUTE
+Sec.29.Section 28-2137, Arizona Revised Statutes,
+is amended to read:
+START_STATUTE28-2137.Restitution lien; removal
+A.Notwithstanding section 282132, after a
+hearing, the director may remove a restitution lien filed pursuant to section
+13805 or section 13806
+from a vehicle record if the director finds both of the following:
+1.A person purchased the vehicle without any
+knowledge that the vehicle was subject to a filed restitution lien.
+2.The person who sold the vehicle is an obligor
+under a filed restitution lien and sold the vehicle without disclosing to the
+purchaser that the vehicle was subject to a filed restitution lien.
+B.If a restitution lien is removed as prescribed in
+subsection A of this section, the department shall place a code on the
+obligor's record that automatically restores the restitution lien on any
+vehicle that is subsequently titled issued a certificate of title
+or registered, or both, by the obligor.
+C.If the lien, or any portion of the lien, was the
+result of an order to pay restitution, the party for whom restitution was
+ordered shall be provided with notice of any hearing held pursuant to this
+section and an opportunity to appear. The department shall provide notice of
+the hearing to the governmental agency that requested the lien be placed on the
+obligor's record. The governmental agency that requested the lien shall
+promptly provide notice to any party for whom restitution was ordered. END_STATUTE
+Sec.30.Section 28-2162, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-2162.Delinquent registration; penalty; lien; failure to apply
+for certificate of title; waiver
+A.If a vehicle is operated on a highway without payment
+of the registration or certificate of
+title transfer fee, the fee is delinquent.If the fee
+is not paid before the date on which the vehicle is required to be registered
+for the current registration year, the department shall collect a
+penalty.The penalty is eight dollars for the first month of
+delinquency and four dollars for each additional month, not to exceed a total
+penalty of one hundred dollars.Registration of a vehicle in the
+name of the applicant for the year immediately preceding the year for which the
+application for registration is made is prima facie evidence that the vehicle
+has been operated on the highways during the year for which the application for
+registration is made.
+B.Except as provided in section 285807, an
+applicant shall submit the total annual registration fee, the weight fee, any
+other required fee and the penalty prescribed in subsection A of this section
+with an application for registration of a vehicle that is submitted after the
+date the vehicle was required to be registered for the registration year in
+which registration of the vehicle for the next preceding year
+expired.If it is determined at the time of renewal, on proof
+satisfactory to the director, that the vehicle was not operated on the highways
+of this state before the filing of the application and the registration of the
+vehicle, the department shall refund or waive the penalty prescribed in
+subsection A of this section.
+C.A registration fee and any penalty added to the
+fee are a lien on the vehicle on which they are due from the due
+date.The department may collect the fee and penalty by seizure of
+the vehicle from the person in possession of the vehicle, if any,
+andby sale as provided by law.
+D.The director shall prescribe the method of
+readily identifying on the license plate the current registration date of the
+license plate.
+E.A person who fails to apply for a certificate of
+title for any mobile home or other vehicle that is not registered under this
+title within thirty days after acquiring the mobile home or vehicle shall pay
+an additional fee equal to the penalty prescribed in subsection A of this
+section.
+F.If a person who is licensed pursuant to chapter
+10 of this title applies for a dismantle certificate of title for a vehicle
+pursuant to section 282094, the department shall waive any penalties
+that relate to the vehicle and that are imposed pursuant to this section. END_STATUTE
+Sec.31.Section 28-2165, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-2165.Special serial or identification number
+A.If the manufacturer's serial or other identifying
+number of a motor vehicle, trailer or semitrailer is altered, removed,
+obliterated, defaced, omitted or otherwise missing or if the original
+manufacturer's serial or identification number on a major component part of a
+motor vehicle can be permanently restored after having been removed, defaced,
+altered or destroyed, the owner at the time of application for registration of or titling of a certificate of title to the vehicle shall
+file an application with the department, on a form the department provides,
+that contains facts and information required by the director for the assignment
+of a special serial or identifying number. 
+B.The form prescribed by subsection A of this
+section shall require, at a minimum, both of the following:
+1.A sworn statement by the owner that the owner is
+the lawful owner of the vehicle and that sets forth the basis for the claim of
+ownership, including documentation such as purchase contracts, bills of sale,
+invoices and receipts for the original vehicle and any replacement parts that
+replaced damaged portions of the original vehicle that bore original manufacturer's
+serial or identification numbers.
+2.A copy of police or law enforcement agency
+reports documenting the theft and recovery of the vehicle, a copy of a police
+or law enforcement agency accident report documenting the extent of damage to
+the vehicle, a certified copy of documents from an insurance company
+documenting the precise nature, extent and dollar amount of damage to the
+vehicle or a sworn statement by the owner, including full and complete
+supporting documentation, establishing the origin of the vehicle and each major
+component part of the vehicle.
+C.If the director is satisfied that the applicant
+has provided the documentation required by this section and that the applicant
+is entitled to assignment of a special serial or identification number, the
+director shall designate the serial number and note it on the application, on a
+suitable record of the department and on the authorization of use of the
+number.
+D.The director shall furnish to the applicant a
+serial plate together with the authorization of use that shall be immediately
+delivered to a department inspector or agent who shall permanently attach the
+serial plate to the item in a conspicuous position and certify the attachment
+on the authorization of use.After attachment and certification, the
+plate is the lawful serial or identification number and shall remain on the
+item during its existence.
+E.Subsection A of this section does not apply if
+the provisions of section 282092, paragraph 1, subdivision (c) are met. END_STATUTE
+Sec.32.Section 28-3511, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-3511.Removal and immobilization or
+impoundment of vehicle; Arizona crime information center database
+A.A peace officer shall cause the removal and
+either immobilization or impoundment of a vehicle if the peace officer
+determines that:
+1.A person is driving the vehicle while any of the
+following applies:
+(a)Except as otherwise provided in this paragraph subdivision, the person's driving privilege
+is suspended or revoked for any reason. A peace officer shall not cause the
+removal and either immobilization or impoundment of a vehicle pursuant to this paragraph subdivision if the person's privilege to
+drive is valid in this state.
+(b)The person has not ever been issued a valid
+driver license or permit by this state and the person does not produce evidence
+of ever having a valid driver license or permit issued by another jurisdiction.
+This paragraph subdivision does not apply to
+the operation of an implement of husbandry.
+(c)The person is subject to an ignition interlock
+device requirement pursuant to chapter 4 of this title and the person is
+operating a vehicle without a functioning certified ignition interlock device.
+This paragraph subdivision does not apply to
+the operation of a vehicle due to a substantial emergency as defined in section
+281464.
+(d)In furtherance of the illegal presence of an
+alien in the United States and in violation of a criminal offense, the person
+is transporting or moving or attempting to transport or move an alien in this
+state in a vehicle if the person knows or recklessly disregards the fact that
+the alien has come to, has entered or remains in the United States in violation
+of law.
+(e)The person is concealing, harboring or shielding
+or attempting to conceal, harbor or shield from detection an alien in this
+state in a vehicle if the person knows or recklessly disregards the fact that
+the alien has come to, entered or remains in the United States in violation of
+law.
+2.A The vehicle is displayed for
+sale or for transfer of ownership with a vehicle identification number that has
+been destroyed, removed, covered, altered or defaced.
+B.A peace officer shall cause the removal and
+impoundment of a vehicle if the peace officer determines that a person is
+driving the vehicle and if all of the following apply:
+1.The person's driving privilege is canceled,
+suspended or revoked for any reason or the person has not ever been issued a
+driver license or permit by this state and the person does not produce evidence
+of ever having a driver license or permit issued by another jurisdiction.
+2.The person is not in compliance with the
+financial responsibility requirements of chapter 9, article 4 of this title.
+3.The person is driving a vehicle that is involved
+in an accident that results in either property damage or injury to or death of
+another person.
+C.Except as provided in subsection D of this
+section, while a peace officer has control of the vehicle the peace officer
+shall cause the removal and either immobilization or impoundment of the vehicle
+if the peace officer has probable cause to arrest the driver of the vehicle for
+a violation of section 4244, paragraph 34 or section 281382 or 281383.
+D.A peace officer shall not cause the removal and
+either the immobilization or impoundment of a vehicle pursuant to subsection C
+of this section if all of the following apply:
+1.The peace officer determines that the vehicle is
+currently registered and that the driver or the vehicle is in compliance with
+the financial responsibility requirements of chapter 9, article 4 of this
+title.
+2.The spouse of the driver is with the driver at
+the time of the arrest.
+3.The peace officer has reasonable grounds to
+believe that the spouse of the driver:
+(a)Has a valid driver license.
+(b)Is not impaired by intoxicating liquor, any
+drug, a vapor releasing substance containing a toxic substance or any
+combination of liquor, drugs or vapor releasing substances.
+(c)Does not have any spirituous liquor in the
+spouse's body if the spouse is under twentyone years of age.
+4.The spouse notifies the peace officer that the
+spouse will drive the vehicle from the place of arrest to the driver's home or
+other place of safety.
+5.The spouse drives the vehicle as prescribed by
+paragraph 4 of this subsection.
+E.Except as otherwise provided in this article, a
+vehicle that is removed and either immobilized or impounded pursuant to subsection
+A, B or C of this section shall be immobilized or impounded for thirty
+days. An insurance company does not have a duty to pay any benefits for
+charges or fees for immobilization or impoundment.
+F.The owner of a vehicle that is removed and either
+immobilized or impounded pursuant to subsection A, B or C of this section, the
+spouse of the owner and each person identified
+on the department's record with an who has provided the department with indicia of ownership as
+prescribed in section 28-3514 or other interest in the vehicle that exists immediately before
+the immobilization or impoundment shall be provided with an opportunity for an
+immobilization or poststorage hearing pursuant to section 283514.
+G.A law enforcement agency that employs the peace
+officer who removes and either immobilizes or impounds a vehicle pursuant to
+this section shall enter information about the removal and either
+immobilization or impoundment of the vehicle in the Arizona crime information
+center database within three business days after the removal and either
+immobilization or impoundment. END_STATUTE
+Sec.33.Section 28-3512, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-3512.Release of vehicle; civil penalties;
+definition
+A.An immobilizing or impounding agency shall
+release a vehicle to the registered owner before the end of the thirty day
+immobilization or impoundment period under any of the following circumstances:
+1.If the vehicle is a stolen vehicle.
+2.If the vehicle is subject to bailment and is
+driven by an employee of a business establishment, including a parking service
+or repair garage, who is subject to section 283511, subsection A, B or
+C.
+3.If the owner was operating the vehicle at the
+time of removal and either immobilization or impoundment and presents proof
+satisfactory to the immobilizing or impounding agency that the owner's driving
+privilege has been reinstated.
+4.If all of the following apply:
+(a)The owner or the owner's agent was not the
+person driving the vehicle pursuant to section 283511, subsection A.
+(b)The owner or the owner's agent is in the
+business of renting motor vehicles without drivers.
+(c)The vehicle is registered pursuant to section 282166.
+(d)There was a rental agreement in effect at the
+time of the immobilization or impoundment.
+5.For the spouse of the owner or any person who is
+identified as an owner of the vehicle on the records of the department at the time
+of removal and either immobilization or impoundment, if the spouse or person
+was not the driver of the vehicle at the time of removal and either
+immobilization or impoundment and the spouse or person enters into an agreement
+with the immobilizing or impounding agency that stipulates that if the spouse
+or person allows a driver who does not have a valid driving privilege or a
+driver who commits a violation that causes the spouse's or person's vehicle to
+be removed and either immobilized or impounded pursuant to this article within
+one year after any agreement is signed by an immobilizing or impounding agency,
+the spouse or person will not be eligible to obtain release of the spouse's or
+person's vehicle before the end of the thirty day immobilization or impoundment
+period.
+6.If the
+vehicle is owned by a motor vehicle dealer and is driven by a customer,
+potential customer or employee of the motor vehicle dealer and the motor
+vehicle dealer has provided to the immobilizing or impounding agency indicia of
+the motor vehicle dealer's ownership of the vehicle, including a certificate of
+title or a manufacturer-issued certificate or statement of origin.
+B.A vehicle shall not be released pursuant to
+subsection A of this section except pursuant to an immobilization or a
+poststorage hearing under section 283514 or if all of the following are
+presented to the immobilizing or impounding agency:
+1.The owner's or owner's spouse's currently valid
+driver license issued by this state or the owner's or owner's spouse's state of
+domicile.
+2.Proof of current vehicle registration or a valid
+salvage or dismantle certificate of title.
+3.Proof that the vehicle is in compliance with the
+financial responsibility requirements of chapter 9, article 4 of this title.
+4.If the person is required by the department to
+install a certified ignition interlock device on the vehicle, proof of
+installation of a functioning certified ignition interlock device in the
+vehicle.The impounding agency, storage yard, facility, person or
+agency having physical possession of the vehicle shall allow access during
+normal business hours to the impounded vehicle for the purpose of installing a
+certified ignition interlock device. The impounding agency, storage yard,
+facility, person or agency having physical possession of the vehicle shall not
+charge any fee or require compensation for providing access to the vehicle or
+for the installation of the certified ignition interlock device.
+C.The owner or the owner's spouse if the vehicle is
+released to the owner's spouse is responsible for paying all immobilization,
+towing and storage charges related to the immobilization or impoundment of the
+vehicle and any administrative charges established pursuant to section 283513,
+unless the vehicle is stolen and the theft was reported to the appropriate law
+enforcement agency. If the vehicle is stolen and the theft was reported to the
+appropriate law enforcement agency, the operator of the vehicle at the time of
+immobilization or impoundment is responsible for all immobilization, towing,
+storage and administrative charges.
+D.Before the end of the thirty day immobilization
+or impoundment period, the immobilizing or impounding agency shall release a
+vehicle to a person, other than the owner, identified on the department's
+record as having an interest in the vehicle immediately before the
+immobilization or impoundment if all of the following conditions are met:
+1.The person is either of the following:
+(a)In the business of renting motor vehicles
+without drivers and the vehicle is registered pursuant to section 282166.
+(b)A motor vehicle dealer, bank, credit union or
+acceptance corporation or any other licensed financial institution legally
+operating in this state or is another person who is not the owner and who holds
+a security interest in the vehicle immediately before the immobilization or
+impoundment.
+2.The person pays all immobilization, towing and
+storage charges related to the immobilization or impoundment of the vehicle and
+any administrative charges established pursuant to section 283513 unless
+the vehicle is stolen and the theft was reported to the appropriate law
+enforcement agency. If the vehicle is stolen and the theft was reported to the
+appropriate law enforcement agency, the operator of the vehicle at the time of
+immobilization or impoundment is responsible for all immobilization, towing,
+storage and administrative charges.
+3.The person presents foreclosure documents or an
+affidavit of repossession of the vehicle.
+4.The person requesting release of the vehicle was
+not the person driving the vehicle at the time of removal and immobilization or
+impoundment.
+E.Before a person described in subsection D of this
+section releases the vehicle to the owner who was operating the vehicle at the
+time of removal and immobilization or impoundment, the person described in
+subsection D of this section shall require the owner to present and shall
+retain for a period of at least three years from the date of releasing the
+vehicle a copy of all of the following:
+1.A driver license issued by this state or the
+owner's or owner's agent's state of domicile.
+2.A current vehicle registration or a valid salvage
+or dismantle certificate of title.
+3.Evidence that the vehicle is in compliance with
+the financial responsibility requirements of chapter 9, article 4 of this
+title.
+F.The person described in subsection D of this
+section may require the owner to pay charges that the person incurred in
+connection with obtaining custody of the vehicle, including all immobilization,
+towing and storage charges that are related to the immobilization or
+impoundment of the vehicle and any administrative charges that are established
+pursuant to section 283513.
+G.A vehicle shall
+not be released after the end of the thirty day immobilization or impoundment
+period unless the owner or owner's agent presents all of the following to the
+impounding or immobilizing agency:
+1.A valid driver
+license issued by this state or by the owner's or owner's agent's state of
+domicile.
+2.A current vehicle registration or a valid salvage
+or dismantle certificate of title.
+3.Evidence that the vehicle is in compliance with
+the financial responsibility requirements of chapter 9, article 4 of this
+title.
+4.If the person is required by the department to
+install a certified ignition interlock device on the vehicle, proof of
+installation of a functioning certified ignition interlock device in the
+vehicle. The impounding agency, storage yard, facility, person or agency
+having physical possession of the vehicle shall allow access during normal
+business hours to the impounded vehicle for the purpose of installing a
+certified ignition interlock device. The impounding agency, storage yard,
+facility, person or agency having physical possession of the vehicle shall not
+charge any fee or require compensation for providing access to the vehicle or
+for the installation of the certified ignition interlock device.
+H.The storage charges relating to the impoundment
+of a vehicle pursuant to this section shall be subject to a contractual
+agreement between the impounding agency and a towing firm for storage services
+pursuant to section 411830.51 and shall be fifteen dollars for each day
+of storage, including any time the vehicle remains in storage after the end of
+the thirty day impoundment period.
+I.The immobilizing or impounding agency shall have
+no lien or possessory interest in a stolen vehicle if the theft was reported to
+the appropriate law enforcement agency.The immobilizing or
+impounding agency shall release the vehicle to the owner or person other than
+the owner as identified in subsection D of this section even if the operator at
+the time of immobilization or impoundment has not paid all immobilization,
+towing, storage and administrative charges.
+J.A person who enters into an agreement pursuant to
+subsection A, paragraph 5 of this section and who allows another person to
+operate the vehicle in violation of the agreement is responsible for a civil
+traffic violation and shall pay a civil penalty of at least two hundred fifty
+dollars.
+K.A person described in subsection D, paragraph 1
+of this section who violates subsection E of this section is responsible for a
+civil traffic violation and shall pay a civil penalty of at least two hundred
+fifty dollars.
+L.For the purposes of this section, "certified
+ignition interlock device" has the same meaning prescribed in section 281301.
+END_STATUTE
+Sec.34.Section
+28-3514, Arizona Revised Statutes, is amended to read:
+START_STATUTE28-3514.Hearings; notice of immobilization or
+storage; definition
+A.If a peace officer removes and either immobilizes
+or impounds a vehicle pursuant to section 283511, the immobilizing or
+impounding agency may provide the owner, the spouse of the owner and any other
+person identified on the department's
+record as having an
+providing indicia of ownership or other interest in the vehicle
+immediately before the immobilization or impoundment with the opportunity for
+an immobilization or poststorage hearing to determine the validity of the
+immobilization or storage or consider any mitigating circumstances relating to
+the immobilization or storage or release of the vehicle before the end of the
+thirty day immobilization or impoundment period. If the immobilizing or
+impounding agency provides the opportunity for an immobilization or poststorage
+hearing, the immobilizing or impounding agency shall conduct the hearing in
+accordance with any of the following: 
+1.In the immobilizing or impounding agency's
+jurisdiction.
+2.Telephonically.
+3.Pursuant to procedures prescribed by the
+immobilizing or impounding agency to transfer the authority to conduct the
+immobilization or poststorage hearing to a law enforcement agency in the
+jurisdiction in which the owner, the spouse of the owner, the owner's agent or
+any person identified in the department's record as having an interest in the
+vehicle immediately before the immobilization or impoundment resides.
+B.If the immobilizing or impounding agency does not
+provide an opportunity for an immobilization or poststorage hearing, a justice
+court shall conduct the immobilization or poststorage hearing.If an
+immobilization or poststorage hearing is conducted by a justice court, the
+immobilizing or impounding agency shall appear and show evidence.
+Immobilization or poststorage hearings conducted by a justice court shall be
+considered as civil filings for the purposes of judicial productivity credits.
+C.Within three business days after immobilization
+or impoundment, excluding weekends and holidays, the immobilizing or impounding
+agency shall send a notice of storage by first class mail to each person, other
+than the owner, identified on the department's record as having an interest in
+the vehicle or who has provided the
+department with indicia of ownership or other interest in the vehicle that
+exists immediately before the immobilization or impoundment.
+Service of notice of immobilization or storage is complete on mailing. If
+within three business days after immobilization or impoundment, excluding
+weekends and holidays, the immobilizing or impounding agency fails to notify a
+person, other than the owner, identified on the department's record as having
+an interest in the vehicle immediately before the immobilization or
+impoundment, the immobilizing agency or the person in possession of the vehicle
+shall not charge any administrative fees or more than fifteen days'
+immobilization or impoundment when the person redeems the impounded vehicle or
+has the immobilization device removed from the vehicle.
+D.Within three business days after immobilization
+or impoundment, excluding weekends and holidays, the immobilizing or impounding
+agency shall mail or personally deliver notice of immobilization or storage to
+the owner of the vehicle.
+E.The notice of immobilization or storage shall
+include all of the following information:
+1.A statement that the vehicle was immobilized or
+impounded.
+2.The name, address and telephone number of the
+immobilizing or impounding agency providing the notice.
+3.The name, address and telephone number of the
+immobilizing or impounding agency or justice court that will provide the
+immobilization or poststorage hearing.
+4.The location of the place of storage and a
+description of the vehicle, including, if available, the manufacturer, model,
+license plate number and mileage of the vehicle.
+5.A statement that in order to receive an
+immobilization or poststorage hearing the owner, the spouse of the owner, the
+owner's agent or the person identified in the department's record as having an
+interest in the vehicle immediately before the immobilization or impoundment,
+within ten days after the date on the notice, shall request an immobilization or
+poststorage hearing by contacting the immobilizing or impounding agency in
+person or in writing or by filing a request with the justice court if the
+impounding agency does not provide for a hearing and paying a fee equal to the
+fee established pursuant to section 22281 for a small claims answer.
+6.A statement that if the immobilizing or
+impounding agency does not provide the opportunity for an immobilization or
+poststorage hearing, the owner, the spouse of the owner, the owner's agent or
+any person identified in the department's record as having an interest in the
+vehicle or a person who has provided
+the department with indicia of ownership or other interest in the vehicle that
+exists immediately before the immobilization or impoundment may
+request that the immobilization or poststorage hearing be conducted by a
+justice court in the immobilizing or impounding agency's jurisdiction or the
+jurisdiction in which the owner, the spouse of the owner, the owner's agent or
+the person identified in the department's record as having an interest in the
+vehicle immediately before the immobilization or impoundment resides.
+F.The immobilization or poststorage hearing shall
+be conducted by the immobilizing or impounding agency or justice court within
+five business days, excluding weekends and holidays, after receipt of the
+request.
+G.Failure of the owner, the spouse of the owner or
+other person or the other person's agent to request an immobilization or
+poststorage hearing within ten days after the date on the notice prescribed in
+subsection E of this section or to attend a scheduled hearing satisfies the
+immobilization or poststorage hearing requirement.
+H.The immobilizing or impounding agency employing
+the person who directed the immobilization or storage is responsible for the
+costs incurred for immobilization, towing and storage if it is determined in
+the immobilization or poststorage hearing that reasonable grounds for the
+immobilization or impoundment and storage are not established.
+I.In compliance with the requirements of this
+section, the vehicle owner, the vehicle owner's spouse or another person having who has an interest in the vehicle or who has provided the department with
+indicia of ownership or other interest in the vehicle that exists immediately
+before the immobilization or impoundment shall have an opportunity for a single
+poststorage hearing for the release of the vehicle by either the immobilizing
+or impounding agency or a justice court but not both.
+J.For the
+purposes of this section, "indicia of ownership" includes a
+certificate of title, a manufacturer-issued certificate or a statement of
+origin or other similar document. END_STATUTE
+Sec.35.Section 28-4335, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-4335.Wholesale motor vehicle dealer or broker
+A.A wholesale motor vehicle dealer or a broker:
+1.Is required to be licensed pursuant to this
+chapter and to be a legal resident of
+this state.
+2.Is not required to operate from an established
+place of business.
+3.Shall maintain a place of business in which
+records of the business are kept.
+B.If the licensee is a broker, the principal place
+of business shall not be a location that is zoned for residential use.END_STATUTE
+Sec.36.Section 28-4361, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-4361.License application; criminal records check
+A.A person shall apply for a license to the
+director in writing on forms prescribed by the director.The person
+shall include with the application all documents and bonds required and the
+annual license fees prescribed by section 284302.
+B.The application shall be verified and shall
+contain:
+1.The name and residence of either:
+(a)The applicant.
+(b)If the applicant is a partnership, each partner.
+(c)If the applicant is a corporation, each
+principal officer, director, agent or stockholder who owns twenty per cent percent or more of the corporation and the
+name of the state in which the corporation was organized.
+2.The principal place of business of the applicant.
+3.The established place of business or the place of
+business at or from which the applicant will conduct the business.
+4.The make or makes of new motor vehicles, if any,
+that the applicant will sell or offer for sale in this state.
+5.The business hours of the applicant.
+6.Other information that the director requires.
+C.Each applicant who owns twenty per cent
+percent or more of an entity, and each partner or stockholder who
+owns twenty per cent percent or more of an entity,
+and who seeks a new license shall provide:
+1.A full set of fingerprints to the department of transportation for the
+purpose of obtaining a state and federal criminal records check pursuant to
+section 411750 and Public Law 92544.The department of
+public safety may exchange this fingerprint data with the federal bureau of
+investigation.
+2.A nonrefundable fee to be paid to the department
+of public safety for the criminal records check.
+D.If a licensee adds or changes a partner or
+stockholder who owns twenty per cent percent or more of the entity
+and who was not included in the criminal records check on a prior application,
+the licensee shall notify the department within thirty days of the change. At
+the time of notification, an application and, if applicable, a full set of
+fingerprints and the fee for a criminal records check shall be submitted to the
+department. If any individual who is added or changed by the licensee is found
+to be ineligible pursuant to section 284365, the director, on completion
+of the criminal records check, shall advise the licensee and the individual in
+writing that the license will be revoked, unless the individual is removed from
+the position, and of the grounds for the action.
+E.The requirement for a criminal records check:
+1.Does not apply to a manufacturer, importer,
+factory branch or distributor or a person who is under eighteen years of age on
+the date the application is filed with the department.
+2.May not apply if
+the application is for a subsequent license and each applicant who owns twenty per cent percent or more of an entity, and each
+partner or stockholder who owns twenty per
+cent percent
+or more of an entity, either:
+(a)Have submitted to a criminal records check
+during the past five years.
+(b)Are currently licensed under this section.
+3.Does not
+apply to a new motor vehicle dealer. END_STATUTE
+Sec.37.Section 28-4403, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-4403.Record requirements; motor vehicle information;
+inspection; liability; electronic submission
+A.A licensee shall keep and maintain at the
+licensee's established place of business, or place of business if the licensee
+is a broker or a wholesale motor vehicle dealer, a permanent record in the form
+prescribed by the director containing:
+1.A particular description of each motor vehicle of
+a type subject to registration under the laws of this state that is bought,
+sold, brokered or exchanged by the licensee or received or accepted by the
+licensee for sale, brokering or exchange.
+2.A particular description of each used motor
+vehicle body or chassis that is sold or otherwise disposed of.
+3.A particular description of each motor vehicle
+that is bought or otherwise acquired and wrecked by the licensee.
+4.The name and address of the person from whom a
+motor vehicle, motor vehicle body or motor vehicle chassis was purchased or
+otherwise acquired and the date it was purchased or acquired.
+5.The name and address of the person to whom the
+motor vehicle, motor vehicle body or motor vehicle chassis was sold or
+otherwise disposed of, the date it was sold or disposed of and a sufficient
+description of the vehicle, body or chassis by name or identifying number or
+otherwise to identify it.
+B.A licensed automotive recycler that has a vehicle
+in the automotive recycler's inventory shall:
+1.At the same time have possession of a duly and
+regularly assigned salvage certificate of title, nonrepairable vehicle
+certificate of title or dismantle certificate of title to the vehicle.
+2.Not offer for sale or sell a vehicle unless a
+salvage certificate of title, nonrepairable vehicle certificate of title or
+dismantle certificate of title to the vehicle has been obtained.
+C.Each motor vehicle dealer shall give the customer
+a written contract and shall maintain a copy of the contract for three years at
+the dealer's established place of business.
+D.Each record required by this section and all
+inventories relating to the records of a licensee shall be available at all
+times for physical inspection by agents of the department or members of the
+highway patrol division.The agents or members may enter on premises
+where the records or inventories are located during normal business hours for
+purposes of the inspection.The licensee or any designated employee
+or agent may accompany any person making the inspection while the person is on
+the licensee's premises.
+E.The licensee is only liable to a person making an
+inspection under this section for an injury arising out of the condition of the
+premises that occurs while the person is on the licensee's premises if the
+licensee knowingly allows the person to encounter a hidden peril or wantonly or
+wilfully causes the person harm.
+F.Beginning
+January 1, 2014, A wholesale motor vehicle dealer shall submit
+electronically to the department any documents that are requested by the
+department during the wholesale motor vehicle dealer's reported business hours
+and that are prescribed in this section. The wholesale motor vehicle dealer
+shall submit the requested documents within forty-eight hours after the request
+is transmitted. END_STATUTE
+Sec.38.Section 28-4409, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-4409.Evidence of ownership requirement; exception
+A.Except as provided in section 284410:
+1.Each dealer in motor vehicles, trailers and
+semitrailers, including manufacturers who sell to other than dealers, having
+possession of or offering for sale a
+motor vehicle, trailer or semitrailer shall have at the same time either:
+(a)Possession of a duly and regularly assigned
+certificate of title to the vehicle.
+(b)Reasonable indicia of ownership or right of
+possession as provided in section 284410 approved by the director. 
+2.A dealer or manufacturer shall not offer for sale
+or sell a motor vehicle, trailer or semitrailer until the dealer or
+manufacturer has obtained a certificate of title to the motor vehicle, trailer
+or semitrailer, except that a certificate of title is not required for a new
+motor vehicle sold by manufacturers to dealers.
+B.A wholesale motor vehicle auction dealer is
+exempt from the requirement of having to possess a duly and regularly assigned
+certificate of title and from other requirements relating to the reassignment
+of certificate of title
+documents and disclosures to buyers.A wholesale motor vehicle
+auction dealer may buy or sell a motor vehicle at wholesale in the wholesale
+motor vehicle auction dealer's own name if the wholesale motor vehicle auction
+dealer complies with the provisions of this title relating to certificates of
+title, reassignments of certificate of title
+documents and disclosures to buyers.
+C.A wholesale motor vehicle dealer must apply for a certificate of title
+in the name of the wholesale motor vehicle dealer any vehicle that the
+wholesale motor vehicle dealer acquires before the wholesale motor vehicle
+dealer transfers the vehicle to another licensed motor vehicle dealer. END_STATUTE
+Sec.39.Section 28-4410, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-4410.Consignment contracts; definitions
+A.A dealer in motor vehicles, trailers and
+semitrailers may possess and offer for sale a motor vehicle, trailer or
+semitrailer without having a duly or regularly assigned certificate of title or title transfer form in the
+dealer's possession if the dealer possesses all of the following:
+1.A consignment contract or dealer acquisition
+contract.
+2.The most recent registration card for the
+vehicle.
+3.A statement by the lienholder disclosing all
+unsatisfied liens, if applicable.
+B.A dealer may
+complete the sale of a motor vehicle, trailer or semitrailer offered for sale
+under subsection A of this section when the dealer possesses verification that
+all liens on the motor vehicle, trailer or semitrailer have been satisfied by
+the dealer or assumed by the purchaser.
+C.A dealer who offers a vehicle for sale on
+consignment shall inform a prospective customer that the vehicle is on
+consignment to the dealer.
+D.The director shall adopt rules on the minimum
+form and content of consignment contracts and dealer acquisition contracts.
+E.This chapter does not allow the consignment of
+motor vehicles from one licensee to another licensee.
+F.A dealer in motor vehicles, trailers or
+semitrailers may offer for sale or sell a motor vehicle, trailer or semitrailer
+without having a duly or regularly assigned certificate of title in the
+dealer's possession if the dealer possesses a complete photocopy of the duly or
+regularly assigned certificate of title, the original of which has been
+delivered to a financial institution or a subsidiary of the financial institution
+pursuant to an inventory financing arrangement.
+G.For the purposes of this section:
+1."Consignment contract" means an
+agreement executed by both the owner of a vehicle and a licensed motor vehicle
+dealer pursuant to which the vehicle is delivered to the dealer to sell for the
+owner.
+2."Dealer acquisition contract" means an
+agreement that both:
+(a)Is executed by both the owner of a vehicle, the certificate of title for which
+is in possession of a lienholder in accordance with the laws of this state or
+another state, and a licensed motor vehicle dealer.
+(b)Transfers ownership of the vehicle described in
+subdivision (a) of this paragraph to
+a licensed dealer from a person other than a manufacturer, distributor,
+franchisor or dealer.
+3."Inventory financing arrangement" means
+an agreement under which a dealer grants a security interest to a financial
+institution under the provisions of title 47, chapter 9.END_STATUTE
+Sec.40.Section 28-4412, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-4412.Guaranty disclosure; used motor vehicles; definition
+A.Before the consummation of the sale of a used
+motor vehicle, a motor vehicle dealer shall:
+1.Provide each purchaser with a written statement
+that:
+(a)Indicates whether or not an express warranty or
+guaranty is associated with the used motor vehicle.
+(b)Is distinguished from the body of the sales
+agreement through the use of either boldfaced type or boldfaced
+type of a color other than that used in the body of the agreement.
+(c)States "as isnot expressly warranted or guaranteed", if the used
+motor vehicle to be sold is not expressly warranted or guaranteed.
+(d)Explicitly states the nature and extent of the
+express warranty or guaranty, if the used motor vehicle to be sold is expressly
+warranted or guaranteed.
+(e)States "as isnot guaranteed to pass vehicle emissions
+inspection.Vehicle not eligible for certificate of waiver and must
+be repaired to meet emissions standards", if the used motor vehicle is a
+disabled vehicle that is offered for sale at a wholesale public auction with an
+auctioneer who is a licensed used motor vehicle dealer and if the vehicle does
+not comply with the requirements prescribed in section 49542.
+2.Direct the purchaser's attention to the written
+statement.
+B.This section does not negate any implied
+warranties otherwise applicable to the sale of a used motor vehicle, including
+the implied warranty of merchantability described in section 441267.
+C.Before the
+seller attempts to sell a motor vehicle the seller shall possess the title to
+the motor vehicle and the title shall be in the seller's name.
+D.C.Notwithstanding
+any other provision of this section or title 12, chapter 6, article 9, a motor
+vehicle dealer that sells a used motor vehicle to another motor vehicle dealer
+or for the sole purpose of being legally destroyed or dismantled does not have
+a duty to inspect a used motor vehicle for defects or damage before the
+sale.This subsection does not negate any duties owed by a licensed
+motor vehicle dealer to its retail customers.
+E.D.For
+the purposes of this section, "disabled vehicle" means a motor
+vehicle that cannot operate on its own motive power. END_STATUTE
+Sec.41.Section 28-4421, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-4421.Selling dealer's duties
+A.For purposes of issuing a certificate of title, registration,
+warranties, rebates and incentives in a brokered sale of a new motor vehicle to
+a retail consumer, the selling new motor vehicle dealer and not the broker is
+responsible for:
+1.Applying for a certificate of title in the name of the
+purchaser and securing vehicle registration and the license plates for the
+purchaser.
+2.Securing the manufacturer's warranty in the name
+of the purchaser.
+3.Making all applications for any manufacturer's
+rebates and incentives due the purchaser.
+B.If there is a manufacturer's recall, the retail
+consumer shall be notified directly by the manufacturer. END_STATUTE
+Sec.42.Section 28-4423, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-4423.Wholesale motor vehicle auction dealers; sign; title stamp
+Each wholesale motor vehicle auction dealer shall:
+1.Conspicuously post at the wholesale motor vehicle
+auction dealer's established place of business a sign that contains the
+following statement:
+Arizona Revised Statutes section 284334 prohibits a
+person who purchases a vehicle from this wholesale motor vehicle auction dealer
+from selling the vehicle in this state unless the person is a licensed dealer
+in this state.A person who violates this statutory provision is
+guilty of a class 1 misdemeanor.
+2.Stamp "export only" on the certificate of title of any
+vehicle sold to a person who is licensed as a dealer by another country. END_STATUTE
+Sec.43.Section 28-4533, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-4533.Dealer's certificate; dealer license plates; fees
+A.A dealer may apply to the department, on a form
+provided for that purpose, for a dealer's certificate containing a general
+distinguishing number.If the applicant is a dealer in new motor
+vehicles, trailers or semitrailers, the applicant shall submit satisfactory
+proof that the applicant is a duly authorized distributor or dealer for a
+manufacturer.
+B.The department may issue dealer license plates to
+each dealer as follows:
+1.For new motor vehicle dealers, not more than
+thirty dealer license plates plus one additional license plate for every fifty
+motor vehicles that are sold based on reported sales in the previous license
+year.
+2.For used motor vehicle dealers, not more than
+fifteen dealer license plates plus one additional license plate for every fifty
+vehicles that are sold based on reported sales in the previous license year.
+3.For wholesale motor vehicle dealers, not more
+than two dealer license plates plus one additional license plate for every
+fifty vehicles that are sold based on reported sales in the previous license
+year. All of the following requirements apply to dealer license plates issued
+pursuant to this paragraph:
+(a)Before the wholesale motor vehicle dealer's
+license continuation date, the wholesale motor vehicle dealer must submit evidence
+satisfactory to the department that the wholesale motor vehicle dealer has sold
+at least ten vehicles to one or more
+licensed new or used motor vehicle dealers in the previous
+license year.
+(b)If the wholesale motor vehicle dealer does not
+submit the evidence prescribed in subdivision (a) of this paragraph, the
+department shall cancel the dealer license plates issued to the wholesale motor
+vehicle dealer.
+(c)The department shall not issue more than ten
+dealer license plates to a wholesale motor vehicle dealer pursuant to this
+paragraph.
+C.The department, on granting the application,
+shall issue to the applicant a certificate containing the applicant's name and
+address and the general distinguishing number assigned to the applicant and the
+dealer license plates for which the applicant applied on payment of the fee
+provided in this section.
+D.The fee for each license plate or pair of license
+plates issued to a dealer is:
+1.Thirty dollars, if the dealer is not a motorcycle
+dealer.
+2.Ten dollars, if the dealer is a motorcycle
+dealer.
+E.The director may recall, redesign and reissue
+dealer license plates pursuant to this article. The plate or pair of plates
+issued shall contain a number or symbol distinguishing them from every other
+plate or pair of plates issued to the same dealer. The director shall not
+allow a request for dealer license plates to be combined with a request for a
+personalized special plate issued pursuant to section 282406. Reissued
+dealer license plates shall be distributed as determined by the director.
+F.The right to use a dealer license plate issued
+terminates at midnight on the last day of the month in which the plate fees are
+due unless the plate fees for the following year are paid.
+G.A dealer who applies for and obtains dealer
+license plates shall comply with chapter 9 of this title. END_STATUTE
+Sec.44.Section 28-4547, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-4547.Requirements for temporary registration plates
+A.A dealer shall not:
+1.Issue, assign or deliver temporary registration
+plates to anyone other than a bona fide purchaser of a vehicle that is not
+registered for the current year.
+2.Issue temporary registration plates unless the
+purchaser files an application for a certificate of title and an application
+for annual registration of the vehicle before or at the time the plates are
+issued.
+3.Issue temporary registration plates unless the
+application for a certificate of title is accompanied by either a
+manufacturer's certificate of origin properly assigned by a licensed new motor
+vehicle dealer, or a properly signed certificate
+of title or a title transfer form.
+B.The dealer, as the agent of the purchaser, shall
+forward the application for a certificate of title, the application for
+registration and the prescribed fees for both applications to the department.END_STATUTE
+Sec.45.Section 28-4594, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-4594.Altered serial or identification number; contraband;
+seizure; disposition
+A.Except if a manufacturer's serial or
+identification number of a motor vehicle or major component part of a vehicle
+is removed, defaced, altered or destroyed with the permission of the department
+or if a special serial or identifying number issued by the department has been
+properly affixed to a vehicle pursuant to section 282165, a motor
+vehicle or major component part of the vehicle that has had the manufacturer's
+or department's serial or identification number removed, defaced, altered or
+destroyed and a serial or identification number so removed are contraband.
+B.A law enforcement agency shall both:
+1.Immediately seize and store the motor vehicle or
+major component part of a vehicle or serial or identification number that is
+contraband pursuant to subsection A of this section.
+2.Attempt to restore the original manufacturer's
+serial or identification numbers on the item seized as follows:
+(a)If the original identification numbers can be
+permanently restored and the last owner as identified on official title records
+maintained by the vehicle registration agency of the state, country or
+territory in which the vehicle was last titled issued a certificate of title
+or the person or entity to which a
+certificate of title was assigned by the last owner as identified
+on official title records can be found, the law enforcement agency shall return
+the motor vehicle or major component part of a vehicle to the person or entity.
+
+(b)If the original identification numbers can be
+temporarily restored and the last owner as identified on official title records
+maintained by the vehicle registration agency of the state, country or
+territory in which the vehicle was last titled issued a certificate of title
+or the person or entity to which a
+certificate of title was assigned by the last owner as identified
+on official title records can be found, the county attorney of the county in
+which the motor vehicle or major component part of a vehicle was seized or the
+attorney general, within sixty days after the date of seizure or such other
+reasonable time that is set by the court, shall file a petition or action in
+the superior court in the county in which the item was seized or in Maricopa
+county to forfeit the motor vehicle or major component part of a vehicle to
+this state for use or other appropriate disposition by the law enforcement agency
+that seized the item or for such other disposition as the state deems
+appropriate.The petition shall set forth probable cause that the
+item is contraband.A copy of the petition or notice of pending
+forfeiture shall be served as follows:
+(i)On the person from whom the item was seized by
+certified mail to the person's last known address.
+(ii)On the last owner and any lienholders or
+interest holders identified on official title records by certified mail to the
+names and addresses identified on official title records.
+(iii)On any other known interest holders by
+certified mail to each holder's last known address.
+(iv)By publication in one issue of a newspaper of
+general circulation in the county in which the property was seized.
+(c)If the original identification numbers cannot be
+permanently or temporarily restored or the last owner as identified on official
+title records cannot be found, the county attorney in the county in which the
+motor vehicle or major component part of a vehicle was seized or the attorney
+general, within sixty days after the date of seizure or such other reasonable
+time as is set by the court, shall file a petition or action in the superior
+court in the county in which the item was seized or in Maricopa county to
+forfeit the motor vehicle or major component part of a vehicle to this state
+for use or other appropriate disposition by the law enforcement agency that
+seized the item or for such other disposition as the state deems
+appropriate.The petition shall set forth probable cause that the
+item is contraband.A copy of the petition or notice of pending
+forfeiture shall be served on the person from whom the item was seized by
+certified mail to the person's last known address.
+C.If a verified claim is not filed within the time
+period provided in section 284595, subsection A, the court shall declare
+the seized item to be contraband and shall sign an order forfeiting the seized
+item to the state for use or other appropriate disposition by the law
+enforcement agency that seized the item or for other disposition as the state
+deems appropriate. END_STATUTE
+Sec.46.Section 28-5101, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-5101.Third party authorization
+A.The director may authorize third parties to
+perform certain of the following functions:
+1.Title and registration.
+2.Motor carrier licensing and tax reporting.
+3.Dealer licensing.
+4.Driver licensing as prescribed in sections 285101.01,
+285101.02 and 285101.03.
+B.The director may authorize a person to be a third
+party electronic service provider or,
+beginning January 1, 2012, to be a third party electronic service
+partner. An authorized third party electronic service provider shall meet all
+of the requirements established by the department. Beginning January 1, 2012:
+1.The
+written agreement between the department and the authorized third party
+electronic service provider may be for a limited number of services and may
+limit the persons that may receive the services. 
+2.An
+authorized third party electronic service partner shall meet the requirements
+established by the department and shall be selected through a competitive bid
+process.
+C.A person shall not engage in any business
+pursuant to this article unless the director authorizes the person to engage in
+the business.
+D.The director may furnish necessary documents or
+license plates subject to this article.
+E.Except as provided in subsection Fof this
+section, an authorized third party or an authorized third party electronic
+service provider shall submit to the department all statutorily prescribed fees
+and taxes it collects.In addition to the statutorily prescribed
+fees and taxes, an authorized third party or an authorized third party
+electronic service provider may collect and retain a reasonable and
+commensurate fee for its services.
+F.In addition to payment pursuant to section 28374,
+the department shall reimburse the authorized third party or third party
+electronic service provider as follows:
+1.One dollar of each initial, renewal, replacement
+or duplicate registration fee for a vehicle or an aircraft.
+2.One dollar of each initial, duplicate or transfer
+certificate of title fee
+for a vehicle or an aircraft. 
+3.An amount equal to two per cent
+percent of each vehicle license tax payment or aircraft license
+tax payment the authorized third party collects and submits to the department
+or four dollars for each registration year or part of a registration year,
+whichever is more. The reimbursement amount shall not exceed the amount of
+vehicle license tax or aircraft license tax collected.
+4.Four dollars for each initial, renewal,
+replacement or duplicate application that the third party processes and that
+relates to driver licenses, nonoperating identification licenses or
+permits.An authorized third party may add the cost for expedited
+processing of renewal, replacement or duplicate applications if requested by
+the applicant.
+5.An amount equal to two per cent
+percent of each overweight or excess size vehicle registration or
+permit fee the third party collects and submits to the department or one dollar
+for each overweight or excess size vehicle registration or permit processed,
+whichever is more.
+6.One dollar for each motor vehicle or special
+motor vehicle record, excluding motor vehicle records released to commercial
+recipients, including insurers and their authorized agents.
+7.Five dollars or onefourth of one per cent percent of the fuel taxes reported, whichever
+is greater, for each fuel tax report filed electronically.In fiscal years 20082009 through 20122013,
+the maximum annual amount retained each year shall not exceed one million five
+hundred thousand dollars.Beginning in fiscal year 20132014,
+The maximum annual amount retained each year shall not exceed four hundred
+eighty thousand dollars.
+8.One dollar for each fuel tax permit.
+9.One dollar for each nonsufficient funds or
+dishonored check payment.
+10.One dollar for each abandoned vehicle report
+processed, except for applications for crushed vehicles.
+11.One dollar for each abandoned vehicle payment.
+12.Two dollars for each initial special or
+personalized license plate application.
+13.One dollar for each initial, renewal or
+replacement vehicle dealer license plate.
+14.Five dollars for each application for an initial
+vehicle dealer license or continuation of a vehicle dealer license.
+15.One dollar of each twelve dollar fee paid
+pursuant to section 282356.
+16.One dollar for each traffic survival school
+application and one dollar for each certificate of completion processed.
+17.One dollar for each replacement license plate or
+tab.
+G.For authorized third party electronic service
+partners, the amount of compensation and the amount of reimbursements for
+transactions shall be negotiated by the department and the authorized third
+party electronic service partner and shall be set forth in the written
+agreement authorizing the third party electronic service partner. If
+reimbursement is made for individual transactions, the reimbursements shall not
+exceed the amounts specified in subsections F, H and I of this
+section.Other forms of compensation or reimbursements for services
+may be specified in the written agreement.Compensation and
+reimbursements provided for by the written agreement may include the
+development and implementation of information technology and other automated
+systems and any necessary support for these systems.
+H.The department's authorized third party
+electronic service provider may retain two dollars for processing documents
+electronically when the statutory fee pursuant to this title is two dollars or
+more.
+I.The director may authorize the third party
+electronic service provider to process electronic fund transfers to the
+department for payment of motor vehicle taxes and fees. The third party
+electronic service provider may add a two dollar processing fee for each
+electronic funds transfer.
+J.Each authorized third party that holds itself out
+as providing services to the general public shall post a sign in a conspicuous
+location in each facility of the authorized third party that contains all of
+the following:
+1.The amount charged for each transaction performed
+by the authorized third party.
+2.The amount charged by the department for the same
+transaction.
+3.How to file a complaint or concern with the
+department about the authorized third party. END_STATUTE
+Sec.47.Section 28-5111, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-5111.Electronic transmission and recording of title,
+registration and driver license; program; authorized third party
+A.The director may establish a pilot program to measure and determine the
+effectiveness of the following in improving customer service, operations,
+capital cost reductions and security of information transmitted to the
+department:
+1.The electronic transmission and recording of
+vehicle certificate of title
+and registration information between the department and an authorized third
+party or an authorized third party electronic service provider for the purpose
+of titling and registering vehicles entering this state from another jurisdiction
+in a costeffective manner in lieu of the submission and maintenance of
+paper documents.
+2.The electronic transmission and recording of
+driver license applications between the department and another state through an
+authorized third party or authorized third party electronic service provider
+for the purpose of issuing driver licenses in a costeffective manner in
+lieu of the submission and maintenance of paper documents as provided in this
+chapter.
+3.The electronic transmission and recording of
+vehicle accident data between the department, other states and law enforcement
+agencies within this state or within another state through an authorized third
+party or authorized third party electronic service provider.
+B.In the process of establishing the system, the
+director shall:
+1.Research methods the department and authorized
+third parties or authorized third party electronic service providers may use to
+exchange and maintain information relating to driver licenses and vehicle certificates of title and
+registration without submitting or receiving a paper document.
+2.Develop methods an authorized third party or an
+authorized third party electronic service provider may use to electronically
+submit updated information relating to the certificate of title and registration record
+or the driver license record.
+C.The director may limit the number of other states
+and authorized third party electronic service providers participating in the
+system. After the system has been
+operating for twelve months, If the director determines the
+system is successful, the director may expand the system.
+D.Chapter 2, article 5 of this title applies to
+certificates of title and driver license information under the system
+established pursuant to this section. END_STATUTE
+Sec.48.Section 47-9311, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE47-9311.Perfection of security interests in property subject to
+certain statutes, regulations and treaties
+A.Except as otherwise provided in subsection D of
+this section, the filing of a financing statement is not necessary or effective
+to perfect a security interest in property subject to:
+1.A statute, regulation or treaty of the United
+States whose requirements for a security interest's obtaining priority over the
+rights of a lien creditor with respect to the property preempt section 479310,
+subsection A;
+2.A statute of this state that provides for central
+filing of or that requires indication on a certificate of title of a security
+interest in the property, including title 28, chapter 7, article 4, and that
+requires indication of the security interest on a certificate of title for a
+vehicle required to be titled issued a certificate of title
+and registered under section 282153 and for a mobile home required to be
+titled under section 282063; or
+3.A statute of another jurisdiction that provides
+for a security interest to be indicated on a certificate of title as a condition
+or result of the security interest's obtaining priority over the rights of a
+lien creditor with respect to the property.
+B.Compliance with the requirements of a statute,
+regulation or treaty described in subsection A of this section for obtaining priority
+over the rights of a lien creditor is equivalent to the filing of a financing
+statement under this chapter.Except as otherwise provided in
+subsection D of this section and section 479313 and section 479316,
+subsections D and E for goods covered by a certificate of title, a security
+interest in property subject to a statute, regulation or treaty described in
+subsection A of this section may be perfected only by compliance with those
+requirements, and a security interest so perfected remains perfected
+notwithstanding a change in the use or transfer of possession of the
+collateral.
+C.Except as otherwise provided in subsection D of
+this section and section 479316, subsections D and E, duration and
+renewal of perfection of a security interest perfected by compliance with the
+requirements prescribed by a statute, regulation or treaty described in
+subsection A of this section are governed by the statute, regulation or
+treaty.In other respects, the security interest is subject to this
+chapter.
+D.During any period in which collateral subject to
+a statute specified in subsection A, paragraph 2 of this section is inventory
+held for sale or lease by a person or leased by that person as lessor and that
+person is in the business of selling goods of that kind, this section does not
+apply to a security interest in that collateral created by that person. END_STATUTE
+

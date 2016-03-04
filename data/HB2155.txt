@@ -1,0 +1,96 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: technical correction; emergency
+  interception
+
+
+
+
+
+
+
+State of Arizona
+House of Representatives
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+HB 2155
+
+
+
+
+
+
+
+
+
+Introduced by
+Representative
+  Borrelli
+
+
+
+
+
+AN ACT
+
+amending section
+133015, Arizona Revised Statutes; relating to eavesdropping and
+communications.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 13-3015, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE133015.Emergency interception
+A.Notwithstanding any other provision of this
+chapter, if the attorney general or a county attorney or such prosecuting
+attorneys as they may designate in writing reasonably determines determine that an emergency situation exists
+involving immediate danger of death or serious physical injury to any person,
+and that such death or serious physical injury may be averted by interception
+of wire, electronic or oral communications before an order authorizing such
+interception can be obtained, the attorney general or a county attorney or his
+designee may specially authorize a peace officer or law enforcement agency to
+intercept such wire, electronic or oral communications.
+B.The attorney general or county attorney or his
+designee specially authorizing an emergency interception pursuant to subsection
+A of this section shall apply for an order authorizing the interception, in
+accordance with the provisions of
+section 133010.The application shall be made as soon as
+practicable, and in no event later than fortyeight hours after
+commencement of the emergency interception.The application shall
+include an explanation and summary of any interception of communications
+occurring before the application for authorization.
+C.If the prosecuting attorney fails to obtain an
+authorization within fortyeight hours after commencement of the
+emergency interception, or if authorization to intercept communications is
+denied, the interception shall immediately terminate and any communications
+intercepted without judicial authorization may not be used as evidence in any
+criminal or civil proceeding against any person.In either event,
+the prosecuting attorney shall furnish to the court an inventory of any
+communications intercepted, for service pursuant to the provisions of section 133010,
+subsection I.The provisions
+of This subsection do
+does not prohibit the use
+as evidence of any communications intercepted without judicial authorization
+against the persons conducting or authorizing the interceptions if such
+interceptions were not made in good faith reliance on this section. END_STATUTE
+

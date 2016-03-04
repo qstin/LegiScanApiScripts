@@ -1,0 +1,484 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: motor vehicle insurance; nonrenewal
+
+
+
+
+
+
+
+State of Arizona
+House of Representatives
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+HB 2445
+
+
+
+
+
+
+
+
+
+Introduced by
+Representatives
+  Livingston, Coleman, Fann, Leach, Stevens, Thorpe: Borrelli, Bowers, Boyer,
+  Campbell, Finchem, Mesnard, Norgaard, Shope, Weninger
+
+
+
+
+
+AN ACT
+
+Amending sections
+201631, 201632 and 201633, Arizona Revised Statutes;
+relating to motor vehicle insurance.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Heading change
+The article heading of title 20, chapter 6, article 11, Arizona
+Revised Statutes, is changed from "CANCELLATION OR NON-RENEWAL OF
+AUTOMOBILE INSURANCE" to "CANCELLATION
+OR NONRENEWAL OF motor vehicle INSURANCE".
+Sec.2.Section 20-1631, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE20-1631.Definition of motor vehicle; cancellation of or failure to
+renew coverage; limitations; limitation of liability; exceptions; insurance
+producers; definitions
+A.In this article, unless the context otherwise
+requires, "motor vehicle" means a licensed land, motordriven
+vehicle but does not mean:
+1.A private passenger or station wagon type vehicle
+used as a public or livery conveyance or rented to others.
+2.Any other fourwheel motor vehicle of a
+load capacity of fifteen hundred pounds or less that is used in the business of
+transporting passengers for hire, used in business primarily to transport
+property or equipment, used as a public or livery conveyance or rented to
+others.
+3.Any motor vehicle with a load capacity of more
+than fifteen hundred pounds.
+4.From and after February 29, 2016, a vehicle that
+otherwise qualifies as a motor vehicle under this subsection but only while the
+driver of the vehicle is logged in to a transportation network company's
+digital network or software application to be a driver or is providing
+transportation network services, unless expressly covered by the private
+passenger policy.
+B.A motor vehicle used as a public or livery
+conveyance or rented to others does not include a motor vehicle used in the
+course of volunteer work for a taxexempt organization as described in
+section 431201, subsection A, paragraph 4.
+C.An insurer shall not cancel or refuse to renew a
+motor vehicle insurance policy solely because of the location of residence,
+age, race, color, religion, sex, national origin or ancestry of anyone who is
+an insured. , except that an insurer may refuse to renew
+a motor vehicle insurance policy if a named insured establishes a primary
+residence in a state other than Arizona.
+D.An insurer shall not issue a motor vehicle
+insurance policy in this state unless the cancellation and renewal conditions
+of the policy or the endorsement on the policy includes the limitations
+required by this section. After a policy issued in this state has been in
+effect for sixty days, or if the policy is a renewal, effective immediately,
+the company shall not exercise its right to cancel or fail to renew the insurance afforded under
+the policy unless:
+1.The named insured fails to discharge when due any
+of the obligations of the named insured in connection with the payment of
+premium for this policy or any installment of the premium.
+2.The insurance was obtained through fraudulent
+misrepresentation.
+3.The named insured, any person who resides in the
+same household as the named insured and customarily operates a motor vehicle
+insured under the policy or any other person who regularly and frequently
+operates a motor vehicle insured under the policy:
+(a)Has had the person's driver license suspended or
+revoked during the policy period.
+(b)Develops a permanent disability, either
+physically or mentally, and such individual does not produce a certificate from
+a physician or a registered nurse practitioner testifying to such person's
+ability to operate a motor vehicle.
+(c)Is or has been convicted during the thirtysix
+months immediately preceding the effective date of the policy or during the
+policy period of:
+(i)Criminal negligence resulting in death, homicide
+or assault and arising out of the operation of a motor vehicle.
+(ii)Operating a motor vehicle while in an
+intoxicated condition or while under the influence of drugs.
+(iii)Leaving the scene of an accident.
+(iv)Making false statements in an application for a
+driver license.
+(v)Reckless driving.
+4.The insurer is placed in rehabilitation or
+receivership by the insurance supervisory official in its state of domicile or
+by a court of competent jurisdiction or the director has suspended the
+insurer's certificate of authority based on its financially hazardous
+condition.
+5.The named insured, any person who resides in the
+same household as the named insured and customarily operates a motor vehicle
+insured under the policy or any other person who regularly and frequently
+operates a motor vehicle insured under the policy uses a motor vehicle rated or
+insured under the policy as a private passenger motor vehicle regularly and
+frequently for commercial purposes.
+6.From and after February 29, 2016, the named
+insured, any person who resides in the same household as the named insured and
+who customarily operates a motor vehicle insured under the policy or any other
+person who regularly and frequently operates a motor vehicle insured under the
+policy uses a motor vehicle rated or insured under the policy to provide
+transportation network services unless, while the driver is logged in to the
+transportation network company's digital network or software application to be
+a driver or is providing transportation network services, the named insured
+either:
+(a)Has procured an endorsement to the private
+passenger policy that expressly provides such coverage.
+(b)Is covered by a motor vehicle liability
+insurance policy issued by another insurer expressly providing such coverage.
+7.The director determines that the continuation of
+the policy would place the insurer in violation of the laws of this state or
+would jeopardize the solvency of the insurer.
+8.If the
+insured and the insured's family members are eligible for insurance based
+solely on the insured's employment with the insurer, employment of the insured
+with that insurer is terminated and the insurer exercises its right to nonrenew
+the policy within twelve months following the insured's termination of
+employment.
+E.In addition
+to the authorization to fail to renew insurance provided by subsection D of
+this section, an insurer may exercise its right to fail to renew a motor
+vehicle insurance policy pursuant to this subsection. An insurer may nonrenew a motor vehicle
+insurance policy if the insurer complies with the requirements of this
+article. An insurer shall provide notice of the a
+nonrenewal to the named insured as prescribed by section 201632 at least fortyfive days before the
+nonrenewal.A named insured who disputes the
+nonrenewal of the named insured's policy may file an objection with the
+director pursuant to section 201633. An insurer shall not fail to renew more than onehalf
+of one percent of its policies annually pursuant to this
+subsection.An insurer may fail to renew a motor vehicle insurance
+policy if the named insured, any person who resides in the same household as
+the named insured and who customarily operates a motor vehicle insured under
+the policy or any other person who regularly and frequently operates a motor
+vehicle insured under the policy has had at any time during the thirtysix
+months immediately before the notice of nonrenewal three or more atfault
+accidents under any motor vehicle insurance policy issued by this insurer in
+which the property damage paid by the insurer for each accident that occurred
+prior to January 1, 2000 is more than one thousand eight hundred
+dollars.For accidents occurring on or after January 1, 2000, the
+department of insurance shall annually adjust and publish, to the nearest ten
+dollars, the threshold amount of property damages in this subsection by the
+percentage change in the all items component of the consumer price index for
+all urban consumers of the United States department of labor, bureau of labor
+statistics.The insurer shall not exercise its right to fail to
+renew the insurance under this subsection unless the same individual has had
+all the accidents that make the policy subject to nonrenewal under this
+subsection. The insurer shall not exercise its right to fail to renew a motor
+vehicle insurance policy pursuant to this subsection due to the accident record
+of the named insured if the named insured has been insured for standard
+automobile bodily injury coverage for at least ten consecutive years with the
+same insurer prior to the most recent accident that makes the policy subject to
+nonrenewal under this subsection.For the purposes of this
+subsection, "atfault" means the insured is at least fifty
+percent responsible for the accident.
+F.The company shall not cancel or fail to renew the insurance when a person
+other than the named insured has violated subsection D, paragraph 3 of this section,
+or fail to renew the insurance pursuant
+to subsection E of this section due to the driving record of an individual
+other than the named insured, if the named insured in writing
+agrees to exclude as insured the person by name when operating a motor vehicle
+and further agrees to exclude coverage to the named insured for any negligence
+that may be imputed by law to the named insured arising out of the maintenance,
+operation or use of a motor vehicle by the excluded person. The written
+agreement that excludes coverage under a policy for a named individual is
+effective for each renewal of the policy by the insurer and remains in effect
+until the insurer agrees in writing to provide coverage for the named
+individual who was previously excluded from coverage.
+G.This article does not apply to any policy that
+has been in effect less than sixty days at the time notice of cancellation is
+mailed or delivered by the insurer unless the policy is a renewal policy, or to
+policies:
+1.Insuring any motor vehicle other than a private
+passenger motor vehicle as defined in section 20117.
+2.Insuring the motor vehicle hazard of garages,
+motor vehicle sales agencies, repair shops, service stations or public parking
+places.
+3.Providing insurance only on an excess basis.
+H.If a consumer purchases motor vehicle insurance
+coverage from an insurance producer licensed in this state, the insurance
+producer that owns the policy expiration shall remain the insurance producer of
+record for that insured.In the event the insurer terminates the
+insurance producer's contract, the insurance producer shall continue to provide
+customary services to the insured. The insurer shall provide the insurance
+producer with a minimum degree of authority necessary to provide customary
+services to the insured and shall provide the same level of compensation for
+these services that were in effect prior to the termination of the insurance
+producer contract.
+I.Subsection H of this section shall not apply if
+one or more of the following conditions exist:
+1.The insurance producer of record has had its
+license suspended or revoked by the department.
+2.The insurance producer of record is indebted to
+the insurer.
+3.The insured has supplied the insurer with a
+written request that its insurance producer of record be changed to another
+insurance producer of the insurer.
+4.The insurance producer of record has authorized
+transfer of this account to another licensed insurance producer of the insurer.
+5.The director has determined after a public hearing
+that continuation of this relationship is not in the best interest of the
+public.
+6.The insurance producer of record is under an
+exclusive contract or contract requiring the insurance producer to submit all
+eligible business to an insurer or group of insurers under a common management.
+J.Subsection H of this section shall not apply to
+any transaction in which the expiration of the policies is owned by the
+insurer.
+K.Notwithstanding any law to the contrary, if an insurer chooses to renew a policy, the
+issuance at renewal of revised policy provisions to modify an existing policy
+by adding coverages or policy provisions, modifying coverages or policy
+provisions, or
+eliminating coverages or policy provisions is not a nonrenewal or cancellation
+of the policy if the modification of a basic coverage does not eliminate the
+essential benefit of that basic coverage. If the modification of the basic
+coverage eliminates the essential benefit of the basic coverage, the director
+shall order the insurer to remove the modification from the policy. This
+subsection does not allow the insurer, without the written consent of the
+insured, to eliminate the basic coverages of the policy or to reduce the
+monetary limits of any of the basic coverages of the policy that were selected
+and agreed on.If an insurer
+chooses to renew a policy, this subsection does not limit a
+policyholder from continuing to renew uninsured or underinsured motorist
+coverage pursuant to section 20259.01.For the purposes of
+this subsection, "basic coverage" means any of the following:
+1.Bodily injury coverage.
+2.Property damage coverage.
+3.Uninsured motorist coverage.
+4.Underinsured motorist coverage.
+5.Medical payments coverage.
+6.Comprehensive coverage.
+7.Collision coverage.
+L.For the purposes of this section, fail to renew
+or nonrenewal does not include the issuance and delivery of a new policy within
+the same insurer or an insurer under the same ownership or management as the
+original insurer as provided in this subsection. An insurer may transfer up to one percent any of its policies to an affiliated insurer. within one calendar year if under a policy to be transferred
+one or more of the insureds that are insured under the policy have individually
+within the past thirtysix months had two or more atfault
+accidents under any motor vehicle insurance policy issued by this insurer in
+which the property damage paid by the insurer for each accident exceeded one
+thousand five hundred dollars or individually have had three or more moving
+violations. Moving violations for which an insured completes an approved
+traffic school program shall not be considered as a moving violation under this
+section. A company shall not transfer a policy if a named insured agrees in
+writing to exclude as an insured a person or persons who each individually meet
+the criteria for transfer pursuant to this subsection and further agrees to
+exclude coverage for any negligence that may be imputed by law to the named
+insured arising out of the maintenance, operation or use of a motor vehicle by
+such excluded person or persons.An insurer shall transfer only
+those individuals responsible for the atfault accidents or moving
+violations, and the excluded or transferred insured's driving record shall not
+be used in determining rates, surcharges or premiums for the nonexcluded or
+nontransferred insured. The one percent limit set forth in this subsection
+shall not apply to transfers of policies from the original insurer to another
+insurer under the same ownership or management as the original insurer if the
+rates charged by the other insurer are the same as or lower than the rates
+charged by the original insurer. No insurer shall transfer
+policyholders because of their location of residence, age, race, color, religion,
+sex, national origin or ancestry.Transfers by an insurer pursuant
+to this subsection shall not be construed to permit a new unrestricted sixty day sixty-day period for cancellation or
+nonrenewal.
+M.Except as provided in this subsection, an insurer
+shall not refuse to renew a policy until after August 31, 1998, based on an
+insured's failure to maintain membership in a bona fide association, until both
+the insurer and bona fide association have complied with this subsection and
+shall not refuse to renew any coverage continuously in effect before September
+1, 1998, subject to all the following:
+1.In addition to any other reason provided in this
+section, an insurer may refuse to renew an insurance policy issued pursuant to
+this article if all of the following conditions apply:
+(a)The insurer clearly discloses to the applicant
+and the insured in the application for insurance and insurance policy that both
+the payment of dues and current membership in the bona fide association are
+prerequisites to obtaining or renewing the insurance.
+(b)Any money paid to the bona fide association as a
+membership fee:
+(i)Is not used by the insurer directly or
+indirectly to defray any costs or expenses in connection with the sale or
+purchase of the insurance.
+(ii)Is set independently of any factor used by the
+insurer to make any judgment or determination about the eligibility of any
+individual, including the member, an employee of a member or a dependent of a
+member, to purchase or renew the insurance.
+(c)The bona fide association has filed a
+certification with the director verifying the eligibility of the insurer to
+refuse to renew an insurance policy based on membership in the bona fide
+association.
+2.To qualify as a bona fide association pursuant to
+this subsection, the association shall meet all of the requirements of this
+paragraph.The association shall file a statement with the director
+at least thirty days before the commencement of the offer or sale of insurance
+as provided by this subsection verifying that the association meets the
+requirements of this paragraph.The association shall update the
+filing required by this paragraph at least thirty days before the effective
+date of any material change in the information contained in the statement, and
+shall file a separate notice with the director if the insurance described in
+the statement is no longer available through the association.The
+statement shall include the following information:
+(a)That the association has been in active
+existence for at least five consecutive years immediately before the filing of
+the statement.
+(b)That the association has been formed and
+maintained in good faith for purposes other than obtaining or providing
+insurance and does not condition membership in the association on the purchase
+of insurance.
+(c)That the association has articles of
+incorporation and bylaws or other similar governing documents.
+(d)That the association does not condition
+membership in the association or set membership fees on the eligibility of any
+individual, including the member, an employee of the member or a dependent of
+the member, to purchase or renew the insurance, or on any factor that the
+insurer could not lawfully consider when setting rates.
+(e)That the association has a relationship with a
+specific insurer or insurers and identifies the insurer or insurers.
+3.Membership fees collected by the bona fide
+association are not premiums of the insurer that issued the coverage unless the
+bona fide association:
+(a)Uses any portion of the membership fees directly
+or indirectly to defray any costs or expenses in connection with the sale or
+purchase of the insurance.
+(b)Sets or adjusts membership fees for any member
+of the bona fide association based on any factor used by the insurer that
+issues the insurance to make any judgment or determination about the
+eligibility of any individual, including the member, an employee of the member
+or a dependent of the member, to purchase or renew the insurance.
+4.If the membership fees constitute premiums pursuant
+to paragraph 3 of this subsection, an insurer shall not refuse to renew a
+policy as otherwise permitted by this subsection.
+N.An insurer may issue an endorsement to a private
+passenger policy that expressly provides coverage for the provision of transportation
+network services, but that endorsement may not be treated as basic coverage as
+defined in subsection K of this section and any termination of the endorsement
+may not be treated as a modification of basic coverage.An insurer
+may terminate the endorsement allowed by this subsection by giving advance
+notice of the termination.Any notice by the insurer to the
+policyholder to terminate the endorsement allowed by this subsection shall be
+mailed to the named insured by United States mail at least fortyfive
+days before the effective date of the termination.The notice shall
+include an explanation to the named insured that the further provision of
+transportation network services following the effective date of the termination
+may might subject the insured to cancellation or
+nonrenewal of the insured's private passenger motor vehicle policy.
+O.This section and section 284009 do not
+create an obligation of an insurer to offer, provide or issue a policy or an
+endorsement that includes coverage for any liability incurred while a
+transportation network company driver is logged in to the transportation
+network company's digital network or software application to be a driver or is
+providing transportation network services.
+P.For the purposes of this section,
+"transportation network company", "transportation network
+company driver" and "transportation network services" have the
+same meanings prescribed in section 289551. END_STATUTE
+Sec.3.Section 20-1632, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE20-1632.Cancellation, nonrenewal and reduction of limits for
+reasons other than nonpayment of premium; notices to insured; refund of
+unearned premium
+A.A notice by the insurer to the policyholder of nonrenewal, cancellation or
+reduction in the limits of liability or coverage for reasons other than
+nonpayment of premium shall be mailed to the named insured with the insurer
+obtaining proof of mail mailing by United States
+certified mail, United States post office certificate of mailing or first class
+mail using intelligent mail barcode or another similar tracking method used or
+approved by the United States postal service at least ten days before the effective
+date of the nonrenewal,
+cancellation or reduction in limits of liability or coverage. ,
+except that notice of nonrenewal under section 201631, subsection E
+Notice of nonrenewal for reasons other
+than nonpayment of premium shall be mailed at least fortyfive
+days before the effective date of the nonrenewal.The A
+notice under this section shall
+include or be accompanied by all of the following:
+1.A statement in writing of the specific facts that
+constitute the reasons, consistent with section
+201631 this
+article, for such action by the insurer and a notice indicating
+the named insured's right to complain to the director of the insurer's action
+within ten days after receipt of the notice by the insured.
+2.Notice of the insured's possible eligibility for
+insurance through the automobile assigned risk plan, and the notice shall state
+that all information included in the notice is given pursuant to this article.
+3.Except as provided in paragraph 4 of this
+subsection, a refund of unearned premium.For the purposes of this
+paragraph, the insurer shall either mail the notice and refund of unearned
+premium together at least ten days before the effective date or mail the notice
+before the refund of unearned premium if both the notice and the refund of
+unearned premium are mailed separately to the insured at least ten days before
+the effective date. As an alternative
+to mailing, an insurer may choose to refund the unearned premium by any
+electronic means previously established with the customer to make and receive
+premium payments for the policy.
+4.In the case of a notice of cancellation or
+nonrenewal of a policyholder whose premium payment is collected and remitted on
+the insurer's behalf by the insurer's affiliate, the insurer shall refund any
+unearned premium to the policyholder within ten days after the policy
+cancellation or nonrenewal.
+For the purposes of this paragraph, "affiliate" has the same meaning
+prescribed in section 20481.
+B.Failure of the insurer to comply with subsection
+A of this section shall invalidate any cancellation, nonrenewal or reduction in
+limits of liability or coverage.
+C.If a premium has been financed, a refund of
+unearned premium shall be returned as provided in section 61416.END_STATUTE
+Sec.4.Section 20-1633, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE20-1633.Objections; investigation; determination
+A.Any individual who believes cancellation or nonrenewal of the individual's
+policy is arbitrary, capricious or otherwise in violation of this article, who believes nonrenewal is in violation of
+this article or who believes notice of nonrenewal or
+cancellation, or the reasons for nonrenewal or cancellation, were not given as
+provided by this article may,
+within ten days after receipt of notice, may file in writing an objection to the action with the
+director.
+B.Any insured
+who believes an insurer has made an incorrect determination of fault in an
+accident contributing to nonrenewal of a policy under section 201631,
+subsection E, within ten days after receipt of notice of the nonrenewal under
+that section, may file in writing an objection to the nonrenewal with the
+director.
+C. B.Upon On
+receipt of a written objection pursuant to this article, the
+director shall notify the insurer of receipt of the objection and of the right
+of the insurer to file a written response within ten days of receipt of the
+notification. The director may also order an examination of the objection or
+complaint, the submission of additional information by the insured or the
+insurer about the action by the insurer or the objections of the insured, or
+any other procedure as the director deems appropriate or necessary. The
+insurer shall pay the cost of the examination pursuant to section 20159.
+Within fifteen days of receipt of the written objection by an insured the
+director shall approve or disapprove the insurer's action and shall notify the
+insured and insurer in writing of the director's final decision. The director
+shall order an insurer that has failed to renew a policy in violation of section 201631 this article to reinstate the
+policy retroactive to the effective date of the nonrenewal. Except as provided
+in section 411092.08, subsection H, either party may institute
+proceedings for judicial review of the director's final decision pursuant to
+title 12, chapter 7, article 6. Notwithstanding any other law, if the director
+decides in favor of the insured, the director may order that the decision not
+be stayed pending judicial review.END_STATUTE
+

@@ -1,0 +1,292 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: filing fees; business entities
+
+
+
+
+
+
+
+State of Arizona
+Senate
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+SB 1478
+
+
+
+
+
+
+
+
+
+Introduced by
+Senator
+  Sherwood
+
+
+
+
+
+AN ACT
+
+amending section
+10-122, Arizona Revised Statutes; amending title 10, chapter 1, article 3,
+Arizona Revised Statutes, by adding section 10-131; amending section 29-851,
+Arizona Revised Statutes; appropriating monies; relating to the corporation
+commission.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 10-122, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE10-122.Filing, service and copying fees; expedited report filing
+and access; same day and next day services; posted wait times; advance monies;
+definition
+A.Except as
+provided in subsection M of this section, the commission shall
+collect and deposit, pursuant to sections 35146 and 35147, the
+following nonrefundable fees when the documents described in this subsection
+are delivered to the commission:
+Document Fee
+1.Articles of incorporation $50
+2.Application for use of indistinguishable name 
+10
+3.Application for reserved name 
+10
+4.Notice of transfer of reserved name 
+10
+5.Application for registered name 
+10
+6.Application for renewal of registered name 
+10
+7.Agent's statement of resignation 
+10
+8.Amendment of articles of incorporation 
+25
+9.Restatement of articles of incorporation with
+amendment of articles  25
+10.Statement of merger, interest exchange,
+conversion, domestication or division if the
+entity responsible for filing the statement
+is a corporation 100
+11.Articles of dissolution 
+25
+12.Articles of revocation of dissolution 
+25
+13.Application for reinstatement following
+administrative dissolution, in addition
+to other fees and penalties due 100
+14.Application for authority 150
+15.Application for withdrawal 
+25
+16.Annual report 
+45
+17.Articles of correction 
+25
+18.Application for certificate of good standing 
+10
+19.Any other document required or permitted
+to be filed by chapters 1 through 17
+of this title  25
+B.The commission shall collect a nonrefundable fee
+of twentyfive dollars each time process is served on it under chapters 1
+through 17 of this title. The party to a proceeding causing service of process
+is entitled to recover this fee as costs if the party prevails in the
+proceeding.
+C.The commission shall charge and collect a
+reasonable fee for copying documents on request, provided the fee does not
+exceed the cost of providing the service as determined by the commission. The
+commission shall also charge a reasonable fee for certifying the copy of a
+filed document, provided the fee does not exceed the cost of providing the
+service as determined by the commission.
+D.A penalty of one hundred dollars payable in
+addition to other fees accrues and is payable if a foreign corporation fails to
+file an amendment, restated articles that include an amendment, or articles of merger within sixty days
+of the time of filing in the jurisdiction in which the corporation is
+domiciled. The penalty collected pursuant to this subsection shall be
+deposited, pursuant to sections 35146 and 35147, in the state
+general fund.
+E.Onethird of the fees for the annual report
+of domestic and foreign corporations paid pursuant to subsection A, paragraph
+16 of this section shall be deposited in the Arizona arts trust fund
+established by section 41983.01 and two-thirds of these fees shall be deposited,
+pursuant to sections 35146 and 35147, in the public access fund
+established by section 10122.01.
+F.The commission shall provide for and establish an
+expedited service for the filing of all documents and services provided
+pursuant to this title as follows:
+1.The expedited filing shall be a priority service
+to be completed as soon as possible after the documents are delivered to the
+commission.
+2.In addition to any other fees required by this
+section or any other law, the commission shall charge a nonrefundable fee for
+expedited services, including those requested by fax.The fee shall
+be determined by a supermajority vote of the commissioners.
+3.The commission may provide for and establish same
+day and next day services for the filing of any documents and services provided
+pursuant to this title as follows:
+(a)The commission shall suspend same day or next
+day service if the commission determines that it does not have the necessary
+resources to perform the service within the established time period.
+(b)In addition to any other fees required by this
+section or any other law, the commissioners may charge a nonrefundable fee for
+the same day or next day service or both. The fee shall be determined by a
+supermajority vote of the commissioners.
+4.The commission shall publicly post the current
+wait times for processing regular, expedited and same day and next day
+services.
+G.The commission may charge persons who access the
+commission's data processing system that is maintained pursuant to section 10122.01
+from remote locations and persons requesting special computer generated
+printouts, reports and tapes a reasonable fee that does not exceed the cost of
+the time, equipment and personnel necessary to provide this service or product
+as determined by the commission.
+H.Except as provided in section 10122.01,
+subsection B, paragraph 3, in addition to any fee charged pursuant to this
+section, the commission may charge and collect the following nonrefundable fees
+to help defray the cost of the improved data processing system that is
+maintained pursuant to section 10122.01:
+1.Filing articles of incorporation of a domestic
+corporation, ten dollars.
+2.Filing an application of a foreign corporation
+for authority to transact business in this state, twentyfive dollars.
+I.All monies received pursuant to subsections F, G
+and H of this section shall be deposited, pursuant to sections 35146 and
+35147, in the public access fund established by section 10122.01.
+J.Fees charged pursuant to this section are exempt
+from section 39121.03, subsection A, paragraph 3.
+K.Any person may advance monies to the commission
+to pay fees required pursuant to this section for future filings and
+services.All monies received pursuant to this subsection shall be
+deposited, pursuant to sections 35146 and 35147, in the money on
+deposit account in the public access fund established by section 10122.01.
+L.In addition to any other fees prescribed by law,
+the commission may establish a fee for the filing of an annual benefit report
+delivered to the commission pursuant to section 102442.The
+fee shall be determined by a majority vote of the commissioners.
+M.The fee
+prescribed by subsection A, paragraph 1 of this section applies only to foreign
+corporations.
+M.N.For
+the purposes of this section, "supermajority" means an affirmative
+vote of at least four commissioners. END_STATUTE
+Sec.2.Title 10, chapter 1, article 3, Arizona
+Revised Statutes, is amended by adding section 10-131, to read:
+START_STATUTE10-131.Duties; annual reporting; filing fees
+The commission shall
+annually submit a report to the governor, the president of the senate and the
+speaker of the house of representatives that contains both of the following:
+1.An
+analysis of the articles of incorporation fee prescribed by section 10-122 and
+the initial articles of organization fee prescribed by section 29-851 and
+whether each fee structure is contributing toward business formation in this
+state.
+2.The
+fiscal impact to the commission of the fees described in paragraph 1 of this
+section. END_STATUTE
+Sec.3.Section 29-851, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE29-851.Filing, service and copying fees; expedited filing and
+services; same day and next day services; posted wait times; advance monies;
+definition
+A.The commission shall collect and deposit,
+pursuant to sections 35146 and 35147, the following nonrefundable
+fees when the following documents are delivered to the commission:
+1.The initial articles of organization for a foreign limited liability company,
+fifty dollars.
+2.An application for registration of a foreign
+limited liability company, one hundred fifty dollars.
+3.An amendment to the articles of organization,
+twentyfive dollars.
+4.Articles of termination and a certificate of
+termination, thirtyfive dollars.
+5.A certificate for any purpose not otherwise
+provided for, ten dollars.
+6.Statement of merger, interest exchange,
+conversion, domestication or division if the entity responsible for filing the
+statement is a limited liability company, fifty dollars.
+7.Written information on any limited liability
+company, ten dollars.
+8.A copy of any document or instrument, five
+dollars plus fifty cents per page.
+9.An application for reservation of a name or for
+filing a notice of the transfer or cancellation of any name reservation, ten
+dollars.
+10.Five dollars for a statement of change of
+address of one or more of the following:
+(a)Known place of business.
+(b)Statutory agent.
+(c)Manager.
+(d)Member.
+11.Any service of notice, demand or process on the
+commission as resident agent of a limited liability company, twentyfive
+dollars.This amount may be recovered as taxable costs by the party
+to the suit, action or proceeding causing the service to be made if the party
+prevails in the suit, action or proceeding.
+12.Articles of correction, the fee prescribed in
+section 10122, subsection A, paragraph 17.
+13.Application for reinstatement following
+administrative dissolution, in addition to other fees and penalties due, the
+fee prescribed in section 10122, subsection A, paragraph 13.
+B.The commission shall provide for and establish an
+expedited service for the filing of all documents and services provided
+pursuant to this chapter as follows:
+1.The expedited filing shall be a priority service
+to be completed as soon as possible after the documents are delivered to the
+commission.
+2.In addition to any other fees required by this
+section or any other law, the commission shall charge a nonrefundable fee for
+expedited services, including those requested by fax.The fee shall
+be determined by a supermajority vote of the commissioners.
+C.The commission may provide for and establish same
+day and next day services for the filing of any documents and services provided
+pursuant to this chapter as follows:
+1.The commission shall suspend same day or next day
+service if the commission determines that it does not have the necessary
+resources to perform the service within the established time period.
+2.In addition to any other fees required by this
+section or any other law, the commissioners may charge a nonrefundable fee for
+the same day or next day service or both.The fee shall be
+determined by a supermajority vote of the commissioners.
+D.The commission shall publicly post the current
+wait times for processing regular, expedited and same day and next day
+services.
+E.All monies received pursuant to subsections B and
+C of this section shall be deposited, pursuant to sections 35146 and 35147,
+in the public access fund established by section 10122.01.
+F.Any person may advance monies to the commission
+to pay fees required pursuant to this section for future filings and services.
+All monies received pursuant to this subsection shall be deposited, pursuant to
+sections 35146 and 35147, in the money on deposit account in the
+public access fund established by section 10122.01.
+G.For the purposes of this section,
+"supermajority" means an affirmative vote of at least four
+commissioners. END_STATUTE
+Sec.4.Appropriation; Arizona corporation commission
+The sum of $3,000,000 is appropriated from the state general
+fund in fiscal year 2016-2017 to the Arizona corporation commission for the
+purpose of processing business entity filings pursuant to titles 10 and 29,
+Arizona Revised Statutes.
+

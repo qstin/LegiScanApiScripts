@@ -1,0 +1,139 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: judgment liens; recorded information
+  statement
+
+
+
+
+
+
+
+State of Arizona
+House of Representatives
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+HB 2555
+
+
+
+
+
+
+
+
+
+Introduced by
+Representative
+  Weninger
+
+
+
+
+
+AN ACT
+
+amending sections
+33-961 and 33-967, Arizona Revised Statutes; relating to judgment liens on real
+property.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 33-961, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE33-961.Filing judgments for payment of money; certified copy of
+judgment; recording copy to perfect lien against real property; information
+statement
+A.A certified copy of the judgment of any court in
+this state may be filed and recorded in the office of the county recorder in
+each county where the judgment creditor desires the judgment to become a lien
+on the real property of the judgment debtor.On recording in compliance with both the requirements of
+this section and the requirements of section 33-967 regarding an information
+statement, the judgment becomes a lien on the real property of
+the judgment debtor, including any part of the real property of the judgment
+debtor as otherwise provided by law. For
+any failure to comply with this section and section 33-967, the judgment does
+not become a lien.The certified copy of the judgment
+shall set forth the:
+1.Title of the court and the action and number of
+the action.
+2.Date of entry of the judgment and the docket
+record for the judgment.
+3.Names of the judgment debtor and judgment
+creditor.
+4.Amount of the judgment.
+5.Attorney of record for the judgment creditor.
+B.The clerk shall furnish a certified copy of any
+judgment of that court on request and payment of the fee prescribed by law.
+C.A judgment or decree or any renewal that requires
+payment of money shall also be accompanied by an information statement as
+prescribed by section 33967. END_STATUTE
+Sec.2.Section 33-967, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE33-967.Money judgment; information statement; amendment to
+recorded judgment
+A.In addition to the requirements prescribed by
+section 33961, any judgment or decree or any renewal that requires the
+payment of money andthat is recorded on or after January 1, 1997, shall be attached to not become a lien on real property until a
+separate information statement of the
+judgment creditor that contains is attached to the JUDGMENT being recorded.The
+separate information statement shall contain at a minimum all of
+the following information:
+1.The correct name and last known address of each
+judgment debtor and the address at which each judgment debtor received the
+summons by personal service or by mail.
+2.The name and address of the judgment creditor.
+3.The amount of the judgment or decree as entered
+or as most recently renewed.
+4.If the judgment debtor is a natural person, the
+judgment debtor's social
+security number, date of birth and driver license number.
+5.Whether a stay of enforcement has been ordered by
+the court and the date the stay expires.
+B.Except as provided in this subsection, the
+separate statement shall contain the information prescribed by subsection A of
+this section if the information is known to the judgment creditor or available
+to the judgment creditor from its records, its attorney's records or the court
+records inthe action in which the judgment was entered.If any
+of the required information is not known, the judgment creditor shall so
+state.The judgment debtor's social security number shall be
+included in the separate statement only if it has been provided voluntarily to
+the judgment creditor by the judgment debtor.
+C.A judgment or decree or any renewal that requires
+the payment of money, that is recorded on or after January 1, 1997 and that is
+not accompanied by the separate statement as prescribed by subsection A of this
+section may be amended by recording
+does not become a lien on real property
+until the judgment creditor records a document entitled
+"amendment to recorded judgment" that contains a separate statement that is in
+compliance with subsection A of this section.The amendment to
+recorded judgment shall state the date of recording and the indexing or
+document number of the official records of the county recorder for the original
+recorded judgment or decree and any renewals.
+D.A judgment
+or decree or any renewal that requires the payment of money recorded on or
+after January 1, 1997, has as its priority the date of compliance with
+subsection A of this section.
+E.D.Recording an
+amendment to recorded judgment does not affect the computation of time
+prescribed by section 33964. END_STATUTE
+

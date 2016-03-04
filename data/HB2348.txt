@@ -1,0 +1,627 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: motor vehicle dealers; compensation
+
+
+
+
+
+
+
+State of Arizona
+House of Representatives
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+HB 2348
+
+
+
+
+
+
+
+
+
+Introduced by
+Representative
+  Gray
+
+
+
+
+
+AN ACT
+
+amending sections
+28-4451 and 284460, Arizona Revised Statutes; relating to motor vehicle
+dealers.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 28-4451, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-4451.Product liability; warranty obligations; audits; vehicle
+exports; definition
+A.Each manufacturer shall file with the director a
+copy of the delivery and preparation obligations required to be performed by a new motor vehicle dealer before
+delivery of new motor vehicles to buyers.These delivery and
+preparation obligations constitute the new
+motor vehicle dealer's only responsibility for the product
+liability as between the new motor
+vehicle dealers and the manufacturer. the new motor vehicle dealer shall furnish the buyer of a
+new motor vehicle with a signed copy of the manufacturer's or distributor's
+delivery and preparation requirements indicating that all of the requirements
+have in fact been performed.
+B.Any mechanical, body or parts defects arising
+from any express or implied warranties of the manufacturer constitute the
+manufacturer's product or warranty liability.
+C.The manufacturer or distributor shall reasonably compensate an authorized new motor vehicle dealer who
+performs work to rectify the manufacturer's or distributor's product defect or warranty defects
+obligations, including any recall obligations or delivery and
+preparation obligations.
+D.The dealer
+shall furnish the purchaser of a new vehicle with a signed copy of the
+manufacturer's delivery and preparation requirements indicating that all of the
+requirements have in fact been performed.
+E.The
+manufacturer shall pay the cost of the manufacturer's delivery, warranty and
+preparation requirements.
+D.The
+compensation that the manufacturer or distributor pays to a new motor vehicle
+dealer for diagnostic work, repair service and labor shall be fair and
+reasonable as determined pursuant to subsection E of this section. Time
+allowances for the diagnosis and performance of warranty work and service shall
+be reasonable and adequate for the work or services to be performed. The
+compensation that the manufacturer or distributor pays to the new motor vehicle
+dealer for parts used in warranty or recall related service shall be fair and
+reasonable as determined pursuant to subsection F of this section.
+E.The new
+motor vehicle dealer shall establish the retail rate that it customarily
+charges for labor by submitting to the manufacturer or distributor all
+nonwarranty customer paid service repair orders covering repairs made during
+the month before the submission and dividing the amount of the dealer's total
+labor sales by the number of total labor hours that generated those sales. The
+resulting average labor rate is presumed to be fair and reasonable except that
+a manufacturer or distributor, within thirty days after submission, may rebut
+the presumption by reasonably substantiating that the rate is unfair and
+unreasonable compared to the practices of all other franchised new motor
+vehicle dealers in the vicinity that offer the same line-make vehicles. The
+average labor rate shall go into effect thirty days following the declaration,
+subject to the right of the manufacturer or distributor to rebut the declared
+rate. If the declared rate is rebutted, the manufacturer or distributor shall
+propose an adjustment of the average labor rate based on the rebuttal within
+thirty days after submission. If the new motor vehicle dealer does not agree
+with the proposed average labor rate, the dealer may file a protest with the
+director within thirty days after receipt of the manufacturer's or
+distributor's proposal. If a protest is timely filed, the director shall
+inform the manufacturer or distributor that a timely protest has been filed and
+that a hearing will be held on the protest. In a hearing held pursuant to this
+subsection, the manufacturer or distributor has the burden of proving that the
+rate declared by the dealer was unfair and unreasonable and that the proposed
+adjustment of the average labor rate is fair and reasonable.
+F.The new
+motor vehicle dealer shall establish the retail rate that it customarily
+charges for warranty parts by submitting to the manufacturer or distributor one
+hundred sequential nonwarranty customer paid service repair orders that contain
+warranty-like parts or sixty consecutive days of nonwarranty customer-paid
+service repair orders that contain warranty-like parts, whichever is less,
+covering repairs made within one hundred eighty days before the submission and
+setting forth the average percentage markup. The average of the markup rates
+is presumed to be fair and reasonable, except that a manufacturer or
+distributor, within thirty days after submission, may rebut that presumption by
+reasonably substantiating that the rate is unfair and unreasonable compared to
+the practices of all other franchised motor vehicle dealers in the vicinity
+offering the same line-make vehicles. The retail rate shall go into effect
+thirty days after the declaration, subject to the right of the manufacturer or
+distributor to rebut the declared rate. If the declared rate is rebutted, the
+manufacturer or distributor shall propose an adjustment of the average
+percentage markup based on that rebuttal within thirty days after submission.
+If the dealer does not agree with the proposed average percentage markup, the
+dealer may file a protest with the director within thirty days after receipt of
+the manufacturer's or distributor's proposal. If a protest is timely filed,
+the director shall inform the manufacturer or distributor that a timely protest
+has been filed and that a hearing will be held on the protest. In a hearing
+held pursuant to this subsection, the manufacturer or distributor has the
+burden of proving that the rate declared by the dealer was unfair and
+unreasonable and that the proposed adjustment of the average percentage markup
+is fair and reasonable.
+G.In
+calculating the retail rate that a dealer customarily charges for parts and
+labor, the following work may not be included in the calculation:
+1.Repairs
+for manufacturer or distributor special events, specials or promotional
+discounts for retail customer repairs.
+2.Parts
+sold at wholesale.
+3.Engine
+assemblies and transmission assemblies.
+4.Routine
+maintenance not covered under any retail customer warranty, such as fluids,
+filters and belts not provided in the course of repairs.
+5.Nuts,
+bolts, fasteners and similar items that do not have individual part numbers.
+6.Tires.
+7.Vehicle
+reconditioning.
+F.H.The
+manufacturer, factory branch, distributor or distributor branch may reasonably
+and periodically audit a new motor vehicle dealer to determine the validity of
+paid claims for dealer compensation or any chargebacks for warranty
+parts or service compensation.Audits shall only be for the six
+month period immediately following the date of the payment.This
+limitation does not apply if the manufacturer reasonably suspects fraud or distributor has reasonable cause to believe that a claim
+that is submitted by a new motor vehicle dealer is intentionally false or
+fraudulent. As a result
+of an audit that is authorized by this subsection, the manufacturer or
+distributor has the right to charge back to the new motor vehicle dealer the amount
+of any previously paid claim after the new motor vehicle dealer has had notice
+and an opportunity to participate in all franchisor internal appellate
+processes and all legal processes. 
+G.I.The
+manufacturer, factory branch, distributor or distributor branch shall reserve
+the right to reasonable periodic audits to determine the validity of paid
+claims for dealer compensation or any chargebacks for consumer or dealer
+incentives.Audits shall only be for a one year period immediately
+following the date of the payment.This limitation does not apply if
+the manufacturer reasonably suspects
+fraud.MANUFACTURER
+OR DISTRIBUTOR HAS REASONABLE CAUSE TO BELIEVE THAT A CLAIM SUBMITTED BY A NEW
+MOTOR VEHICLE DEALER IS INTENTIONALLY FALSE OR FRAUDULENT. AS A RESULT OF AN
+AUDIT AUTHORIZED BY THIS SUBSECTION, THE MANUFACTURER OR DISTRIBUTOR HAS THE
+RIGHT TO CHARGE BACK TO THE NEW MOTOR VEHICLE DEALER THE AMOUNT OF ANY
+PREVIOUSLY PAID CLAIM AFTER THE NEW MOTOR VEHICLE DEALER HAS HAD NOTICE AND AN
+OPPORTUNITY TO PARTICIPATE IN ALL FRANCHISOR INTERNAL APPELLATE PROCESSES and
+ALL LEGAL PROCESSES.
+J. ALL
+CLAIMS BY DEALERS UNDER THIS SECTION FOR LABOR AND PARTS AND ALL CLAIMS FOR
+COMPENSATION RELATIVE TO ANY SALES INCENTIVE PROGRAMS SHALL BE PAID within
+THIRTY DAYS AFTER APPROVAL BY THE MANUFACTURER OR DISTRIBUTOR SUBJECT TO the
+MANUFACTURER'S OR DISTRIBUTOR'S RIGHT TO AUDIT the CLAIMS PROVIDED IN
+SUBSECTION H OR I of this section. ALL CLAIMS SHALL BE EITHER APPROVED OR
+DISAPPROVED within THIRTY DAYS AFTER RECEIPT ON FORMS AND IN THE MANNER
+SPECIFIED BY THE MANUFACTURER OR DISTRIBUTOR.Any claim not
+disapproved in writing or by means of electronic transmission within thirty
+days after receipt are deemed approved and payment must be made within thirty days
+after approval.
+K.IF A
+MANUFACTURER OR DISTRIBUTOR FURNISHES A PART OR COMPONENT TO A new motor
+vehicle DEALER, AT NO COST, TO USE IN PERFORMING REPAIRS UNDER A RECALL,
+CAMPAIGN SERVICE ACTION OR WARRANTY REPAIR, THE MANUFACTuRER OR DISTRIBUTOR
+SHALL COMPENSATE THE DEALER FOR THE PART OR COMPONENT IN THE SAME MANNER AS
+WARRANTY PARTS COMPENSATION UNDER THIS SECTION BY COMPENSATING THE DEALER THE
+AVERAGE MARKUP ON THE COST FOR THE PART OR COMPONENT AS LISTED IN THE
+MANUFACTURERS OR DISTRIBUTOR'S PRICE SCHEDULE LESS THE COST FOR THE PART OR
+COMPONENT.
+L.A
+MANUFACTURER OR DISTRIBUTOR MAY NOT REQUIRE A new motor vehicle DEALER TO
+ESTABLISH THE RETAIL RATE CUSTOMARILY CHARGED BY THE DEALER FOR PARTS AND LABOR
+BY AN UNDULY BURDENSOME OR TIME CONSUMING METHOD OR BY REQUIRING INFORMATION
+THAT IS UNDULY BURDENSOME OR TIME CONSUMING TO PROVIDE calculations, INCLUDING
+PART-BY-PART OR TRANSACTION-BY-TRANSACTION CALCULATIONS. A DEALER MAY NOT
+DECLARE AN AVERAGE PERCENTAGE MARKUP OR AN AVERAGE LABOR RATE MORE THAN TWICE
+IN ONE CALENDAR YEAR.
+M.A
+MANUFACTURER OR DISTRIBUTOR MAY NOT DENY A CLAIM BY A NEW MOTOR VEHICLE DEALER
+FOR REIMBURSEMENT OF ANY WARRANTY PARTS OR SERVICE COMPENSATION OR ANY CONSUMER
+OR DEALER INCENTIVE COMPENSATION BASED SOLELY ON A NEW MOTOR VEHICLE DEALER'S
+INCIDENTAL FAILURE TO COMPLY WITH A SPECIFIC CLAIM PROCESSING REQUIREMENT, SUCH
+AS A CLERICAL ERROR OR MISSING SIGNATURES, THAT DOES NOT PUT INTO QUESTION THE
+LEGITIMACY OF THE CLAIM. IF A CLAIM IS REJECTED FOR A CLERICAL ERROR OR
+MISSING SIGNATURES, THE NEW MOTOR VEHICLE DEALER MAY RESUBMIT A CORRECTED CLAIM
+IN A TIMELY MANNER. A NEW MOTOR VEHICLE DEALER may CORRECT OR COMPLETE AND
+RESUBMIT A PREVIOUSLY SUBMITTED WARRANTY OR INCENTIVE CLAIM AT ANY TIME,
+INCLUDING after THE MANUFACTURER'S OR DISTRIBUTOR'S COMMENCEMENT OF AN AUDIT
+AUTHORIZED BY SUBSECTION H OR I of this section OR THE MANUFACTURER'S OR
+DISTRIBUTOR'S REJECTION OF THE CLAIM.
+H.N.If a new motor vehicle dealer sells
+or leases a vehicle to a customer who exports the vehicle to a foreign country,
+unless the manufacturer, distributor or
+importer proves that the new
+motor vehicle dealer knew or reasonably should have known that
+the vehicle would be exported, a manufacturer shall not do any of the
+following:
+1.Refuse to sell, allocate or deliver new motor
+vehicles to the new motor vehicle dealer.
+2.Charge back to or withhold payments or other
+things of value from the new motor
+vehicle dealer that the new
+motor vehicle dealer otherwise would be eligible for under an
+incentive program or contest.
+3.Prevent a new
+motor vehicle dealer from participating in any sales promotion or
+program.
+4.Take an adverse action against a new motor vehicle dealer, including reducing
+vehicle allocations or terminating or threatening to terminate a dealer.
+I.O.There
+is a rebuttable presumption that the new
+motor vehicle dealer described in subsection H
+N of this section did
+not know or should not have reasonably known that the vehicle described in
+subsection H N of this section would be
+exported. The presumption may be rebutted by a preponderance of the evidence
+that the new motor vehicle dealer
+knew or should have reasonably known that the vehicle was to be exported.
+P.IF A
+TIMELY PROTEST IS FILED UNDER SUBSECTION E OR F of this section, THE DIRECTOR
+SHALL:
+1.ENTER AN
+ORDER FIXING THE TIME AND PLACE OF A HEARING ON THE PROTEST. THE HEARING SHALL
+BE HELD WITHIN SEVENTYFIVE DAYS AFTER THE DATE OF THE ORDER.
+2.SEND BY
+CERTIFIED MAIL A COPY OF THE ORDER TO THE DEALER AND THE MANUFACTURER.
+3.APPOINT A
+MEMBER OF THE ARIZONA STATE BAR WHO SHALL BE DESIGNATED AS AN ADMINISTRATIVE
+LAW JUDGE TO CONDUCT THE HEARING AND WHO SHALL BE COMPENSATED UNDER A
+CONTRACTUAL RELATIONSHIP.
+Q.PREHEARING
+DISCOVERY SHALL BE CONDUCTED PURSUANT TO THE ARIZONA RULES OF CIVIL PROCEDURE.
+R.EVIDENCE
+THAT WOULD BE ADMISSIBLE UNDER THE ISSUES IN SUCH AN ACTION IN A STATE Or
+FEDERAL COURT IS ADMISSIBLE IN A HEARING HELD BY THE ADMINISTRATIVE LAW JUDGE.
+THE ADMINISTRATIVE LAW JUDGE SHALL REASONABLY APPORTION ALL COSTS BETWEEN THE
+PARTIES, INCLUDING COMPENSATION FOR THE ADMINISTRATIVE LAW JUDGES SERVICES.
+THE ADMINISTRATIVE LAW JUDGE MAY:
+1.ISSUE
+SUBPOENAS.
+2.ADMINISTER
+OATHS.
+3.COMPEL
+THE ATTENDANCE OF WITNESSES AND THE PRODUCTION OF BOOKS, PAPERS, DOCUMENTS AND
+ALL OTHER EVIDENCE.
+4.APPLY TO
+THE SUPERIOR COURT IN THE COUNTY IN WHICH THE HEARING IS HELD FOR A COURT ORDER
+ENFORCING THIS section.
+S.A
+TRANSCRIPT OF THE TESTIMONY OF ALL WITNESSES TAKEN AT THE HEARING SHALL BE MADE
+AND PRESERVED. WITHIN FORTY-FIVE DAYS AFTER THE HEARING THE ADMINISTRATIVE LAW
+JUDGE SHALL MAKE WRITTEN FINDINGS OF FACT AND CONCLUSIONS of law AND ENTER A
+FINAL ORDER.
+T.A PARTY
+TO THE HEARING BEFORE THE ADMINISTRATIVE LAW JUDGE MAY APPEAL PURSUANT TO TITLE
+12, CHAPTER 7, ARTICLE 6. AN APPEAL OF A DECISION OF AN ADMINISTRATIVE LAW
+JUDGE HAS PREFERENCE OVER OTHER CIVIL MATTERS AND SHALL BE HEARD AT THE
+EARLIEST PRACTICABLE DATE.
+U.AS A
+CONDITION TO THE APPEAL, THE APPEALING PARTY SHALL FILE A CASH BOND,
+SUPERSEDEAS BOND OR ITS EQUIVALENT WITH THE DIRECTOR. THE BOND SHALL BE
+SUFFICIENT IN AMOUNT TO COVER THE DAMAGES INCURRED BY THE PREVAILING PARTY, BUT
+THE AMOUNT OF THE BOND may NOT EXCEED THE LESSER OF FIFTY THOUSAND DOLLARS OR
+TEN PERCENT OF THE APPEALING PARTY'S NET WORTH. THE appealing PARTY MAY FILE
+ALTERNATIVES TO CASH SUCH AS CERTIFICATES OF DEPOSIT PURCHASED FROM A FINANCIAL
+INSTITUTION LICENSED TO DO BUSINESS IN THIS STATE pursuant to title 6 OR BONDS
+OF THE UNITED STATES GOVERNMENT.
+v.For the
+purposes of this section, "Reasonable cause" means a bona fide belief
+based on evidence that the issues of fact are such that a person of ordinary
+caution, prudence and judgment could believe that a claim was intentionally
+false or fraudulent.END_STATUTE
+Sec.2.Section 28-4460, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-4460.Factories; competition or unfair
+discrimination prohibited; definitions
+A.A factory shall not directly or indirectly
+compete with or unfairly discriminate among its dealers.
+B.Competing with or unfair discrimination includes
+any one of the following:
+1.The factory having an ownership interest or
+franchise interest in, or operating or acting in the capacity of, a new motor
+vehicle dealer or a used motor vehicle dealer, except that:
+(a)A factory is not prohibited from owning or
+operating as a new motor vehicle dealer for a temporary period if either of the
+following apply:
+(i)The temporary period is not more than twelve
+months during the transition from one dealer to another dealer if the
+dealership is for sale and is being actively marketed by the factory at a bona
+fide reasonable price and on reasonable terms and conditions to any independent
+qualified buyer.
+(ii)The factory submits evidence that disposition
+of its interest will result in financial loss to the factory or dealership.
+The temporary period may be extended in one year increments if
+either of the requirements of this subdivision are met.
+(b)A factory is not prohibited from temporarily
+owning a dealership while in a bona fide relationship with a qualified person.
+A bona fide relationship with a person who is qualified requires that:
+(i)The total sales price of the dealership is not
+less than an amount that is consistent with standard business practices.
+(ii)The independent qualified person make a
+substantial unencumbered bona fide initial investment in the dealership that is
+reasonable and consistent with standard business practices.
+(iii)The bona fide initial investment of the
+qualified person is subject to potential loss. The qualified person's
+percentage share of any potential dealership losses shall not be less than the
+person's percentage share of ownership of the dealership at the time of the
+loss.
+(iv)The qualified person buy substantial portions
+of the factory's remaining ownership interest in substantial regular periodic
+payments throughout the acquisition period.
+(v)The qualified person can expect to acquire and
+retain full and complete ownership of the dealership within a reasonable period
+of time that is not longer than ten years and on reasonable terms and
+conditions that are consistent with standard business practices. The ten year
+acquisition period may be extended for good cause shown by the qualified
+person.
+(vi)During the acquisition period if the qualified
+person is paid a management fee, the management fee shall be reasonable and
+consistent with standard business practices for an individual managing a
+franchise of similar size and volume of sales and leases of vehicles or
+products.
+(c)A factory is not prohibited from owning on a
+permanent basis a minority interest in a dealership if all of the following
+conditions are satisfied:
+(i)The interest owned by the factory is not more
+than fortyfive per cent
+percent or the percentage
+interest actually owned by the factory on January 1, 2000, whichever is less.
+(ii)Any dealership in which the factory owns the
+interest shall not be less than seventyfive miles from the nearest
+dealership of the same linemake in which the factory does not own the
+interest.
+(iii)All dealerships in which the factory owns the
+interest shall not sell or lease more than one of the linemakes of new
+motor vehicles and parts manufactured by the factory.
+(iv)All dealerships in which the factory owns the
+interest shall sell or lease the same linemake of new motor vehicles and
+parts manufactured by the factory. The dealerships may also sell or lease new
+motor vehicles and parts of a linemake manufactured by a factory that
+does not have an ownership interest in the dealership.
+(v)The factory or an entity in which the factory
+has the interest must have been licensed in this state as a new motor vehicle
+dealer on January 1, 2000 selling the linemake of new motor vehicle
+manufactured by the factory.
+(vi)The factory must have owned the interest in at
+least one dealership selling the linemake manufactured by the factory on
+January 1, 2000.
+(vii)The factory or an entity in which the factory
+has the interest shall not sell any linemake of new motor vehicle that
+it was not selling in this state before January 1, 2000.
+(viii)All automotive related services and financing
+related to the linemake or the factory owning the interest shall be sold
+or provided only to owners of vehicles of the linemake, regardless of
+where the vehicle was purchased, or to any purchasers of any new or used motor
+vehicles purchased from a dealership in which the factory has an interest.
+This item shall not preclude that dealership from selling or providing any
+nonwarranty repairs or maintenance on motor vehicles of any linemake or
+warranty repairs or maintenance of any linemake of new motor vehicles
+sold by the dealership and not manufactured by the factory.
+(ix)All used motor vehicles of a linemake
+manufactured by the factory, other than the linemake that the dealership
+sells or leases new, acquired by the dealership, directly or indirectly from
+the factory, shall be acquired only at wholesale auction open to dealers of all
+linemakes manufactured by the factory.
+2.The factory selling, leasing or providing, or
+offering to sell, lease or provide, a vehicle or product, service or financing
+to any retail consumer or lead. This paragraph does not:
+(a)Prohibit a factory from advertising to sell,
+lease or provide a vehicle or product, service or financing through its
+dealers.
+(b)Prohibit a factory from selling, leasing or
+providing or offering to sell, lease or provide a vehicle or product, service
+or financing through its dealers.
+(c)Prohibit a factory from providing a vehicle or
+product or service for occasional promotional or charitable uses.
+(d)Prohibit a factory from selling, leasing or
+providing a vehicle or product, service or financing to an agency of the
+federal government.
+(e)Prohibit a factory from selling or leasing a
+vehicle or product, service or financing through its dealers to retail
+consumers who qualify for any reasonable factory sponsored factory employee,
+factory retiree or factory vendor new vehicle purchase program or any other
+reasonable similar factory related new vehicle purchase program.
+(f)Prohibit a factory from providing financing to
+retail consumers through any used motor vehicle dealer or new motor vehicle
+dealer of any linemake.
+(g)Prohibit a factory from providing a loan
+directly to a person or entity if the loan is for a purpose unrelated to the
+ownership or leasing of a new motor vehicle or a used motor vehicle not for
+resale.
+(h)Prohibit a factory from providing loans directly
+to used motor vehicle dealers or new motor vehicle dealers of any linemake
+for any purpose, including working capital, real estate, construction or motor
+vehicle or parts inventories.
+(i)Prohibit a factory from arranging or providing emergency
+roadside service.
+(j)Prohibit a factory from offering factory
+sponsored extended service contracts to purchasers of new motor vehicles,
+provided that:
+(i)Such offers shall not take place less than
+ninety days after the date the retail consumer takes delivery of the new motor
+vehicle.
+(ii)Such offers are made to retail consumers only
+at the manufacturer's suggested retail price.
+(k)Prohibit a factory from selling a lease vehicle
+to the original lessee pursuant to a purchase option set forth in the
+lease.Such sale may be a credit sale with the factory as the credit
+seller and may include the direct sale of extended service contracts at the
+manufacturer's suggested retail price.
+(l)Prohibit a factory, at the request of a motor
+vehicle lessee, from extending a lease of a motor vehicle.
+(m)Prohibit a factory from offering and approving a
+retail consumer credit application for the financing or leasing of a motor
+vehicle provided that both of the following apply:
+(i)The final transaction takes place through a
+licensed motor vehicle dealer.
+(ii)The factory does not establish or quote any
+interest rate, finance rate or lease rate in association with a credit
+application.
+(n)Prohibit a factory from renewing or charging any
+subscription or connection fees for any invehicle electronic wireless
+communication, information or entertainment services.
+3.The factory controlling any aspect of the final
+amount charged, the final sales price or the final lease price for any vehicle
+or product, tradein or service offered to retail consumers in a dealer's
+area of responsibility without the written consent of the dealer. The dealer's
+consent may be withdrawn on fortyfive days' notice without retribution
+or the threat of retribution from the factory. This paragraph does not
+prohibit a factory from:
+(a)Changing dealer cost or establishing any of the
+following:
+(i)Manufacturer's suggested retail price pursuant
+to 15 United States Code section 1232.
+(ii)Factory's suggested retail price for parts.
+(iii)Factory's suggested retail price for service.
+(b)Establishing from time to time reasonable sales,
+lease or financing promotions of reasonable and limited duration, provided that
+programs up to a year are presumed to be of reasonable and limited duration.
+(c)Establishing reasonable standard feature option
+packages or vehicle option content in any way.
+(d)Establishing the terms of any vehicle warranty.
+(e)Establishing reasonable sales, lease or
+financing terms through its dealers to retail consumers who qualify for any
+reasonable factory sponsored factory employee, factory retiree or factory
+vendor new vehicle purchase program or any other reasonable similar factory
+related new vehicle purchase program.
+(f)Linking the factory's internet site to internet
+sites maintained by its dealers or third parties, or to internet sites
+maintained jointly by the factory and its dealers and made available to all of
+the factory's dealers of the same linemake, provided that the factory
+shall not dictate, limit, establish, set or endorse as a basis for a retail
+transaction any price other than the manufacturer's suggested retail price.
+(g)Establishing the price at which the lessee of a
+motor vehicle may purchase or release that motor vehicle on expiration
+or termination of that lessee's lease.
+(h)Operating or facilitating a program or system
+through which individual dealers may provide quotes or offers to individual
+consumers.
+4.The factory refusing to unconditionally offer and
+provide to its same linemake dealers all models, series and editions of
+new motor vehicles that are publicly advertised for that linemake in
+Arizona. The failure to deliver any new motor vehicles shall not be considered
+a violation of this paragraph if the failure is caused by a lack of
+manufacturing capacity, labor strike, shortage of materials or trade embargo or
+any other condition over which the factory has no control. A factory may
+require a dealer to purchase reasonable quantities of advertising materials,
+purchase reasonable quantities of special tools required to properly service a
+motor vehicle and undertake reasonable salesperson or service person training
+related to the motor vehicle as a condition of receiving a motor vehicle. This
+paragraph does not:
+(a)Apply to recreational vehicle manufacturers.
+(b)Prohibit a factory from providing monetary,
+financial or optional equipment incentives to fleet purchasers for new motor
+vehicles not for resale.
+5.The factory denying to any dealer any price
+reduction, rebate, incentive payment or similar pricing device relating to the
+sale or offer to sell a new motor vehicle to a dealer, pursuant to a program
+that discriminates among dealers of the same linemake in Arizona, when
+the dealer cannot qualify or receive the benefits of the program for reasons
+other than the dealer's failure to use reasonable effort to qualify and the
+terms of the program are such that a failure to qualify or receive its benefits
+would constitute the constructive termination of the dealer.
+6.The factory failing to provide or direct a lead
+relating to a particular linemake either:
+(a)To the dealer with whom the lead has a
+preexisting relationship.
+(b)To the dealer of the same linemake that
+is located closest to where the lead resides, or to the local business address
+if the lead is a business.
+(c)To the dealer of the same linemake in
+whose assigned area of responsibility the lead resides, or the local business
+address if the lead is a business.
+(d)According to the lead's voluntary preference.
+C.Under subsection B, paragraph 6:
+1.The factory need not provide or direct a lead to
+a dealer who does not sell the vehicle or product, service or financing in
+which the lead expresses an interest.
+2.The factory is responsible only for providing to
+the dealer information that it possesses concerning the lead.
+3.The factory is not precluded from providing or
+directing leads to any other dealer of the same linemake.
+4.All leads shall be provided or directed in a
+fair, nondiscriminatory, equitable and timely manner to dealers and, except as
+provided in subsection D, without charging a fee for those leads.
+D.Subsection B, paragraph 6 does not apply to any
+factory sponsored internetbased program specifically designed to provide
+retail consumers with internet access to dealer quotations on vehicles,
+products, financing or services, provided that:
+1.Fees for the program are reasonable and
+consistent with industry standards.
+2.Dealer participation is not conditioned on
+participation in any other program or on ratings derived from customer surveys.
+E.A
+manufacturer or distributor may not recover all or any portion of its costs for
+compensating a dealer for warranty parts and service, including parts and
+service associated with vehicle recalls, either by reduction in the amount due
+the dealer or by separate charge, surcharge, administrative fee or other
+imposition.
+E.F.For the
+purposes of this section:
+1."Controlling" means dictating,
+limiting, establishing, setting or endorsing as a basis for a retail
+transaction any price other than the manufacturer's suggested retail price.
+2."Dealer" or "dealership"
+means a new motor vehicle dealer or franchisee.
+3."Factory":
+(a)Means a manufacturer, importer or distributor or
+any legal entity in which a manufacturer, importer or distributor owns a
+majority interest or has direct or indirect power to direct or cause the
+direction of the management whether through voting securities, contract or
+otherwise.
+(b)Excludes any new motor vehicle dealer, used motor
+vehicle dealer or trailer manufacturer.
+(c)Excludes any agent, affiliate, representative or
+subsidiary that is primarily engaged in the business of rental of passenger and
+commercial motor vehicles and industrial and construction equipment and
+activities incidental to that business if all of the following conditions are
+satisfied:
+(i)Passenger and commercial motor vehicles sold by
+the agent, affiliate, representative or subsidiary are limited to used
+passenger and commercial motor vehicles that have been previously used
+exclusively and regularly by the agent, affiliate, representative or subsidiary
+in the conduct of business and used passenger and commercial motor vehicles
+traded in on motor vehicles sold by the agent, affiliate, representative or subsidiary.
+(ii)Warranty repairs performed by the agent,
+affiliate, representative or subsidiary on passenger and commercial motor
+vehicles are limited to those passenger and commercial motor vehicles that it
+owns, previously owned or takes in trade.
+(iii)Motor vehicle financing provided by the agent,
+affiliate, representative or subsidiary to retail consumers for passenger and
+commercial motor vehicles is limited to vehicles sold by the agent, affiliate,
+representative or subsidiary in the conduct of business.
+4."Financing":
+(a)Means the financial service of providing retail
+consumers the ability to pay for a purchase or lease of a new or used motor
+vehicle, parts or services over an extended period of time.
+(b)Does not include the furnishing of credit cards
+capable of general use in retail transactions or the provision of any loans
+secured by real estate.
+5."Parts":
+(a)Means all items that are designed to be
+incorporated within or attached to or used to operate, maintain or service a
+motor vehicle.
+(b)Does not include any of the following:
+(i)Parts purchased or provided for use by
+professional racing enterprises.
+(ii)Parts no longer included in the current factory
+price schedule.
+(iii)Specialized parts for research vehicles or
+other similar uses of limited application.
+(iv)Owners' manuals or repair manuals.
+(v)Parts that are provided by an automotive
+recycler in the normal course of business for an automotive recycler.
+(vi)Motor vehicle keys.
+6."Service" means either of the following:
+(a)Motor vehicle warranty and nonwarranty repairs
+or maintenance, including both parts and labor.
+(b)Extended warranties, vehicle mechanical
+maintenance insurance and similar vehicle repair service contracts.
+7."Vehicle or product" means a new motor
+vehicle, a used motor vehicle or parts. START_STATUTE
+

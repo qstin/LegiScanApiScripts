@@ -1,0 +1,71 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: software; budget units; sharing
+
+
+
+
+
+
+
+State of Arizona
+House of Representatives
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+HB 2550
+
+
+
+
+
+
+
+
+
+Introduced by
+Representative
+  Stevens
+
+
+
+
+
+AN ACT
+
+amending Title
+41, chapter 32, article 1, Arizona Revised Statutes, by adding section 41-3509;
+relating to government information technology.
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Title 41, chapter 32, article 1,
+Arizona Revised Statutes, is amended by adding section 41-3509, to read:
+START_STATUTE41-3509.Software development; definition
+A.A budget
+unit, or a private entity with funding, specifications and oversight from a budget
+unit, may produce government off-the-shelf software and provide the government
+off-the-shelf software to other budget units at no cost or with no warranty.
+B.For the
+purposes of this section, "government off-the-shelf software" means
+software that is developed for a budget unit for one purpose and that is later
+reused by another budget unit or integrated into a new government system or
+application. END_STATUTE
+

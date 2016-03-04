@@ -1,0 +1,553 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: autocycles; definition; class D licenses
+
+
+
+
+
+
+
+State of Arizona
+House of Representatives
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+HB 2248
+
+
+
+
+
+
+
+
+
+Introduced by
+Representative
+  Gray
+
+
+
+
+
+AN ACT
+
+amending sections
+28-101 and 28-3101, Arizona Revised Statutes; relating to driver licenses.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 28-101, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-101.Definitions
+In this title, unless the context
+otherwise requires:
+1."Alcohol"
+means any substance containing any form of alcohol, including ethanol,
+methanol, propynol and isopropynol.
+2."Alcohol
+concentration" if expressed as a percentage means either:
+(a)The number of grams
+of alcohol per one hundred milliliters of blood.
+(b)The number of grams
+of alcohol per two hundred ten liters of breath.
+3."Allterrain
+vehicle" means either of the following:
+(a)A motor vehicle that
+satisfies all of the following:
+(i)Is designed
+primarily for recreational nonhighway allterrain travel.
+(ii)Is fifty or fewer
+inches in width.
+(iii)Has an unladen
+weight of one thousand two hundred pounds or less.
+(iv)Travels on three or
+more nonhighway tires.
+(v)Is operated on a
+public highway.
+(b)A recreational
+off-highway vehicle that satisfies all of the following:
+(i)Is designed
+primarily for recreational nonhighway all-terrain travel.
+(ii)Is sixtyfive
+or fewer inches in width.
+(iii)Has an unladen
+weight of one thousand eight hundred pounds or less.
+(iv)Travels on four or
+more nonhighway tires.
+4."Authorized
+emergency vehicle" means any of the following:
+(a)A fire department
+vehicle.
+(b)A police vehicle.
+(c)An ambulance or
+emergency vehicle of a municipal department or public service corporation that
+is designated or authorized by the department or a local authority.
+(d)Any other ambulance,
+fire truck or rescue vehicle that is authorized by the department in its sole
+discretion and that meets liability insurance requirements prescribed by the
+department.
+5."Autocycle"
+means a threewheeled motorcycle on which the driver and passengers ride
+in a completely enclosed
+seating area that is equipped with a roll cage, safety belts for each occupant
+and antilock brakes and that is designed to be controlled with a steering wheel
+and pedals.
+6."Aviation
+fuel" means all flammable liquids composed of a mixture of selected
+hydrocarbons expressly manufactured and blended for the purpose of effectively
+and efficiently operating an internal combustion engine for use in an aircraft
+but does not include fuel for jet or turbine powered aircraft.
+7."Bicycle"
+means a device, including a racing wheelchair, that is propelled by human power
+and on which a person may ride and that has either:
+(a)Two tandem wheels,
+either of which is more than sixteen inches in diameter.
+(b)Three wheels in
+contact with the ground, any of which is more than sixteen inches in diameter.
+8."Board" means the transportation board.
+9."Bus" means
+a motor vehicle designed for carrying sixteen or more passengers, including the
+driver.
+10."Business
+district" means the territory contiguous to and including a highway if
+there are buildings in use for business or industrial purposes within any six
+hundred feet along the highway, including hotels, banks or office buildings,
+railroad stations and public buildings that occupy at least three hundred feet
+of frontage on one side or three hundred feet collectively on both sides of the
+highway.
+11."Combination of
+vehicles" means a truck or truck tractor and semitrailer and any trailer
+that it tows but does not include a forklift designed for the purpose of
+loading or unloading the truck, trailer or semitrailer.
+12."Controlled
+substance" means a substance so classified under section 102(6) of the
+controlled substances act (21 United States Code section 802(6)) and includes
+all substances listed in schedules I through V of 21 Code of Federal
+Regulations part 1308.
+13."Conviction"
+means:
+(a)An
+unvacated adjudication of guilt or a determination that a person violated or
+failed to comply with the law in a court of original jurisdiction or by an
+authorized administrative tribunal.
+(b)An unvacated forfeiture
+of bail or collateral deposited to secure the person's appearance in court.
+(c)A plea of guilty or
+no contest accepted by the court.
+(d)The payment of a
+fine or court costs.
+14."County
+highway" means a public road that is constructed and maintained by a
+county.
+15."Dealer"
+means a person who is engaged in the business of buying, selling or exchanging
+motor vehicles, trailers or semitrailers and who has an established place of
+business.
+16."Department"
+means the department of transportation acting directly or through its duly
+authorized officers and agents.
+17."Digital
+network or software application" has the same meaning prescribed in
+section 289551.
+18."Director"
+means the director of the department of transportation.
+19."Drive"
+means to operate or be in actual physical control of a motor vehicle.
+20."Driver"
+means a person who drives or is in actual physical control of a vehicle.
+21."Driver
+license" means a license that is issued by a state to an individual and
+that authorizes the individual to drive a motor vehicle.
+22."Electric
+personal assistive mobility device" means a selfbalancing two
+nontandem wheeled device with an electric propulsion system that limits the
+maximum speed of the device to fifteen miles per hour or less and that is
+designed to transport only one person.
+23."Farm"
+means any lands primarily used for agriculture production.
+24."Farm
+tractor" means a motor vehicle designed and used primarily as a farm
+implement for drawing implements of husbandry.
+25."Foreign
+vehicle" means a motor vehicle, trailer or semitrailer that is brought
+into this state other than in the ordinary course of business by or through a
+manufacturer or dealer and that has not been registered in this state.
+26."Golf
+cart" means a motor vehicle that has not less than three wheels in contact
+with the ground, that has an unladen weight of less than one thousand eight
+hundred pounds, that is designed to be and is operated at not more than twentyfive
+miles per hour and that is designed to carry not more than four persons
+including the driver.
+27."Hazardous
+material" means a material, and its mixtures or solutions, that the United
+States department of transportation determines under 49 Code of Federal
+Regulations is, or any quantity of a material listed as a select agent or toxin
+under 42 Code of Federal Regulations part 73 that is, capable of posing an
+unreasonable risk to health, safety and property if transported in commerce and
+that is required to be placarded or marked as required by the department's
+safety rules prescribed pursuant to chapter 14 of this title.
+28."Implement of
+husbandry" means a vehicle designed primarily for agricultural purposes
+and used exclusively in the conduct of agricultural operations, including an
+implement or vehicle whether selfpropelled or otherwise that meets both
+of the following conditions:
+(a)Is used solely for
+agricultural purposes including the preparation or harvesting of cotton,
+alfalfa, grains and other farm crops.
+(b)Is only incidentally
+operated or moved on a highway whether as a trailer or selfpropelled
+unit.For the purposes of this subdivision, "incidentally
+operated or moved on a highway" means travel between a farm and another
+part of the same farm, from one farm to another farm or between a farm and a
+place of repair, supply or storage.
+29."Limousine"
+means a motor vehicle providing prearranged ground transportation service for
+an individual passenger, or a group of passengers, that is arranged in advance
+or is operated on a regular route or between specified points and includes
+ground transportation under a contract or agreement for services that includes
+a fixed rate or time and is provided in a motor vehicle with a seating capacity
+not exceeding fifteen passengers including the driver.
+30."Livery
+vehicle" means a motor vehicle that:
+(a)Has a seating
+capacity not exceeding fifteen passengers including the driver.
+(b)Provides passenger
+services for a fare determined by a flat rate or flat hourly rate between
+geographic zones or within a geographic area.
+(c)Is available for
+hire on an exclusive or shared ride basis.
+(d)May do any of the
+following:
+(i)Operate on a regular
+route or between specified places.
+(ii)Offer prearranged
+ground transportation service as defined in section 28141.
+(iii)Offer on demand
+ground transportation service pursuant to a contract with a public airport,
+licensed business entity or organization.
+31."Local
+authority" means any county, municipal or other local board or body
+exercising jurisdiction over highways under the constitution and laws of this
+state.
+32."Manufacturer"
+means a person engaged in the business of manufacturing motor vehicles,
+trailers or semitrailers.
+33."Moped"
+means a bicycle that is equipped with a helper motor if the vehicle has a
+maximum piston displacement of fifty cubic centimeters or less, a brake
+horsepower of one and onehalf or less and a maximum speed of twentyfive
+miles per hour or less on a flat surface with less than a one percent grade.
+34."Motor driven
+cycle" means a motorcycle, including every motor scooter, with a motor
+that produces not more than five horsepower.
+35."Motor
+vehicle":
+(a)Means either:
+(i)A selfpropelled
+vehicle.
+(ii)For the purposes of
+the laws relating to the imposition of a tax on motor vehicle fuel, a vehicle
+that is operated on the highways of this state and that is propelled by the use
+of motor vehicle fuel.
+(b)Does not include a
+motorized wheelchair, an electric personal assistive mobility device or a
+motorized skateboard. For the purposes of this subdivision:
+(i)"Motorized
+skateboard" means a selfpropelled device that has a motor, a deck
+on which a person may ride and at least two tandem wheels in contact with the
+ground.
+(ii)"Motorized
+wheelchair" means a selfpropelled wheelchair that is used by a
+person for mobility.
+36."Motor vehicle
+fuel" includes all products that are commonly or commercially known or
+sold as gasoline, including casinghead gasoline, natural gasoline and all
+flammable liquids, and that are composed of a mixture of selected hydrocarbons
+expressly manufactured and blended for the purpose of effectively and
+efficiently operating internal combustion engines. Motor vehicle fuel does not
+include inflammable liquids that are specifically manufactured for racing motor
+vehicles and that are distributed for and used by racing motor vehicles at a
+racetrack, use fuel as defined in section 285601, aviation fuel, fuel
+for jet or turbine powered aircraft or the mixture created at the interface of
+two different substances being transported through a pipeline, commonly known
+as transmix.
+37."Motorcycle"
+means a motor vehicle that has a seat or saddle for the use of the rider and
+that is designed to travel on not more than three wheels in contact with the
+ground but excludes a tractor and a moped.
+38."Motorized
+quadricycle" means a self-propelled motor vehicle to which all of the
+following apply:
+(a)The vehicle is
+self-propelled by an emission-free electric motor and may include pedals
+operated by the passengers.
+(b)The vehicle has at
+least four wheels in contact with the ground.
+(c)The vehicle seats at
+least eight passengers, including the driver.
+(d)The vehicle is
+operable on a flat surface using solely the electric motor without assistance
+from the pedals or passengers.
+(e)The vehicle is a
+commercial motor vehicle as defined in section 285201.
+(f)The vehicle is
+licensed by the department of weights and
+measures to operate as a limousine pursuant to section 289503.
+(g)The vehicle is
+manufactured by a motor vehicle manufacturer that is licensed pursuant to
+chapter 10 of this title.
+(h)The vehicle complies
+with the definition and standards for lowspeed vehicles set forth in
+federal motor vehicle safety standard 500 and 49 Code of Federal Regulations section sections 571.3(b) and 571.500, respectively.
+39."Neighborhood
+electric vehicle" means a selfpropelled electrically powered motor
+vehicle to which all of the following apply:
+(a)The vehicle is
+emission free.
+(b)The vehicle has at
+least four wheels in contact with the ground.
+(c)The vehicle complies
+with the definition and standards for low speed vehicles set forth in federal
+motor vehicle safety standard 500 and 49 Code of Federal Regulations sections
+571.3(b) and 571.500, respectively.
+40."Nonresident"
+means a person who is not a resident of this state as defined in section 282001.
+41."Offroad
+recreational motor vehicle" means a motor vehicle that is designed
+primarily for recreational nonhighway allterrain travel and that is not
+operated on a public highway.Offroad recreational motor
+vehicle does not mean a motor vehicle used for construction, building trade,
+mining or agricultural purposes.
+42."Operator"
+means a person who drives a motor vehicle on a highway, who is in actual
+physical control of a motor vehicle on a highway or who is exercising control
+over or steering a vehicle being towed by a motor vehicle.
+43."Owner"
+means:
+(a)A person who holds
+the legal title of a vehicle.
+(b)If a vehicle is the
+subject of an agreement for the conditional sale or lease with the right of
+purchase on performance of the conditions stated in the agreement and with an
+immediate right of possession vested in the conditional vendee or lessee, the
+conditional vendee or lessee.
+(c)If a mortgagor of a
+vehicle is entitled to possession of the vehicle, the mortgagor.
+44."Pedestrian"
+means any person afoot.A person who uses an electric personal
+assistive mobility device or a manual or motorized wheelchair is considered a
+pedestrian unless the manual wheelchair qualifies as a bicycle.For
+the purposes of this paragraph, "motorized wheelchair" means a selfpropelled
+wheelchair that is used by a person for mobility.
+45."Power
+sweeper" means an implement, with or without motive power, that is only
+incidentally operated or moved on a street or highway and that is designed for
+the removal of debris, dirt, gravel, litter or sand whether by broom, vacuum or
+regenerative air system from asphaltic concrete or cement concrete surfaces,
+including parking lots, highways, streets and warehouses, and a vehicle on
+which the implement is permanently mounted.
+46."Public
+transit" means the transportation of passengers on scheduled routes by
+means of a conveyance on an individual passenger farepaying basis
+excluding transportation by a sightseeing bus, school bus or taxi or a vehicle
+not operated on a scheduled route basis.
+47."Reconstructed
+vehicle" means a vehicle that has been assembled or constructed largely by
+means of essential parts, new or used, derived from vehicles or makes of
+vehicles of various names, models and types or that, if originally otherwise
+constructed, has been materially altered by the removal of essential parts or
+by the addition or substitution of essential parts, new or used, derived from
+other vehicles or makes of vehicles.For the purposes of this
+paragraph, "essential parts" means integral and body parts, the
+removal, alteration or substitution of which will tend to conceal the identity
+or substantially alter the appearance of the vehicle.
+48."Residence
+district" means the territory contiguous to and including a highway not
+comprising a business district if the property on the highway for a distance of
+three hundred feet or more is in the main improved with residences or residences
+and buildings in use for business.
+49."Rightofway"
+when used within the context of the regulation of the movement of traffic on a
+highway means the privilege of the immediate use of the
+highway.Rightofway when used within the context of
+the real property on which transportation facilities and appurtenances to the
+facilities are constructed or maintained means the lands or interest in lands
+within the rightofway boundaries.
+50."School
+bus" means a motor vehicle that is designed for carrying more than ten
+passengers and that is either:
+(a)Owned by any public
+or governmental agency or other institution and operated for the transportation
+of children to or from home or school on a regularly scheduled basis.
+(b)Privately owned and
+operated for compensation for the transportation of children to or from home or
+school on a regularly scheduled basis.
+51."Semitrailer"
+means a vehicle that is with or without motive power, other than a pole
+trailer, that is designed for carrying persons or property and for being drawn
+by a motor vehicle and that is constructed so that some part of its weight and
+that of its load rests on or is carried by another vehicle. For the purposes
+of this paragraph, "pole trailer" has the same meaning prescribed in
+section 28601.
+52."State"
+means a state of the United States and the District of Columbia.
+53."State
+highway" means a state route or portion of a state route that is accepted
+and designated by the board as a state highway and that is maintained by the
+state.
+54."State
+route" means a rightofway whether actually used as a highway
+or not that is designated by the board as a location for the construction of a
+state highway.
+55."Street"
+or "highway" means the entire width between the boundary lines of
+every way if a part of the way is open to the use of the public for purposes of
+vehicular travel.
+56."Taxi"
+means a motor vehicle that has a seating capacity not exceeding fifteen
+passengers, including the driver, that is registered as a taxi in this state or
+any other state, that provides passenger services and that:
+(a)Does not primarily
+operate on a regular route or between specified places.
+(b)Offers local
+transportation for a fare determined on the basis of the distance traveled or
+prearranged ground transportation service as defined in section 28141
+for a predetermined fare.
+57."Traffic
+survival school" means a school that offers educational sessions to
+drivers who are required to attend and successfully complete educational
+sessions pursuant to this title that are designed to improve the safety and
+habits of drivers and that are approved by the department.
+58."Trailer"
+means a vehicle that is with or without motive power, other than a pole
+trailer, that is designed for carrying persons or property and for being drawn
+by a motor vehicle and that is constructed so that no part of its weight rests
+on the towing vehicle. A semitrailer equipped with an auxiliary front axle
+commonly known as a dolly is deemed to be a trailer. For the purposes of this paragraph,
+"pole trailer" has the same meaning prescribed in section 28601.
+59."Transportation
+network company" has the same meaning prescribed in section 289551.
+60."Transportation
+network company vehicle" has the same meaning prescribed in section 289551.
+61."Transportation
+network service" has the same meaning prescribed in section 289551.
+62."Truck"
+means a motor vehicle designed or used primarily for the carrying of property
+other than the effects of the driver or passengers and includes a motor vehicle
+to which has been added a box, a platform or other equipment for such carrying.
+63."Truck
+tractor" means a motor vehicle that is designed and used primarily for
+drawing other vehicles and that is not constructed to carry a load other than a
+part of the weight of the vehicle and load drawn.
+64."Vehicle"
+means a device in, on or by which a person or property is or may be transported
+or drawn on a public highway, excluding devices moved by human power or used
+exclusively on stationary rails or tracks.
+65."Vehicle
+transporter" means either:
+(a)A
+truck tractor capable of carrying a load and drawing a semitrailer.
+(b)A truck tractor with a stingersteered
+fifth wheel capable of carrying a load and drawing a semitrailer or a truck
+tractor with a dolly mounted fifth wheel that is securely fastened to the truck
+tractor at two or more points and that is capable of carrying a load and
+drawing a semitrailer. END_STATUTE
+Sec.2.Section 28-3101, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-3101.Driver license classes
+A.Except as provided in subsections B and C of this
+section and section 283102, the following driver license classes are valid:
+1.Class A.A class A license is valid
+for operating either of the following:
+(a)A motor vehicle that tows a vehicle with a gross
+vehicle weight rating of more than ten thousand pounds if the combined gross
+vehicle weight rating is twentysix thousand one or more pounds.
+(b)A vehicle that requires a class B, C or D
+license.
+2.Class B.A class B license is valid
+for operating any of the following:
+(a)A single motor vehicle with a gross vehicle
+weight rating of twentysix thousand one or more pounds.
+(b)A motor vehicle with a gross vehicle weight
+rating of twentysix thousand one or more pounds that tows a vehicle with
+a gross vehicle weight rating of ten thousand pounds or less.
+(c)A vehicle that requires a class C or D license
+for operation.
+3.Class C.A class C license is valid
+for operating any of the following:
+(a)A single motor vehicle with a gross vehicle
+weight rating of twentysix thousand pounds or less.
+(b)A motor vehicle with a gross vehicle weight
+rating of twentysix thousand pounds or less that tows a vehicle with a
+gross vehicle weight rating of ten thousand pounds or less.
+(c)A motor vehicle with a gross vehicle weight
+rating of twentysix thousand pounds or less that tows a vehicle with a
+gross vehicle weight rating of more than ten thousand pounds, if the combined
+gross vehicle weight rating is less than twentysix thousand one pounds.
+(d)A vehicle that is required to be placarded for
+hazardous materials.
+(e)A bus or school bus.
+(f)A vehicle that requires a class D license for
+operation.
+4.Class D.A class D license is valid
+for operating any of the following:
+(a)A single motor vehicle with a gross vehicle
+weight rating of twentysix thousand pounds or less, including an autocycle.
+(b)A motor vehicle with a gross vehicle weight
+rating of twentysix thousand pounds or less that tows a vehicle with a
+gross vehicle weight rating of ten thousand pounds or less.
+(c)A motor vehicle with a gross vehicle weight
+rating of twentysix thousand pounds or less that tows a vehicle with a
+gross vehicle weight rating of more than ten thousand pounds if the combined
+gross vehicle weight rating is less than twentysix thousand one pounds.
+(d)A motorized touring vehicle.For the
+purposes of this subdivision, "motorized touring vehicle" means a
+motor vehicle that is all of the following:
+(i)Owned by a commercial entity.
+(ii)Rented for use during a sightseeing tour that
+is guided by an employee of the commercial entity that rents the motor vehicle.
+(iii)Designed to travel with three wheels on the
+ground.
+(iv)Capable of a maximum speed of forty-five miles
+per hour.
+5.Class G.A class G license is valid
+for operating a single motor vehicle with a gross vehicle weight rating of
+twentysix thousand pounds or less.
+6.Class M.A class M license is valid
+for operating a motorcycle, motor driven cycle or moped but is not necessary
+for operating an autocycle. For the purpose of licensing a driver, the
+department may endorse a class M license classification on a valid class A, B,
+C, D or G license.
+B.A class A, B, C, D or G license is not valid for
+operating a vehicle that requires a class M license or a vehicle that requires
+a special endorsement unless the proper endorsement appears on the license.
+C.A commercial driver license is not required to
+operate a vehicle described in subsection A, paragraph 1, 2 or 3 of this
+section if the vehicle has been issued a historic vehicle license plate
+pursuant to section 282484 and the department provides in the vehicle
+registration record both of the following:
+1.That the vehicle is classified as a noncommercial
+vehicle and may not be used as a commercial vehicle.
+2.The vehicle's gross vehicle weight is entered as
+zero. END_STATUTE
+

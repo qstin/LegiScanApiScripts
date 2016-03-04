@@ -1,0 +1,448 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: guardianship; proceedings; ward's
+  relationships
+
+
+
+
+
+
+
+State of Arizona
+Senate
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+SB 1296
+
+
+
+
+
+
+
+
+
+Introduced by
+Senator
+  Driggs
+
+
+
+
+
+AN ACT
+
+amending sections
+145101, 145303, 145309 and 145311, Arizona Revised
+Statutes; amending Title 14, chapter 5, article 3, Arizona Revised Statutes, by
+adding sections 14-5316 and 14-5317; relating to guardianship.
+
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 14-5101, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE14-5101.Definitions
+In this title, unless the context otherwise requires:
+1."Contact" includes in-person contact,
+written communication and all forms of electronic communications.
+2."Contact
+order" means an order allowing contact between a ward and a person with a
+significant relationship to the ward.
+1.3."Incapacitated
+person" means any person who is impaired by reason of mental illness,
+mental deficiency, mental disorder, physical illness or disability, chronic use
+of drugs, chronic intoxication or other cause, except minority, to the extent
+that he lacks sufficient understanding or capacity to make or communicate
+responsible decisions concerning his person. In cases of limited guardianship
+only, a person is not deemed an incapacitated person for purposes of voting if
+the person files a petition,
+and has a hearing and the
+judge determines by clear and convincing evidence that the person retains
+sufficient understanding to exercise the right to vote pursuant to section 145304.02.
+2.4."Investigator"
+means a person who is appointed by the court under section 145308.
+5."Joint
+legal decisionmaking" has the same meaning prescribed in section 25401.
+6."Legal
+decisionmaking" has the same meaning prescribed in section 25401.
+7."Parenting
+time" has the same meaning prescribed in section 25401.
+3.8."Physician"
+means a person licensed pursuant to title 32, chapter 13 or 17.
+4.9."Protected
+person" means a minor or any other person for whom a conservator has been
+appointed or any other protective order has been made.
+5.10."Protective
+proceeding" means a proceeding under the provisions of section 145401 to determine that a
+person cannot effectively manage or apply his estate to necessary ends, either
+because he lacks the ability or is otherwise inconvenienced, or because he is a
+minor, and to secure administration of his estate by a conservator or other
+appropriate relief.
+6.11."Psychologist"
+means a person licensed pursuant to title 32, chapter 19.1.
+7.12."Registered
+nurse" has the same meaning as prescribed in section 321601.
+13."Significant
+relationship" means the person either is related to the ward by blood or
+marriage or is a close friend of the ward as established by a history of
+pattern and practice.
+14."Visitation"
+has the same meaning prescribed in section 25401.
+8.15."Ward"
+means a person for whom a guardian has been appointed. "Minor ward"
+means a minor for whom a guardian has been appointed solely because of
+minority. END_STATUTE
+Sec.2.Section 14-5303, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE14-5303.Procedure for court appointment of a guardian of an
+alleged incapacitated person
+A.The alleged incapacitated person or any person
+interested in that person's affairs or welfare may petition for the appointment
+of a guardian or for any other appropriate protective order.
+B.The petition shall contain a statement that the
+authority granted to the guardian may include the authority to withhold or
+withdraw life sustaining treatment, including artificial food and fluid, and
+shall state, at a minimum and to the extent known, all of the following:
+1.The interest of the petitioner.
+2.The name, age, residence and address of the
+alleged incapacitated person.
+3.The name, address and priority for appointment of
+the person whose appointment is sought.
+4.The name and address of the conservator, if any,
+of the alleged incapacitated person.
+5.The name and address of the nearest relative of
+the alleged incapacitated person known to the petitioner.
+6.A general statement of the property of the
+alleged incapacitated person, with an estimate of its value and including any
+compensation, insurance, pension or allowance to which the person is entitled.
+7.The reason why appointment of a guardian or any
+other protective order is necessary.
+8.The type of guardianship requested. If a general
+guardianship is requested, the petition must state that other alternatives have
+been explored and why a limited guardianship is not appropriate. If a limited
+guardianship is requested, the petition also must state what specific powers
+are requested.
+9.If a custodial
+legal decisionmaking, parenting
+time or visitation order was previously entered regarding an
+alleged incapacitated person in a child
+custody marriage
+dissolution, legal separation or paternity action or similar proceeding in this state or another
+jurisdiction and the petitioner or proposed guardian is a parent of the alleged incapacitated person
+or a nonparent custodian of who has been awarded legal decisionmaking as to the
+alleged incapacitated person, the court and case number for that action or
+proceeding and include a copy of the
+most recent court order regarding legal decisionmaking, parenting time
+and visitation.
+10.If the appointment of a guardian is necessary
+due solely to the physical incapacity of the alleged incapacitated person.
+C.On the filing of a petition, the court shall set
+a hearing date on the issues of incapacity.Unless the alleged
+incapacitated person is represented by independent counsel, the court shall
+appoint an attorney to represent that person in the proceeding.The
+alleged incapacitated person shall be interviewed by an investigator appointed
+by the court and shall be examined by a physician, psychologist or registered
+nurse appointed by the court. If the alleged incapacitated person has an
+established relationship with a physician, psychologist or registered nurse who
+is determined by the court to be qualified to evaluate the capacity of the
+alleged incapacitated person, the court may appoint the alleged incapacitated
+person's physician, psychologist or registered nurse pursuant to this
+subsection.The investigator and the person conducting the
+examination shall submit their reports in writing to the court.In addition
+to information required under subsection D, the court may direct that either
+report include other information the court deems appropriate.The
+investigator also shall interview the person seeking appointment as guardian,
+visit the present place of abode of the alleged incapacitated person and the
+place where it is proposed that the person will be detained or reside if the
+requested appointment is made and submit a report in writing to the
+court.The alleged incapacitated person is entitled to be present at
+the hearing and to see or hear all evidence bearing on that person's
+condition.The alleged incapacitated person is entitled to be
+represented by counsel, to present evidence, to crossexamine witnesses,
+including the courtappointed examiner and investigator, and to trial by
+jury.The court may determine the issue at a closed hearing if the
+alleged incapacitated person or that person's counsel so requests.
+D.A report filed pursuant to this section by a
+physician, psychologist or registered nurse acting within that person's scope
+of practice shall include the following information:
+1.A specific description of the physical,
+psychiatric or psychological diagnosis of the person.
+2.A comprehensive assessment listing any functional
+impairments of the alleged incapacitated person and an explanation of how and
+to what extent these functional impairments may prevent that person from
+receiving or evaluating information in making decisions or in communicating
+informed decisions regarding that person.
+3.An analysis of the tasks of daily living the
+alleged incapacitated person is capable of performing without direction or with
+minimal direction.
+4.A list of all medications the alleged
+incapacitated person is receiving, the dosage of the medications and a
+description of the effects each medication has on the person's behavior to the
+best of the declarant's knowledge.
+5.A prognosis for improvement in the alleged
+incapacitated person's condition and a recommendation for the most appropriate
+rehabilitation plan or care plan.
+6.Other information the physician, psychologist or
+registered nurse deems appropriate. END_STATUTE
+Sec.3.Section 14-5309, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE14-5309.Notices in guardianship proceedings
+A.In a proceeding for a contact order or modification of a contact order pursuant
+to section 145316 or
+for the appointment or substitution of a guardian of a ward or an
+alleged incapacitated person other than the appointment of a temporary guardian
+or temporary suspension of a guardian, notice
+of a hearing shall be given to each of the following:
+1.The ward or the alleged incapacitated person and
+that person's spouse, parents and adult children.
+2.Any person who is serving as guardian or
+conservator or who has the care and custody of the ward or the alleged
+incapacitated person.
+3.In case no other person is notified under
+paragraph 1 of this subsection, at least one of that person's closest adult
+relatives, if any can be found.
+4.Any person who has filed a demand for notice.
+B.At least fourteen days before the hearing notice
+shall be served personally on the ward or the alleged incapacitated person, and that person's spouse
+and parents if they can be found within the state.Notice to the
+spouse and parents, if they cannot be found within the state, and to all other
+persons except the ward or the alleged incapacitated person shall be given as
+provided in section 141401.Waiver of notice by the ward or
+the alleged incapacitated person is not effective unless that person attends
+the hearing. END_STATUTE
+Sec.4.Section 14-5311, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE14-5311.Who may be guardian; priorities
+A.Any qualified person may be appointed guardian of
+an incapacitated person, subject to the requirements of section 145106.
+B.The court may consider the following persons for
+appointment as guardian in the following order:
+1.A guardian or conservator of the person or a
+fiduciary appointed or recognized by the appropriate court of any jurisdiction
+in which the incapacitated person resides.
+2.An individual or corporation nominated by the
+incapacitated person if the person has, in the opinion of the court, sufficient
+mental capacity to make an intelligent choice.
+3.The person nominated to serve as guardian in the
+incapacitated person's most recent durable power of attorney or health care
+power of attorney.
+4.The spouse of the incapacitated person.
+5.An adult child of the incapacitated person.
+6.A parent of the incapacitated person, including a
+person nominated by will or other writing signed by a deceased parent.
+7.Any relative of the incapacitated person with
+whom the incapacitated person has resided for more than six months before the
+filing of the petition.
+8.The nominee of a person who is caring for or
+paying benefits to the incapacitated person.
+9.If the incapacitated person is a veteran, the
+spouse of a veteran or the minor child of a veteran, the department of
+veterans' services.
+10.A fiduciary who is licensed pursuant to section
+145651, other than a public fiduciary.
+11.A public fiduciary who is licensed pursuant to
+section 14-5651.
+C.A person listed in subsection B, paragraph 4, 5,
+6, 7 or 8 of this section may nominate in writing a person to serve in that
+person's place. With respect to persons who have equal priority, the court
+shall select the one the court determines is best qualified to serve.
+D.Notwithstanding
+the priorities set forth in subsection B of this section, if the petition for appointment of a guardian for the
+incapacitated person is filed within two years after the INCAPACITATED person's
+eighteenth birthday, unless the court finds the appointment to be contrary to the incapacitated person's
+best interest:
+1.The court
+shall appoint as the incapacitated person's guardian any person who, by court
+order, had sole legal decision-making of the incapacitated person when the
+incapacitated person attained eighteen years of age.
+2.If two persons had joint legal decisionmaking
+of the incapacitated person when the incapacitated person attained eighteen years of age, the court shall appoint both persons
+as the incapacitated
+person's co-guardians. 
+E.The court
+may appoint more than one person as the incapacitated person's coguardians
+if the appointment is required by subsection D of this section or the court finds that the
+appointment is in the incapacitated person's best interest. If the court
+appoints coguardians, the coguardians shall
+share decisionmaking for the INCAPACITATED person and neither coguardian's
+rights or responsibilities are superior except as otherwise ordered by the court.
+D.F.For good cause
+the court may pass over a person who has priority and appoint a person who has
+a lower priority or no priority.For the purposes of this
+subsection, "good cause" includes a determination that: 
+1.The incapacitated person's durable power of
+attorney or health care power of attorney is invalid.
+2.Honoring the incapacitated person's durable power
+of attorney or health care power of attorney would not be in the physical,
+emotional or financial best interest of the incapacitated person.
+3.The estimated cost of the fiduciary and
+associated professional fees would adversely affect the ability of the
+incapacitated person's estate to provide for the incapacitated person's
+reasonable and necessary living expenses.
+E.G.On a request by a
+person who was passed over by the court pursuant to subsection D F
+of this section, the court shall make a specific finding
+regarding the court's determination of good cause and why the person was not
+appointed. The request must be made within ten days after the entry of the
+order. END_STATUTE
+Sec.5.Title 14, chapter 5, article 3, Arizona
+Revised Statutes, is amended by adding sections 14-5316 and 14-5317, to read:
+START_STATUTE14-5316.Maintaining ward's relationships; contact orders;
+definitions
+A.A guardian shall encourage and allow contact
+between the ward and other persons who have a significant relationship with the
+ward.
+B.Notwithstanding
+subsection A of this section, a guardian may limit, restrict or prohibit
+contact between the ward and any person if the guardian reasonably believes
+that the contact will be detrimental to the ward's health, safety or welfare.
+C.In
+exercising the guardian's powers pursuant to subsections A and B of this
+section, the guardian shall consider the wishes of the ward, if the ward has
+sufficient mental capacity to make an intelligent choice.
+D.A person
+who has a significant relationship to the ward may petition the court for an
+order compelling the guardian to allow the person to have contact with the
+ward. The petition shall describe the nature of the relationship between the
+person and the ward and the type and frequency of contact being requested.The
+person has the burden of proving that the person has a significant relationship
+with the ward and that the requested contact is in the ward's best interest.
+E.A ward
+may petition the court for an order compelling the guardian to allow the ward
+to have contact with a person who has a significant relationship to the ward.
+The petition shall describe the nature of the relationship between the person
+and the ward and the type and frequency of contact being requested. The ward
+has the burden of proving that the person has a significant relationship with
+the ward and that the requested contact is in the ward's best interest.
+F.In
+determining what, if any, contact between the person and the ward is in the
+ward's best interest, the court shall consider all factors that are relevant to
+the ward's physical and emotional well-being, including the following:
+1.The past
+and present relationship between the ward and the person with whom the contact
+is requested.
+2.The
+wishes of the ward if the ward has sufficient mental capacity to make an
+intelligent choice.
+3.The
+mental and physical health of the ward and the person with whom the contact is
+requested.
+4.Whether
+the person with whom the contact is requested has committed any act involving
+domestic violence as defined in section 133601, child abuse or abuse,
+neglect or exploitation of a vulnerable adult.
+5.Whether
+the person with whom the contact is requested has abused drugs or alcohol or
+has been convicted of any drug offense listed in title 13, chapter 34 or a
+violation of title 28, chapter 4, article 3.
+6.Whether
+the person with whom the contact is requested is listed in the elder abuse
+central registry pursuant to section 46-457 or is required to register pursuant
+to section 13-3821.
+7.Whether the
+person with whom the contact is requested has been convicted of a violation of
+section 13-2907.02 or 13-2907.04.
+g.If the
+petition for contact is filed within two years after the ward's eighteenth
+birthday, any contact with the ward authorized in the most recent parenting
+time or visitation order shall be presumed to be in the ward's best interests,
+but the presumption may be rebutted by evidence showing that the contact
+authorized in the most recent parenting time or visitation order is no longer in
+the ward's best interests.
+H.A
+fiduciary to the ward or a person who has a significant relationship to the
+ward may petition the court to modify a contact order, if a material change in
+circumstances affecting the ward's health, safety or welfare has occurred since
+the last contact order was made. The petition shall be supported by an
+affidavit alleging the change of circumstances that has occurred since the
+entry of the last contact order. The court shall deny the petition unless the
+court finds that the petition establishes good cause for hearing, in which case
+the court shall set a hearing on the petition. The petition and notice of the
+hearing on the petition shall be served on all persons to whom notice is
+required PURSUANT to section 145309 and on any fiduciary to the ward.
+I.A
+fiduciary to the ward or a person who has a significant relationship to the
+ward may file a motion asking the court to temporarily modify or suspend a
+contact order, if a material change in circumstances affecting the ward's
+health, safety or welfare has occurred since the last contract order was
+made.The motion shall be supported by an affidavit alleging the
+change of circumstances that has occurred since the entry of the last contact
+order.The motion shall be filed contemporaneously with or after the
+filing of a petition to modify the prior contact order. The motion shall state
+whether the petitioner requests that the prior contact order be modified or
+suspended with or without notice to affected persons.
+J.The court
+may temporarily modify or suspend a contact order without notice only if both
+of the following conditions are met:
+1.It
+clearly appears from specific facts shown in the motion or affidavit that
+immediate and irreparable injury, loss or damage likely will result if the
+order is not issued before the affected persons can be heard in opposition.
+2.The
+moving party or the party's attorney certifies to the court in writing the
+efforts, if any, that the moving party or the party's attorney has made to give
+the notice or the reasons supporting the claim that notice should not be
+required.
+K.If the
+court grants a motion to temporarily modify or suspend a contact order without
+notice, the court shall set a hearing on the motion.
+L.An order
+temporarily modifying or suspending a contact order that is granted without
+notice shall state the injury, loss or damage that would have been likely to
+occur if the order were not issued before giving the affected persons the
+opportunity to be heard in opposition. The temporary order shall expire at the
+date and time set for the hearing on the motion unless the temporary order is
+extended by the court for good cause.
+M.The
+moving party shall personally serve the person whose contact with the ward has
+been modified or suspended with a copy of the order and notice of the
+hearing.The moving party shall have served a copy of the order on
+any fiduciary to the ward and all persons affected by the order as soon as
+practicable after issuance of the order in the manner prescribed in section
+14-5309 or as otherwise ordered by the court.
+N.For the
+purposes of this section:
+1."Abuse"
+in relation to a vulnerable adult has the same meaning prescribed in section
+46-451.
+2."Child
+abuse" means abuse as defined in section 8201 of an individual who is under eighteen
+years of age.
+3."Exploitation"
+has the same meaning prescribed in section 46-451.
+4."Neglect"
+has the same meaning prescribed in section 46-451.
+5."Vulnerable
+adult" has the same meaning prescribed in section 46451. END_STATUTE
+START_STATUTE14-5317.Notice of ward's hospitalization or death; definition
+A.Unless otherwise ordered by the court, if the
+ward dies or is admitted to a hospital, the guardian, within twenty-four hours
+of learning of the ward's death or hospitalization, shall notify all family
+members of the death or hospitalization.
+B.For the
+purposes of this section, "family members" means the ward's spouse,
+parents, adult siblings and adult children. END_STATUTE
+Sec.6.Effective date
+This act is effective from and after December 31, 2016.
+

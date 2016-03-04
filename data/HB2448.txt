@@ -1,0 +1,982 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: audits; accountants; reciprocity
+  privilege
+
+
+
+
+
+
+
+State of Arizona
+House of Representatives
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+HB 2448
+
+
+
+
+
+
+
+
+
+Introduced by
+Representatives
+  Mitchell, Borrelli, Cardenas: Friese, Lawrence, Olson, Weninger, Senator
+  Driggs
+
+
+
+
+
+AN ACT
+
+amending sections
+6502, 9481, 41725, 411511, 411512, 431507
+and 431605, Arizona Revised Statutes; relating to accountants.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 6-502, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE6-502.Reports and examinations
+A.The superintendent shall examine or cause to be
+examined each credit union at periodic intervals as provided by section 6122.The
+superintendent shall forward a report of the examination to the board of
+directors of the credit union examined within thirty days after completion of
+the report.Within thirty days after the receipt of the report the
+directors shall meet to consider matters contained in the report.
+B.In lieu of the examination required by subsection
+A of this section, the superintendent may accept an examination or audit report
+of the condition of a credit union made by the national credit union
+administration or by a certified public accountant who is licensed in this state or who has a limited reciprocity privilege pursuant to
+section 32725 or other qualified person or organization
+approved by the superintendent.The credit union shall bear the cost
+of any such examination or audit.A certified public accountant or other qualified person or
+organization making an audit to be submitted in lieu of an examination by the
+superintendent shall obtain prior approval from the superintendent before
+conducting such an audit.
+In approving such an audit
+the superintendent may prescribe minimum requirements for the audit, including the date by which
+the audit must be completed and a copy filed with the superintendent.
+C.Within thirty days after the end of each calendar
+quarter a credit union shall report to the superintendent, on forms supplied by
+the superintendent for that purpose, its financial condition and the results of
+its operation for such the quarter.
+D.Unless excused for cause before or after the due
+date, a credit union which that fails to file a report
+when due shall pay the department, as assessed, up to one hundred dollars for
+each day of delinquency. END_STATUTE
+Sec.2.Section 9-481, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE9-481.Audits of cities and towns; posting; budget
+A.The governing body of
+each incorporated city or town shall cause an audit to be made by a certified
+public accountant or public accountant who is currently licensed by the Arizona
+state board of accountancy or who has a
+limited reciprocity privilege pursuant to section 32725 and
+who is not an employee of the city or town. Audits shall be made for each
+fiscal year for all incorporated cities. Audits shall be made at least once
+for every two fiscal years for all incorporated towns, and the audit shall
+include financial transactions during both fiscal years.
+B.The audit and the
+audit report shall include all of the accounts and funds of the city or town,
+including operating, special, utility, debt, trust and pension, and all other
+money or property for which the city or town, or any department or officer of
+the city or town, is responsible either directly or indirectly.The
+audits shall be made in accordance with generally accepted auditing
+standards.The consequent audit report shall contain financial
+statements that are in conformity with generally accepted municipal accounting
+principles and shall set forth the financial position and results of the
+operations for each fund and account of the city or town. The audit report
+shall also include the following:
+1.The professional
+opinion of the accountant or accountants with respect to the financial
+statements or, if an opinion cannot be expressed, a declaration of the reasons
+an opinion cannot be expressed.
+2.A determination as to
+whether highway user revenue fund monies received by the city or town pursuant
+to title 28, chapter 18, article 2 and any other dedicated state transportation
+revenues received by the city or town are being used solely for the authorized
+transportation purposes.
+C.The audit shall begin
+as soon as possible after the close of the fiscal year, although interim
+auditing may be performed during the year or years under audit.The
+audit shall be completed and the final audit report shall be submitted within
+six months after the close of the fiscal year or years audited.
+D.At least four three copies of the audit report shall be
+signed by the auditor and filed with the city or town.The city or
+town shall immediately do the following:
+1.Make one copy of the
+report a public record that is open to the public for inspection.
+2.File one copy of the
+report with the auditor general pursuant to section 411279.07,
+subsection C.
+3.Submit one copy of
+the report to the secretary of state.
+E.The financial
+statements required to be filed with the auditor general pursuant to section 411279.07,
+including the audit report, must be posted in a prominent location on the
+official website of the city or town no later than seven business days after
+the date of filing the financial statements with the auditor
+general.The financial statements must be retained and accessible in
+a prominent location on the official website for at least sixty months. If the
+financial statements are not filed pursuant to section 411279.07, the
+form as prescribed by subsection F of this section shall be posted on the
+website of the city or town in place of the financial statements until the
+financial statements are filed.
+F.If the financial
+statements for a city or town are not completed and filed as prescribed by
+section 411279.07 on or before the adoption of the city or town budget in the subsequent
+fiscal year, the governing body shall include a form, as prescribed by the
+auditor general, in the published budget in the subsequent fiscal year pursuant
+to sections 4217103 and 4217105 stating that the financial
+statements required to be filed with the auditor general pursuant to section 411279.07
+are pending, the reasons for the delay and the estimated date of completion. 
+G.If the governing body
+of a city or town is required to complete the form as prescribed by subsection
+F of this section, the governing body shall send a copy of the form to the
+auditor general, the speaker of the house of representatives and the president
+of the senate. END_STATUTE
+Sec.3.Section 41-725, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE41-725.Comprehensive database of receipts and expenditures of
+state monies; local reporting; definition
+A.The department shall establish and maintain an
+official internet website that is electronically searchable by the public at no
+cost and that contains a comprehensive database of receipts and expenditures of state monies.
+The database shall include the information as prescribed in the comprehensive annual
+financial report of a budget unit that has been made by a certified public
+accountant or public accountant who is currently licensed by the Arizona state
+board of accountancy or who has a
+limited reciprocity privilege pursuant to section 32725 and
+who is not an employee of the department. The report shall be made in
+accordance with generally accepted auditing standards and shall contain
+financial statements that are in conformity with generally accepted accounting
+principles. If the department has a comprehensive annual financial report of a
+budget unit that has been presented with a certificate of achievement for
+excellence in financial reporting by the governmental finance officers
+association, the department may post such a financial report to satisfy the
+requirements of this subsection.
+B.The department must present information in the
+database in a manner that is intuitive to members of the general public,
+including graphical representations. The database must allow users to:
+1.Search and aggregate payments by individual
+budget units and programs.
+2.Search and aggregate payments by individual
+vendors, including the total amount of state funding awarded by all budget
+units to individual vendors.
+3.Download information yielded by a search of the
+database.
+4.Access electronic versions of contracts that
+relate to expenditures.
+C.The database shall include the following
+information:
+1.Annual receipts of revenues, including:
+(a)Receipts or deposits by each state budget unit
+into funds established in the state treasury.
+(b)Taxes.
+(c)Earnings by each budget unit, including amounts
+collected for merchandise sold, services performed and licenses, certifications
+and permits issued.
+(d)Revenue from the use of publicly owned money or
+property, including leases and licenses.
+(e)Gifts, donations and grants received, including
+amounts received from the federal government.
+(f)Any other type of public revenue, however
+denominated or derived, deposited into the state treasury.
+2.Annual expenditures and disbursements of state
+revenues by each state budget unit from funds established in the state
+treasury, as applicable, including:
+(a)Bond payments, debt service and redemption
+charges and fees.
+(b)Contractual services and cooperative agreements.
+(c)Commodities.
+(d)Capital outlay.
+(e)Revenue sharing and other aid to other levels of
+government, including tribal governments.
+(f)Any other expenditure or disbursement of state
+revenue from the state treasury, however denominated or structured.
+D.Expenditure data shall list:
+1.The manner of payment, including check or warrant
+or credit, debit or other purchase card.
+2.The funding source, including categorical codes
+and the state accounts the expenditure is appropriated from.
+3.A standardized descriptive title of the type and
+purpose of the transaction.
+4.The date and amount of each payment.
+5.The state agency or budget unit making the
+payment.
+6.The name of the person or entity receiving the
+payment, including to the extent practical
+practicable a parent
+entity of the recipient if the recipient is owned by another entity.
+7.The primary location of performance under the
+contract, including the county, city or town and legislative district.
+E.The database shall not include:
+1.Tax payment or refund data that include
+confidential taxpayer information.
+2.Data relating to payments of state assistance to
+individual recipients.
+3.Payees' addresses or telephone numbers, but the
+department may allow public access in the database to information identifying
+the county in which the payee is located.
+4.Work product in anticipation of litigation or
+information subject to attorney-client privilege.
+5.Any other information that is designated by law
+as confidential or preapproved as confidential by the department pursuant to
+rule.The department and any officer or employee of the department:
+(a)May rely on a determination made by a budget
+unit regarding confidentiality of information relating to the budget unit's
+expenditures.
+(b)Are immune from civil liability for posting
+confidential information under this section if the posting is in reliance on
+the budget unit's determination relating to confidentiality.
+F.Each budget unit
+shall cooperate with the department as necessary to implement and administer
+this section. Each budget unit shall provide to the department any additional
+data in a manner and schedule prescribed by the department that are required to
+be included in the database. The database shall be updated within thirty days
+after the end of each fiscal year and may be updated as new data become
+available. The data shall be retained in the database for at least ten full
+fiscal years.
+G.The governor, secretary of state, state treasurer
+and legislature shall include a link to the database under this section in
+their individual official websites. Each budget unit that maintains a
+generally accessible internet website, or for which a generally accessible
+website is maintained, shall include a link on that website to the database
+under this section.
+H.On or
+before January 1, 2013, Each local government shall establish and
+maintain an official internet website that is accessible to the public at no
+cost and that contains a comprehensive reporting of all revenues and expenditures
+over five thousand dollars of local monies in as nearly as practicable the same
+manner and consistent with the provisions
+of subsections B through E
+of this section. The database shall include the information as
+prescribed in the comprehensive annual financial report of a budget unit that
+has been made by a certified public accountant or public accountant who is
+currently licensed by the Arizona state board of accountancy or who has a limited reciprocity privilege pursuant to
+section 32725 and who is not an employee of the local
+government. The report shall be made in accordance with generally accepted
+auditing standards and shall contain financial statements that are in
+conformity with generally accepted accounting principles. If a local government
+has a comprehensive annual financial report of a budget unit that has been
+presented with a certificate of achievement for excellence in financial
+reporting by the governmental finance officers association, the local
+government may post such a financial report to satisfy the requirements of this
+subsection. A link to this data shall be displayed in a prominent place on the
+local government's official internet website or on a website of an association
+of cities and towns for cities and towns that do not have official websites and
+on the department's official internet website as prescribed in this section.
+The data shall be updated no less frequently than every three months and may be
+updated as new data becomes available. The data shall be retained and
+accessible online for at least three fiscal years.
+I.For the purposes of this section "local
+government" means:
+1.A county, city or town with a population of more
+than twenty-five hundred persons.
+2.Any community college district and school district
+having a student count of more than six hundred pupils.
+3.A state university. END_STATUTE
+Sec.4.Section
+41-1511, Arizona Revised Statutes, is amended to read:
+START_STATUTE41-1511.Renewable energy tax incentives; qualification;
+definitions
+A.Tax incentives are allowed for expanding or
+locating qualified renewable energy operations in this state, including income
+tax credits pursuant to sections 431083.01 and 431164.01 and
+property tax classification pursuant to section 4212006, paragraph 8.
+B.To be eligible for the tax incentives, a
+renewable energy business must apply to the authority, on a form prescribed by
+the authority, for preapproval of the business as qualifying for the
+incentives.The application must include:
+1.The applicant's name, address, telephone number
+and federal taxpayer identification number or numbers.
+2.The name, address, telephone number and email
+address of a contact person for the applicant.
+3.The address of the site where the qualifying
+renewable energy operation will be located.
+4.A detailed description of the qualifying
+renewable energy operation and fixed capital assets.
+5.An estimate of the capital investment and number
+of employment positions at the qualifying renewable energy operation,
+including:
+(a)A schedule of qualifying investments.
+(b)A list of fulltime employment positions,
+the estimated number of employees to be hired for the positions each year during
+the first five years of operation and the annual wages for each position,
+calculated without employee-related benefits.
+6.A nonrefundable processing fee in an amount
+determined by the authority.
+7.Other information as required by the authority to
+determine eligibility for the tax incentives, and the amount of income tax
+credits, as prescribed by this section.
+8.An affirmation, signed by an authorized executive
+representing the business, that the applicant:
+(a)Agrees to furnish records of expenditures for
+qualifying investments to the authority on request.
+(b)Will continue in business at the qualifying
+renewable energy operation for five full calendar years after postapproval for
+a tax incentive, other than for reasons beyond the control of the applicant.
+(c)Agrees to furnish to the authority information
+regarding the amount of tax benefits claimed each year.
+(d)Authorizes the department of revenue to provide
+tax information to the authority pursuant to section 422003 for the
+purpose of determining any inconsistency in information furnished by the
+applicant.
+(e)Agrees to allow site visits and audits to verify
+the applicant's continuing qualification and the accuracy of information
+submitted to the authority.
+(f)Consents to the adjustment or recapture of any
+amount of income tax credit or property tax incentive due to noncompliance with
+this section.
+9.Letters of good standing from the department of
+revenue and the county treasurer of the county in which the project is located
+stating that the applicant is in good standing and is not delinquent in the
+payment of taxes.
+C.To be eligible for the tax incentives, the
+applicant must make new capital investment in this state after September 30,
+2009 in a manufacturing facility or headquarters facility or any combination of
+qualifying facilities, as follows:
+1.The applicant may qualify for income tax credits
+pursuant to section 431083.01 or 431164.01, as applicable, if:
+(a)At least fiftyone per cent percent of the net new full-time employment positions at
+the renewable energy operation pay a wage that equals or exceeds one hundred
+twentyfive per cent percent of the median annual
+wage in this state, as determined by the most recent annual Arizona commerce
+authority occupational wage and employment estimates issued before the
+preapproval is issued pursuant to subsection I of this section.
+(b)All net new fulltime employment positions
+include health insurance coverage for the employees for which the applicant
+pays at least eighty per cent
+percent of the premium or
+membership cost.
+2.The fixed capital assets shall be classified as
+class six for the purposes of property taxation pursuant to section 4212006,
+paragraph 8 if the qualifying investment amounts to at least twentyfive
+million dollars, if the applicant pays at least eighty per cent percent of the health insurance costs or membership costs
+for all net new employees and if at least fiftyone per cent percent of the net new full-time employment positions at
+the qualifying renewable energy operation pay a wage that equals:
+(a)At least one hundred twenty-five, but less than
+two hundred, per cent percent of the median annual
+wage in this state, as determined by the most recent annual Arizona commerce
+authority occupational wage and employment estimates issued before the
+preapproval is issued pursuant to subsection I of this section, the property
+may be classified as class six for ten tax years.
+(b)At least two hundred per cent percent of the median annual wage in this state, as determined
+by the most recent annual Arizona commerce authority occupational wage and
+employment estimates issued before the preapproval is issued pursuant to
+subsection I of this section, the property may be classified as class six for
+fifteen tax years.
+D.Final eligibility for the tax incentives is
+subject to any additional requirements prescribed by sections 4212006,
+431083.01 and 431164.01, as applicable.
+E.An applicant may separately apply and qualify
+with respect to investments for:
+1.Renewable energy operations in separate
+locations.
+2.Separate expansions of a renewable energy
+operation.
+F.To determine the amount of income tax credit to
+be preapproved to a qualifying applicant, the authority shall use one of the
+following computations:
+1.Ten per
+cent percent of
+the amount the applicant has projected in total qualifying investment in
+renewable energy operations meeting the following minimum employment
+requirements:
+(a)For renewable energy manufacturing operations,
+at least one and one-half new full-time employment positions projected by the
+applicant for each five hundred thousand dollar increment of capital
+investment.
+(b)For renewable energy business headquarters, at
+least one new fulltime employment position projected by the applicant
+for each two hundred thousand dollar increment of capital investment.
+2.For other qualifying renewable energy investment,
+ten per cent percent of the amount computed
+as follows:
+(a)Five hundred thousand dollars for each one and
+one-half new fulltime employment positions projected by the applicant in
+new renewable energy manufacturing operations.
+(b)Two hundred thousand dollars for each new
+full-time employment position projected by the applicant at a new renewable
+energy business headquarters.
+G.Beginning with income tax credits allocated for
+2010, an approved income tax credit:
+1.Must be claimed on a timely filed original income
+tax return, including extensions.
+2.Must be claimed in five equal installments as
+provided in section 431083.01 or 431164.01.
+H.The authority shall establish a process for
+qualifying and preapproving applicants for the tax incentives.The
+authority shall not preapprove an applicant as qualifying for tax incentives
+under this section for taxable years beginning from and after December 31,
+2019. Preapproval is based on:
+1.Priority placement established by the date that
+the applicant files its initial application with the authority.
+2.The availability of income tax credit capacity
+under the dollar limit prescribed by subsection J of this section.
+I.Within thirty days after receiving a complete and
+correct application, the authority shall review the application to determine
+whether the applicant satisfies all of the criteria prescribed by this section
+and either preapprove the project as qualifying for the purposes of the tax
+incentives or provide reasons for its denial.The authority shall
+send copies of the preapproval to the department of revenue and the applicable
+county assessor.
+J.The authority shall not preapprove income tax
+credits under this section and section 411512 that combined would exceed
+seventy million dollars in any calendar year, except as provided by this
+subsection and subsection K of this section. The authority shall not
+preapprove income tax credits under this section for any one taxpayer in excess
+of thirty million dollars in any calendar year.A preapproved amount
+applies against the dollar limit for the year in which the application was
+submitted regardless of whether the initial preapproval period extends into the
+following year or years. If, at the end of any year, an unused balance occurs
+under the dollar limit prescribed by this subsection:
+1.The balance shall be allocated to businesses that
+successfully appeal the denial of approval under this section or section 411512.
+Any amount of income tax credits due to successful appeals that are not paid
+from an unused balance at the end of any year shall be paid against the dollar
+limit in the following year.
+2.Any remaining unused balance accruing through
+December 31, 2011 shall be reallocated for the purposes of this section and
+section 411512 in the following year.
+3.Any remaining unused balance accruing in 2012 and
+thereafter lapses and shall not be reallocated in the following year.
+K.The authority shall reallocate the amount of
+income tax credits that are voluntarily relinquished under subsection L of this
+section, that lapse under subsection M of this section or that lapse under
+subsection P of this section. The reallocation shall be to other businesses
+that applied under this section or section 411512 in the original credit
+year based on priority placement.Once reallocated, the amount of
+the credit applies against the dollar limit of the original credit year
+regardless of the year in which the reallocation occurs.
+L.A taxpayer may voluntarily relinquish unused
+credit amounts.
+M.Preapproval under this section lapses, the
+application is void and the amount of the preapproved income tax credits does
+not apply against the dollar limit prescribed by subsection J of this section
+if, within twelve months after preapproval, the renewable energy business fails
+to provide to the authority documentation of its expenditure of two hundred
+fifty thousand dollars in qualifying investment or, if the period over which
+the qualifying investment will be made exceeds twelve months, documentation of
+additional expenditures as required in this subsection for each twelve month
+period.
+N.Beginning in 2010, after October 31 of each year,
+if the authority has preapproved the maximum calendar year income tax credit
+amount pursuant to subsection J of this section, the authority may accept
+initial applications for the next calendar year, but the preapproval of any
+application pursuant to this subsection shall not be effective before the first
+business day of the following calendar year.
+O.Before an applicant applies for postapproval
+under subsection P of this section, the applicant must enter into a written
+managed review agreement with the chief executive officer of the authority that
+establishes the requirements of a managed review to be conducted under this
+subsection at the applicant's expense. The managed review must be conducted by
+a certified public accountant who is selected by the applicant, who is licensed
+in this state or who has a limited
+reciprocity privilege pursuant to section 32725 and who is
+approved by the chief executive officer.The certified public
+accountant and the firm the certified public accountant is affiliated with shall
+not regularly perform services for the applicant or its affiliates. The
+managed review shall include an analysis of the applicant's invoices, checks,
+accounting records and other documents and information to verify its base
+investment and other requirements prescribed by section 4212006, 431083.01
+or 431164.01 to confirm the amount of credit or property tax
+incentive.The certified public accountant shall furnish written
+findings of the managed review to the chief executive officer. The chief executive
+officer shall review the findings and may examine records and perform other
+reviews that the chief executive officer considers necessary to verify that the
+managed review substantially conforms to the terms of the managed review
+agreement.The chief executive officer shall accept or reject the
+findings of the managed review. If the chief executive officer rejects all or
+part of the managed review, the chief executive officer shall provide written
+reasons for the rejection.
+P.When the renewable energy operation begins
+operations, a renewable energy business that was preapproved for income tax
+credits under this section shall apply to the authority in writing for
+postapproval of the credits and submit documentation certifying the total
+amount and dates of the qualifying investments and identifying the fixed
+capital assets associated with the renewable energy operation incurred from and
+after September 30, 2009 through the date of application for
+postapproval.From and after December 31, 2009, the authority shall
+provide postapproval to a renewable energy business that it has met the
+eligibility requirements of this section and shall notify the department of
+revenue that the renewable energy business may claim the tax credits pursuant
+to section 431083.01 or 431164.01. If the amount of qualifying
+investment actually spent is less than the amount preapproved for income tax
+credits, the preapproved amount not incurred lapses and does not apply against
+the dollar limit prescribed by subsection J of this section for that
+year.The authority shall not allow a credit under section 431083.01
+or 431164.01 that exceeds the amount of the postapproval for the project
+under this subsection. For the purposes of this subsection, "begins
+operations" means:
+1.A headquarters facility opens for public
+business.
+2.A manufacturing facility begins producing
+commercial quantities of usable products.
+Q.The authority may rescind the business'
+postapproval if the business no longer meets the terms and conditions required
+for qualifying for the tax incentives.The authority may give
+special consideration, or allow temporary exemption from recapture of tax
+benefits, in the case of extraordinary hardship due to factors beyond the
+control of the qualifying business.
+R.If the authority rescinds an applicant's
+preapproval or postapproval under subsection Q of this section, it shall notify
+the department of revenue and the county assessor of the action and the
+conditions of noncompliance.If the department of revenue obtains
+information indicating a possible failure to qualify and comply, it shall
+provide that information to the authority. The department of revenue may
+require the business to file appropriate amended tax returns reflecting any
+recapture of income tax credits under section 431083.01 or 431164.01.
+S.Preapproval and postapproval of a business for
+the purposes of tax incentives under this section do not constitute or imply
+compliance with any other provision of law or any regulatory rule, order,
+procedure, permit or other measure required by law.To maintain
+qualification for tax incentives under this section, a business must separately
+comply with all environmental, employment and other regulatory measures.
+T.For five years after postapproval for tax incentives
+under this section, in any action involving the liquidation of the business
+assets or relocation out of state, this state claims the position of a secured
+creditor of the business in the amount of income tax credits and property tax
+incentives the business received pursuant to section 4212006, 431083.01
+or 431164.01.
+U.Any information gathered from a renewable energy
+business for the purposes of this section is considered to be confidential
+taxpayer information and shall be disclosed only as provided in section 422003,
+subsection B, paragraph 12, except that the authority shall publish the
+following information in its annual report:
+1.The name of each renewable energy business and
+the amount of income tax credits preapproved for each qualifying investment.
+2.The amount of credits postapproved with respect
+to each qualifying investment.
+V.The authority shall:
+1.Keep annual records of the information provided
+on applications for renewable energy businesses.These records shall
+reflect a percentage comparison of the annual amount of monies exempted or
+credited to qualifying renewable energy businesses to the estimated amount of
+monies spent in this state in the form of qualifying investments.
+2.Maintain annual data on growth in this state of
+renewable energy businesses and industry employment and wages.
+3.Not later than April 30 of each year, prepare and
+publish a report summarizing the information collected pursuant to this
+subsection.The authority shall make copies of the annual report
+available to the public on request.
+W.The authority shall adopt rules and prescribe
+forms and procedures as necessary for the purposes of this
+section.The authority and the department of revenue shall
+collaborate in adopting rules as necessary to avoid duplication and
+inconsistencies while accomplishing the intent and purposes of this section.
+X.For the purposes of this section:
+1."Capital investment" means an
+expenditure to acquire, lease or improve property that is used in operating a
+business, including land, buildings, machinery and fixtures.
+2."Headquarters" means a principal
+central administrative office where primary headquarters related functions and
+services are performed, including financial, personnel, administrative, legal,
+planning and similar business functions.
+3."Manufacturing" means fabricating,
+producing or manufacturing raw or prepared materials into usable products,
+imparting new forms, qualities, properties and
+combinations.Manufacturing does not include generating electricity
+for off-site consumption.
+4."Primarily engaged" means that more
+than fifty per cent percent of a company's business
+activity at a particular facility directly involves renewable energy
+operations, measured by revenues received, expenses incurred, square footage or
+the number of individuals employed.
+5."Qualifying investment" means
+investment in land, buildings, machinery and fixtures for expansion of an
+existing renewable energy operation or establishment of a new renewable energy
+operation in this state after September 30, 2009. Qualifying investment does
+not include relocating an existing renewable energy operation in this state to
+another location in this state without additional capital investment of at
+least two hundred fifty thousand dollars.
+6."Qualifying renewable energy operation"
+means the facility where a qualifying investment was made.
+7."Renewable energy" means usable energy,
+including electricity, fuels, gas and heat, produced through the conversion of
+energy provided by sunlight, water, wind, geothermal, heat, biomass, biogas,
+landfill gas or other nonfossil renewable resource.
+8."Renewable energy business" means a
+person primarily engaged in the business of renewable energy manufacturing
+operations or renewable energy headquarters operations.
+9."Renewable energy operations" are
+limited to manufacturers of, and headquarters for, systems and components that
+are used or useful in manufacturing renewable energy equipment for the
+generation, storage, testing and research and development, transmission or
+distribution of electricity from renewable resources, including specialized
+crates necessary to package the renewable energy equipment manufactured at the
+qualifying renewable energy operation.
+10."Renewable energy resource" means a
+resource that is replaced by natural and assisted processes at a rate that is
+comparable to or faster than the rate of natural depletion and consumption by
+humans. END_STATUTE
+Sec.5.Section 41-1512, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE41-1512.Qualified facility income tax credits; qualification;
+definitions
+A.For taxable years beginning from and after
+December 31, 2012, income tax credits are allowed for expanding or locating a
+qualified facility in this state pursuant to sections 431083.03 and 431164.04.
+Only capital investments in a qualified facility that are made on or after July
+1, 2012 are included in the computation of the credit.
+B.To be eligible for the income tax credits, a
+taxpayer must apply to the authority, on a form prescribed by the authority,
+for preapproval of the business as qualifying for the credits.The
+application must include:
+1.The applicant's name, address, telephone number
+and federal taxpayer identification number or numbers.
+2.The name, address, telephone number and e-mail
+address of a contact person for the applicant.
+3.The address of the site where the qualified
+facility will be located.
+4.A detailed description of the qualified facility
+and fixed capital assets.
+5.An estimate of the capital investment and number
+of employment positions at the qualified facility, including:
+(a)A schedule of qualifying investments.
+(b)A list of full-time employment positions, the
+estimated number of employees to be hired for the positions each year during
+the first five years of operation and the annual wages for each position,
+calculated without employee-related benefits.
+6.A nonrefundable processing fee in an amount
+determined by the authority.
+7.Other information as required by the authority to
+determine eligibility for the income tax credits and the amount of income tax
+credits, as prescribed by this section.
+8.An affirmation, signed by an authorized executive
+representing the business, that the applicant:
+(a)Agrees to furnish records of expenditures for
+qualifying investments to the authority on request.
+(b)Will continue in business at the qualified
+facility for five full calendar years after postapproval for the credit, other
+than for reasons beyond the control of the applicant.
+(c)Agrees to furnish to the authority information
+regarding the amount of income tax credits claimed each year.
+(d)Authorizes the department of revenue to provide
+tax information to the authority pursuant to section 42-2003 for the purpose of
+determining any inconsistency in information furnished by the applicant.
+(e)Agrees to allow site visits and audits to verify
+the applicant's continuing qualification and the accuracy of information
+submitted to the authority.
+(f)Consents to the adjustment or recapture of any
+amount of income tax credit due to noncompliance with this section.
+9.Letters of good standing from the department of
+revenue stating that the applicant is not delinquent in the payment of taxes.
+C.The applicant may qualify for the income tax
+credits pursuant to section 431083.03 or 431164.04, as
+applicable, if:
+1.The applicant makes new capital investment in
+this state after June 30, 2012 in a qualified facility that is completed in a
+taxable year beginning from and after December 31, 2012.
+2.At least fifty-one per cent percent of the net new full-time employment positions at
+the qualified facility pay a wage that equals or exceeds one hundred twenty-five
+per cent percent of the median annual wage in this
+state, as determined by the most recent annual Arizona commerce authority
+occupational wage and employment estimates issued before the preapproval is
+issued pursuant to subsection I of this section.
+3.All net new full-time employment positions
+include health insurance coverage for the employees for which the applicant
+pays at least eighty per cent
+percent of the premium or
+membership cost.
+D.Final eligibility for an income tax credit is
+subject to any additional requirements prescribed by section 431083.03
+or 431164.04, as applicable.
+E.An applicant may separately apply and qualify
+with respect to investments for separate expansions of a qualified facility.
+F.The amount of the income tax credit to be
+preapproved by the authority to a qualifying applicant is ten per cent percent of the lesser of:
+1.The amount the applicant has projected in total
+qualifying investment in the qualified facility.
+2.Two hundred thousand dollars for each net new
+full-time employment position projected by the applicant at a qualified
+facility.
+G.Beginning with
+income tax credits allocated for 2013, an approved credit:
+1.Must be claimed on
+a timely filed original income tax return, including extensions.
+2.Must be claimed in five equal installments as
+provided by section 431083.03 or 431164.04.
+H.The authority shall establish a process for
+qualifying and preapproving applicants for the income tax credits. The
+authority shall not preapprove applicants as qualifying for credits under this
+section for any taxable year beginning from and after December 31, 2019.
+Preapproval is based on:
+1.Priority placement established by the date that
+the applicant files its initial application with the authority.
+2.The availability of income tax credit capacity
+under the dollar limit prescribed by section 411511, subsection J.
+I.Within thirty days after receiving a complete and
+correct application, the authority shall review the application to determine
+whether the applicant satisfies all of the criteria prescribed by this section
+and either preapprove the project as qualifying for the purposes of an income
+tax credit or provide reasons for its denial. The authority shall send copies
+of each preapproval to the department of revenue.
+J.The authority shall not preapprove income tax
+credits under this section and section 411511 that combined would exceed
+the limits prescribed by section 411511, subsection J. A preapproved
+amount applies against the dollar limit for the year in which the application
+was submitted regardless of whether the initial preapproval period extends into
+the following year or years.A business shall not be preapproved for
+credits under both this section and section 411511 for the same capital
+investment. The authority shall not preapprove income tax credits under this
+section for any taxpayer in excess of thirty million dollars in any calendar
+year.
+K.The authority shall reallocate the amount of
+income tax credits that are voluntarily relinquished under subsection L of this
+section, that lapse under subsection M of this section or that lapse under
+subsection P of this section.The reallocation shall be to other
+businesses that applied under this section or section 411511 in the
+original credit year based on priority placement.Once reallocated,
+the amount of the credit applies against the dollar limit of the original
+credit year regardless of the year in which the reallocation occurs.
+L.A taxpayer may voluntarily relinquish unused credit
+amounts in writing to the authority.
+M.Preapproval under this section lapses, the
+application is void and the amount of the preapproved income tax credits does
+not apply against the dollar limit prescribed by section 411511,
+subsection J if, within twelve months after preapproval, the business fails to
+provide to the authority documentation of its expenditure of two hundred fifty
+thousand dollars in qualifying investment or, if the period over which the
+qualifying investment will be made exceeds twelve months, documentation of
+additional expenditures as required in this subsection for each twelvemonth
+period.
+N.After October 31 of each year, if the authority
+has preapproved the maximum calendar year income tax credit amount pursuant to
+section 411511, subsection J, the authority may accept initial
+applications for the next calendar year, but the preapproval of any application
+pursuant to this subsection shall not be effective before the first business
+day of the following calendar year.
+O.Before an applicant applies for postapproval
+under subsection P of this section, the applicant must enter into a written
+managed review agreement with the chief executive officer of the authority that
+establishes the requirements of a managed review to be conducted under this
+subsection at the applicant's expense. The managed review must be conducted by
+a certified public accountant who is selected by the applicant, who is licensed
+in this state or who has a limited
+reciprocity privilege pursuant to section 32725 and who is
+approved by the chief executive officer.The certified public
+accountant and the firm the certified public accountant is affiliated with
+shall not regularly perform services for the applicant or its affiliates. The
+managed review shall include an analysis of the applicant's invoices, checks,
+accounting records and other documents and information to verify its base
+investment and other requirements prescribed by section 431083.03 or 431164.04
+to confirm the amount of credit.The certified public accountant
+shall furnish written findings of the managed review to the chief executive
+officer.The chief executive officer shall review the findings and
+may examine records and perform other reviews that the chief executive officer
+considers necessary to verify that the managed review substantially conforms to
+the terms of the managed review agreement.The chief executive
+officer shall accept or reject the findings of the managed
+review.If the chief executive officer rejects all or part of the
+managed review, the chief executive officer shall provide written reasons for
+the rejection.
+P.When the qualified facility begins operations, a
+business that was preapproved for income tax credits under this section shall
+apply to the authority in writing for postapproval of the credits and submit
+documentation certifying the total amount and dates of the qualifying
+investments and identifying the fixed capital assets associated with the
+qualified facility incurred after June 30, 2012 through the date of application
+for postapproval.For taxable years beginning from and after
+December 31, 2012, the authority shall provide postapproval to a business that
+has met the eligibility requirements of this section and shall notify the
+department of revenue that the business may claim an income tax credit pursuant
+to section 431083.03 or 431164.04.If the amount of
+qualifying investment actually spent is less than the amount preapproved for
+income tax credits, the preapproved amount not incurred lapses and does not apply
+against the dollar limit prescribed by section 41-1511, subsection J for that
+year.The department of revenue shall not allow an income tax credit
+under section 431083.03 or 431164.04 that exceeds the amount of
+the postapproval for the project under this subsection. For the purposes of
+this subsection, "begins operations" means the qualified facility
+opens for public business.
+Q.The authority may rescind an applicant's
+postapproval if the business no longer meets the terms and conditions required
+for qualifying for the credit. The authority may give special consideration,
+or allow temporary exemption from recapture of the credit, in the case of
+extraordinary hardship due to factors beyond the control of the qualifying
+business.
+R.If the authority rescinds an applicant's
+preapproval or postapproval under subsection Q of this section, it shall notify
+the department of revenue of the action and the conditions of noncompliance.
+If the department of revenue obtains information indicating a possible failure
+to qualify and comply, it shall provide that information to the authority. The
+department of revenue may require the business to file appropriate amended tax
+returns reflecting any recapture of the credit under section 431083.03
+or 431164.04.
+S.Preapproval and postapproval of an applicant for
+the purposes of income tax credits under this section do not constitute or
+imply compliance with any other provision of law or any regulatory rule, order,
+procedure, permit or other measure required by law.To maintain
+qualification for a credit under this section, a business must separately
+comply with all environmental, employment and other regulatory measures.
+T.For five years after postapproval of an income
+tax credit under this section, in any action involving the liquidation of the
+business assets or relocation out of state, this state claims the position of a
+secured creditor of the business in the amount of the credit the business
+received pursuant to section 431083.03 or 431164.04. The transfer
+of part or all of a company's assets that are then leased back by the company
+is not considered a liquidation under this section.
+U.Any information gathered from a business for the
+purposes of this section is considered to be confidential taxpayer information
+and shall be disclosed only as provided in section 422003, subsection B,
+paragraph 12, except that the authority shall publish the following information
+in its annual report:
+1.The name of each business and the amount of
+income tax credits preapproved for each qualifying investment.
+2.The amount of income tax credits postapproved
+with respect to each qualifying investment.
+V.The authority shall:
+1.Keep annual records of the information provided
+on applications for qualified facilities. These records shall reflect a
+percentage comparison of the annual amount of monies credited to qualified
+facilities to the estimated amount of monies spent in this state in the form of
+qualifying investments.
+2.Maintain annual data on growth in this state of
+qualified facilities and related employment and wages.
+3.Not later than April 30 following each calendar
+year, prepare and publish a report summarizing the information collected
+pursuant to this subsection. The authority shall make copies of the annual
+report available to the public on request.
+W.The authority shall adopt rules and prescribe
+forms and procedures as necessary for the purposes of this
+section.The authority and the department of revenue shall
+collaborate in adopting rules as necessary to avoid duplication and
+inconsistencies while accomplishing the intent and purposes of this section.
+X.For the purposes of this section:
+1."Capital investment" means an
+expenditure to acquire, lease or improve property that is used in operating a
+business, including land, buildings, machinery, equipment and fixtures.
+2."Facility" means a single parcel or
+contiguous parcels of owned or leased land in this state, the structures and
+personal property contained on the land or any part of the structures occupied
+by the owner. Parcels that are separated only by a public thoroughfare or
+right-of-way are considered to be contiguous.
+3."Headquarters" means a principal
+central administrative office where primary headquarters related functions and
+services are performed, including financial, personnel, administrative, legal,
+planning and similar business functions.
+4."Manufacturing" means fabricating,
+producing or manufacturing raw or prepared materials into usable products,
+imparting new forms, qualities, properties and
+combinations.Manufacturing does not include generating electricity.
+5."Qualified facility" means a facility
+in this state that devotes at least eighty per cent percent of the property and payroll at the facility to one
+or more of the following:
+(a)Qualified manufacturing.
+(b)Qualified headquarters.
+(c)Qualified research.
+6."Qualified headquarters" means a
+global, national or regional headquarters for a taxpayer that is involved in
+manufacturing and that derives at least sixtyfive per cent percent of its revenue from out-of-state sales.
+7."Qualified manufacturing" means
+manufacturing tangible products in this state if at least sixtyfive per cent percent of the product will be sold outof-state.
+8."Qualified research" has the same
+meaning prescribed by section 41(d) of the
+internal revenue code, as defined by section 43105, except that the
+research must be conducted by a taxpayer involved in manufacturing that derives
+at least sixtyfive per cent
+percent of its revenue
+from out-of-state sales.
+9."Qualifying investment" means
+investment in land, buildings, machinery, equipment and fixtures for expansion
+of an existing qualified facility or establishment of a new qualified facility
+in this state after June 30, 2012 for a facility completed in a taxable year
+beginning from and after December 31, 2012. Qualifying investment does not
+include relocating an existing qualified facility in this state to another
+location in this state without additional capital investment of at least two
+hundred fifty thousand dollars. END_STATUTE
+Sec.6.Section 43-1507, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE43-1507.Audits and financial reviews
+A.On or before September 30 of each year, each
+school tuition organization that received one million dollars or more in total
+donations in the previous fiscal year shall provide for a financial audit of
+the organization.The audit must be conducted in accordance with
+generally accepted auditing standards and must evaluate the organization's
+compliance with section 431503, subsection B, paragraph 1. The audit
+must be conducted by an independent certified public accountant who is licensed in this state or who has a limited reciprocity privilege pursuant to
+section 32725.The certified public accountant
+and the firm the certified public accountant is affiliated with shall be
+independent with respect to the organization, its officers and directors,
+services performed and all other independent relationships prescribed by
+generally accepted auditing standards.
+B.On or before September 30 of each year, each
+school tuition organization that received less than one million dollars in
+total donations in the previous fiscal year shall provide for a financial
+review of the organization. The review must be conducted in accordance with
+standards for accounting and review services and must evaluate the
+organization's compliance with the fiscal requirements of this article. The
+review must be conducted by an independent certified public accountant who is licensed in this state or who has a limited reciprocity privilege
+pursuant to section 32725.The certified public
+accountant and the firm the certified public accountant is affiliated with
+shall be independent with respect to the organization, its officers and
+directors, services performed and all other independent relationships
+prescribed by generally accepted auditing standards.
+C.Within five days after receiving the audit or
+financial review, the school tuition organization shall file a signed copy of
+the audit or financial review with the department.
+D.The school tuition organization shall pay the
+fees and costs of the certified public accountant under this section from the
+organization's operating monies. The fees and costs shall be excluded from the
+calculation of total revenues spent on scholarships and tuition grants. END_STATUTE
+Sec.7.Section 43-1605, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE43-1605.Audits and financial reviews
+A.On or before September 30 of each year, each
+school tuition organization that received one million dollars or more in total
+donations in the previous fiscal year shall provide for a financial audit of
+the organization. The audit must be conducted in accordance with generally
+accepted auditing standards and must evaluate the organization's compliance
+with section 431603, subsection B, paragraph 1. The audit must be
+conducted by an independent certified public accountant who is licensed in this state or who has a limited reciprocity privilege pursuant to
+section 32725. The certified public accountant and the
+firm the certified public accountant is affiliated with shall be independent
+with respect to the organization, its officers and directors, services
+performed and all other independent relationships prescribed by generally
+accepted auditing standards.
+B.On or before September 30 of each year, each
+school tuition organization that received less than one million dollars in
+total donations in the previous fiscal year shall provide for a financial
+review of the organization. The review must be conducted in accordance with
+standards for accounting and review services and must evaluate the
+organization's compliance with the fiscal requirements of this article. The
+review must be conducted by an independent certified public accountant who is licensed in this state or who has a limited reciprocity privilege
+pursuant to section 32725.The certified public
+accountant and the firm the certified public accountant is affiliated with
+shall be independent with respect to the organization, its officers and
+directors, services performed and all other independent relationships
+prescribed by generally accepted auditing standards.
+C.Within five days after receiving the audit or
+financial review the school tuition organization shall file a signed copy of
+the audit or financial review with the department.
+D.The school tuition organization shall pay the
+fees and costs of the certified public accountant under this section from the
+organization's operating monies. The fees and costs shall be excluded from the
+calculation of total revenues spent on scholarships and tuition grants. END_STATUTE
+

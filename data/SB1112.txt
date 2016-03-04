@@ -1,0 +1,753 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: pharmacists; scope of practice
+
+
+
+
+
+
+
+State of Arizona
+Senate
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+SB 1112
+
+
+
+
+
+
+
+
+
+Introduced by
+Senator
+  Barto
+
+
+
+
+
+AN ACT
+
+Amending sections
+321901, 321970 and 321974, Arizona Revised Statutes;
+relating to the Arizona state board of pharmacy.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 32-1901, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-1901.Definitions
+In this chapter, unless the context otherwise requires:
+1."Administer" means the direct
+application of a controlled substance, prescriptiononly drug, dangerous
+drug or narcotic drug, whether by injection, inhalation, ingestion or any other
+means, to the body of a patient or research subject by a practitioner or by the
+practitioner's authorized agent or the patient or research subject at the
+direction of the practitioner.
+2."Advertisement" means all
+representations disseminated in any manner or by any means, other than by
+labeling, for the purpose of inducing, or that are likely to induce, directly
+or indirectly, the purchase of drugs, devices, poisons or hazardous substances.
+3."Advisory letter" means a
+nondisciplinary letter to notify a licensee or permittee that either:
+(a)While there is insufficient evidence to support
+disciplinary action, the board believes that continuation of the activities
+that led to the investigation may result in further board action against the
+licensee or permittee.
+(b)The violation is a minor or technical violation
+that is not of sufficient merit to warrant disciplinary action.
+(c)While the licensee or permittee has demonstrated
+substantial compliance through rehabilitation, remediation or reeducation that
+has mitigated the need for disciplinary action, the board believes that
+repetition of the activities that led to the investigation may result in
+further board action against the licensee or permittee.
+4."Antiseptic", if a drug is represented
+as such on its label, means a representation that it is a germicide, except in
+the case of a drug purporting to be, or represented as, an antiseptic for
+inhibitory use as a wet dressing, ointment or dusting powder or other use that
+involves prolonged contact with the body.
+5."Authorized officers of the law" means
+legally empowered peace officers, compliance officers of the state board of pharmacy and agents of the
+division of narcotics enforcement and criminal intelligence of the department
+of public safety.
+6."Board" or "board of
+pharmacy" means the Arizona state board of pharmacy.
+7."Color additive" means a material that
+either:
+(a)Is any dye, pigment or other substance made by a
+process of synthesis or similar artifice, or extracted, isolated or otherwise
+derived, with or without intermediate or final change of identity, from any
+vegetable, animal, mineral or other source.
+(b)If added or applied to a drug, or to the human
+body or any part of the human body, is capable of imparting color, except that
+color additive does not include any material that has been or may be exempted
+under the federal act.Color includes black, white and intermediate
+grays.
+8."Compounding" means the preparation,
+mixing, assembling, packaging or labeling of a drug by a pharmacist or an
+intern or pharmacy technician under the pharmacist's supervision, for the
+purpose of dispensing to a patient based on a valid prescription
+order.Compounding includes the preparation of drugs in anticipation
+of prescription orders prepared on routine, regularly observed prescribing
+patterns and the preparation of drugs as an incident to research, teaching or
+chemical analysis or for administration by a medical practitioner to the
+medical practitioner's patient and not for sale or dispensing. Compounding
+does not include the preparation of commercially available products from bulk
+compounds or the preparation of drugs for sale to pharmacies, practitioners or
+entities for the purpose of dispensing or distribution.
+9."Compressed medical gas distributor"
+means a person who holds a current permit issued by the board to distribute
+compressed medical gases pursuant to a compressed medical gas order to
+compressed medical gas suppliers and other entities that are registered,
+licensed or permitted to use, administer or distribute compressed medical
+gases.
+10."Compressed medical gas order" means
+an order for compressed medical gases that is issued by a medical practitioner.
+11."Compressed medical gas supplier" means
+a person who holds a current permit issued by the board to supply compressed
+medical gases pursuant to a compressed medical gas order and only to the
+consumer or the patient.
+12."Compressed medical gases" means gases
+and liquid oxygen that a compressed medical gas distributor or manufacturer has
+labeled in compliance with federal law.
+13."Controlled substance" means a drug,
+substance or immediate precursor that
+is identified, defined or listed in title 36, chapter 27,
+article2.
+14."Corrosive" means any substance that
+when it comes in contact with living tissue will cause destruction of tissue by
+chemical action.
+15."Counterfeit drug" means a drug that,
+or the container or labeling of which, without authorization, bears the
+trademark, trade name or other identifying mark, imprint, number or device, or
+any likeness of these, of a manufacturer, distributor or dispenser other than
+the person who in fact manufactured, distributed or dispensed that drug.
+16."Dangerous drug" has the same meaning
+prescribed in section 133401.
+17."Decree of censure" means an official
+action that is taken by the board and that may include a requirement for
+restitution of fees to a patient or consumer.
+18."Deliver" or "delivery"
+means the actual, constructive or attempted transfer from one person to another
+whether or not there is an agency relationship.
+19."Deputy director" means a pharmacist
+who is employed by the board and selected by the executive director to perform
+duties as prescribed by the executive director.
+20."Device", except as used in paragraph
+15 of this section, section 321965, paragraph 4 and section 321967,
+subsection A, paragraph 15 and subsection C, means instruments, apparatus and
+contrivances, including their components, parts and accessories, including all
+such items under the federal act, intended either:
+(a)For use in the diagnosis, cure, mitigation,
+treatment or prevention of disease in the human body or other animals.
+(b)To affect the structure or any function of the
+human body or other animals.
+21."Direct supervision of a pharmacist"
+means the pharmacist is present.If relating to the sale of certain
+items, direct supervision of a pharmacist means that a pharmacist determines
+the legitimacy or advisability of a proposed purchase of those items.
+22."Director" means the director of the
+division of narcotics enforcement and criminal investigation of the department
+of public safety.
+23."Dispense" means to deliver to an
+ultimate user or research subject by or pursuant to the lawful order of a
+practitioner, including the prescribing, administering, packaging, labeling or
+compounding necessary to prepare for that delivery.
+24."Dispenser" means a practitioner who
+dispenses.
+25."Distribute" means to deliver, other
+than by administering or dispensing.
+26."Distributor" means a person who
+distributes.
+27."Drug" means:
+(a)Articles recognized, or for which standards or
+specifications are prescribed, in the official compendium.
+(b)Articles intended for use in the diagnosis,
+cure, mitigation, treatment or prevention of disease in the human body or other
+animals.
+(c)Articles other than food intended to affect the
+structure or any function of the human body or other animals.
+(d)Articles intended for use as a component of any
+articles specified in subdivision (a), (b) or (c) of this paragraph but does
+not include devices or their components, parts or accessories.
+28."Drug enforcement administration"
+means the drug enforcement administration of the United States department of
+justice or its successor agency.
+29."Drug or device manufacturing" means
+the production, preparation, propagation or processing of a drug or device,
+either directly or indirectly, by extraction from substances of natural origin
+or independently by means of chemical synthesis and includes any packaging or
+repackaging of substances or labeling or relabeling of its container and the
+promotion and marketing of the same.Drug or device manufacturing
+does not include compounding.
+30."Economic poison" means any substance
+that alone, in chemical combination or in formulation with one or more other
+substances is a pesticide within the meaning of the laws of this state or the
+federal insecticide, fungicide and rodenticide act and that is used in the
+production, storage or transportation of raw agricultural commodities.
+31."Established name", with respect to a
+drug or ingredient of a drug, means any of the following:
+(a)The applicable official name.
+(b)If there is no such name and the drug or
+ingredient is an article recognized in an official compendium, the official
+title in an official compendium.
+(c)If neither subdivision (a) nor (b) of this
+paragraph applies, the common or usual name of such drug.
+32."Executive director" means the
+executive director of the board of pharmacy.
+33."Federal act" means the federal laws
+and regulations that pertain to drugs, devices, poisons and hazardous
+substances and that are official at the time any drug, device, poison or
+hazardous substance is affected by this chapter.
+34."Full service wholesale permittee"
+means a permittee who may distribute prescriptiononly drugs and devices,
+controlled substances and overthecounter drugs and devices to
+pharmacies or other legal outlets from a place devoted in whole or in part to
+wholesaling these items.
+35."Graduate intern" means a person who
+has graduated from a college, school or program of pharmacy approved by the
+board and who meets the qualifications and experience for a pharmacy intern as
+provided in section 321923.
+36."Highly toxic" means any substance
+that falls within any of the following categories:
+(a)Produces death within fourteen days in half or
+more than half of a group of ten or more laboratory white rats each weighing
+between two hundred and three hundred grams, at a single dose of fifty
+milligrams or less per kilogram of body weight, when orally administered.
+(b)Produces death within fourteen days in half or
+more than half of a group of ten or more laboratory white rats each weighing
+between two hundred and three hundred grams, if inhaled continuously for a
+period of one hour or less at an atmospheric concentration of two hundred parts
+per million by volume or less of gas or vapor or two milligrams per liter by
+volume or less of mist or dust, provided the concentration is likely to be
+encountered by humans if the substance is used in any reasonably foreseeable
+manner.
+(c)Produces death within fourteen days in half or
+more than half of a group of ten or more rabbits tested in a dosage of two
+hundred milligrams or less per kilogram of body weight, if administered by
+continuous contact with the bare skin for twentyfour hours or less.
+If the board finds that available data on human experience with
+any substance indicate results different from those obtained on animals in the
+dosages or concentrations prescribed in this paragraph, the human data shall
+take precedence.
+37."Hospital" means any institution for
+the care and treatment of the sick and injured that is approved and licensed as
+a hospital by the department of health services.
+38."Intern" means a pharmacy intern and a
+graduate intern.
+39."Internship" means the practical,
+experiential, handson training of a pharmacy intern under the
+supervision of a preceptor.
+40."Irritant" means any substance, other
+than a corrosive, that on immediate, prolonged or repeated contact with normal
+living tissue will induce a local inflammatory reaction.
+41."Jurisprudence examination" means a board approved boardapproved pharmacy law examination
+that is written and administered in cooperation with the national association
+of boards of pharmacy or another board
+approved boardapproved
+pharmacy law examination.
+42."Label" means a display of written,
+printed or graphic matter on the immediate container of any article that, unless
+easily legible through the outside wrapper or container, also appears on the
+outside wrapper or container of the article's retail package.For
+the purposes of this paragraph, the immediate container does not include
+package liners.
+43."Labeling" means all labels and other
+written, printed or graphic matter either:
+(a)On any article or any of its containers or
+wrappers.
+(b)Accompanying that article.
+44."Letter of reprimand" means a
+disciplinary letter that is a public document issued by the board and that
+informs a licensee or permittee that the licensee's or permittee's conduct
+violates state or federal law and may require the board to monitor the licensee
+or permittee.
+45."Limited service pharmacy" means a
+pharmacy that is approved by the board to practice a limited segment of
+pharmacy as indicated by the permit issued by the board.
+46."Manufacture" or
+"manufacturer" means every person who prepares, derives, produces,
+compounds, processes, packages or repackages or labels any drug in a place,
+other than a pharmacy, devoted to manufacturing the drug.
+47."Marijuana" has the same meaning
+prescribed in section 133401.
+48."Medical practitioner" means any
+medical doctor, doctor of osteopathy, dentist, podiatrist, veterinarian or
+other person who is licensed
+and authorized by law to use and prescribe drugs and devices for the treatment
+of sick and injured human beings or animals or for the diagnosis or prevention
+of sickness in human beings or animals in this state or any state, territory or
+district of the United States.
+49."Medication order" means a written or
+verbal order from a medical practitioner or that person's authorized agent to
+administer a drug or device.
+50."Narcotic drug" has the same meaning
+prescribed in section 133401.
+51."New
+drug" means either:
+(a)Any drug the
+composition of which is such that the drug is not generally recognized among
+experts qualified by scientific training and experience to evaluate the safety
+and effectiveness of drugs as safe and effective for use under the conditions
+prescribed, recommended or suggested in the labeling.
+(b)Any drug the composition of which is such that
+the drug, as a result of investigations to determine its safety and
+effectiveness for use under such conditions, has become so recognized, but that
+has not, other than in the investigations, been used to a material extent or
+for a material time under those conditions.
+52."Nonprescription drug" or "overthecounter
+drug" means any nonnarcotic medicine or drug that may be sold without a
+prescription and is prepackaged and labeled for use by the consumer in
+accordance with the requirements of the laws of this state and federal
+law.Nonprescription drug does not include:
+(a)A drug that is primarily advertised and promoted
+professionally to medical practitioners and pharmacists by manufacturers or
+primary distributors.
+(b)A controlled substance.
+(c)A drug that is required to bear a label that
+states "Rx only."
+(d)A drug that
+is intended for human use by hypodermic injection.
+53."Nonprescription drug wholesale
+permittee" means a permittee who may distribute only overthecounter
+drugs and devices to pharmacies or other lawful outlets from a place devoted in
+whole or in part to wholesaling these items.
+54."Notice" means personal service or the
+mailing of a copy of the notice by certified mail addressed either to the
+person at the person's latest address of record in the board office or to the
+person's attorney.
+55."Official compendium" means the latest
+revision of the United States pharmacopeia and the national formulary or any
+current supplement.
+56."Other jurisdiction" means one of the
+other fortynine states, the District of Columbia, the Commonwealth of
+Puerto Rico or a territory of the United States of America.
+57."Package" means a receptacle defined
+or described in the United States pharmacopeia and the national formulary as
+adopted by the board.
+58."Packaging" means the act or process
+of placing a drug item or device in a container for the purpose or intent of
+dispensing or distributing the item or device to another.
+59."Person" means an individual,
+partnership, corporation and association, and their duly authorized agents.
+60."Pharmaceutical care" means the
+provision of drug therapy and other pharmaceutical patient care services.
+61."Pharmacist" means an individual who is currently licensed by
+the board to practice the profession of pharmacy in this state.
+62."Pharmacist in charge" means the
+pharmacist who is responsible to the board for a licensed establishment's
+compliance with the laws and administrative rules of this state and of the
+federal government pertaining to the practice of pharmacy, the manufacturing of
+drugs and the distribution of drugs and devices.
+63."Pharmacist licensure examination"
+means a board approved boardapproved
+examination that is written and administered in cooperation with the national
+association of boards of pharmacy or any other board approved boardapproved pharmacist licensure
+examination.
+64."Pharmacy" means any place:
+(a)Where drugs, devices, poisons or related
+hazardous substances are offered for sale at retail.
+(b)In which the profession of pharmacy is practiced
+or where prescription orders are compounded and dispensed.
+(c)That has displayed on it or in it the words
+"pharmacist," "pharmaceutical chemist,"
+"apothecary," "druggist," "pharmacy,"
+"drugstore," "drugs" or "drug sundries" or any of
+these words or combinations of these words, or words of similar import either
+in English or any other language, or that is advertised by any sign containing
+any of these words.
+(d)Where the characteristic symbols of pharmacy or
+the characteristic prescription sign "Rx" is exhibited.
+(e)Or a portion of any building or structure that
+is leased, used or controlled by the permittee to conduct the business
+authorized by the board at the address for which the permit was issued and that
+is enclosed and secured when a pharmacist is not in attendance.
+65."Pharmacy intern" means a person who
+has all of the qualifications and experience prescribed in section 321923.
+66."Pharmacy technician" means a person
+who is licensed pursuant to this chapter.
+67."Pharmacy technician trainee" means a
+person who is licensed pursuant to this chapter.
+68."Poison" or "hazardous
+substance" includes, but is not limited to, any of the following if
+intended and suitable for household use or use by children:
+(a)Any substance that, according to standard works
+on medicine, pharmacology, pharmacognosy or toxicology, if applied to,
+introduced into or developed within the body in relatively small quantities by
+its inherent action uniformly produces serious bodily injury, disease or death.
+(b)A toxic substance.
+(c)A highly toxic substance.
+(d)A corrosive substance.
+(e)An irritant.
+(f)A strong sensitizer.
+(g)A mixture of any of the substances described in
+this paragraph, if the substance or mixture of substances may cause substantial
+personal injury or substantial illness during or as a proximate result of any
+customary or reasonably foreseeable handling or use, including reasonably
+foreseeable ingestion by children.
+(h)A substance that is designated by the board to be a poison
+or hazardous substance.This subdivision does not apply to
+radioactive substances, economic poisons subject to the federal insecticide,
+fungicide and rodenticide act or the state pesticide act, foods, drugs and
+cosmetics subject to state laws or the federal act or substances intended for
+use as fuels when stored in containers and used in the heating, cooking or
+refrigeration system of a house. This subdivision applies to any substance or
+article that is not itself an economic poison within the meaning of the federal
+insecticide, fungicide and rodenticide act or the state pesticide act, but that
+is a poison or hazardous substance within the meaning of this paragraph by
+reason of bearing or containing an economic poison or hazardous substance.
+69."Practice of pharmacy" means
+furnishing the following health care services as a medical professional:
+(a)Interpreting, evaluating and dispensing
+prescription orders in the patient's best interests.
+(b)Compounding drugs pursuant to or in anticipation
+of a prescription order.
+(c)Labeling of drugs and devices in compliance with
+state and federal requirements.
+(d)Participating in drug selection and drug
+utilization reviews, drug administration, drug or drug-related research and
+drug therapy monitoring or management.
+(e)Providing patient counseling necessary to
+provide pharmaceutical care.
+(f)Properly and safely storing drugs and devices in
+anticipation of dispensing.
+(g)Maintaining required records of drugs and
+devices.
+(h)Offering or performing of acts, services,
+operations or transactions necessary in the conduct, operation, management and
+control of a pharmacy.
+(i)Implementing Initiating, monitoring and
+modifying drug therapy pursuant to a protocolbased drug therapy
+agreement with a provider as outlined in section 321970.
+(j)Initiating and administering immunizations or
+vaccines pursuant to section 321974.
+70."Practitioner" means any physician,
+dentist, veterinarian, scientific investigator or other person who is licensed,
+registered or otherwise permitted to distribute, dispense, conduct research
+with respect to or administer a controlled substance in the course of
+professional practice or research in this state, or any pharmacy, hospital or
+other institution that is licensed, registered or otherwise permitted to
+distribute, dispense, conduct research with respect to or administer a
+controlled substance in the course of professional practice or research in this
+state.
+71."Preceptor" means a pharmacist who is
+serving as the practical instructor of an intern and complies with section 321923.
+72."Precursor chemical" means a substance
+that is:
+(a)The principal compound that is commonly used or
+that is produced primarily for use and that is an immediate chemical
+intermediary used or likely to be used in the manufacture of a controlled
+substance, the control of which is necessary to prevent, curtail or limit manufacture.
+(b)Listed in section 133401, paragraph 26 or
+27.
+73."Prescription" means either a
+prescription order or a prescription medication.
+74."Prescription medication" means any
+drug, including label and container according to context, that is dispensed
+pursuant to a prescription order.
+75."Prescriptiononly device"
+includes:
+(a)Any device that is limited by the federal act to
+use under the supervision of a medical practitioner.
+(b)Any device required by the federal act to bear
+on its label essentially the legend "Rx only".
+76."Prescriptiononly drug" does
+not include a controlled substance but does include:
+(a)Any drug that because of its toxicity or other
+potentiality for harmful effect, the method of its use, or the collateral
+measures necessary to its use is not generally recognized among experts,
+qualified by scientific training and experience to evaluate its safety and
+efficacy, as safe for use except by or under the supervision of a medical
+practitioner.
+(b)Any drug that is limited by an approved new drug
+application under the federal act or section 321962 to use under the
+supervision of a medical practitioner.
+(c)Every potentially harmful drug, the labeling of
+which does not bear or contain full and adequate directions for use by the
+consumer.
+(d)Any drug, other than a controlled substance,
+required by the federal act to bear on its label the legend "Rx
+only".
+77."Prescription order" means any of the
+following:
+(a)An order to a pharmacist for drugs or devices
+issued and signed by a duly licensed medical practitioner in the authorized
+course of the practitioner's professional practice.
+(b)An order transmitted to a pharmacist through
+word of mouth, telephone or other means of communication directed by that
+medical practitioner.Prescription orders received by word of mouth,
+telephone or other means of communication shall be maintained by the pharmacist
+pursuant to section 321964, and the record so made by the pharmacist
+constitutes the original prescription order to be dispensed by the
+pharmacist.This paragraph does not alter or affect laws of this
+state or any federal act requiring a written prescription order.
+(c)An order initiated by a pharmacist pursuant to a
+protocol-based drug therapy agreement with a provider as outlined in section
+32-1970, or immunizations or vaccines administered by a pharmacist pursuant to
+section 321974.
+78."Professionally incompetent" means:
+(a)Incompetence based on a variety of factors, including a lack of
+sufficient pharmaceutical knowledge or skills or experience to a degree likely
+to endanger the health of patients.
+(b)When considered with other indications of
+professional incompetence, a pharmacist, pharmacy intern or graduate intern who
+fails to obtain a passing score on a board
+approved boardapproved
+pharmacist licensure examination or a pharmacy technician or pharmacy
+technician trainee who fails to obtain a passing score on a board approved boardapproved pharmacy technician
+licensure examination.
+79."Radioactive substance" means a
+substance that emits ionizing radiation.
+80."Safely engage in employment duties"
+means that a permittee or the permittee's employee is able to safely engage in
+employment duties related to the manufacture, sale, distribution or dispensing
+of drugs, devices, poisons, hazardous substances, controlled substances or
+precursor chemicals.
+81."Symbol" means the characteristic
+symbols that have historically identified pharmacy, including "show globes", and
+"mortar
+and pestle, " and the sign
+"Rx".
+82."Toxic substance" means a substance,
+other than a radioactive substance, that has the capacity to produce injury or
+illness in humans through ingestion, inhalation or absorption through any body
+surface.
+83."Ultimate user" means a person who
+lawfully possesses a drug or controlled substance for that person's own use,
+for the use of a member of that person's household or for administering to an
+animal owned by that person or by a member of that person's household. END_STATUTE
+Sec.2.Section 32-1970, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-1970.Initiating, monitoring and modifying drug therapy and use;
+conditions; definitions
+A.A pharmacist licensed pursuant to this chapter
+may implement initiate, monitor and modify
+drug therapy and use only under the following circumstances:
+1.The patient's drug therapy and use are pursuant
+to a provider.
+2.The pharmacist complies with rules adopted by the
+state board of pharmacy.
+3.The pharmacist follows the written drug therapy
+management protocols prescribed by the provider who made the diagnosis and implements initiates, monitors or modifies a person's
+drug therapy and use only pursuant to those protocols.Each protocol
+developed pursuant to the drug therapy agreement shall contain detailed
+directions concerning the actions that the pharmacist may perform for that
+patient.The protocol shall specify, at a minimum, the specific drug
+or drugs to be managed by the pharmacist, the conditions and events for which
+the pharmacist must notify the provider and the laboratory tests that may be
+ordered.A provider who enters into a protocolbased drug
+therapy agreement must have a legitimate providerpatient relationship.
+B.A licensee who violates this section commits an
+act of unprofessional conduct.
+C.A pharmacist is responsible for the pharmacist's
+negligent acts that are the result of the pharmacist's change of medication or
+that relate to patient drug usage pursuant to drug therapy management
+protocols. This subsection does not limit a provider's liability for negligent
+acts that are not related to a pharmacist's change of medication pursuant to
+the protocols.
+D.For the purposes of this section:
+1."Implement Initiate, monitor and
+modify" means that a pharmacist may perform specific acts as authorized by
+a provider pursuant to written guidelines and protocols.This does
+not include the selection of drug products not prescribed by the provider
+unless selection of the specific drug product is authorized by the written
+guidelines and protocols.
+2."Protocol" means a provider's written
+order, written standing medical order or other written order of protocol as
+defined by rules adopted by the Arizona medical board, and
+the Arizona board of
+osteopathic examiners in medicine and surgery and the Arizona state board of nursing and
+that are patient, provider and pharmacist specific for prescriptions or orders
+given by the provider authorizing the written protocol.
+3."Provider" means a physician who is
+licensed pursuant to chapter 13 or 17 of this title or a registered nurse
+practitioner who is licensed pursuant to chapter 15 of this title and who acts
+as a primary care practitioner. END_STATUTE
+Sec.3.Section 32-1974, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-1974.Pharmacists; administration of immunizations, vaccines and
+emergency medications; certification; reporting requirements; advisory
+committee; definitions
+A.Except as prescribed pursuant to subsection I of
+this section, a pharmacist who is licensed pursuant to this chapter and who
+meets the requirements of this section may administer the following to adults
+without a prescription order pursuant to rules and protocols adopted by the
+board pursuant to this section:
+1.Immunizations or vaccines listed in recommended for adults by the United States centers for
+disease control and prevention's
+recommended adult immunization schedule prevention.
+2.Immunizations or vaccines recommended by the
+United States centers for disease control and prevention's health information
+for international travel.
+B.A pharmacist who is licensed pursuant to this
+chapter and who meets the requirements of this section may administer the
+following to a person who is at least six
+years of age but under eighteen years of age minors without a prescription order pursuant
+to rules and protocols adopted by the board pursuant to this section:
+1.influenza
+immunizations or vaccines for
+influenza to a person who
+is at least three years of age.
+2.Immunizations
+or vaccines in response to a public health emergency declared by the governor
+pursuant to section 36787.
+2.Booster
+doses for the primary adolescent series as recommended by the United States
+centers for disease control and prevention.
+3.Immunizations
+or vaccines recommended by the United States centers for disease control and
+prevention to a person who is at least thirteen years of age.
+C.Pursuant to
+a prescription order
+except as prescribed in subsection B of this section, a
+pharmacist who is licensed pursuant to this chapter and who meets the
+requirements of this section may administer immunizations and vaccines, including the first dose for the primary
+adolescent series, to a person who is at least six years of age
+but under eighteen thirteen years of age only with a prescription order and pursuant
+to rules and protocols adopted by the board pursuant to this section.
+D.A pharmacist who wishes to administer
+immunizations and vaccines pursuant to this section must be certified to do so
+by the board. The board shall issue a certificate to a pharmacist who meets
+board requirements for certification as prescribed by the board by rule.
+E.A pharmacist who is certified to administer
+immunizations and vaccines pursuant to this section may administer without a prescription order:
+1.Emergency
+medication to manage an acute allergic reaction to an immunization, or vaccine or medication in accordance with the United States centers
+for disease control and prevention immunization guidelines.
+2.Immunizations
+or vaccines to any person regardless of age during a public health emergency
+response of this state pursuant to section 36787.
+F.A pharmacist who administers an immunization,
+vaccine or emergency medication pursuant to this section must:
+1.Report the administration to the person's Identified primary care
+provider or physician, if the primary
+care provider or physician is available, within forty-eight hours
+after administering the immunization, vaccine or emergency medication and as
+prescribed by the board by rule.
+Failure to report the administration of an immunization, vaccine or emergency
+medication pursuant to this section is a violation of section 321901.01,
+subsection B, paragraph 2. The pharmacist shall make a reasonable effort to
+identify the person's primary care provider or physician by one or more of the
+following methods:
+(a)Checking any adult immunization
+information system or vaccine registry established by the department of health
+services.
+(b)Checking pharmacy records.
+(c)Requesting the information from
+the person or, in the case of a minor, the person's parent or guardian. If the
+person, parent or guardian reports not having a primary care provider or
+physician, the person, parent or guardian must sign an attestation to that
+effect and the pharmacist shall counsel the person, parent or guardian on the
+importance of finding a primary care provider or physician.
+2.Report information to any adult immunization
+information system or vaccine registry established by the department of health
+services.
+3.Maintain a record of the immunization pursuant to
+title 12, chapter 13, article 7.1 and as prescribed by the board by rule.
+4.Report to
+the person's identified primary care provider or physician, within twentyfour
+hours of occurrence, any adverse reaction listed by the vaccine manufacturer as
+a contraindication to further doses of the vaccine.
+4.5.Participate
+in any federal vaccine adverse event reporting system or successor database.
+G.This section does not establish a cause of action
+against a patient's primary care provider or physician for any adverse reaction,
+complication or negative outcome arising from the administration of any
+immunization, vaccine or emergency medication by a pharmacist to a the
+patient pursuant to this section if it is administered without a
+prescription order written
+by the patient's primary care provider
+or physician.
+H.The board shall adopt rules for the
+administration of vaccines or immunizations pursuant to this section regarding:
+1.Protocols that are based on protocols approved by
+the United States centers for disease control and prevention and any advisory
+committee appointed by the board for the purpose of recommending protocols.
+2.Record
+keeping Recordkeeping
+and reporting requirements.
+3.Requirements and qualifications for pharmacist
+certification pursuant to this section.
+4.Vaccine information and educational materials for
+those requesting vaccines and immunizations.
+5.The administration of emergency medication
+pursuant to this section.
+I.The department of health services, by rule, shall
+establish and maintain a list of immunizations or vaccines that may be
+administered to adults by a pharmacist only pursuant to a prescription order.
+In adopting and maintaining this list, the department is exempt from the rule making rulemaking requirements of title 41, chapter
+6. The department shall adopt its initial rules within six months after
+receipt of the recommendations of the advisory committee appointed by the board
+and shall hold one public hearing before implementing the rules and any
+amendments to the rules. The list shall include those immunizations or
+vaccines listed in the United States centers for disease control and
+prevention's recommended adult immunization schedule or recommended by the
+United States centers for disease control and prevention's health information
+for international travel that have adverse reactions that could cause
+significant harm to a patient's health.A pharmacist may not
+administer immunizations or vaccines without a prescription order pursuant to
+this section before the department has established the list pursuant to this
+subsection.The board may not authorize a pharmacist to administer
+new immunizations or vaccines without a prescription order pursuant to this
+section until the department reviews the new immunizations and vaccines to
+determine if they should be added to the list established pursuant to this
+subsection.
+J.The board may appoint an advisory committee to
+assist the board in adopting and amending rules and developing protocols
+relating to the administration of immunizations, vaccines and emergency medications
+and certification requirements.
+K.A pharmacy intern who is certified by the board
+to administer immunizations and vaccines pursuant to this section may do so
+only in the presence and under the immediate personal supervision of a
+pharmacist who is certified
+as prescribed in this section.
+L.This section does not prevent a pharmacist who
+administers an immunization or vaccine from participating in the federal
+vaccines for children program.
+M.A pharmacist may not administer an immunization
+or vaccine to a minor pursuant to
+subsection B or C of this section without the consent of the
+minor's parent or guardian.
+N.For the purposes of this section: ,
+1."Emergency
+medication" means emergency epinephrine and diphenhydramine and antihistamines in accordance with the United States
+centers for disease control and prevention immunization guidelines.
+2."Primary
+adolescent series" means those immunizations or vaccines recommended by
+the United States Centers for disease control and prevention for children
+starting at age eleven or twelve. END_STATUTE
+Sec.4.Legislative intent
+It is the intent of the legislature that the changes made by
+this act to section 321974, Arizona Revised Statutes, allow families
+greater access to immunizations and vaccinations, maintain and enhance
+collaboration between pharmacists and primary care providers and affirm the
+importance of annual wellchild visits in a medical home during critical
+developmental ages. This act recognizes the efficiencies and improved outcomes
+when care is delivered through a medical home where a primary care provider
+working in collaboration with the family and other providers oversees acute,
+chronic and preventative health needs in a coordinated and comprehensive
+fashion.
+

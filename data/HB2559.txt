@@ -1,0 +1,296 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: eligibility verification; public
+  programs
+
+
+
+
+
+
+
+State of Arizona
+House of Representatives
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+HB 2559
+
+
+
+
+
+
+
+
+
+Introduced by
+Representative
+  Kern
+
+
+
+
+
+AN ACT
+
+Amending Title
+46, Arizona Revised Statutes, by adding chapter 8; relating to fraud in public
+programs.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Title
+46, Arizona Revised Statutes, is amended by adding chapter 8, to read:
+CHAPTER 8
+FRAUD PREVENTION
+ARTICLE
+1.GENERAL PROVISIONS
+START_STATUTE46-901.Definitions
+In this chapter, unless the context otherwise requires:
+1."Department" means the department of
+economic security.
+2."Identity information" means an applicant or
+recipient's full name, aliases, date of birth, address, social security number
+and other related information.END_STATUTE
+START_STATUTE46-902.Enhanced eligibility verification system
+A.The department shall establish a computerized income, asset and identity
+eligibility verification system in order to verify eligibility, eliminate the
+duplication of assistance and deter waste, fraud and
+abuse within each respective assistance program administered by the department.
+B.The department
+shall contract with a thirdparty vendor for the purposes of developing a
+system to verify applicant income, asset and
+identity information to prevent fraud, misrepresentation and inadequate
+documentation when
+determining an applicant's
+eligibility for assistance before the distribution of benefits, periodically
+between eligibility redeterminations and during
+eligibility redeterminations and reviews. The department may also contract with a vendor to provide information to
+facilitate recipient eligibility reviews conducted by the department.
+C.The contract with a third-party vendor must:
+1.Require that the vendor, in partnership with the department,
+establish annualized savings realized from the implementation of the
+eligibility verification system and savings must exceed the total yearly cost
+to this state for implementing the verification system.
+2.Have a payment structure that is based on a per
+applicant rate and may include a performance bonus for achieving above a
+predetermined rate of success of identifying waste, fraud and abuse.
+D.To avoid any conflict of interest, when the department
+enters into a contract with a third-party vendor, that primary vendor may not
+currently and is not allowed to bid on or be awarded a state contract to run
+enrollment services.
+E.This section does not preclude the department from
+continuing to conduct additional eligibility verification processes that are
+currently in practice. END_STATUTE
+START_STATUTE46-903.Verification of identity and asset information
+A.Notwithstanding
+any other provision of this title, all applications for benefits shall be
+processed within the minimum period of time required by federal
+law.Before awarding assistance, and on a quarterly basis
+thereafter, the department shall verify identity information of each respective
+applicant and recipient of assistance from the department against all of the
+following:
+1.Earned and unearned income information maintained by
+the internal revenue service.
+2.Employer weekly, monthly or quarterly reports of
+income and unemployment insurance payment information maintained by the
+industrial commission of Arizona.
+3.Earned income information maintained by the United
+States social security administration.
+4.Immigration status information maintained by United
+States citizenship and immigration services.
+5.Death register information maintained by the United
+States social security administration.
+6.Prisoner information maintained by the United States
+social security administration.
+7.Public housing and section 8 housing assistance
+payment information maintained by the United States department of housing and
+urban development.
+8.National fleeing felon information maintained by the
+federal bureau of investigation.
+9.Wage reporting and similar information maintained by
+states contiguous to this state.
+10.Beneficiary records and earnings
+information maintained by the United States social security administration in
+its beneficiary and earnings data exchange database.
+11.Earnings and pension information
+maintained by the United States social security administration in its
+beneficiary earnings exchange record system database.
+12.Employment information maintained by
+this state.
+13.Employment information maintained by
+the United States department of health and human services in its national
+directory of new hires database.
+14.Supplemental security income
+information maintained by the United States social security administration in
+its state data exchange database.
+15.Veterans' benefits information
+maintained by the United States department of health and human services, in
+coordination with the Arizona department of health services and the Arizona
+department of veterans' services, in the federal public assistance reporting
+information system database.
+16.Child care services information
+maintained by the department.
+17.Utility payments information
+maintained by this state under any low income home energy assistance program.
+18.Emergency utility payment information
+maintained by this state or local governments.
+19.A database of all persons who
+currently hold a license, permit or certificate from any state agency, the cost
+of which exceeds five hundred dollars.
+20.Income and employment information
+maintained by the department of economic security and the United States
+department of health and human services' office of child support enforcement.
+21.Earnings and pension information
+maintained by the Arizona state retirement system and the public safety
+personnel retirement system.
+22.Any existing realtime database
+of persons currently receiving benefits in other states, such as the national
+accuracy clearinghouse.
+23.A database that is substantially
+similar to the database established pursuant to section 46902.
+B.Before awarding assistance, and on a quarterly basis,
+the department shall match identity information of each respective applicant
+and recipient of assistance from the department against, at a minimum, the
+following public records:
+1.A nationwide public records data source of physical
+asset ownership, including real property, automobiles, watercraft, aircraft and
+luxury vehicles or any other vehicle owned by the applicant and recipient of
+assistance.
+2.A nationwide public records data source of
+incarcerated individuals.
+3.A nationwide bestaddress and driver license
+data source to verify that the individuals are residents of this state.
+4.A comprehensive public records database that
+identifies potential identity fraud or identity theft and that can closely
+associate name, social security number, date of birth, telephone and address information.
+5.National and local financial institutions, in order to
+locate undisclosed depository accounts or verify account balances of disclosed
+accounts.
+6.Outstanding default or arrest warrant information
+maintained by the criminal history systems board, the criminal justice
+information system and the warrant management system.
+7.A database that is substantially similar to the
+database established pursuant to section 46902. END_STATUTE
+START_STATUTE46-904.Enhanced identity authentication process
+Before
+awarding assistance, applicants for benefits shall complete a computerized identity authentication process that
+confirms the applicant owns the identity presented in the application. The department shall review the respective applicant's or recipient's identity ownership using the
+following procedures:
+1.Provide a knowledgebased quiz consisting of financial
+or personal questions. The quiz shall
+attempt to accommodate nonbanked or underbanked applicants who do not have
+an established credit history.
+2.Require that the quiz for
+applications be available for submission through all channels, including
+online, in person and by telephone. END_STATUTE
+START_STATUTE46-905.Identity information discrepancies; department action
+A.If a discrepancy results from an
+applicant's or recipient's identity information and one or more of the databases
+or information tools listed under this article, the department shall review the
+respective applicant's or recipient's case using the following procedures:
+1.If the information discovered does not result in the
+department finding a discrepancy or change in an applicant's or recipient's
+circumstances that may affect eligibility, the department shall take no further
+action.
+2.If the information discovered results in the
+Department finding a discrepancy or change in an applicant's or recipient's
+circumstances that may affect eligibility, the department shall promptly
+redetermine eligibility after receiving the information.
+3.If the information discovered results in the
+department finding a discrepancy or change in an applicant's or recipient's
+circumstances that may affect eligibility, the applicant or recipient shall be
+given an opportunity to explain the discrepancy. Selfdeclarations by
+applicants or recipients may not be accepted as verification of categorical and
+financial eligibility during eligibility evaluations, reviews and
+redeterminations.
+B.The Department shall provide written notice to the
+applicant or recipient, which shall describe in sufficient detail the
+circumstances of the discrepancy or change, the manner in which the applicant
+or recipient may respond and the consequences of failing to take
+action.The applicant or recipient must respond within ten business
+days or the minimum required by state or federal law in an attempt to resolve
+the discrepancy or change. The recipient's or applicant's explanation must be
+in writing. After receiving the explanation, the department may request
+additional documentation if it determines that there is risk of fraud,
+misrepresentation or inadequate documentation.
+C.If the applicant or recipient does not respond to the
+notice, the department shall deny or discontinue assistance for failure to
+cooperate, in which case the department shall provide notice of intent to deny
+or discontinue assistance. Eligibility for assistance may not be established
+or reestablished until the discrepancy or change has been resolved.
+D.If an applicant or recipient disagrees with the
+findings of the match between the applicant's or recipient's identity
+information and one or more databases or information tools listed under this
+article, the department shall reinvestigate the matter. If the department
+finds that there has been an error, the department shall take immediate action
+to correct it and no further action shall be taken. If, after an
+investigation, the department determines that there is no error, the department
+shall determine the effect on the applicant's or recipient's case and take
+appropriate action.The department shall give written notice of its
+action to the applicant or recipient.
+E.If the applicant or recipient agrees with the findings
+of the match between the applicant's or recipient's identity information and
+one or more databases or information tools listed under this article, the
+department shall determine the effect on the applicant's or recipient's case
+and take appropriate action. The department shall give written notice of its
+action to the applicant or recipient. The department may not discontinue
+assistance on finding a discrepancy or change in circumstances between an
+applicant's or recipient's identity information and one or more databases or
+information tools listed under this article until the applicant or recipient
+has been given notice of the discrepancy and the opportunity to respond as
+required by this section.
+F.The department shall adopt rules necessary to implement this article.END_STATUTE
+START_STATUTE46-906.Referrals for fraud, misrepresentation or inadequate
+documentation
+A.After
+reviewing changes or discrepancies that may affect program eligibility, the
+department shall:
+1.Refer suspected cases of fraud to the attorney general
+for investigation and possible criminal prosecution, recovery of improper
+payments and collection of civil penalties.
+2.Refer suspected cases of identity fraud to the
+attorney general for criminal prosecution.
+3.Refer suspected cases of fraud, misrepresentation or
+inadequate documentation to appropriate agencies, divisions or departments for
+review of eligibility discrepancies in other state public programs, including
+cases in which an individual is determined to be no longer eligible for the
+original program.
+B.In cases of fraud substantiated by the department, on
+conviction this state shall review all legal options to remove recipients from
+other public programs and to garnish wages or state income tax refunds until
+this state recovers an amount equal to the amount of benefits fraudulently
+received. END_STATUTE
+START_STATUTE46-907.Report
+On or before July 1, 2017 and each year thereafter, the department
+shall provide a written report to the president of the senate, the speaker of
+the house of representatives and the governor and shall provide a copy to the
+secretary of state detailing the effectiveness and general findings of the
+eligibility verification system, including the number of cases reviewed, the
+number of case closures, the number of referrals for criminal prosecution,
+recovery of improper payment and collection of civil penalties and the outcomes
+of any cases referred to the attorney general and the savings that have
+resulted from the system.END_STATUTE
+Sec.2.Effective date
+This act is effective from and
+after December 31, 2017.
+

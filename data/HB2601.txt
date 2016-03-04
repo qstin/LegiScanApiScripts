@@ -1,0 +1,847 @@
+
+
+
+
+
+
+
+
+
+REFERENCE TITLE: R&D tax credits; conversion;
+  application
+
+
+
+
+
+
+
+State of Arizona
+House of Representatives
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+HB 2601
+
+
+
+
+
+
+
+
+
+Introduced by
+Representative
+  Livingston
+
+
+
+
+
+AN ACT
+
+Amending title
+41, chapter 10, article 1, Arizona Revised Statutes, by adding section
+41-1507.02; amending section 42-1118, Arizona Revised Statutes; amending
+section 43-1074.01, Arizona Revised Statutes, as amended by Laws 2014, chapter
+168, section 5; amending section 43-1074.01, Arizona Revised Statutes, as
+amended by Laws 2014, chapter 168, section 6; amending section 43-1168, Arizona
+Revised Statutes, as amended by Laws 2014, chapter 168, section 9; amending
+section 43-1168, Arizona Revised Statutes, as amended by Laws 2014, chapter
+168, section 10; relating to income tax credits.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Title 41, chapter 10, article 1,
+Arizona Revised Statutes, is amended by adding section 41-1507.02, to read:
+START_STATUTE41-1507.02.Income tax credit for increased research activities;
+qualification for conversion of amount carried forward; application; fee;
+definition
+A.The
+authority shall receive applications from and evaluate and certify taxpayers
+who are carrying forward unused amounts of an income tax credit for increased
+research activities under section 43-1074.01 or 43-1168 to further qualify to
+convert a portion of the unused balance of the tax credit, at the taxpayer's
+option either:
+1.To offset
+the transaction privilege tax burden with respect to contracts for the
+construction of fixed capital assets in this state that are owned by the
+taxpayer.
+2.Into cash
+reimbursements for infrastructure improvements and other capital expenditures
+associated with projects in this state.
+B.The
+amount of the tax credit that may be converted under this section is
+eighty-five percent of the amount requested for conversion.The
+taxpayer waives the remaining fifteen percent of the unused amount of the tax
+credits requested on approval of the conversion.
+C.To be
+eligible for the conversion of unused income tax credits under this section,
+the taxpayer must make new capital investment or create or retain employment in
+this state after December 31, 2016 as follows:
+1.The
+investment requirement for fixed capital assets must equal at least _________
+million dollars.
+2.The
+employment requirement must involve the creation or retention of at least _________
+employment positions at the location or locations of the capital investment to
+which all of the following apply:
+(a)Each employment position
+consists of at least one thousand seven hundred fifty hours per year of
+full-time permanent employment.
+(b)The job duties are performed
+primarily at the location or locations of the capital investment.
+(c)The employer pays compensation
+at least equal to the median wage by county as computed annually by the
+authority.
+D.The
+taxpayer must apply to the authority for conversion of tax credits in a form
+that is prescribed by the authority and that includes all of the following
+information:
+1.The
+taxpayer's name, address and taxpayer identification number and a telephone
+number and e-mail address of a person responsible for the application.
+2.A general
+description of the taxpayer's business and the research activities conducted by
+the taxpayer.
+3.The
+address of the site where the fixed capital assets are located.
+4.A general
+description of the business activities conducted at the location.
+5.The
+amount of capital investment or number of employment positions at the location,
+including:
+(a)A schedule of qualifying
+investments.
+(b)A list of full-time employment
+positions, the number of employees hired for the positions and the annual
+compensation for each position, calculated without employee-related benefits.
+6.The
+amount of the taxpayer's outstanding tax credits under section 43-1074.01 or
+43-1168, as applicable, to be converted under this section.
+7.Other
+information as required by the authority to determine eligibility for the
+conversion of tax credits under this section.
+8.An
+affirmation, signed by an authorized executive representing the taxpayer, that
+the applicant:
+(a)Agrees to furnish records of
+expenditures for capital investments to the authority on request.
+(b)Will continue in business at the
+qualifying location for five full calendar years after approval, other than for
+reasons beyond the control of the applicant.
+(c)Agrees to allow site visits and
+audits to verify the applicant's qualification and the accuracy of information
+submitted to the authority.
+E.The
+applicant shall include with the application a nonrefundable processing fee in
+an amount determined by the authority.
+F.The
+authority shall process and evaluate each application and, within thirty days
+after receiving a complete and correct application, shall Notify the applicant
+either:
+1.Of
+approval and issue a certificate of conversion of the tax credits. The
+applicant must present the certificate of conversion to the department of
+revenue as provided by section 42-1118 for a refund of transaction privilege
+tax amounts incurred with respect to construction contracts associated with the
+capital investment.
+2.Of
+failure to qualify with specific reasons for the failure. A failure to qualify
+does not preclude a subsequent application and approval if the applicant
+corrects any error or deficiency.
+G.The
+authority may not approve the conversion of income tax credit carryovers under
+this section exceeding a total of twenty million dollars in any fiscal year.
+Conversions are allowed on a first-come, first-served basis according to the
+date the application is filed with the authority.An approved amount
+applies against the dollar limit for the fiscal year in which the authority
+received the complete and correct application. If, at the end of the year, an
+unused balance occurs under the dollar limit prescribed in this subsection, the
+unused balance rolls over to add to the conversion capacity of the following
+year.
+H.For the
+purposes of this section, "capital investment" means an expenditure
+to acquire, lease or improve property that is used in operating a business,
+including land, buildings and fixtures. END_STATUTE
+Sec.2.Section 42-1118, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE42-1118.Refunds, credits, offsets and abatements
+A.If the department determines that any amount of
+tax, penalty or interest has been paid in excess of the amount actually due,
+the department shall credit the excess amount against any tax administered
+pursuant to this article, including any penalty, interest or other amounts owed
+by the taxpayer to the department.If it is determined that the
+amount cannot be credited against a tax or installment of taxes due from the
+taxpayer, the department may:
+1.Refund the entire amount of tax, interest and
+penalty, in a lump sum or in not more than five annual installments, to the
+taxpayer from whom it was collected.
+2.Issue to the taxpayer a credit voucher for the
+entire amount of tax, interest and penalty collected, to be carried forward and
+applied against future tax liabilities until exhausted.
+3.Refund part, and issue a credit voucher for the
+balance, of the tax, interest and penalties as provided in paragraphs 1 and 2
+of this subsection.
+B.If the total amount withheld from income under
+section 43401 exceeds the amount of the tax on the employee's entire
+taxable income as computed under title 43, the department shall refund the
+amount of the excess deducted without requiring a filing of a refund claim as
+provided in this section. The failure of the department to make the refund
+does not limit the right of the taxpayer to file a claim for a refund pursuant
+to this section if the claim is not barred under section 421106.The
+department shall not refund amounts less than one dollar unless specifically
+requested by the taxpayer at the time the return or claim for refund is filed.
+C.Any overpayment that may result from withholdings
+or estimates pursuant to section 43401, 43581 or 43582
+shall not be credited or refunded unless an Arizona income tax return has been
+filed for the tax year for which the withholdings or estimates were made.
+D.The department shall give a vendor who has a duty
+to collect use tax pursuant to chapter 5, article 4 of this title and who has
+not collected that tax full credit or offset for any use tax, interest and
+penalty paid to the department by the purchaser when issuing a determination of
+a deficiency pursuant to section 421108.This credit or
+offset shall be computed from the date of the use tax payment by the
+purchaser.If the purchaser has been audited by the department for
+use tax for the period of the purchase, the purchaser is considered to have
+paid the use tax to the department.For other purchases, the vendor
+may submit an affirmation by a purchaser on a form prescribed by the department
+that use tax was paid on the purchase.A fully completed
+certificate, taken in good faith by the vendor, constitutes proof that the
+vendor is entitled to this credit or offset.The department may
+require a purchaser who has submitted the certificate to establish the accuracy
+and completeness of the information contained in the certificate. If the
+purchaser cannot establish the accuracy and completeness of the information,
+the purchaser is liable for a penalty equal to the amount of tax and interest
+that would have been paid by the seller and for the additional penalties
+pursuant to section 421125.Payment of the penalty relieves
+the purchaser of any responsibility for paying the use tax.The
+department may require this proof and may assess the purchaser within the later
+of the period of limitations set forth in section 421104 or one year
+from the date the notice of proposed deficiency is issued to the vendor if the
+purchaser does not establish the accuracy of the information contained in the
+certificate.
+E.Each claim for refund shall be filed with the
+department in writing and shall identify the claimant by name, address and tax
+identification number.Each claim shall provide the amount of refund
+requested, the specific tax period involved and the specific grounds on which
+the claim is founded.Refunds are subject to setoff for debts
+pursuant to section 421122.
+F.A motor vehicle manufacturer that repurchases a
+vehicle pursuant to section 441263 or for reasons of consumer
+satisfaction may apply for a refund of the taxes paid under chapter 5 of this
+title if that manufacturer has refunded the amount of tax to the consumer. A
+refund is allowed under this subsection only if the manufacturer provides
+satisfactory proof to the department that tax amounts attributed to the sale of
+the vehicle were collected from the consumer and that the manufacturer refunded
+an amount of tax to the consumer. Any refund provided under this subsection is
+in lieu of any refund on the vehicle that the dealer may otherwise be entitled
+to receive. A manufacturer must apply for a refund under this subsection
+within four years after repurchasing the vehicle.For the purposes
+of this subsection:
+1."Consumer" has the same meaning
+prescribed in section 441261.
+2."Motor vehicle manufacturer" means a
+corporation engaged in the business of producing passenger cars, trucks and
+multipurpose passenger vehicles as described in 49 Code of Federal Regulations
+section 571.3.
+3."Satisfactory proof" includes copies of
+checks and a purchase or lease agreement that lists the vehicle identification
+number and that itemizes the amount that was collected as tax from the
+consumer.
+g.A
+taxpayer who has an income tax credit for increased research activities under
+section 43-1074.01 or 43-1168 and who meets prescribed capital investment or
+employment thresholds may convert eighty-five percent of the outstanding income
+tax credit carryforward toward a refund of amounts paid by the taxpayer for
+transaction privilege taxes imposed pursuant to section 42-5075 with respect to
+construction contracts associated with the capital investment or into cash
+reimbursements for infrastructure improvements and other capital expenditures
+associated with projects in this state.The taxpayer must submit a
+claim for refund to the department as provided by this section, including a
+certificate of conversion issued by the Arizona commerce authority to the
+taxpayer pursuant to section 411507.02. On confirming the validity of
+the claim, the department shall pay the entire amount as a lump sum.
+G.H.The department
+shall not imprint the full social security number or other taxpayer identifier
+used pursuant to section 421105 on any taxpayer refund check, voucher or
+other credit documentation issued to the taxpayer under this section.
+H.I.If any amount has
+been erroneously determined to be due from any person but not yet collected,
+the department shall cancel the amount or amounts on its records.
+I.J.If, with or after
+the filing of a protest or an appeal with the department, the state board of
+tax appeals or the court, a taxpayer pays the tax protested or appealed before
+the department, board or court acts upon on the protest or the appeal,
+such body shall treat the protest or the appeal as a claim for refund or an
+appeal from the denial of a claim for refund filed under this section. END_STATUTE
+Sec.3.Section 43-1074.01, Arizona Revised
+Statutes, as amended by Laws 2014, chapter 168, section 5, is amended to read:
+START_STATUTE43-1074.01.Credit for increased research activities
+A.A credit is allowed against the taxes imposed by
+this title in an amount determined pursuant to section 41 of the internal
+revenue code, except that:
+1.The amount of the credit is based on the excess,
+if any, of the qualified research expenses for the taxable year over the base
+amount as defined in section 41(c) of the internal revenue code and is computed
+as follows:
+(a)If the excess is two million five hundred
+thousand dollars or less, the credit is equal to twentyfour per cent percent of that amount.
+(b)If the excess is over two million five hundred
+thousand dollars, the credit is equal to six hundred thousand dollars plus
+fifteen per cent percent of any amount
+exceeding two million five hundred thousand dollars, except that:
+(i)For taxable years beginning from and after
+December 31, 2000 through December 31, 2001, the credit shall not exceed one
+million five hundred thousand dollars.
+(ii)For taxable years beginning from and after
+December 31, 2001 through December 31, 2002, the credit shall not exceed two
+million five hundred thousand dollars.
+(c)For taxable years beginning from and after
+December 31, 2011, an additional credit amount is allowed if the taxpayer made
+basic research payments during the taxable year to a university under the
+jurisdiction of the Arizona board of regents. The additional credit amount is
+equal to ten per cent percent of the excess, if any,
+of the basic research payments over the qualified organization base period
+amount for the taxable year.The department shall not allow credit
+amounts under this subdivision and section 431168, subsection A,
+paragraph 1, subdivision (d) that exceed, in the aggregate, a combined total of
+ten million dollars in any calendar year. Subject to that limit, on
+application by the taxpayer, the department shall certify credit amounts under
+this subdivision and section 431168, subsection A, paragraph 1,
+subdivision (d) based on priority placement established by the date that the
+taxpayer filed the application.For taxable years beginning from and
+after December 31, 2014, any basic research payments used to determine the
+additional credit under this subdivision must first receive certification from
+the Arizona commerce authority pursuant to section 411507.01.The
+additional credit amount under this subdivision shall not exceed the amount
+allowed based on actual basic research payments or the department's
+certification, whichever is less.If an application, if certified in
+full, would exceed the ten million dollar limit, the department shall certify
+only an amount within that limit. After the limit is attained, the department
+shall deny any subsequent applications regardless of whether other certified
+amounts are not actually claimed as a credit or other taxpayers fail to qualify
+to actually claim certified amounts. Notwithstanding subsections B and C of
+this section, any amount of the additional credit under this subdivision that exceeds
+the taxes otherwise due under this title is not refundable, but may be carried
+forward to the next five consecutive taxable years. For the purposes of this
+subdivision, "basic research payments" and "qualified
+organization base period amount" have the same meanings prescribed by
+section 41(e) of the internal revenue code without regard to whether the
+taxpayer is or is not a corporation.
+2.Qualified research includes only research
+conducted in this state, including research conducted at a university in this
+state and paid for by the taxpayer.
+3.If two or more taxpayers, including partners in a
+partnership and shareholders of an S corporation, as defined in section 1361 of
+the internal revenue code, share in the eligible expenses, each taxpayer is eligible
+to receive a proportionate share of the credit.
+4.The credit under this section applies only to
+expenses incurred from and after December 31, 2000.
+5.The termination provisions of section 41 of the
+internal revenue code do not apply.
+B.Except as provided by subsection subsections C and D of this section, if the allowable credit
+under this section exceeds the taxes otherwise due under this title on the
+claimant's income, or if there are no taxes due under this title, the amount of
+the credit not used to offset taxes may be carried forward to the next fifteen
+consecutive taxable years.The amount of credit carryforward from
+taxable years beginning from and after December 31, 2000 through December 31,
+2002 that may be used in any taxable year may not exceed the taxpayer's tax
+liability under this title or five hundred thousand dollars, whichever is less,
+minus the credit under this section for the current taxable year's qualified
+research expenses.The amount of credit carryforward from taxable years
+beginning from and after December 31, 2002 that may be used in any taxable year
+may not exceed the taxpayer's tax liability under this title minus the credit
+under this section for the current taxable year's qualified research expenses.
+A taxpayer who carries forward any amount of credit under this subsection may
+not thereafter claim a refund of any amount of the credit under subsection C of
+this section.
+C.For taxable years beginning from and after
+December 31, 2009, if a taxpayer who claims a credit under this section employs
+fewer than one hundred fifty persons in the taxpayer's trade or business and if
+the allowable credit under this section exceeds the taxes otherwise due under
+this title on the claimant's income, or if there are no taxes due under this
+title, in lieu of carrying the excess amount of credit forward to subsequent
+taxable years under subsection B of this section, the taxpayer may elect to
+receive a refund as follows:
+1.The taxpayer must apply to the Arizona commerce
+authority for qualification for the refund pursuant to section 411507
+and submit a copy of the authority's certificate of qualification to the
+department of revenue with the taxpayer's income tax return.
+2.The amount of the refund is limited to
+seventy-five per cent percent of the amount by which
+the allowable credit under this section exceeds the taxpayer's tax liability
+under this title for the taxable year. The remainder of the excess amount of
+the credit is waived.
+3.The refund shall be paid in the manner prescribed
+by section 421118.
+4.The refund is subject to setoff under section 421122.
+5.If the department determines that a credit
+refunded pursuant to this subsection is incorrect or invalid, the excess credit
+issued may be treated as a tax deficiency pursuant to section 421108.
+D.For
+taxable years beginning from and after December 31, 2016, if a taxpayer claims
+a credit under this section and if the allowable credit under this section
+exceeds the taxes otherwise due under this title, or if there are no taxes due
+under this title, in lieu of carrying the excess amount of credit forward to
+subsequent taxable years under subsection B of this section, the taxpayer may
+elect to convert a portion of the unused balance of the credit either to offset
+the transaction privilege tax burden with respect to contracts for the
+construction of fixed capital assets in this state that are owned by the
+taxpayer or into cash reimbursements for infrastructure improvements and other
+capital expenditures associated with projects in this state.The
+amount of the tax credit that may be converted under this subsection is
+eighty-five percent of the amount requested for conversion on the date of
+applying for the conversion.The taxpayer waives the remaining fifteen
+percent of the unused amount of the tax credits requested on approval of the
+conversion. To be eligible for the conversion of unused tax credits under this
+subsection, the taxpayer must make new capital investment or create or retain
+employment in this state after December 31, 2016, and apply to the Arizona
+commerce authority as prescribed by section 41-1507.02.
+D.E.A taxpayer that
+claims a credit for increased research and development activity under this
+section shall not claim a credit under section 431085.01 for the same
+expenses. END_STATUTE
+Sec.4.Section 43-1074.01, Arizona Revised
+Statutes, as amended by Laws 2014, chapter 168, section 6, is amended to read:
+START_STATUTE43-1074.01.Credit for increased research activities
+A.A credit is allowed against the taxes imposed by
+this title in an amount determined pursuant to section 41 of the internal
+revenue code, except that:
+1.The amount of the credit is based on the excess,
+if any, of the qualified research expenses for the taxable year over the base
+amount as defined in section 41(c) of the internal revenue code and is computed
+as follows:
+(a)If the excess is two million five hundred
+thousand dollars or less, the credit is equal to twenty per cent
+percent of that amount.
+(b)If the excess is over two million five hundred
+thousand dollars, the credit is equal to five hundred thousand dollars plus
+eleven per cent percent of any amount
+exceeding two million five hundred thousand dollars, except that:
+(i)For taxable years beginning from and after
+December 31, 2000 through December 31, 2001, the credit shall not exceed one
+million five hundred thousand dollars.
+(ii)For taxable years beginning from and after
+December 31, 2001 through December 31, 2002, the credit shall not exceed two
+million five hundred thousand dollars.
+(c)For taxable years beginning from and after
+December 31, 2011, an additional credit amount is allowed if the taxpayer made
+basic research payments during the taxable year to a university under the
+jurisdiction of the Arizona board of regents. The additional credit amount is
+equal to ten per cent percent of the excess, if any,
+of the basic research payments over the qualified organization base period
+amount for the taxable year.The department shall not allow credit
+amounts under this subdivision and section 431168, subsection A,
+paragraph 1, subdivision (d) that exceed, in the aggregate, a combined total of
+ten million dollars in any calendar year. Subject to that limit, on
+application by the taxpayer, the department shall certify credit amounts under
+this subdivision and section 431168, subsection A, paragraph 1,
+subdivision (d) based on priority placement established by the date that the
+taxpayer filed the application.For taxable years beginning from and
+after December 31, 2014, any basic research payments used to determine the
+additional credit under this subdivision must first receive certification from
+the Arizona commerce authority pursuant to section 411507.01.The
+additional credit amount under this subdivision shall not exceed the amount
+allowed based on actual basic research payments or the department's
+certification, whichever is less.If an application, if certified in
+full, would exceed the ten million dollar limit, the department shall certify
+only an amount within that limit. After the limit is attained, the department
+shall deny any subsequent applications regardless of whether other certified
+amounts are not actually claimed as a credit or other taxpayers fail to qualify
+to actually claim certified amounts. Notwithstanding subsections B and C of
+this section, any amount of the additional credit under this subdivision that
+exceeds the taxes otherwise due under this title is not refundable, but may be
+carried forward to the next five consecutive taxable years. For the purposes
+of this subdivision, "basic research payments" and "qualified
+organization base period amount" have the same meanings prescribed by
+section 41(e) of the internal revenue code without regard to whether the
+taxpayer is or is not a corporation.
+2.Qualified research includes only research
+conducted in this state,
+including research conducted at a university in this state and paid for by the
+taxpayer.
+3.If two or more taxpayers, including partners in a
+partnership and shareholders of an S corporation, as defined in section 1361 of
+the internal revenue code, share in the eligible expenses, each taxpayer is
+eligible to receive a proportionate share of the credit.
+4.The credit under this section applies only to
+expenses incurred from and after December 31, 2000.
+5.The termination provisions of section 41 of the
+internal revenue code do not apply.
+B.Except as provided by subsection subsections C and D of this section, if the allowable credit
+under this section exceeds the taxes otherwise due under this title on the
+claimant's income, or if there are no taxes due under this title, the amount of
+the credit not used to offset taxes may be carried forward to the next fifteen
+consecutive taxable years.The amount of credit carryforward from
+taxable years beginning from and after December 31, 2000 through December 31,
+2002 that may be used in any taxable year may not exceed the taxpayer's tax
+liability under this title or five hundred thousand dollars, whichever is less,
+minus the credit under this section for the current taxable year's qualified
+research expenses.The amount of credit carryforward from taxable
+years beginning from and after December 31, 2002 that may be used in any
+taxable year may not exceed the taxpayer's tax liability under this title minus
+the credit under this section for the current taxable year's qualified research
+expenses. A taxpayer who carries forward any amount of credit under this subsection
+may not thereafter claim a refund of any amount of the credit under subsection
+C of this section.
+C.For taxable years beginning from and after
+December 31, 2009, if a taxpayer who claims a credit under this section employs
+fewer than one hundred fifty persons in the taxpayer's trade or business and if
+the allowable credit under this section exceeds the taxes otherwise due under
+this title on the claimant's income, or if there are no taxes due under this
+title, in lieu of carrying the excess amount of credit forward to subsequent
+taxable years under subsection B of this section, the taxpayer may elect to
+receive a refund as follows:
+1.The taxpayer must apply to the Arizona commerce
+authority for qualification for the refund pursuant to section 411507
+and submit a copy of the authority's certificate of qualification to the
+department of revenue with the taxpayer's income tax return.
+2.The amount of the refund is limited to
+seventy-five per cent percent of the amount by which
+the allowable credit under this section exceeds the taxpayer's tax liability
+under this title for the taxable year. The remainder of the excess amount of
+the credit is waived.
+3.The refund shall be paid in the manner prescribed
+by section 421118.
+4.The refund is subject to setoff under section 421122.
+5.If the department determines that a credit
+refunded pursuant to this subsection is incorrect or invalid, the excess credit
+issued may be treated as a tax deficiency pursuant to section 421108.
+D.For
+taxable years beginning from and after December 31, 2016, if a taxpayer claims
+a credit under this section and if the allowable credit under this section
+exceeds the taxes otherwise due under this title, or if there are no taxes due
+under this title, in lieu of carrying the excess amount of credit forward to
+subsequent taxable years under subsection B of this section, the taxpayer may
+elect to convert a portion of the unused balance of the credit either to offset
+the transaction privilege tax burden with respect to contracts for the
+construction of fixed capital assets in this state that are owned by the
+taxpayer or into cash reimbursements for infrastructure improvements and other
+capital expenditures associated with projects in this state.The
+amount of the tax credit that may be converted under this subsection is
+eighty-five percent of the amount requested for conversion on the date of
+applying for the conversion.The taxpayer waives the remaining
+fifteen percent of the unused amount of the tax credits requested on approval
+of the conversion. To be eligible for the conversion of unused tax credits
+under this subsection, the taxpayer must make new capital investment or create
+or retain employment in this state after December 31, 2016, and apply to the
+Arizona commerce authority as prescribed by section 41-1507.02.
+D.E.A taxpayer that
+claims a credit for increased research and development activity under this
+section shall not claim a credit under section 431085.01 for the same
+expenses. END_STATUTE
+Sec.5.Section
+43-1168, Arizona Revised Statutes, as amended by Laws 2014, chapter 168,
+section 9, is amended to read:
+START_STATUTE43-1168.Credit for increased research activities
+A.A credit is allowed against the taxes imposed by
+this title in an amount determined pursuant to section 41 of the internal
+revenue code, except that:
+1.The amount of the credit is computed as follows:
+(a)Add:
+(i)The excess, if any, of the qualified research
+expenses for the taxable year over the base amount as defined in section 41(c)
+of the internal revenue code.
+(ii)The basic research payments determined under
+section 41(e)(1)(A) of the internal revenue code.
+(b)If the sum computed under subdivision (a) is two
+million five hundred thousand dollars or less, the credit is equal to
+twenty-four per cent percent of that amount.
+(c)If the sum computed under subdivision (a) is
+over two million five hundred thousand dollars, the credit is equal to six
+hundred thousand dollars plus fifteen per
+cent percent
+of any amount exceeding two million five hundred thousand dollars, except that:
+(i)For taxable years beginning from and after
+December 31, 2000 through December 31, 2001, the credit shall not exceed one
+million five hundred thousand dollars.
+(ii)For taxable years beginning from and after
+December 31, 2001 through December 31, 2002, the credit shall not exceed two
+million five hundred thousand dollars.
+(d)For taxable years beginning from and after
+December 31, 2011, an additional credit amount is allowed if the taxpayer made
+basic research payments during the taxable year to a university under the
+jurisdiction of the Arizona board of regents. The additional credit amount is
+equal to ten per cent percent of the excess, if any,
+of the basic research payments over the qualified organization base period
+amount for the taxable year.The department shall not allow credit
+amounts under this subdivision and section 431074.01, subsection A,
+paragraph 1, subdivision (c) that exceed, in the aggregate, a combined total of
+ten million dollars in any calendar year. Subject to that limit, on
+application by the taxpayer, the department shall certify credit amounts under
+this subdivision and section 431074.01, subsection A, paragraph 1,
+subdivision (c) based on priority placement established by the date that the
+taxpayer filed the application. For taxable years beginning from and after
+December 31, 2014, any basic research payments used to determine the additional
+credit under this subdivision must first receive certification from the Arizona
+commerce authority pursuant to section 411507.01.The
+additional credit amount under this subdivision shall not exceed the amount
+allowed based on actual basic research payments or the department's
+certification, whichever is less.If an application, if certified in
+full, would exceed the ten million dollar limit, the department shall certify
+only an amount within that limit.After the limit is attained, the
+department shall deny any subsequent applications regardless of whether other
+certified amounts are not actually claimed as a credit or other taxpayers fail
+to qualify to actually claim certified amounts. Notwithstanding subsections B
+and D of this section, any amount of the additional credit under this
+subdivision that exceeds the taxes otherwise due under this title is not
+refundable, but may be carried forward to the next five consecutive taxable
+years. For the purposes of this subdivision, "basic research payments"
+and "qualified organization base period amount" have the same
+meanings prescribed by section 41(e) of the internal revenue code.
+2.Qualified research includes only research
+conducted in this state,
+including research conducted at a university in this state and paid for by the
+taxpayer.
+3.If two or more taxpayers, including corporate
+partners in a partnership, share in the eligible expenses, each taxpayer is
+eligible to receive a proportionate share of the credit.
+4.The credit under this section applies only to
+expenses incurred from and after December 31, 1993.
+5.The termination provisions of section 41 of the
+internal revenue code do not apply.
+B.Except as provided by subsection subsections D and E of this section, if the allowable credit
+under this section exceeds the taxes otherwise due under this title on the
+claimant's income, or if there are no taxes due under this title, the amount of
+the credit not used to offset taxes may be carried forward to the next fifteen
+consecutive taxable years.The amount of credit carryforward from
+taxable years beginning from and after December 31, 2000 through December 31,
+2002 that may be used under this subsection in any taxable year may not exceed
+the taxpayer's tax liability under this title or five hundred thousand dollars,
+whichever is less, minus the credit under this section for the current taxable
+year's qualified research expenses.The amount of credit
+carryforward from taxable years beginning from and after December 31, 2002 that
+may be used under this subsection in any taxable year may not exceed the
+taxpayer's tax liability under this title minus the credit under this section
+for the current taxable year's qualified research expenses. A taxpayer that
+carries forward any amount of credit under this subsection may not thereafter
+claim a refund of any amount of the credit under subsection D of this section.
+C.If a taxpayer has qualified research expenses
+that are carried forward from taxable years beginning before January 1, 2001,
+the amount of the expenses carried forward shall be converted to a credit
+carryforward by multiplying the amount of the qualified expenses carried
+forward by twenty per cent percent.A credit
+carryforward determined under this subsection may be carried forward to not
+more than fifteen years from the year in which the expenses were
+incurred.The amount of credit carryforward from taxable years
+beginning before January 1, 2001 that may be used under this subsection in any
+taxable year may not exceed the taxpayer's tax liability under this title or
+five hundred thousand dollars, whichever is less, minus the credit under this
+section for the current taxable year's qualified research expenses. The total
+amount of credit carryforward from taxable years beginning before January 1,
+2003 that may be used in any taxable year under subsection B and this
+subsection may not exceed the taxpayer's tax liability under this title or five
+hundred thousand dollars, whichever is less, minus the credit under this
+section for the current taxable year's qualified research expenses.
+D.For taxable years beginning from and after
+December 31, 2009, if a taxpayer who that claims a credit under
+this section employs fewer than one hundred fifty persons in the taxpayer's
+trade or business and if the allowable credit under this section exceeds the
+taxes otherwise due under this title on the claimant's income, or if there are
+no taxes due under this title, in lieu of carrying the excess amount of credit
+forward to subsequent taxable years under subsection B of this section, the
+taxpayer may elect to receive a refund as follows:
+1.The taxpayer must apply to the Arizona commerce
+authority for qualification for the refund pursuant to section 411507
+and submit a copy of the authority's certificate of qualification to the
+department of revenue with the taxpayer's income tax return.
+2.The amount of the refund is limited to
+seventy-five per cent percent of the amount by which
+the allowable credit under this section exceeds the taxpayer's tax liability under
+this title for the taxable year. The remainder of the excess amount of the
+credit is waived.
+3.The refund shall be paid in the manner prescribed
+by section 421118.
+4.The refund is subject to setoff under section 421122.
+5.If the department determines that a credit
+refunded pursuant to this subsection is incorrect or invalid, the excess credit
+issued may be treated as a tax deficiency pursuant to section 421108.
+E.For
+taxable years beginning from and after December 31, 2016, if a taxpayer claims
+a credit under this section and if the allowable credit under this section
+exceeds the taxes otherwise due under this title, or if there are no taxes due
+under this title, in lieu of carrying the excess amount of credit forward to
+subsequent taxable years under subsection B of this section, the taxpayer may
+elect to convert a portion of the unused balance of the credit either to offset
+the transaction privilege tax burden with respect to contracts for the
+construction of fixed capital assets in this state that are owned by the
+taxpayer or into cash reimbursements for infrastructure improvements and other
+capital expenditures associated with projects in this state.The
+amount of the tax credit that may be converted under this subsection is eighty-five
+percent of the amount requested for conversion on the date of applying for the
+conversion.The taxpayer waives the remaining fifteen percent of the
+unused amount of the tax credits requested on approval of the
+conversion.To be eligible for the conversion of unused tax credits
+under this subsection, the taxpayer must make new capital investment or create
+or retain employment in this state after December 31, 2016, and apply to the
+Arizona commerce authority as prescribed by section 41-1507.02.
+E.F.A taxpayer that
+claims a credit for increased research and development activity under this
+section shall not claim a credit under section 431164.02 for the same
+expenses. END_STATUTE
+Sec.6.Section 43-1168, Arizona Revised
+Statutes, as amended by Laws 2014, chapter 168, section 10, is amended to read:
+START_STATUTE43-1168.Credit for increased research activity
+A.A credit is allowed against the taxes imposed by
+this title in an amount determined pursuant to section 41 of the internal
+revenue code, except that:
+1.The amount of the credit is computed as follows:
+(a)Add:
+(i)The excess, if any, of the qualified research
+expenses for the taxable year over the base amount as defined in section 41(c)
+of the internal revenue code.
+(ii)The basic research payments determined under
+section 41(e)(1)(A) of the internal revenue code.
+(b)If the sum computed under subdivision (a) is two
+million five hundred thousand dollars or less, the credit is equal to twenty per cent percent of that amount.
+(c)If the sum computed under subdivision (a) is
+over two million five hundred thousand dollars, the credit is equal to five
+hundred thousand dollars plus eleven per
+cent percent
+of any amount exceeding two million five hundred thousand dollars, except that:
+(i)For taxable years beginning from and after
+December 31, 2000 through December 31, 2001, the credit shall not exceed one
+million five hundred thousand dollars.
+(ii)For taxable years beginning from and after
+December 31, 2001 through December 31, 2002, the credit shall not exceed two
+million five hundred thousand dollars.
+(d)For taxable years beginning from and after
+December 31, 2011, an additional credit amount is allowed if the taxpayer made
+basic research payments during the taxable year to a university under the
+jurisdiction of the Arizona board of regents. The additional credit amount is
+equal to ten per cent percent of the excess, if any,
+of the basic research payments over the qualified organization base period
+amount for the taxable year.The department shall not allow credit
+amounts under this subdivision and section 431074.01, subsection A,
+paragraph 1, subdivision (c) that exceed, in the aggregate, a combined total of
+ten million dollars in any calendar year. Subject to that limit, on
+application by the taxpayer, the department shall certify credit amounts under
+this subdivision and section 431074.01, subsection A, paragraph 1,
+subdivision (c) based on priority placement established by the date that the
+taxpayer filed the application.For taxable years beginning from and
+after December 31, 2014, any basic research payments used to determine the
+additional credit under this subdivision must first receive certification from
+the Arizona commerce authority pursuant to section 411507.01.The
+additional credit amount under this subdivision shall not exceed the amount
+allowed based on actual basic research payments or the department's
+certification, whichever is less.If an application, if certified in
+full, would exceed the ten million dollar limit, the department shall certify
+only an amount within that limit.After the limit is attained, the
+department shall deny any subsequent applications regardless of whether other
+certified amounts are not actually claimed as a credit or other taxpayers fail
+to qualify to actually claim certified amounts. Notwithstanding subsections B
+and D of this section, any amount of the additional credit under this
+subdivision that exceeds the taxes otherwise due under this title is not
+refundable, but may be carried forward to the next five consecutive taxable
+years. For the purposes of this subdivision, "basic research
+payments" and "qualified organization base period amount" have
+the same meanings prescribed by section 41(e) of the internal revenue code.
+2.Qualified research includes only research
+conducted in this state,
+including research conducted at a university in this state and paid for by the
+taxpayer.
+3.If two or more taxpayers, including corporate
+partners in a partnership, share in the eligible expenses, each taxpayer is
+eligible to receive a proportionate share of the credit.
+4.The credit under this section applies only to
+expenses incurred from and after December 31, 1993.
+5.The termination provisions of section 41 of the
+internal revenue code do not apply.
+B.Except as provided by subsection subsections D and E of this section, if the allowable credit
+under this section exceeds the taxes otherwise due under this title on the
+claimant's income, or if there are no taxes due under this title, the amount of
+the credit not used to offset taxes may be carried forward to the next fifteen
+consecutive taxable years.The amount of credit carryforward from
+taxable years beginning from and after December 31, 2000 through December 31,
+2002 that may be used under this subsection in any taxable year may not exceed
+the taxpayer's tax liability under this title or five hundred thousand dollars,
+whichever is less, minus the credit under this section for the current taxable
+year's qualified research expenses.The amount of credit
+carryforward from taxable years beginning from and after December 31, 2002 that
+may be used under this subsection in any taxable year may not exceed the
+taxpayer's tax liability under this title minus the credit under this section
+for the current taxable year's qualified research expenses. A taxpayer that
+carries forward any amount of credit under this subsection may not thereafter
+claim a refund of any amount of the credit under subsection D of this section.
+C.If a taxpayer has qualified research expenses
+that are carried forward from taxable years beginning before January 1, 2001,
+the amount of the expenses carried forward shall be converted to a credit carryforward
+by multiplying the amount of the qualified expenses carried forward by twenty per cent percent.A credit carryforward
+determined under this subsection may be carried forward to not more than
+fifteen years from the year in which the expenses were incurred.The
+amount of credit carryforward from taxable years beginning before January 1,
+2001 that may be used under this subsection in any taxable year may not exceed
+the taxpayer's tax liability under this title or five hundred thousand dollars,
+whichever is less, minus the credit under this section for the current taxable
+year's qualified research expenses. The total amount of credit carryforward
+from taxable years beginning before January 1, 2003 that may be used in any
+taxable year under subsection B and this subsection may not exceed the
+taxpayer's tax liability under this title or five hundred thousand dollars,
+whichever is less, minus the credit under this section for the current taxable
+year's qualified research expenses.
+D.For taxable years beginning from and after
+December 31, 2009, if a taxpayer who that claims a credit under
+this section employs fewer than one hundred fifty persons in the taxpayer's
+trade or business and if the allowable credit under this section exceeds the
+taxes otherwise due under this title on the claimant's income, or if there are
+no taxes due under this title, in lieu of carrying the excess amount of credit
+forward to subsequent taxable years under subsection B of this section, the
+taxpayer may elect to receive a refund as follows:
+1.The taxpayer must apply to the Arizona commerce
+authority for qualification for the refund pursuant to section 411507
+and submit a copy of the authority's certificate of qualification to the
+department of revenue with the taxpayer's income tax return.
+2.The amount of the refund is limited to
+seventy-five per cent percent of the amount by which
+the allowable credit under this section exceeds the taxpayer's tax liability
+under this title for the taxable year.The remainder of the excess amount
+of the credit is waived.
+3.The refund shall be paid in the manner prescribed
+by section 421118.
+4.The refund is subject to setoff under section 421122.
+5.If the department determines that a credit
+refunded pursuant to this subsection is incorrect or invalid, the excess credit
+issued may be treated as a tax deficiency pursuant to section 421108.
+E.For
+taxable years beginning from and after December 31, 2016, if a taxpayer claims
+a credit under this section and if the allowable credit under this section
+exceeds the taxes otherwise due under this title, or if there are no taxes due
+under this title, in lieu of carrying the excess amount of credit forward to
+subsequent taxable years under subsection B of this section, the taxpayer may
+elect to convert a portion of the unused balance of the credit either to offset
+the transaction privilege tax burden with respect to contracts for the
+construction of fixed capital assets in this state that are owned by the
+taxpayer or into cash reimbursements for infrastructure improvements and other
+capital expenditures associated with projects in this state.The
+amount of the tax credit that may be converted under this subsection is
+eighty-five percent of the amount requested for conversion on the date of
+applying for the conversion.The taxpayer waives the remaining
+fifteen percent of the unused amount of the tax credits requested on approval
+of the conversion. To be eligible for the conversion of unused tax credits
+under this subsection, the taxpayer must make new capital investment or create
+or retain employment in this state after December 31, 2016, and apply to the
+Arizona commerce authority as prescribed by section 41-1507.02.
+E.F.A taxpayer that
+claims a credit for increased research and development activity under this
+section shall not claim a credit under section 431164.02 for the same
+expenses. END_STATUTE
+Sec.7.Effective date
+Section 43-1174.01, Arizona Revised Statutes, as amended by
+Laws 2014, chapter 168, section 6 and this act and section 43-1168, Arizona
+Revised Statutes, as amended by Laws 2014, chapter 168, section 10 and this
+act, are effective from and after December 31, 2017.
+

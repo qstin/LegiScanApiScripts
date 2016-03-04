@@ -1,0 +1,114 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: estimates; state budget; notice
+
+
+
+
+
+
+
+State of Arizona
+House of Representatives
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+HB 2484
+
+
+
+
+
+
+
+
+
+Introduced by
+Representative
+  Olson
+
+
+
+
+
+AN ACT
+
+amending title
+41, chapter 7, article 10, Arizona Revised Statutes, by adding section 411275;
+relating to the state budget.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Title 41, chapter 7, article 10,
+Arizona Revised Statutes, is amended by adding section 41-1275, to read:
+START_STATUTE41-1275.Truth in spending estimate; notice; definitions
+A.Beginning
+in 2017, on or before February 15 of each year, the director of the joint legislative
+budget committee shall calculate and transmit a truth in spending estimate for
+the following fiscal year to the following:
+1.The
+chairpersons of the senate and house of representatives appropriations
+committees, or their successor committees.
+2.The
+chairpersons of the senate finance committee and the house of representatives
+ways and means committee, or their successor committees.
+B.The truth
+in spending estimate shall calculate the amount of general fund appropriations
+for the current fiscal year plus the total amount of all appropriations from
+all other sources for the current fiscal year, adjusted by the sum of the
+following percentages:
+1.The
+percentage change in population for the most recent available twelvemonth
+period.
+2.The positive
+or negative percentage change in the cost of living for the most recent
+available twelvemonth period.The director of the joint
+legislative budget committee shall adjust the cost of living amount based on
+the GDP price deflator as defined in section 41563 and may consider
+minor technical adjustments to the GDP price deflator that are made by the
+United States government.
+C.Beginning
+in fiscal year 20172018, if a standing committee of a chamber of the
+legislature votes to recommend the passage of a budget bill that exceeds the
+truth in spending estimate, the standing committee shall issue to the chamber's
+normal media distribution list within twentyfour hours after the vote a
+press release in the following form:
+Notice of spending increase above
+truth in spending estimate
+In compliance with
+section 41-1275, Arizona Revised Statutes, the state legislature is notifying
+taxpayers that a budget bill that exceeds the truth in spending estimate, which
+is defined as the amount of general fund appropriations for the current fiscal
+year plus the total amount of all appropriations from all other sources for the
+current fiscal year, adjusted by population growth plus inflation, passed the (insert
+committee name) on (insert date).The
+amount of appropriations mandated by court order is $(insert
+amount), which is a total of (insert percentage)%
+ of the amount that exceeds the truth in spending estimate.
+D.For the purposes of this section:
+1."Budget bill" means the general
+appropriation bill for the different departments of the state, for state
+institutions, for public schools and for interest on the public debt, as
+prescribed by article IV, part 2, section 20, Constitution of Arizona.
+2."Population"
+means the population estimate approved by the office of employment and
+population statistics. END_STATUTE
+

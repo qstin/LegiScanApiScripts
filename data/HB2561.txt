@@ -1,0 +1,184 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: sanitary district refunding bonds
+
+
+
+
+
+
+
+State of Arizona
+House of Representatives
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+HB 2561
+
+
+
+
+
+
+
+
+
+Introduced by
+Representative
+  Campbell
+
+
+
+
+
+AN ACT
+
+Amending title
+48, chapter 14, Arizona Revised Statutes, by adding article 3; relating to
+sanitary district financing.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Title 48, chapter 14, Arizona
+Revised Statutes, is amended by adding article 3, to read:
+ARTICLE 3.REFUNDING BONDS
+START_STATUTE48-2091.Refunding bonds
+A.The board
+of directors of a sanitary district may issue bonds for the purpose of
+refunding any bonds issued pursuant to article 2 of this
+chapter.Refunding bonds may be issued only if the total amount of
+principal of and interest on the refunding bonds does not exceed the total
+amount of remaining principal of and interest on the bonds to be refunded.
+b.REfunding
+bonds shall be issued and sold and contain such details as the board of
+directors prescribes.
+c.Interest
+on refunding bonds is payable on January 1 and July 1 each year.
+D.The due
+dates of refunding bonds are January 1 and July 1 in the years they are due. END_STATUTE
+START_STATUTE48-2091.01.Use of net proceeds of refunding bonds; authorized
+investments
+A.Refunding
+bonds issued under this article may be:
+1.Exchanged
+for bonds of at least the same principal amount of the bonds to be refunded.
+2.Sold at,
+above or below par at a negotiated or public sale.
+3.Exchanged
+in part and sold in part.
+B.If the
+refunding bonds are sold, the net proceeds of the refunding bonds with all or
+part of the amounts held in the debt service fund for payment of principal of
+and interest on the bonds being refunded, amounts in any reserve fund for the
+bonds being refunded and other amounts lawfully available may be invested if
+the investments and any reinvestment will mature with interest so as to provide
+monies to pay the bonds to be refunded when due, or when called for redemption,
+plus interest and redemption premiums, if any, at maturity or on an available
+redemption date or on an earlier voluntary surrender with the consent of the
+board of directors. On receipt, these amounts and investments shall be
+deposited in trust with a national banking corporation, or an association
+authorized to do trust business in this state, that is a member of the federal
+deposit insurance corporation, or any successor.After the deposit,
+the bonds being refunded are considered to have been paid and have no further
+interest in the assessments for the bonds being refunded.For the
+purposes of this subsection, "net proceeds" means the gross proceeds
+of the refunding bonds, after the deduction of:
+1.All
+accrued interest.
+2.Costs and
+expenses incurred:
+(a)In
+connection with the authorization and issuance of the refunding bonds.
+(b)In
+connection with the refunding of the bonds being refunded.
+(c)Resulting
+from price variation to par.
+(d)In the
+purchase of obligations for the trust.
+(e)In the
+distribution of the refunding bonds.
+C.The
+treasurer of the sanitary district may enter into trust agreements with banking
+corporations or associations for the handling, safekeeping and administration
+of the amounts and investments that are derived from, or contributed to, the
+refunding.
+D.Monies
+that are invested pursuant to subsection B of this section may be invested and
+reinvested at the board's discretion in:
+1.Obligations
+issued by the United States government or one of its agencies.
+2.Obligations
+fully guaranteed by the United States government as to principal and interest. END_STATUTE
+START_STATUTE48-2091.02.Modified assessment; notice and hearing
+A.If
+refunding bonds are issued, the board of directors shall file a modified
+assessment reflecting the reduction in the assessment.
+B.If the
+modified assessment does not increase the assessment on any parcel or lot in
+the sanitary district, the board may approve the modified assessment without
+notice or hearing.If the modification results in an increase in the
+assessment to any parcel or lot in the district, notice and, if required, a
+hearing must be provided in the manner prescribed by section 48-2062. END_STATUTE
+START_STATUTE48-2091.03.Security for and payment of bonds; special fund
+A.Refunding
+bonds shall be secured by and are payable from the special assessments levied
+to pay the bonds being refunded. On the issuance of refunding bonds, the board
+of directors shall cause the remaining unpaid installments of the special
+assessments to be recalculated and modified so that the amounts to be collected
+equal the amounts necessary to repay the refunding bonds.
+B.Section
+48-2062 does not apply to the recalculation and modification of the assessments
+authorized by this subsection. All other provisions of article 2 of this
+chapter regarding the collection, payment and enforcement of the assessments of
+the bonds being refunded and the validity and priority of the lien of the assessments
+for the bonds being refunded continue in force and effect.Except as
+provided by this section, the assessments survive the payment or defeasance of
+the bonds being refunded and remain in force and effect, securing the refunding
+bonds until they are paid in full.The lien of the special
+assessments retains the same priority with respect to the refunding bonds as
+with the bonds being refunded. The full faith and diligence of the district
+are irrevocably pledged for the assessment or reassessment, collection and
+payment of the special assessments.
+C.Refunding
+bonds are payable only from a special fund to be established and collected from
+the special assessments. The fund is set apart solely to pay the principal of
+and interest on refunding bonds and for no other purpose.All monies
+collected from the special assessment shall be deposited in the special fund. END_STATUTE
+START_STATUTE48-2091.04.Collection of assessments
+The treasurer of the
+sanitary district and the county treasurer may provide by agreement for:
+1.The
+county treasurer to collect the special assessments under this article at the
+same time and in the same manner as provided by law for the collection and
+enforcement of general ad valorem property taxes.
+2.the
+payment of the county treasurer's collection expenses directly related to the
+special assessment and, if so provided, the levy of the special assessment may
+include an amount for compensation of the county treasurer directly related to
+the collection of the special assessment.The compensation received
+by the county treasurer pursuant to the agreement is governed by section
+11-496. END_STATUTE
+START_STATUTE48-2091.05.Determination of board of directors
+The determination by
+the board of directors that the limitations and conditions prescribed by this
+article relating to issuing refunding bonds have been met is conclusive in the
+absence of fraud or arbitrary and gross abuse of discretion. END_STATUTE
+

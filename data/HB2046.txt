@@ -1,0 +1,184 @@
+
+
+
+
+PREFILED JAN 06 2016
+
+
+
+REFERENCE TITLE: statewide technology policy; acceptable
+  use
+
+
+
+
+
+
+
+State of Arizona
+House of Representatives
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+HB 2046
+
+
+
+
+
+
+
+
+
+Introduced by
+Representative
+  Stevens
+
+
+
+
+
+AN ACT
+
+amending the
+Arizona Revised Statutes by adding title 18; relating to information
+technology.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.The Arizona Revised Statutes are
+amended by adding Title 18, to read:
+TITLE 18
+INFORMATION TECHNOLOGY
+CHAPTER 1
+ACCEPTABLE USE
+ARTICLE 1.GENERAL PROVISIONS
+START_STATUTE18-101.Definitions
+In this title, unless
+the context otherwise requires:
+1."Budget
+unit" means a department, commission, board, institution or other agency
+of this state that receives, spends or disburses state monies or that incurs
+obligations of this state, including the Arizona board of regents but excluding
+the universities under the jurisdiction of the Arizona board of regents, the
+community college districts and the legislative and judicial branches.
+2."Department"
+means the department of administration.
+3."Director"
+means the director of the department.END_STATUTE
+START_STATUTE18-102.Statewide technology policy; access agreements;
+notification
+A.The
+director shall establish a statewide technology policy for the acceptable use
+of state information and state information system assets to reduce the risk to
+state information and state information systems due to disclosure, modification
+or disruption.
+B.The
+director shall establish an access agreement for all budget units, and each
+budget unit shall require each user who has access to state information or
+state information systems to enter into the access agreement before the user is
+granted access to the state information or state information systems.
+C.The
+access agreement shall contain all of the following policies:
+1.Safe
+computing practices, including protocols regarding opening attachments or
+links, password protections, desk and workstation security, unauthorized
+personnel access, security weakness and violation reporting and access
+identification.
+2.Confidential
+information protections, including marking, unencrypted data, storage and
+electronic transmissions practices.
+3.Prohibited
+behaviors, including computer tampering, using unauthorized computing
+equipment, using unauthorized software, unauthorized using of software or
+services, introducing malware, disrupting systems, circumventing security
+controls and using a false identity.
+4.Inappropriate
+or unlawful material.
+5.Unauthorized
+use of electronic messaging.
+6.Personal
+use of state information systems.
+7.Violation
+of intellectual property laws.
+8.Unauthorized
+access and release of confidential information.
+9.Unauthorized
+posting of state documents.
+D.Each
+budget unit shall notify each user who has been granted access to state
+information or state information systems. The notice shall include the
+following statements:
+1.The user
+acknowledges the user's understanding of the policy and other related
+information security policies.
+2.All state
+information system assets remain the sole property of this state. Any data or
+intellectual property created by the user remains the property of this state.
+3.The
+budget unit has the right to monitor all activities that occur on the state
+information systems or to access any data residing on its systems or assets at
+any time without further notice.
+4.The
+budget unit may block access to web content that the budget unit deems
+inappropriate or filter e-mail.
+5.The user
+shall retain records pursuant to the budget unit's records retention policies.
+6.The user
+should have no expectation of privacy for any communication or data created,
+stored, sent or received on state information systems and assets.
+7.By using
+state information systems, the user acknowledges that the user explicitly
+consents to the monitoring of the use and right of the budget unit to
+conduction monitoring.
+E.The
+director shall establish a virtual office access agreement for all budget units
+that allow users to use computing equipment outside of the office to access
+state information or state information systems. Each budget unit shall require
+each user who uses computing equipment outside of the office to access state
+information or state information systems to enter into the virtual office
+access agreement before the user is granted use of computing equipment outside
+of the office to access state information or state information
+systems.The virtual office access agreement shall contain all of
+the following policies:
+1.The user
+shall ensure that the computing equipment has been issued to the user for the
+purpose of connecting to a state information system or that the computing
+equipment is owned or under the control of the user and the user can ensure
+that minimum physical and logical protections are in place.
+2.The user
+shall ensure that the computing equipment is physically protected from
+unauthorized use and removal and that the use is limited to the authorized
+user.
+3.The user
+shall ensure that the computing equipment has all of the following logical security
+controls:
+(a)Identification and
+authentication controls.
+(b)Malicious code protection.
+(c)Personal firewalls. 
+(d)Full
+device encryption.
+(e)Installed
+securityrelevant software and firmware updates.
+F.Each
+budget unit shall establish a portable electronic device access agreement if
+the budget unit allows users to use portable electronic devices to access state
+information or state information systems. The budget unit shall require each
+user who uses a portable electronic device to access state information or state
+information systems to enter into the portable electronic device agreement
+before the user is granted access to state information or state information
+systems. END_STATUTE
+

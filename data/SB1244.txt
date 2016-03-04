@@ -1,0 +1,478 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: fire districts; wildland fires; budgets
+
+
+
+
+
+
+
+State of Arizona
+Senate
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+SB 1244
+
+
+
+
+
+
+
+
+
+Introduced by
+Senators
+  Allen S, Begay; Representative Borrelli: Senators Burges, Contreras, Driggs, Meza;
+  Representative Thorpe
+
+
+
+
+
+AN ACT
+
+amending sections
+35-144, 37-623.02 and 48-807, Arizona Revised Statutes; repealing section
+49-132, Arizona Revised Statutes, as amended by Laws 2015, chapter 208, section
+31; amending section 49-132, Arizona Revised Statutes, as amended by Laws 1991,
+chapter 315, section 4; relating to fire districts.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 35-144, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE35-144.Budget stabilization fund; definitions
+A.The budget stabilization fund is established
+consisting of monies transferred from the state general fund pursuant to
+subsection B of this section.The state treasurer shall administer
+the fund and invest and divest monies in the fund as provided by sections 35313
+and 35314.02, and monies earned from investment shall be credited to the
+fund. Except as provided by this section:
+1.Monies in the fund are exempt from the provisions
+of section 35190 relating to the reversion of monies to the state
+general fund.
+2.The monies in the fund are separate monies to be
+used only for the purposes of the fund.
+3.An amount
+sufficient to pay claims certified by the state forester pursuant to section 37623.02
+is continuously appropriated from the fund to the state treasurer for payment
+of the certified claims.
+B.In a calendar year in which the annual growth
+rate exceeds the trend growth rate, the excess growth when multiplied by total
+general fund revenue of the fiscal year ending in the calendar year determines
+the amount to be appropriated by the legislature to the budget stabilization
+fund in the fiscal year in which the calendar year ends.
+C.In a calendar year in which the annual growth
+rate is both less than two per cent
+percent and less than the
+trend growth rate, the difference between the annual growth rate and the trend
+growth rate when multiplied by the total general fund revenue of the fiscal
+year ending in the calendar year determines the amount to be transferred by the
+legislature from the budget stabilization fund to the state general fund at the
+end of the fiscal year in which the calendar year ends.The transfer
+calculated pursuant to this subsection shall not exceed the available balance
+in the fund, nor shall the legislature transfer an amount which that
+exceeds the amount sufficient to balance the general fund budget.
+D.The legislature shall pass a bill which that
+contains the emergency clause if the legislature either:
+1.Reduces the amount for appropriation to the
+budget stabilization fund under subsection B of this section.
+2.Increases the amount for transfer to the state
+general fund under subsection C of this section.
+E.The annual budget recommendations of the governor
+and the joint legislative budget committee shall include estimates of
+appropriations or transfers required under subsection B or C of this section.
+F.A final determination of the amount to be
+appropriated to or transferred from the budget stabilization fund shall be made
+using personal income and price deflator estimates as reported in the second
+calendar quarter for the preceding calendar year. The economic estimates
+commission shall determine the annual growth rate, the trend growth rate and
+the required appropriation to or transfer from the budget stabilization fund at
+its first meeting following the second calendar quarter report of the United
+States department of commerce, but not later than June 1.The
+commission shall certify and report its findings to the governor, the state
+treasurer, the president of the senate, the speaker of the house of
+representatives and the joint legislative budget committee.
+G.The appropriation calculated pursuant to subsection
+B of this section may be included in the general appropriation bill for that
+fiscal year.Any additional appropriation calculated pursuant to
+subsection F of this section shall be made by separate act.
+H.At the end of a fiscal year, the budget
+stabilization fund balance shall not exceed 5.634 per cent percent for fiscal year 19971998, 6.333 percent percent for fiscal year 19981999 and
+seven per cent percent for fiscal year 19992000
+and each subsequent fiscal year of general fund revenue for each fiscal
+year.Any surplus monies above the allowable percentages shall be
+transferred by the state treasurer to the state general fund.
+I.The state treasurer may temporarily divest monies
+in the budget stabilization fund to avoid a negative cash balance in operating
+monies.The amount divested shall not exceed the amount required to
+meet immediate cash needs.The state treasurer may divest monies in
+the budget stabilization fund only when the general fund has a negative cash
+balance.
+J.In
+For the purposes of this
+section:
+1."Adjusted personal income" means
+personal income minus transfer payments, as reported by the United States
+department of commerce, bureau of economic analysis, or its successor agency.
+2."Annual growth rate" means the percentage
+change in real adjusted personal income in the calendar year ending during a
+fiscal year as compared to real adjusted personal income for the preceding
+calendar year.The annual growth rate shall be rounded to the
+nearest onehundredth of one per cent percent.
+3."GDP price deflator" means the gross
+domestic product price deflator reported by the United States department of
+commerce, bureau of economic analysis, or its successor agency.
+4."Personal income" means the total
+personal income of all persons in this state reported by the United States
+department of commerce, bureau of economic analysis, or its successor agency.
+5."Real adjusted personal income" means
+an amount which that is determined by dividing
+adjusted personal income by the GDP price deflator and multiplying the result
+by one hundred.
+6."Transfer payments" means that portion
+of personal income which that represents a government
+expenditure for which no service is rendered or product is delivered, as
+determined by the United States department of commerce, bureau of economic
+analysis, or its successor agency.
+7."Trend growth rate" means the average
+annual growth rate for the most recent seven calendar years, rounded to the
+nearest onehundredth of one per
+cent percent.
+END_STATUTE
+Sec.2.Section 37-623.02, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE37-623.02.Emergencies; prohibiting fireworks; liabilities and
+expenses; fire suppression revolving fund
+A.On request of the state forester, the governor
+may authorize the state forester to incur liabilities for suppressing wildland
+fires and responding to other unplanned allrisk activities from unrestricted
+monies in the state general fund whether or not the legislature is in session.
+B.The state forester has the authority to prohibit
+the use of fireworks during times of high fire potential in the unincorporated
+areas of the state.
+C.The state forester or the state forester's
+designee shall review all liabilities incurred and expenditures made under this
+section and shall report the expenditures to the department of administration
+for audit according to department of administration rules. The state forester
+shall transmit a copy of the report to the state emergency council.
+D.Liabilities incurred under this section are
+subject to the following limitations:
+1.Wildland fire suppression or other unplanned allrisk emergency
+liabilities shall not exceed three million dollars of state general fund monies
+pursuant to subsection A of this section in a fiscal year for costs associated
+with suppressing wildland fires, supporting other unplanned allrisk activities such as fire, flood,
+earthquake, wind and hazardous material responses and preparing for periods of
+extreme fire danger and preposition equipment and other fire suppression
+resources to provide for enhanced initial attack on wildland
+fires.The state forester shall not incur nonreimbursable
+liabilities for support of nonfire allrisk
+activities. The governor shall determine when periods of extreme fire danger
+exist and must approve any expenditure for prepositioning activities.
+2.If the funding authorization in paragraph 1 of
+this subsection is exhausted, or if the nonreimbursable liabilities incurred
+exceed the cash balance of the fire suppression revolving fund, the state
+forester shall not incur additional liabilities without the consent of a
+majority of the state emergency council as authorized by section 35192.
+E.The state forester shall process and pay claims
+for reimbursement for wildland fire suppression services, including claims for personnel hours, used supplies and
+reasonable and negotiated costs of damage to equipment that exceeds normal wear
+and tear, as follows:
+1.Except as provided by paragraph 2 of this
+subsection, within thirty days after receiving a complete and correct claim for
+wildland fire suppression services, the state forester shall pay the claim from
+available monies that have not been committed to the payment of other wildfire
+expenses.
+2.Within thirty days after receiving a complete and
+correct claim for wildland fire suppression services on federal lands, the
+state forester shall complete the processing of the claim and forward the claim
+to the appropriate federal agency.
+3.For any valid claim other than for federal
+reimbursement, if there is insufficient funding in the fire suppression
+revolving fund, the holder of the unpaid claim shall be issued a certificate
+pursuant to section 35189.
+4.If a
+federal agency does not pay a claim for reimbursement within thirty days after
+the state forester forwards the claim, the state forester shall pay the claim
+from available monies in the emergency response fund established by section 49-132.If
+there are insufficient monies in the emergency response fund to pay the claim,
+the state forester shall certify the claim to the state treasurer who shall pay
+the claim from monies appropriated from the budget stabilization fund pursuant to
+section 35-144, subsection A, paragraph3.A holder of an
+unpaid federal claim that receives monies pursuant to this paragraph shall
+reimburse the state forester or the state treasurer within thirty days after
+payment of the claim by a federal agency.
+F.Monies received for suppressing wildland fires,
+prepositioning equipment and firefighting resources and other unplanned
+allrisk activities
+may be used for the purposes of section 37623 and this section.
+G.The state forester shall adopt rules for
+administering the wildland fire suppression monies authorized under this
+section, subject to approval of the governor.
+H.The state forester may require reimbursement from
+cities and other political subdivisions of this state and state and federal
+agencies for costs incurred in the suppression of wildland fires, presuppression
+or unplanned allrisk
+activities.Reimbursement shall be based on the terms and conditions
+in cooperative agreements, land ownership or negligence.The state
+forester may require reimbursement from individuals or businesses only for
+costs incurred in the suppression of wildland fires or unplanned allrisk activities caused
+by their negligence or criminal acts.
+I.The fire suppression revolving fund is
+established consisting of civil penalties collected pursuant to section 361610
+and monies received by the state forester for wildland fire suppression and prepositioning
+equipment and resources and for payment for activities related to combating
+wildland fires and supporting other unplanned allrisk activities such as fire, flood,
+earthquake, wind and hazardous material responses. The state forester shall
+not incur nonreimbursable liabilities for support of nonfire allrisk activities.The state
+forester shall administer the fund, and all monies received for these
+activities shall be deposited, pursuant to sections 35146 and 35147,
+in the fund.Monies in the fire suppression revolving fund are
+continuously appropriated to the state forester, except that if the unobligated
+balance of the fund exceeds two million dollars at the end of any calendar
+year, the excess shall be transferred to the state general fund. Monies in the
+fire suppression revolving fund are otherwise exempt from the provisions of
+section 35190 relating to lapsing of appropriations. END_STATUTE
+Sec.3.Section 48-807, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE48-807.County fire district assistance tax; annual budget;
+override
+A.The board of supervisors of a county shall levy, at the time of
+levying other property taxes, shall
+levy a county fire district assistance tax on the taxable
+property in the county of not more than ten cents per one hundred dollars of
+assessed valuation. The tax levy provided for in this subsection shall be a
+levy of secondary property taxes and shall not be subject to title 42, chapter
+17, article 2.The county treasurer shall pay to each fire district,
+including a fire district formed pursuant to section 48851, in the
+county from the proceeds of the tax an amount equal to twenty percent of the
+property tax levy adopted by the district for the fiscal year in which the tax
+will be levied, except that:
+1.The amount of assistance from the county to a
+fire district shall be reduced as follows:
+(a)Through the fiscal year that ends June 30, 2012,
+by the dollar amount that the fire district receives from the fire district
+assistance tax that exceeds three hundred thousand dollars from and after June
+30 of each fiscal year.
+(b)Beginning with the fiscal year that starts July
+1, 2012, by the dollar amount that the fire district receives from the fire
+district assistance tax that exceeds four hundred thousand dollars from and
+after June30 of each fiscal year, without regard to whether the district
+is located in more than one county.
+(c)Except as provided in paragraph 2 of this
+subsection, if the total amount to be paid to all districts in the county under
+this paragraph exceeds the amount to be raised by the levy of ten cents per one
+hundred dollars assessed valuation, then the county treasurer shall pay an
+amount less than twenty percent of the property tax levy of each
+district.The amount to be paid by the county treasurer to each
+district shall be determined by multiplying the proceeds of the county fire
+district assistance tax against the proportion that twenty percent of the
+property tax levy of each district bears to the total of twenty percent of the
+property tax levies of all fire districts in the county.
+2.For fiscal years beginning from and after July 1,
+1992, the amount of assistance from the county to a fire district shall not be
+less than the assistance provided from and after June 30, 1991 through June 30,
+1992, if, for the fiscal year in which the tax will be levied, the district
+levies a tax, in addition to any tax levied under section 48806, of
+three dollars per one hundred dollars of assessed valuation and the assessed
+valuation is at least ninety percent of the assessed valuation for the 1991 tax
+year.This paragraph does not apply to fire districts subject to
+paragraph 1, subdivision (a) or (b) of this subsection.
+B.For the purpose of subsection A of this section,
+the property tax levy of the fire district shall include in lieu contributions
+pursuant to chapter 1, article 8 of this title but shall not include property
+tax levies to be applied to the payment of principal and interest on bonds
+issued pursuant to section 48806.
+C.Beginning with the fiscal year that starts July
+1, 2012 and ending with the fiscal year
+that starts July 1, 2015, a consolidated district shall not
+receive more than four hundred thousand dollars in fire district assistance tax
+monies, without regard to whether the consolidated district is located in more
+than one county. Beginning with the
+fiscal year that starts July 1, 2016, a consolidated district may receive fire
+district assistance tax monies as otherwise prescribed by this section.
+D.Beginning with the fiscal year that starts July
+1, 2012 and ending with the fiscal year
+that starts July 1, 2015, if two or more fire districts merge to
+form a consolidated district and the total of the amounts received by each fire
+district from the fire district assistance tax is less than four hundred
+thousand dollars, the consolidated district may continue to receive monies
+until its receipts total four hundred thousand dollars, as prescribed in
+subsection A of this section, without regard to whether the consolidated
+district is located in more than one county. Beginning with the fiscal year that starts July 1, 2016, a
+consolidated district may receive fire district assistance tax monies as
+otherwise prescribed by this section without regard to whether the consolidated
+district is located in more than one county.
+E.The board, based on the budget submitted by the
+district, shall levy, in addition to any tax levied as provided in section 48806,
+a tax not to exceed three dollars twenty-five cents per one hundred dollars of
+assessed valuation, or the amount of the levy in the preceding tax year
+multiplied by 1.08, whichever levy is less, and minus any amounts required to
+reduce the levy pursuant to subsection H of this section, against all property
+situated within the district boundaries and appearing on the last assessment
+roll. The levy shall be made and the taxes collected in the manner, at the
+time and by the officers provided by law for the collection of general county
+taxes.
+F.The qualified electors of the district, voting in
+an election as prescribed by subsection G of this section, may authorize the
+board to levy a tax exceeding the limits prescribed by subsection E of this
+section under one, but not both, of the following options:
+1.The electors may authorize a permanent override
+allowing annual levies without reference to the levy in the preceding tax year,
+but remaining subject to the tax rate limit of three dollars twenty-five cents
+per one hundred dollars of assessed valuation. An election for the purposes of
+this paragraph must be held at a regularly scheduled general election held on
+the first Tuesday following the first Monday in November as prescribed by
+section 16204, subsection F.
+2.If the net
+assessed valuation of all property in the district declines by a combined total
+of twenty percent or more over two consecutive valuation years,
+The electors voting at the next
+a regularly scheduled
+general election held on the first Tuesday following the first Monday in
+November as prescribed by section 16204, subsection F may authorize an
+override for five consecutive tax years allowing annual levies that are exempt
+from the tax rate limit of three dollars twenty-five cents, but subject to an annual levy limit of the amount of the
+levy in the preceding tax year multiplied by 1.05.After
+the fifth tax year, the district is again subject to the limits prescribed by
+subsection E of this section, computed by multiplying the levy beginning in the
+year preceding the override by 1.08 for each year through the current tax year, and shall not seek an additional override
+during the five tax years immediately following the expiration of the override.
+G.The call for an override election held for the
+purposes of subsection F of this section must state:
+1.The purpose for requesting additional secondary
+property tax revenue for the district.
+2.If the voters approve the levy:
+(a)The maximum dollar amount of secondary property
+tax that may be collected in the first year compared to the existing maximum
+secondary property tax levy prescribed in subsection E of this section.
+(b)The estimated secondary property tax rate to
+fund the proposed levy under subdivision (a) of this paragraph in the first tax
+year compared to the secondary property tax rate levied in the current year.
+H.If the district annexes additional territory, the
+limit under subsection E of this section shall be adjusted by applying the
+district's tax rate to the assessed valuation of the annexed property in the
+preceding tax year.If districts are merged or consolidated under
+this chapter, the limitation under this subsection in the first year after the
+districts are merged or consolidated is the total of the levies of the merged
+or consolidated districts in the preceding tax year multiplied by 1.08 or the
+amount of the levies allowed by the maximum rate prescribed by subsection E of
+this section, whichever is less.
+I.The district shall maintain any property tax
+revenues collected in excess of the sum of the amounts of taxes collectible
+pursuant to section 4217054 and the allowable levy determined under
+subsection E of this section in a separate fund and used to reduce the property
+tax levy in the following tax year.
+J.The levy limit under this section is considered
+to be increased each year to the maximum limit permissible under subsection E
+of this section regardless of whether the district actually levies taxes up to
+the maximum permissible amount in that year.
+K.The county treasurer shall keep the money
+received from taxes levied pursuant to subsection E of this section in a
+separate fund known as the "fire district general fund" of the
+district for which collected. Any surplus remaining in the fire district
+general fund at the end of the fiscal year shall be credited to the fire
+district general fund of the district for which it was collected for the
+succeeding fiscal year and after subtraction of accounts payable and
+encumbrances, shall be used to reduce the property tax levy in the following
+tax year.
+L.A fire district may maintain separate accounts
+with a financial institution that is authorized to do business in this state
+for the purpose of operating a payroll account or for holding special revenues
+or ambulance revenues, or both, as necessary to fulfill the district's
+fiduciary responsibilities.
+M.A fire district, through the county treasurer,
+shall establish the relevant governmental funds necessary for the proper
+management and fiscal accountability of district monies from property taxes,
+grants, contributions and donations, as defined by the government accounting
+standards board. Unless the monies received are legally restricted by contract,
+agreement or law, those monies may be transferred between fund accounts
+according to the original or amended budget of the fire district.
+N.A fire district shall reconcile all balance sheet
+accounts for accounts for each calendar month of the fiscal year within thirty
+days after the end of that calendar month.The fire district board
+shall review the reconciled balance sheet accounts monthly, except that for a
+fire district that is governed by a three-member board, the board may review
+the reconciled balance sheet accounts every two months.
+O.A fire district shall produce monthly financial
+reports to include a register of checks, warrants and deposits, a statement of
+financial activities and a statement of net assets for each calendar month. A
+fire district shall produce a cash flow projection report for each fiscal
+year. The cash flow projection report shall be updated monthly with the actual
+revenues and expenditures from the preceding month. Each month, the fire
+district board shall review the financial reports, the updated cash flow
+projections report and all month-end fund statements and reports of the
+preceding month to include those reports provided by the county treasurer and each
+of the financial institutions in which the district maintains an account,
+except that for a fire district that is governed by a threemember board,
+the board may review the reports and statements prescribed by this subsection
+every two months. Any financial report or cash flow projection report that
+would indicate that the district is likely to violate section 48805.02,
+subsectionD, paragraph 1 or that would indicate an adverse impact on the
+ongoing operations or liquidity of the district shall be reported by the fire
+district board chairman in writing and delivered by certified mail to the
+county treasurer and the county board of supervisors within ten days after the
+discovery.
+P.Notwithstanding section 11605, a fire
+district may register warrants only if separate accounts are maintained by the
+county treasurer for each governmental fund of a fire district. Warrants may
+only be registered on the maintenance and operation account, the unrestricted
+capital outlay account and the special revenue account, and only if the total
+cash balance of all three accounts is insufficient to pay the warrants and
+after any revolving line of credit has been expended as prescribed in section
+11635.
+Q.When a fire district has adopted a budget and the
+board of supervisors has levied a fire district tax as provided in subsection E
+of this section and the district has insufficient money in its general fund
+with the county treasurer to operate the district, the chairman of the board,
+on or after August 1 of each year, may draw warrants for the purposes
+prescribed in section 48805 on the county treasurer, payable on November
+1 of that year or on April 1 of the succeeding year. The aggregate amounts of
+the warrants may not exceed ninety percent of the taxes levied by the county
+for the district's current fiscal year.If the treasurer cannot pay
+a warrant for lack of funds in the fire district general fund, the warrant
+shall be endorsed, be registered, bear interest and be redeemed as provided by
+law for county warrants, except that the warrants are payable only from the
+fire district general fund.
+Sec.4.Repeal
+Section 49-132,
+Arizona Revised Statutes, as amended by Laws 2015, chapter 208, section 31, is
+repealed.
+Sec.5.Section 26352,
+Arizona Revised Statutes, as amended by Laws 1991, chapter 315, section 4, and
+as renumbered by Laws 2015, chapter 208, section 12, as section 49-132, is
+amended to read:
+START_STATUTE49132.Emergency response fund
+The emergency response fund is
+established consisting of monies appropriated by the legislature for purposes
+of section 26305.02 and section
+37-623.02 and this article and federal, private and other monies
+available for that purpose. The chairman of the
+commission department
+shall manage the fund and expend monies in the fund for the purposes of section 37-623.02 or in
+performing the functions required or authorized by this article.All
+interest earned from investing monies in the fund shall be credited to the fund.Monies
+in the fund are subject to legislative appropriation and are exempt from
+section 35190 relating to lapsing of appropriations. END_STATUTEEND_STATUTE
+

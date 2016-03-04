@@ -1,0 +1,502 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: ASRS; eligible rollovers
+
+
+
+
+
+
+
+State of Arizona
+House of Representatives
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+HB 2160
+
+
+
+
+
+
+
+
+
+Introduced by
+Representative
+  Thorpe
+
+
+
+
+
+AN ACT
+
+Amending section
+38747, Arizona Revised Statutes; relating to the Arizona state
+retirement system.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 38-747, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE38-747.Purchase of credited service; payment; limitations;
+definitions
+A.A member who purchases credited service pursuant
+to section 38738, 38742, 38743, 38744, 38745
+or 38922 shall either:
+1.Make payments directly to ASRS as provided in
+subsection H of this section.
+2.Elect to have the member's employer make payments
+as provided in subsection B of this section.
+B.A member may elect to have the member's employer
+make payments for all or any portion of the amounts payable for the member's
+purchase of credited service pursuant to the sections prescribed in subsection
+A of this section through a salary reduction program in accordance with the
+following:
+1.The amounts paid pursuant to a salary reduction
+program are in lieu of contributions by the electing member.The
+electing member's salary or other compensation shall be reduced by the amount
+paid by the employer pursuant to this subsection.For the purposes
+of this paragraph, "other compensation" includes a member's
+termination pay.
+2.The member shall make an election pursuant to
+this subsection at any time on or after the date the member elects to purchase
+credited service pursuant to the sections prescribed in subsection A of this
+section and before the member's termination of employment. The election shall
+specify the number of payroll periods that deductions will be made from the
+member's compensation and the dollar amount of deductions for each payroll
+period during the specified number of payroll periods. In the case of an
+election to utilize all or any part of the member's termination pay to purchase
+credited service, the member's election shall be made at least three full
+calendar months before the date of the member's termination of employment and entitlement
+to receive the termination pay.After an election is made pursuant
+to this subsection, the election is binding on and irrevocable for the member
+and the member's employer during the member's remaining period of current
+employment. After a member makes an irrevocable election pursuant to this
+subsection, the member does not have the option of choosing to receive the
+contributed amounts directly.For the purposes of this paragraph,
+"termination pay" means any lump sum that is paid at the member's termination
+of employment for accrued vacation, sick leave or overtime pay.
+3.A member who makes an irrevocable election
+pursuant to this subsection to have the member's employer make payments for
+less than all of the amounts payable for the member's purchase of credited
+service may irrevocably elect to have the member's employer make payments for
+all or any portion of the remaining amounts payable for the member's purchase
+of credited service.A member who makes one or more irrevocable
+elections pursuant to this subsection may also make other contributions to ASRS
+pursuant to subsection H of this section to the extent of any remaining amounts
+payable for which the member has not made an election pursuant to this
+subsection. An additional election or contribution with respect to a portion
+of the amounts payable for the member's purchase of credited service does not
+alter, amend or revoke an irrevocable election already made pursuant to this
+subsection for any other portion of the amounts payable for the member's
+purchase of credited service.
+4.If on termination of the member's employment with
+an ASRS employer all amounts have not been paid to ASRS pursuant to the
+member's irrevocable election pursuant to this subsection, the member may pay
+ASRS, within thirty days after the member's termination of employment and
+subject to other limitations prescribed in this section, all or any portion of
+the unpaid amounts as provided in subsection H of this section. These payments
+do not alter, amend or revoke any irrevocable election already made pursuant to
+this subsection with respect to any amount to be paid by the member's employer
+while the member is employed by the member's employer.
+5.Amounts paid by an
+employer pursuant to this subsection shall be treated as employer contributions
+for the purpose of determining tax treatment under the internal revenue code.
+The effective date of employer payments pursuant to this subsection shall not
+be before the date ASRS receives notification from the United States internal
+revenue service that pursuant to section 414(h)(2) of the internal revenue code
+the amounts paid by an employer pursuant to this subsection will not be
+included in the member's gross income for income tax purposes until those
+amounts are distributed by refund or retirement benefit payments.
+6.Unless otherwise provided, member contributions
+paid by an employer pursuant to this subsection are treated for all other
+purposes under ASRS in the same manner and to the same extent as member
+contributions that are not paid by an employer pursuant to this
+subsection.ASRS shall not grant credited service for contributions
+made pursuant to this subsection until those contributions are received by
+ASRS.ASRS may assess interest or administrative charges attributable
+to any salary reduction election made pursuant to this subsection. The
+interest or administrative charges shall be added to the amount of
+contributions that is made to ASRS by the member each payroll period and that
+is paid by the member's employer. The interest or administrative charges shall
+not be treated as member contributions for any purposes under this article and
+a member or a member's beneficiary does not have a right to the return of the
+interest or administrative charges pursuant to any other provision of this
+article. Interest assessed pursuant to this subsection shall be at the rate
+specified by the board pursuant to section 38711, paragraph 2.
+7.If a member transfers employment from one
+participating employer with which the member has made an irrevocable election
+pursuant to this subsection to another participating employer, the member and
+the successor participating employer shall complete the terms of the
+irrevocable election that the member made with the original participating employer.
+C.A member who elects before July 1, 1999 to
+receive retirement benefits based on section 38771, subsection C,
+paragraph 2 or a member who elects to make contributions to ASRS pursuant to
+section 38771.01, subsection F, paragraph 4 shall either make the
+member's additional contributions required pursuant to section 38771,
+subsection E or allowed pursuant to section 38771.01, subsection F,
+paragraph 4 directly to ASRS as provided in subsection H of this section or
+shall elect to have the member's employer make payments for those additional
+contributions as provided in subsection D of this section. A member who
+elected to be covered or who was deemed to be covered by section 38771
+on or before December 31, 1995 or who elects to make member contributions
+pursuant to section 38771.01, subsection F, paragraph 3 is deemed to
+have made an irrevocable election pursuant to subsection D of this section to
+make the member's contributions to ASRS that are required by section 38771,
+subsection D or allowed by section 38771.01, subsection F, paragraph 3.
+D.Any member contributions that are required by
+section 38771, subsection D or that are allowed pursuant to section 38771.01,
+subsection F, paragraph 3 are deemed to be made by the member to ASRS through a
+salary reduction program in accordance with the following:
+1.A member may make member contributions pursuant
+to section 38771, subsection E or section 38771.01, subsection F,
+paragraph 4 through a salary reduction program elected pursuant to this subsection.
+If a member makes an irrevocable election pursuant to this subsection before
+July 1, 1999 to have the member's employer make payments for additional
+contributions pursuant to section 38771, subsection E, the election
+continues in effect from and after June 30, 1999 and shall not be revoked,
+amended or altered by any election made pursuant to section 38771.01 or
+otherwise. The amounts paid pursuant to a salary reduction program are in lieu
+of contributions by the electing member. The member's salary or other
+compensation shall be reduced by the amount paid by the employer pursuant to
+this subsection.
+2.Before a member's termination of employment, the
+member may make an election pursuant to this subsection at any time after the
+date the member elects to receive retirement benefits based on section 38771,
+subsection C, paragraph 2 but before July 1, 1999 or at any time after the
+member elects to make member contributions pursuant to section 38771.01,
+subsection F, paragraph 4. The election shall specify the number of payroll
+periods that deductions will be made from the member's compensation and the
+dollar amount of deductions for each payroll period during the specified number
+of payroll periods. After an election is made pursuant to this subsection, the
+election is binding on and irrevocable for the member and the member's employer
+during the member's remaining period of employment.
+3.After a member makes or is deemed to have made an
+irrevocable election pursuant to this subsection, the member does not have the
+option of choosing to receive the contributed amounts directly. A member who
+makes an irrevocable election pursuant to this subsection to have the member's
+employer make payments for less than all of the amounts payable for the member's
+additional contributions allowed by section 38771.01, subsection F,
+paragraph 4 may irrevocably elect to have the member's employer make payments
+for all or any portion of the remaining amounts payable for the member's
+additional contributions.A member who makes one or more irrevocable
+elections pursuant to this subsection may also make other contributions to ASRS
+pursuant to section 38771.01, subsection F, paragraph 4 or pursuant to
+subsection H of this section to the extent of any remaining amounts payable for
+which the member has not made an election pursuant to this subsection. An
+additional election or contribution with respect to a portion of the amounts
+payable for the member's additional contributions pursuant to section 38771.01,
+subsection F, paragraph 4 does not alter, amend or revoke an irrevocable
+election already made pursuant to this subsection for any other portion of the
+amounts payable for the member's additional contributions allowed by section 38771.01,
+subsection F, paragraph 4.
+4.If on termination of the member's employment all
+amounts have not been paid to ASRS pursuant to the member's irrevocable
+election pursuant to this subsection, the member may pay ASRS, within thirty
+days after the member's termination of employment and subject to other
+limitations prescribed in this section, all or any portion of the unpaid
+amounts as provided in subsection H of this section. These payments do not
+alter, amend or revoke any irrevocable election already made pursuant to this
+subsection with respect to any amount to be paid by the member's employer while
+the member is employed by the member's employer.
+5.Amounts paid by an employer pursuant to this
+subsection shall be treated as employer contributions for the purpose of
+determining tax treatment under the internal revenue code. The effective date
+of employer payments pursuant to this subsection shall not be before the date
+ASRS receives notification from the United States internal revenue service that
+pursuant to section 414(h)(2) of the internal revenue code the amounts paid by
+an employer pursuant to this subsection will not be included in the member's
+gross income for income tax purposes until those amounts are distributed by
+refund or retirement benefit payments.
+6.Unless otherwise provided, member contributions
+paid by an employer pursuant to this subsection are treated for all other
+purposes under ASRS in the same manner and to the same extent as member
+contributions that are not paid by an employer pursuant to this subsection.
+7.If a member transfers employment from one
+participating employer with which the member has made an irrevocable election
+pursuant to this subsection to another participating employer, the member and
+the successor participating employer shall complete the terms of the
+irrevocable election that the member made with the original participating
+employer.
+E.The following
+limits apply to contributions to ASRS:
+1.Except to the extent paragraphs 2 and 3 of this
+subsection apply to certain contributions made by a member to ASRS and to the
+extent permitted under section 414(v) of the internal revenue code, if
+applicable, in any one limitation year, the annual additions contributed or
+allocated to ASRS for or on behalf of a member shall not exceed the lesser of either:
+(a)Forty thousand dollars or a larger amount that
+is prescribed by the board and that is due to any cost of living adjustment
+announced by the United States secretary of the treasury pursuant to section
+415(d) of the internal revenue code. The board shall increase the amount
+prescribed by this subdivision as of the effective date of the increase
+announced by the United States secretary of the treasury.
+(b)One hundred per cent
+percent of the member's compensation for the limitation year.
+The compensation limit prescribed in this subdivision does not apply to any
+contribution to ASRS for medical benefits after a member's separation from
+service, within the meaning prescribed in section 401(h) or 419A(f)(2) of the
+internal revenue code, that is otherwise treated as an annual addition.
+2.Unless paragraph 4 of this subsection applies,
+for plan years beginning on or after July 1, 1998, in any one limitation year,
+the annual additions credited to ASRS for or on behalf of a member who makes
+contributions to ASRS to purchase credited service pursuant to section 38743,
+38744, 38745 or 38922 and with respect to which an
+irrevocable election has not been made pursuant to subsection B of this section
+shall not exceed the greater of either:
+(a)The requirements of section 38769. For
+the purposes of applying the limits prescribed in section 38769 under
+this subdivision, the accrued benefit derived from the contributions shall be
+treated as an annual benefit and the reduced limit for certain early retirement
+in section 38769, subsection C, paragraph 2 does not apply.
+(b)Except as provided in paragraph 3 of this
+subsection, the requirements of paragraph 1 of this subsection. The
+contributions shall be treated as annual additions and any of the member's
+other annual additions for the limitation year shall be taken into
+account.For the purposes of applying the requirements of paragraph
+1 of this subsection under this subdivision, the percentage of compensation
+limit in paragraph 1, subdivision (b) of this paragraph does not apply.
+3.For plan years beginning on or after July 1,
+1998, the requirements of paragraph 1 of this subsection shall not be applied
+to reduce the amount of credited service that may be purchased by an eligible
+member pursuant to section 38743, 38744, 38745 or 38922
+to an amount that is less than the amount of credited service allowed to be
+purchased pursuant to those sections on August 5, 1997 without the application
+of any of the limits prescribed in this section or section 415 of the internal
+revenue code. For the purposes of this paragraph, "eligible member"
+means a person who first becomes a member of ASRS before July 1, 1999.
+4.Member contributions to ASRS to purchase credited
+service pursuant to section 38743, 38744 or 38922 shall
+not be made by a member if recognition of that service would cause a member to
+receive a retirement benefit for the same service from ASRS and one or more
+other retirement plans. This paragraph does not apply to either of the
+following:
+(a)Contributions made by an eligible member as
+defined in paragraph 3 of this subsection, except that any service purchase by
+an eligible member is subject to any other limitations, including limitations
+on duplicative service purchase, otherwise provided in this article.
+(b)Any member contributions with respect to which
+an irrevocable election has been made by a member pursuant to subsection B of
+this section, except that the service purchase is subject to any other
+limitations, including limitations on duplicative service purchase, otherwise
+provided in this article.
+F.If a member's contributions are subject to the
+limitations of subsection E of this section, the contributions shall be treated
+as being made to a separate defined contribution plan. If the member's
+contributions exceed the limits prescribed in subsection E of this section when
+taking into account other member and employer contributions to ASRS on behalf
+of the member for the limitation year, the amount to be paid by the member
+shall be reduced to not exceed the limits prescribed in subsection E of this
+section and the remaining amount shall be carried forward to the next
+limitation year, unless the limits are exceeded in the next limitation
+year.If the limits are exceeded in the next limitation year, the
+procedure prescribed by this subsection shall be repeated until all payments
+have been made.
+G.If, after the application of subsection F of this
+section, the annual additions on behalf of a member exceed the limitations
+prescribed in subsection E of this section, ASRS shall dispose of excess
+amounts by either of the following:
+1.Returning to the member any contributions that
+are made by the member and that are nondeductible under the internal revenue
+code.
+2.Holding the amounts in a suspense account
+established pursuant to subsection L of this section and allocating the amounts
+as either member or employer contributions for the benefit of the member in the
+next limitation year and before any further member or employer contributions are
+made that would constitute annual additions made to a defined contribution plan
+pursuant to section 415 of the internal revenue code. ASRS shall allocate
+contributions as prescribed in this section, and the amount allocated shall
+reduce the amount of the member or employer contributions for the limitation
+year in which the allocation is made.
+H.To the extent that a payment under this
+subsection does not alter, amend or revoke any one or more currently effective
+irrevocable elections made by the member pursuant to subsection B or D of this
+section, the board may accept contributions made pursuant to section 38771
+or member contributions for the payment for credited service purchases pursuant
+to section 38738, 38742, 38743, 38744, 38745
+or 38922 or contributions made pursuant to section 38771.01,
+subsection F, paragraph 4, in whole or in part, by any one or a combination of
+the following methods:
+1.In lump sum payments.
+2.Subject to the limitations prescribed in sections
+401(a)(31) and 402(c) of the internal revenue code and subsection J of this
+section, accepting a direct transfer of any eligible rollover distribution or a contribution by a member of an eligible
+rollover distribution from one or more:
+(a)Retirement programs that are qualified under
+section 401(a) or 403(a) of the internal revenue code.
+(b)Annuity contracts described in section 403(b) of
+the internal revenue code.
+(c)Eligible deferred compensation plans described
+in section 457(b) of the internal revenue code that are maintained by a state,
+a political subdivision of a state or any agency or instrumentality of a state
+or a political subdivision of a state.
+3.Subject to
+the limitations prescribed in section 408(d)(3)(A)(ii) of the internal revenue
+code, accepting from a member a rollover contribution of that portion of a
+distribution from an individual retirement account or individual retirement
+annuity described in section 408(a) or 408(b) of the internal revenue code that
+is eligible to be rolled over and would otherwise be includable as gross
+income.
+3.Accepting
+from a member a direct transfer from an individual retirement account or
+individual retirement annuity described in section 408(a) or 408(b) of the internal revenue code of an amount that would
+otherwise be eligible to be rolled over to ASRS under the provisions of section
+408(d)(3)(A)(ii) of the internal revenue code if the amount
+had been received by the member and would have otherwise been includible in the
+member's gross income but for the direct transfer.
+4.Providing by rule that the contributions may be
+made in installment payments over a period of time.
+I.To the extent that a payment under this
+subsection does not alter, amend or revoke any one or more currently effective
+irrevocable elections made by a member pursuant to subsection B or D of this
+section, the board may accept a direct trusteetotrustee transfer
+from retirement programs that are qualified under section 401(a) or 403(a) of
+the internal revenue code, an annuity contract described in section 403(b) of
+the internal revenue code or an eligible deferred compensation plan described
+in section 457(b) of the internal revenue code for the payment for credited
+service purchases pursuant to section 38742, 38743, 38744,
+38745 or 38922.If a direct trusteetotrustee
+transfer is from a retirement program that is qualified under section 401(a) of
+the internal revenue code and that includes a cash or deferred arrangement
+described in section 401(k) of the internal revenue code, the member on whose
+behalf the transfer was made is not eligible to retire under section 38764,
+subsection I before the date the member attains fifty-nine and onehalf
+years of age.
+J.ASRS shall separately account for all amounts
+rolled over or directly transferred to ASRS. Subject to the limitations
+contained in the internal revenue code applicable to the type of plan from
+which an eligible rollover distribution is transferred, to the extent any
+eligible rollover distribution that is directly transferred to ASRS consists wholly
+or partially of amounts that would otherwise not be included in the member's
+gross income if not so transferred, ASRS shall separately account for the
+amounts so transferred, and earnings on those amounts, including separately
+accounting for the portion of the amount that is includable in gross income and
+the portion of the amount that is not includable in gross income.
+K.ASRS shall not grant credited service under
+section 38738, 38742, 38743, 38744 or 38922
+for contributions made pursuant to subsection H of this section until the
+contributions are received by ASRS. ASRS may assess interest or administrative
+charges attributable to any installment payment made pursuant to subsection H,
+paragraph 4 of this section to purchase credited service pursuant to section 38738,
+38742, 38743, 38744 or 38922. The interest or
+administrative charges shall be added to the amount of contributions made to
+ASRS by the member. The interest or administrative charges shall not be
+treated as member contributions for any purposes under this article, and a
+member or a member's beneficiary does not have a right to the return of the
+interest or administrative charges pursuant to any other provision of this
+article. Interest assessed pursuant to this subsection shall be at the rate
+specified by the board pursuant to section 38711, paragraph 2.
+L.Notwithstanding any provision of this article to
+the contrary, if the annual additions credited on behalf of an ASRS member
+during any limitation year exceed the limits of section 415(c) of the internal
+revenue code and subsection E of this section, ASRS may only correct the excess
+pursuant to the employee plans compliance resolution system prescribed in
+internal revenue service revenue procedure 200850 or any future guidance
+issued by the internal revenue service, including the preamble of the final
+treasury regulations issued under section 415 of the internal revenue code.
+M.If the member retires before all payments are
+made pursuant to this section, ASRS shall calculate the member's benefits based
+only on the payments actually made.
+N.On satisfaction of the requirements of this
+section, ASRS shall adjust the member's credited service history and add any
+additional service credits acquired.
+O.Annual additions on behalf of a member in any
+limitation year shall be the sum of:
+1.The amount of the member contributions made to
+ASRS to purchase credited service pursuant to section 38738, 38743,
+38744, 38745 or 38922 and with respect to which an
+irrevocable election made pursuant to subsection B of this section is not in
+effect.
+2.The amount of member and employer contributions
+made to ASRS on behalf of a member who elected or was deemed to have elected to
+receive retirement benefits pursuant to section 38771 or who is entitled
+to benefits pursuant to section 38771.01, except that, other than as
+provided in subsection P of this section, corrective contributions shall be
+considered annual additions for the limitation years to which the contributions
+relate and interest and gains shall not be considered as annual additions for
+the purpose of any limitation prescribed in this article or in section 415 of
+the internal revenue code. If the corrective contributions exceed the limit on
+annual additions for a limitation year prior to the limitation year in which
+the corrective contributions are contributed by the employer to ASRS, the
+retirement benefit attributable to the excess corrective contributions shall be
+treated as an excess benefit and shall be payable to the member as any other
+excess benefit is payable pursuant to section 38774, and the employer
+shall pay the excess corrective contributions to the separate unfunded
+governmental excess benefit arrangement administered by the board pursuant to
+section 38774.
+3.Any member or employer contributions made to ASRS
+or any other plan that are treated as being made to a defined contribution plan
+maintained by an employer of the member.
+4.Any forfeitures, including any income
+attributable to forfeitures, allocated for or on behalf of a member of ASRS or
+any other plan that are treated as being allocated under a defined contribution
+plan maintained by an employer of the member.
+P.To the extent any portion of the subject
+benefits, if treated as subject to the benefit limitations of section 415(b) of
+the internal revenue code, exceed the applicable limitation on benefits
+pursuant to section 38769 for the form of distribution, a percentage of
+corrective contributions and interest and gains shall be treated as annual
+additions for the limitation year in which contributed by the employer to
+ASRS.This percentage of corrective contributions and interest and
+gains shall be equal to the percentage determined by dividing the subject
+benefits that exceed the limitation on benefits pursuant to section 38769
+by the subject benefits. If the corrective contributions and interest and
+gains that are treated as annual additions for the limitation year in which the
+corrective contributions and interest and gains are contributed by the employer
+to ASRS exceed the limit on annual additions for the limitation year, the
+retirement benefit attributable to the excess shall be treated as an excess
+benefit and shall be payable to the member as any other excess benefit is
+payable pursuant to section 38774, and the employer shall pay the excess
+to the separate unfunded governmental excess benefit arrangement administered
+by the board pursuant to section 38774.
+Q.Subsection O of this section shall be construed
+and interpreted in accordance with section 415 of the internal revenue code and
+the final treasury regulations issued under that section.
+R.For the purposes of this section:
+1."Compensation" has the same meaning
+prescribed in section 38769.
+2."Corrective contributions" means any
+contributions that are paid by an employer pursuant to section 38771.01,
+subsection C, paragraph 3 and that are attributable to employer contributions
+that should have been made for prior limitation years.
+3."Defined contribution plan" has the
+same meaning prescribed in section 38769.
+4."Eligible rollover distribution" has
+the same meaning prescribed in section 38770.
+5."Interest and gains" means employer
+contributions to ASRS pursuant to section 38771.01, subsection C,
+paragraphs 3, 5 and 6 that are attributable to earnings and supplemental
+credits that would have been earned or added to a member's annuity payment.
+6."Limitation year" has the same meaning
+prescribed in section 38769.
+7."Participating employer" means an
+employer that participates in ASRS.
+8."Subject benefits" means the retirement
+benefit received by a member pursuant to section 38771.01 minus the sum
+of the portion of such retirement benefit attributable to contributions that
+were made by or on behalf of the member to the defined contribution program
+administered by ASRS for periods before July 1, 1981 and contributions that
+were made by the member after June 30, 1981 and that were not picked up as
+provided in section 414(h)(2) of the internal revenue code. END_STATUTE
+

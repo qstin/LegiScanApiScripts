@@ -1,0 +1,128 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: independent contractors; criteria 
+
+
+
+
+
+
+
+State of Arizona
+House of Representatives
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+HB 2652
+
+
+
+
+
+
+
+
+
+Introduced by
+Representatives
+  Norgaard: Boyer, Coleman, Lawrence, Mitchell
+
+
+
+
+
+AN ACT
+
+Amending title
+23, Arizona Revised Statutes, by adding chapter 10; relating to employment
+relationships.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Title 23, Arizona Revised Statutes,
+is amended by adding chapter 10, to read:
+CHAPTER 10
+EMPLOYMENT RELATIONSHIPS
+ARTICLE 1.GENERAL PROVISIONS
+START_STATUTE23-1601.Qualified marketplace contractors; definitions
+A.A qualified marketplace contractor shall be
+treated as an independent contractor for all purposes under state and local
+laws, regulations and ordinances, including employment security laws prescribed
+in chapter 4 of this title and workers' compensation laws prescribed in chapter
+6 of this title, if all of the following apply:
+1.All or substantially all of the payment for
+the services performed by the contractor is related to the performance of
+services or other output.
+2.The services performed by the contractor are
+governed by a written contract executed between the contractor and a qualified
+marketplace platform.
+3.The written contract required by paragraph 2
+of this subsection provides for all of the following:
+(a)That
+the contractor is providing services as an independent contractor and not as an
+employee.
+(b)That,
+pursuant to paragraph 1 of this subsection, all or substantially all of the
+payment paid to the contractor shall be based on the performance of services or other output. 
+(c)That
+the contractor is allowed to work any hours or schedules the contractor
+chooses. if the contractor elects to work specified hours or schedules, a
+contract may require the contractor to perform work during the selected hours
+or schedules.
+(d)That
+the contract does not restrict the contractors ability to perform services for
+other parties. 
+(e)That
+the contractor bears all or substantially all of the contractor's own expenses
+that are incurred by the contractor in performing the services.
+(f)That the contractor is responsible for the
+taxes on the contractor's own income.
+(g)That
+the contract and the association created by the contract may be terminated
+without cause by either party to the contract at any time on reasonable notice
+given to the other party.
+B.For services performed by a qualified
+marketplace contractor before the effective date of this section, the
+contractor shall be treated as an independent contractor for all purposes under
+state and local laws, regulations and ordinances, including employment security
+laws prescribed in chapter 4 of this title and workers' compensation laws
+prescribed in chapter 6 of this title, if both of the following apply:
+1.All or substantially all of the payment for
+the services performed by the contractor is related to the performance of
+services or other output.
+2.The services performed by the contractor are
+governed by a written contract executed between the contractor and a qualified
+marketplace platform that conforms to the requirements of subsection A,
+paragraph 3 of this section.
+C.For the purposes of this section:
+1."Qualified marketplace contractor"
+or "contractor" means any person or organization, including an
+individual, corporation, limited liability company, partnership, sole
+proprietor or other entity, that enters into an agreement with a qualified
+marketplace platform to use the qualified marketplace platform's digital
+platform to provide services to third-party individuals or entities seeking
+those services.
+2."Qualified marketplace platform"
+means an organization, including a corporation, limited liability company,
+partnership, sole proprietor or any other entity, that operates a digital
+platform that facilitates the provision of services by qualified marketplace
+contractors to third-party individuals or entities seeking those services. END_STATUTE
+

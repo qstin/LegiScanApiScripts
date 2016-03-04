@@ -1,0 +1,185 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: electronic benefit transfers;
+  prohibitions; violations
+
+
+
+
+
+
+
+State of Arizona
+House of Representatives
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+HB 2261
+
+
+
+
+
+
+
+
+
+Introduced by
+Representatives
+  Brophy McGee, Borrelli, Coleman, Fann: Allen J, Carter, Petersen, Rios,
+  Weninger
+
+
+
+
+
+AN ACT
+
+Amending sections
+4246, 5116 and 46297, Arizona Revised Statutes; relating
+to electronic benefit transfer cards.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 4-246, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE4-246.Violation; classification
+A.A person violating any provision of this title is
+guilty of a class 2 misdemeanor unless another classification is prescribed.
+B.A person violating section 4242.01, subsection A or section
+4244, paragraph 9, 14, 34, 42 or 44 is guilty of a class 1 misdemeanor.
+C.A person violating section 4229,
+subsection B, or section
+4244, paragraph 31 is guilty of a class 3 misdemeanor.
+D.In addition to any other penalty prescribed by
+law, the court may suspend the privilege to drive of a person who is under eighteen years of age for a
+period of up to one hundred eighty days on receiving the record of the person's
+first conviction for a violation of section 4244, paragraph 9.
+E.In addition to any other penalty prescribed by
+law, a person who is convicted of a violation of section 4244, paragraph
+42 shall pay a fine of at least five hundred dollars.
+F.In addition to any other penalty prescribed by
+law, a person who is convicted of a violation of section 4241,
+subsection L, M or N shall pay a fine of at least two hundred fifty dollars.END_STATUTE
+Sec.2.Section 5-116, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE5-116.Prohibition of automatic teller machine or pointofsale
+terminal that accepts electronic benefit transfer cards on premises; penalties;
+violation; classification
+A.It is unlawful for a permittee, licensee or
+facility for commercial horse racing or dog racing licensed pursuant to this
+title to operate on the licensed premises an automatic teller machine or a
+pointofsale terminal that accepts electronic benefit transfer
+cards issued pursuant to title 46, chapter 2, article 5 or that processes
+electronic benefit transfer card transactions.
+B.On or before February 1, 2014, a permittee,
+licensee or facility for commercial horse racing or dog racing licensed
+pursuant to this title shall disable the ability of every automatic teller
+machine and pointofsale terminal operated on the premises to
+accept the electronic benefit transfer card or process an electronic benefit
+transfer card transaction.
+C.Failure to comply with this section is a license
+violation subject to licensing action.The commission shall ensure
+compliance with the requirements of this section and enforce the continued
+prohibition on the use of electronic benefit transfer cards.
+D.A person
+who violates subsection A of this section is guilty of a class 1 misdemeanor.END_STATUTE
+Sec.3.Section
+46-297, Arizona Revised Statutes, is amended to read:
+START_STATUTE46-297.Electronic benefit transfers; prohibitions; penalties;
+violation; classification; definitions
+A.A head of
+household who receives cash assistance pursuant to this section, or on behalf
+of another person, and any person authorized by the head of household shall not
+conduct an electronic benefit transfer card
+transaction at any of the following:
+1.A liquor store as defined in this section.
+2.A commercial horse racing or dog racing facility
+as defined in section 5101.
+3.A casino, gambling casino or gaming establishment
+or a gaming facility located on Indian lands pursuant to section 5601.02.
+4.An adult oriented entertainment establishment.
+5.A medical
+marijuana dispensary.
+B.It is unlawful for an adult oriented
+entertainment establishment to operate on the licensed or permitted premises an
+automatic teller machine or a pointofsale terminal that accepts
+electronic benefit transfer cards issued under this title or that processes
+electronic benefit transfer card
+transactions.A violation of this subsection is a permit or license violation.A municipality that licenses or regulates adult
+oriented entertainment establishments shall do all of the following:
+1.Ensure that
+on or before February 1, 2014 all adult oriented entertainment establishments
+in the municipality's jurisdiction disable the ability of automatic teller
+machines and pointofsale terminals operated on the business's
+premises to accept the electronic benefit transfer card or process an
+electronic benefit transfer card transaction.
+2.Enforce the
+continued prohibition on the use of the electronic benefit transfer card.
+3.Enact
+ordinances necessary to ensure compliance with this section.
+C.The department shall notify electronic benefit
+transfer card recipients of the restrictions prescribed in subsection A of this
+section.
+D.An adult
+oriented entertainment establishment that violates this section is subject to
+licensing or permit action.
+D.A person
+who violates subsection A or B of this section is guilty of a class 1
+misdemeanor.
+E.For the purposes of this section:
+1."Adult oriented entertainment
+establishment" means an entertainment business at which performers disrobe
+or perform in an unclothed state.
+2.Casino, gambling casino and gaming establishment
+do not include either of the following:
+(a)A grocery store that sells groceries, including
+staple foods, and that is located in the same building or complex as a casino,
+gambling casino or gaming establishment.
+(b)Any other business that offers gambling or
+gaming activities incidental to the principal purpose of the business.
+3."Electronic benefit transfer card
+transaction" means the use of a credit or debit card service, automated
+teller machine or pointofsale terminal or access to an online
+system for the withdrawal of cash assistance provided pursuant to this article
+or for the processing of a payment for merchandise or a service from cash
+assistance provided pursuant to this article.
+4."Liquor" means the following substances
+as defined in section 4101:
+(a)Beer.
+(b)Wine.
+(c)Distilled spirits.
+(d)Spirituous liquor.
+5."Liquor store" means:
+(a)A retail establishment that exclusively or
+primarily sells liquor, but does not include a grocery store that sells both
+liquor and groceries, including staple foods.
+(b)An on-sale retailer as defined in section 4101
+if the on-sale retailer sells liquor in the original container for consumption
+off premises.
+6."Staple food" means food in any of the
+following categories except accessory food items such as coffee, tea, cocoa,
+carbonated and uncarbonated drinks, candy, condiments and spices:
+(a)Meat, poultry or fish.
+(b)Bread or cereals.
+(c)Vegetables or fruits.
+(d)Dairy products. END_STATUTE
+

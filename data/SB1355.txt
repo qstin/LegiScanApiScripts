@@ -1,0 +1,281 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: housing trust fund; funding sources
+
+
+
+
+
+
+
+State of Arizona
+Senate
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+SB 1355
+
+
+
+
+
+
+
+
+
+Introduced by
+Senator
+  Farley
+
+
+
+
+
+AN ACT
+
+Amending sections
+41-3955 and 42-1116, Arizona Revised Statutes; Amending title 43, chapter 4,
+article 1, Arizona Revised Statutes, by adding section 43-404.01; amending
+section 44-313, Arizona Revised Statutes; relating to the housing trust fund.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 41-3955, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE41-3955.Housing trust fund; purpose
+A.The housing trust fund
+is established, and the director shall administer the fund. The fund consists
+of:
+1.Monies from unclaimed property
+deposited in the fund pursuant to section 44313. and
+
+2.Withholding tax collections from nonresident
+real estate sales pursuant to section 43-404.01.
+3.Investment earnings.
+B.On notice from the
+department, the state treasurer shall invest and divest monies in the fund as
+provided by section 35313, and monies earned from investment shall be
+credited to the fund.
+C.Fund monies shall be
+spent on approval of the department for developing projects and programs
+connected with providing housing opportunities for low and moderate income
+households and for housing affordability and Arizona housing finance authority
+programs. Pursuant to section 44313, subsection A, a portion of fund
+monies shall be used exclusively for housing in rural areas.
+D.In approving the
+expenditure of monies, the director shall give priority to funding projects
+that provide for operating, constructing or renovating facilities for housing for
+low income families and that provide housing and shelter to families that have
+children.
+E.The director shall
+report annually to the legislature on the status of the housing trust fund.
+The report shall include a summary of facilities for which funding was provided
+during the preceding fiscal year and shall show the cost and geographic
+location of each facility and the number of individuals benefiting from the
+operation, construction or renovation of the facility. The report shall be
+submitted to the president of the senate and the speaker of the house of
+representatives no later than September 1 of each year.
+F.Monies in the housing
+trust fund are exempt from the provisions of section 35190 relating to
+lapsing of appropriations.
+G.An amount not to exceed
+ten per cent of the housing trust fund monies may be appropriated annually by
+the legislature to the department for administrative costs in providing
+services relating to the housing trust fund.
+H.For any construction
+project financed by the department pursuant to this section, the department
+shall notify a city, town, county or tribal government that a project is
+planned for its jurisdiction and, before proceeding, shall seek comment from
+the governing body of the city, town, county or tribal government or an
+official authorized by the governing body of the city, town, county or tribal
+government.The department shall not interfere with or attempt to
+override the local jurisdiction's planning, zoning or land use regulations. END_STATUTE
+Sec.2.Section 42-1116, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE42-1116.Disposition of tax revenues
+A.The department of revenue shall promptly deposit, pursuant to
+sections 35146 and 35147, all monies it collects from the taxes
+administered pursuant to this article except the telecommunication services
+excise tax, separately accounting for each type of tax and each tax
+classification within each type of tax.At the same time the
+department of revenue shall also furnish copies of the transmittal schedules to
+the director of the department of administration.
+B.Except as provided by subsection C of this
+section, the department shall deposit all monies and remittances received under
+this section to the credit of the following specific funds and accounts:
+1.Amounts sufficient to meet the requirements for
+tax refunds to the tax refund account established in by section
+421117.
+2.Amounts sufficient to meet the requirements of
+urban revenue sharing to the urban revenue sharing fund established in by section 43206.
+3.Amounts collected pursuant to chapter 5, articles
+1 and 5 of this title and section 425352, subsection A to the
+transaction privilege and severance tax clearing account established by section
+425029.
+4.Through June 30, 2015 amounts sufficient to meet
+the requirements of section 423104 to the corrections fund.
+5.Amounts sufficient to meet the requirements of
+section 49282, subsection B relating to the water quality assurance
+revolving fund.
+6.Amounts
+collected pursuant to section 43-404.01 to the housing trust fund established
+by section 41-3955.
+6.7.All remaining
+monies to the state general fund.
+C.From the monies and remittances received under
+this section, each month beginning July, 2001 the state treasurer shall
+transmit to the tourism and sports authority, established by title 5, chapter
+8, for deposit in its facility revenue clearing account established by section
+5834 onetwelfth of the amount reported by the department pursuant
+to section 43209. END_STATUTE
+Sec.3.Title 43, chapter 4, article 1, Arizona
+Revised Statutes, is amended by adding section 43-404.01, to read:
+START_STATUTE43-404.01.Extension of withholding to real estate sales; nonresident
+transfers; exceptions; penalties; definitions
+A.Except as
+otherwise provided in this section, in the case of any conveyance of an Arizona
+real property interest, the title insurance company or subsidiary, the title
+insurance agent or any financial institution or the attorney that provides
+closing and settlement services shall withhold an amount equal to two percent
+of the sales price of the Arizona real property interest conveyed or the net
+proceeds resulting from the conveyance, whichever is less, if the transferor
+is:
+1.An
+individual and either the return required to be filed with the secretary of the
+treasury pursuant to section 6045(e) of the
+internal revenue code indicates or the authorization for the disbursement of
+the monies resulting from the transaction instructs that the monies be
+disbursed to either:
+(a)A
+transferor with a last-known address outside the boundaries of this state at
+the time of the transfer of the title to the Arizona real property interest.
+(b)The
+escrow agent of a transferor described in subdivision (a) of this paragraph.
+2.A
+corporation that, immediately after the transfer of the title to the Arizona
+real property interest, is a foreign corporation that does not qualify by law
+to transact business in this state and does not maintain and staff a permanent
+office in this state.
+B.This
+section does not apply to a conveyance of real property or interest if:
+1.The sales
+price of the Arizona real property interest conveyed does not exceed one
+hundred thousand dollars.
+2.The
+transferee is a financial institution or corporate beneficiary under a
+mortgage, or a beneficiary under a deed of trust, and the Arizona real property
+interest is acquired in judicial or nonjudicial foreclosure or by a deed in
+lieu of foreclosure.
+3.The title
+insurance company or subsidiary, title insurance agent or financial institution
+or attorney relies on a written affirmation executed by the transferor
+certifying one of the following under penalty of perjury:
+(a)That the transferor is a resident of this state.
+(b)That the transferor, if a corporation, has a permanent place
+of business in this state.
+(c)That the Arizona real property being conveyed is the primary
+residence of the transferor for the purpose of classifying residential property
+under section 42-12003 and 42-12053.
+(d)That the transferor will not owe tax reasonably estimated to
+be due under this title from the inclusion of the actual gain required to be
+recognized on the transaction in the transferor's Arizona gross income, as
+defined in section 43-1001 or 43-1101, as applicable.
+C.The title
+insurance company or other person or institution that is required to withhold
+monies pursuant to subsection A of this section shall:
+1.Report
+and remit the amount to the department as provided by this article.
+2.Submit
+written affirmations executed pursuant to subsection B, paragraph 3 of this
+section to the department in a manner prescribed by the department by rule.
+D.Notwithstanding
+section 43-401, the department shall separately account for monies collected
+pursuant to this section for deposit pursuant to section 42-1116, subsection B,
+paragraph 6 in the housing trust fund established by section 41-3955.
+E.A title
+insurance company or other person or institution that is required to withhold
+and remit any monies pursuant to this section and fails to do so is liable for
+the greater of the following amounts:
+1.Five
+hundred dollars.
+2.Ten
+percent of the amount required to be withheld pursuant to this section but not
+more than two thousand five hundred dollars.
+F.For the
+purposes of this section:
+1."Arizona
+real property interest" means an interest in real property, including an
+interest in a mine, well or other natural deposit, that is located in this
+state.
+2."Sales
+price" means the sum of the following:
+(a)The cash paid or to be paid for the conveyance of the
+arizona real property interest, but does not include stated or unstated
+interest or original issue discount as determined pursuant to sections 1271
+through 1275 of the internal revenue code.
+(b)The fair market value of other property transferred or to be
+transferred in connection with the transaction.
+(c)The
+outstanding amount of any liability assumed by the transferee to which the
+Arizona real property interest is subject immediately before and after the
+transfer. END_STATUTE
+Sec.4.Section 44-313, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE44-313.Deposit of monies
+A.Except as otherwise provided in this section or
+section 44314, the department shall deposit, pursuant to sections 35146
+and 35147, in the state general fund all monies received pursuant to
+this chapter, including the proceeds from the sale of abandoned property
+pursuant to section 44312, except that:
+1.Fifty-five
+percent of the monies shall be deposited in the housing trust fund established
+by section 41-3955.
+1.2.After the deposit of monies
+made pursuant to paragraph 1 of this subsection, the first two
+million dollars of the monies shall be deposited each fiscal year in the
+seriously mentally ill housing trust fund established by section 413955.01.
+2.The second
+two million five hundred thousand dollars of the monies shall be deposited in
+the housing trust fund established by section 413955.
+3.The next twentyfour million five hundred
+thousand dollars of the monies shall be deposited each fiscal year in the
+department of revenue administrative fund established by section 421116.01.
+B.The department shall deposit monies from
+unclaimed shares and dividends of any corporation incorporated under the laws
+of this state in the permanent state school fund pursuant to article XI,
+section 8, Constitution of Arizona.
+C.The department shall deposit monies from
+unclaimed victim restitution payments in the victim compensation and assistance
+fund established by section 412407 for the purpose of establishing,
+maintaining and supporting programs that compensate and assist victims of
+crime.
+D.The department shall retain in a separate trust
+fund at least one hundred thousand dollars from which the department shall pay
+claims.
+E.Before making the deposit, the department shall
+record the name and last known address of each person who appears from the
+holders' reports to be entitled to the property and the name and last known
+address of each insured person or annuitant and beneficiary.The
+department shall also record the policy or contract number of each policy or
+contract of an insurance company that is listed in the report, the name of the
+company and the amount due. The department shall make the record available for
+public inspection during reasonable business hours. END_STATUTE
+

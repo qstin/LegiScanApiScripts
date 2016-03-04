@@ -1,0 +1,739 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: DCS; intake hotline; reports
+
+
+
+
+
+
+
+State of Arizona
+House of Representatives
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+HB 2522
+
+
+
+
+
+
+
+
+
+Introduced by
+Representatives
+  Brophy McGee, Carter: Allen J, Weninger
+
+
+
+
+
+AN ACT
+
+amending sections
+8201, 8455, 8456, 8471 and 8807.01, Arizona
+Revised Statutes; relating to the department of child safety.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 8-201, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE8-201.Definitions
+In this title, unless the context otherwise requires:
+1."Abandoned" means the failure of the
+parent to provide reasonable support and to maintain regular contact with the
+child, including providing normal supervision. Abandoned includes a judicial
+finding that a parent has made only minimal efforts to support and communicate
+with the child.Failure to maintain a normal parental relationship
+with the child without just cause for a period of six months constitutes prima
+facie evidence of abandonment.
+2."Abuse" means the infliction or
+allowing of physical injury, impairment of bodily function or disfigurement or
+the infliction of or allowing another person to cause serious emotional damage
+as evidenced by severe anxiety, depression, withdrawal or untoward aggressive
+behavior and which emotional damage is diagnosed by a medical doctor or
+psychologist and is caused by the acts or omissions of an individual who has
+the care, custody and control of a child.Abuse includes:
+(a)Inflicting or allowing sexual abuse pursuant to
+section 131404, sexual conduct with a minor pursuant to section 131405,
+sexual assault pursuant to section 131406, molestation of a child
+pursuant to section 131410, commercial sexual exploitation of a minor
+pursuant to section 133552, sexual exploitation of a minor pursuant to
+section 133553, incest pursuant to section 133608 or child
+prostitution pursuant to section 133212.
+(b)Physical injury that results from permitting a
+child to enter or remain in any structure or vehicle in which volatile, toxic
+or flammable chemicals are found or equipment is possessed by any person for
+the purpose of manufacturing a dangerous drug as defined in section 133401.
+(c)Unreasonable confinement of a child.
+3."Adult" means a person who is eighteen
+years of age or older.
+4."Adult court" means the appropriate
+justice court, municipal court or criminal division of the superior court that
+has jurisdiction to hear proceedings concerning offenses committed by juveniles
+as provided in sections 8327 and 13501.
+5."Award"
+or "commit" means to assign legal custody.
+6."Child", "youth" or
+"juvenile" means an individual who is under the age of eighteen
+years.
+7."Complaint" means a written statement
+of the essential facts constituting a public offense that is any of the
+following:
+(a)Made on an oath before a judge or commissioner
+of the superior court or an authorized juvenile hearing officer.
+(b)Made pursuant to section 133903.
+(c)Accompanied by an affidavit of a law enforcement
+officer or employee that swears on information and belief to the accuracy of
+the complaint pursuant to section 134261.
+8."Criminal conduct allegation" means an
+allegation of conduct by a parent, guardian or custodian of a child or an adult
+member of the victim's household that, if true, would constitute any of the
+following:
+(a)A violation of section 133623 involving
+child abuse.
+(b)A felony offense that constitutes domestic
+violence as defined in section 133601.
+(c)A violation of section 131404 or 131406
+involving a minor.
+(d)A violation of section 131405, 131410
+or 131417.
+(e)Any other act of abuse that is classified as a
+felony.
+(f)An offense that constitutes domestic violence as
+defined in section 133601 and that involves a minor who is a victim of
+or was in imminent danger during the domestic violence.
+9."Custodian" means a person, other than
+a parent or legal guardian, who stands in loco parentis to the child or a
+person to whom legal custody of the child has been given by order of the
+juvenile court.
+10."DCS
+report" means a communication received by the centralized intake hotline
+that alleges child abuse or neglect and that meets the criteria for a report as
+prescribed in section 8455.
+10.11."Delinquency
+hearing" means a proceeding in the juvenile court to determine whether a
+juvenile has committed a specific delinquent act as set forth in a petition.
+11.12."Delinquent
+act" means an act by a juvenile that if committed by an adult would be a
+criminal offense or a petty offense, a violation of any law of this state, or
+of another state if the act occurred in that state, or a law of the United
+States, or a violation of any law that can only be violated by a minor and that
+has been designated as a delinquent offense, or any ordinance of a city, county
+or political subdivision of this state defining crime.Delinquent
+act does not include an offense under section 13501, subsection A or B
+if the offense is filed in adult court.Any juvenile who is
+prosecuted as an adult or who is remanded for prosecution as an adult shall not
+be adjudicated as a delinquent juvenile for the same offense.
+12.13."Delinquent
+juvenile" means a child who is adjudicated to have committed a delinquent
+act.
+13.14."Department"
+means the department of child safety.
+14.15."Dependent
+child":
+(a)Means a child who is adjudicated to be:
+(i)In need of proper and effective parental care
+and control and who has no parent or guardian, or one who has no parent or
+guardian willing to exercise or capable of exercising such care and control.
+(ii)Destitute or who is not provided with the
+necessities of life, including adequate food, clothing, shelter or medical
+care.
+(iii)A child whose home is unfit by reason of
+abuse, neglect, cruelty or depravity by a parent, a guardian or any other
+person having custody or care of the child.
+(iv)Under eight years of age and who is found to
+have committed an act that would result in adjudication as a delinquent
+juvenile or incorrigible child if committed by an older juvenile or child.
+(v)Incompetent or not restorable to competency and
+who is alleged to have committed a serious offense as defined in section 13706.
+(b)Does not include a child who in good faith is
+being furnished Christian Science treatment by a duly accredited practitioner
+if none of the circumstances described in subdivision (a) of this paragraph
+exists.
+15.16."Detention"
+means the temporary confinement of a juvenile who requires secure care in a
+physically restricting facility that is completely surrounded by a locked and
+physically secure barrier with restricted ingress and egress for the protection
+of the juvenile or the community pending court disposition or as a condition of
+probation.
+16.17."Director"
+means the director of the department.
+17.18."Health
+professional" has the same meaning prescribed in section 323201.
+18.19."Incorrigible
+child" means a child who:
+(a)Is adjudicated as a child who refuses to obey
+the reasonable and proper orders or directions of a parent, guardian or
+custodian and who is beyond the control of that person.
+(b)Is habitually truant from school as defined in
+section 15803, subsection C.
+(c)Is a runaway from the child's home or parent,
+guardian or custodian.
+(d)Habitually behaves in such a manner as to injure
+or endanger the morals or health of self or others.
+(e)Commits any act constituting an offense that can
+only be committed by a minor and that is not designated as a delinquent act.
+(f)Fails to obey any lawful order of a court of
+competent jurisdiction given in a noncriminal action.
+19.20."Independent
+living program" includes a residential program with supervision of less
+than twentyfour hours a day.
+20.21."Juvenile
+court" means the juvenile division of the superior court when exercising
+its jurisdiction over children in any proceeding relating to delinquency,
+dependency or incorrigibility.
+21.22."Law
+enforcement officer" means a peace officer, sheriff, deputy sheriff,
+municipal police officer or constable.
+22.23."Medical
+director of a mental health agency" means a psychiatrist, or licensed
+physician experienced in psychiatric matters, who is designated in writing by
+the governing body of the agency as the person in charge of the medical
+services of the agency, or a psychiatrist designated by the governing body to
+act for the director.The term includes the superintendent of the
+state hospital.
+23.24."Mental
+health agency" means any private or public facility that is licensed by
+this state as a mental health treatment agency, a psychiatric hospital, a
+psychiatric unit of a general hospital or a residential treatment center for
+emotionally disturbed children and that uses secure settings or mechanical
+restraints.
+24.25."Neglect"
+or "neglected" means:
+(a)The inability or unwillingness of a parent,
+guardian or custodian of a child to provide that child with supervision, food,
+clothing, shelter or medical care if that inability or unwillingness causes
+unreasonable risk of harm to the child's health or welfare, except if the
+inability of a parent, guardian or custodian to provide services to meet the
+needs of a child with a disability or chronic illness is solely the result of
+the unavailability of reasonable services.
+(b)Permitting a child to enter or remain in any
+structure or vehicle in which volatile, toxic or flammable chemicals are found
+or equipment is possessed by any person for the purposes of manufacturing a
+dangerous drug as defined in section 13-3401.
+(c)A determination by a health professional that a
+newborn infant was exposed prenatally to a drug or substance listed in section
+13-3401 and that this exposure was not the result of a medical treatment administered
+to the mother or the newborn infant by a health professional. This subdivision
+does not expand a health professional's duty to report neglect based on
+prenatal exposure to a drug or substance listed in section 133401 beyond
+the requirements prescribed pursuant to section 133620, subsection E.
+The determination by the health professional shall be based on one or more of
+the following:
+(i)Clinical indicators in the prenatal period
+including maternal and newborn presentation.
+(ii)History of substance use or abuse.
+(iii)Medical history.
+(iv)Results of a toxicology or other laboratory
+test on the mother or the newborn infant.
+(d)Diagnosis by a health professional of an infant
+under one year of age with clinical findings consistent with fetal alcohol
+syndrome or fetal alcohol effects.
+(e)Deliberate exposure of a child by a parent,
+guardian or custodian to sexual conduct as defined in section 133551 or
+to sexual contact, oral sexual contact or sexual intercourse as defined in
+section 13-1401, bestiality as prescribed in section 131411 or explicit
+sexual materials as defined in section 13-3507.
+(f)Any of the following acts committed by the
+child's parent, guardian or custodian with reckless disregard as to whether the
+child is physically present:
+(i)Sexual contact as defined in section 131401.
+(ii)Oral sexual contact as defined in section 131401.
+(iii)Sexual intercourse as defined in section 131401.
+(iv)Bestiality as prescribed in section 131411.
+25.26."Newborn
+infant" means a child who is under thirty days of age.
+26.27."Petition"
+means a written statement of the essential facts that allege delinquency,
+incorrigibility or dependency.
+27.28."Prevention"
+means the creation of conditions, opportunities and experiences that encourage
+and develop healthy, selfsufficient children and that occur before the
+onset of problems. 
+28.29."Protective
+supervision" means supervision that is ordered by the juvenile court of
+children who are found to be dependent or incorrigible.
+29.30."Referral"
+means a report that is submitted to the juvenile court and that alleges that a
+child is dependent or incorrigible or that a juvenile has committed a
+delinquent or criminal act.
+30."Report
+for investigation" means a report prepared pursuant to section 8455,
+subsection D.
+31."Secure care" means confinement in a
+facility that is completely surrounded by a locked and physically secure
+barrier with restricted ingress and egress.
+32."Serious emotional injury" means an
+injury that is diagnosed by a medical doctor or a psychologist and that does
+any one or a combination of the following:
+(a)Seriously impairs mental faculties.
+(b)Causes serious anxiety, depression, withdrawal
+or social dysfunction behavior to the extent that the child suffers dysfunction
+that requires treatment.
+(c)Is the result of sexual abuse pursuant to
+section 131404, sexual conduct with a minor pursuant to section 131405,
+sexual assault pursuant to section 131406, molestation of a child
+pursuant to section 131410, child prostitution pursuant to section 133212,
+commercial sexual exploitation of a minor pursuant to section 133552,
+sexual exploitation of a minor pursuant to section 133553 or incest
+pursuant to section 133608.
+33."Serious physical injury" means an
+injury that is diagnosed by a medical doctor and that does any one or a
+combination of the following:
+(a)Creates a reasonable risk of death.
+(b)Causes serious or permanent disfigurement.
+(c)Causes significant physical pain.
+(d)Causes serious impairment of health.
+(e)Causes the loss or protracted impairment of an
+organ or limb.
+(f)Is the result of sexual abuse pursuant to
+section 131404, sexual conduct with a minor pursuant to section 131405,
+sexual assault pursuant to section 131406, molestation of a child
+pursuant to section 131410, child prostitution pursuant to section 133212,
+commercial sexual exploitation of a minor pursuant to section 133552,
+sexual exploitation of a minor pursuant to section 133553 or incest
+pursuant to section 133608.
+34."Shelter care" means the temporary
+care of a child in any public or private facility or home that is licensed by
+this state and that offers a physically nonsecure environment that is
+characterized by the absence of physically restricting construction or hardware
+and that provides the child access to the surrounding community. END_STATUTE
+Sec.2.Section 8-455, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE8-455.Centralized intake hotline; purposes; report of possible
+crime; DCS report; risk assessment tools; access to information; public
+awareness; definition
+A.The department shall operate and maintain a
+centralized intake hotline to protect children by receiving at all times
+communications concerning suspected abuse or neglect. If a person communicates
+suspected abuse or neglect to a department employee other than through the
+hotline, the employee shall refer the person or communication to the hotline.
+B.The hotline is the first step in the safety
+assessment and investigation process and must be operated to:
+1.Record communications made concerning suspected
+abuse or neglect.
+2.Immediately take steps necessary to identify and
+locate prior communications and dcs reports
+for investigation related
+to the current communication using the department's data system and the central
+registry system of this state.
+3.Quickly and efficiently provide information to a
+law enforcement agency or prepare a DCS
+report for investigation
+as required by this section.
+4.Determine the proper initial priority level of
+investigation based on the risk assessment and direct the DCS report for investigation to the appropriate part of
+the department based on this determination.
+C.If a communication provides a reason to believe
+that a criminal offense has been committed and the communication does not meet the criteria for a DCS
+report, the hotline worker shall immediately provide the
+information to both of the following:
+1.The
+appropriate law enforcement agency pursuant to the protocols developed pursuant
+to section 8817.
+2.If a report
+for investigation is prepared as required in subsection D of this section and
+the suspected criminal offense is a criminal conduct allegation, the office of
+child welfare investigations the appropriate law enforcement agency.
+D.A hotline worker shall prepare a DCS report for investigation if the identity or current location of the child victim, the
+child's family or the person suspected of abuse or neglect is known and all
+of the following are alleged:
+1.The suspected conduct would constitute abuse or
+neglect.
+2.The suspected victim of the conduct is under
+eighteen years of age.
+3.The suspected victim of the conduct is a resident
+of or present in this state or
+and any act involved in
+the suspected abuse or neglect occurred in this state.
+4.The person suspected of committing the abuse or
+neglect is the parent, guardian or custodian of the victim or an adult member of
+the victim's household.
+E.Except
+for criminal conduct allegations, the department does not have to prepare a DCS
+report if all of the following apply:
+1.The
+suspected conduct occurred MORe ThAN one year before the communication to the
+hotline.
+2.The
+suspected child victim was at least twelve years of age when the alleged abuse
+occurred.
+3.There is
+no information or indication that the child victim is currently being abused or
+neglected.
+E.F.All reports for investigation must be investigated
+Investigations of DCS reports shall be
+conducted as provided in section 8456 except for investigations containing allegations of criminal
+conduct, which shall be conducted as provided in section 8471.
+F.If
+otherwise required by:
+1.Subsection
+C of this section, information must be provided to the appropriate law
+enforcement agency even if the identity or location of the person suspected of
+abuse or neglect or the victim of the abuse or neglect is not known.
+2.Subsection
+D of this section, a report for investigation must be prepared even if the
+identity or location of the person suspected of abuse or neglect or the victim
+of the abuse or neglect is not known.
+G.The department shall develop and train hotline
+workers to use uniform risk assessment tools to determine:
+1.Whether the suspected conduct constitutes abuse
+or neglect and the severity of the suspected abuse or neglect.
+2.Whether the suspected abuse or neglect involves
+criminal conduct, even if the communication does not result in the preparation
+of a DCS report for investigation.
+3.The appropriate investigative track for referral
+based on the risk to the child's safety.
+H.A DCS report
+for investigation must
+include, if available, all of the following:
+1.The name, address or contact information for the
+person making the communication.
+2.The name, address and other location or contact
+information for the parent, guardian or custodian of the child or other adult
+member of the child's household who is suspected of committing the abuse or neglect.
+3.The name, address and other location or contact
+information for the child.
+4.The nature and extent of the indications of the
+child's abuse or neglect, including any indication of physical injury.
+5.Any information regarding possible prior abuse or
+neglect, including reference to any communication or dcs report for investigation involving the child, the
+child's siblings or the person suspected of committing the abuse or neglect.
+I.Information gathered through the hotline must be
+made available to an employee of the department in order to perform the
+employee's duties. The office of child welfare investigations and the
+inspections bureau must have immediate access to all records of the hotline.
+J.A representative of the:
+1.Office of child welfare investigations must be
+embedded in the hotline to carry out the purposes of section 8471.
+2.Inspections bureau must be embedded in the
+hotline to carry out the purposes of section 8458.
+K.The department shall publicize the availability
+and the purposes of the centralized intake hotline.
+L.For the purposes of this section, :
+1."Centralized
+intake hotline" means the system developed pursuant to this section
+regardless of the communication methods or technologies used to implement the
+system.
+2."Criminal
+offense" means an ALLEGATION of conduct against a child by a person other
+than a parent, guardian or custodian of the child victim or another adult
+member of the child's household that, if true, would constitute a FELONY
+offense. END_STATUTE
+Sec.3.Section 8-456, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE8-456.Investigative function; training; criminal offenses;
+definition
+A.The department shall train all investigators in
+forensic interviewing and processes and the protocols established pursuant to
+section 8817. The training must include:
+1.Uniform safety and risk assessment tools to
+determine whether the conduct constitutes abuse or neglect and the severity of
+the abuse or neglect.
+2.The duty to protect the legal and due process
+rights of children and families from the time of the initial contact through
+case closure.
+3.Instruction on a child's rights as a crime victim
+and instruction on the legal rights of parents.
+4.A checklist or other mechanism to assist the
+investigator in giving consideration to the relevant factors in each
+investigation.
+B.The office of child welfare investigations shall
+investigate DCS reports for investigation that contain a
+criminal conduct allegation as provided in sections 8471 and 8817.
+C.After receiving a DCS report for investigation from the centralized intake
+hotline pursuant to section 8455, an investigator shall do all of the following:
+1.Make a prompt and thorough investigation. An
+investigation must evaluate and determine the nature, extent and cause of any
+condition created by the parents, guardian or custodian or an adult member of
+the victim's household that would tend to support or refute the allegation that
+the child is a victim of abuse or neglect and determine the name, age and
+condition of other children in the home.If an investigator has
+sufficient information to determine that the child is not a victim of abuse or
+neglect, the investigator may close the investigation.
+2.If required by section 8821 and subject to
+section 8471, take a child into temporary custody. Law enforcement
+officers shall cooperate with the department to remove a child from the custody
+of the child's parents, guardian or custodian when necessary.
+D.After an investigation, an investigator shall:
+1.Determine whether any child is in need of child
+safety services consistent with the evaluation and determination made pursuant
+to subsection C of this section.
+2.If appropriate pursuant to section 8846,
+offer to the family of any child who is found to be a child in need of child
+safety services those services that are designed to correct unresolved problems
+that would indicate a reason to adjudicate the child dependent.
+3.Submit a written report of the investigator's
+investigation to:
+(a)The department's case management information
+system within a reasonable amount of time that does not exceed forty-five days
+after receipt of the DCS report
+for investigation except as
+provided in section 8811. If the investigation involves allegations
+regarding a child who at the time of the alleged incident was in the custody of
+a child welfare agency licensed by the department under this title, a copy of
+the report and any additional investigative or other related reports must be
+provided to the board of directors of the agency or to the administrative head
+of the agency unless the incident is alleged to have been committed by the
+person. The department shall excise all information with regard to the
+identity of the source of the reports.
+(b)The appropriate court fortyeight hours
+before a dependency hearing pursuant to a petition of dependency or within
+twentyone days after a petition of dependency is filed, whichever is
+earlier. On receipt of the report the court shall make the report available to
+all parties and counsel.
+4.Accept a child into voluntary placement pursuant
+to section 8806.
+5.Identify, promptly obtain and abide by court
+orders that restrict or deny custody, visitation or contact by a parent or
+other person in the home with the child and notify appropriate personnel in the
+department to preclude violations of a court order in the provision of any
+services.
+E.In conducting an investigation pursuant to this
+section, if the investigator is made aware that an allegation of abuse or
+neglect may also have been made in another state, the investigator shall
+contact the appropriate agency in that state to attempt to determine the outcome
+of any investigation of that allegation.
+F.If an investigation indicates a reason to believe
+that a criminal offense has been committed, the investigator shall immediately
+provide the information to the appropriate law enforcement agency and the
+office of child welfare investigations, unless the information was previously
+provided pursuant to section 8455.
+G.For the purposes of this section,
+"investigator" means an employee of the department who investigates
+allegations of abuse or neglect pursuant to a DCS report for investigation. END_STATUTE
+Sec.4.Section 8-471, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE8-471.Office of child welfare investigations; training;
+responsibilities; annual report
+A.The director shall establish the office of child
+welfare investigations within the department.The director is
+responsible for the direction, operation and control of the office.
+B.The duties of the office include investigating
+criminal conduct allegations, coordinating with other parts of the department
+and law enforcement, establishing task forces for the investigation of criminal
+conduct and other duties as may be assigned by the director.
+C.The office shall employ child welfare
+investigators who have received training to understand law enforcement's role
+in cases of criminal child abuse or neglect and in social services offered by
+the department. The office may employ research analysts and peace officers for
+the purpose of obtaining an originating agency identification number to have
+direct access to criminal history report information. Each person hired by the
+office is an employee of the department, is subject to title 41, chapter 4, article
+4 and shall comply with the fingerprint requirements of section 8802.
+D.The department, in coordination with the Arizona
+peace officer standards and training board, shall provide child welfare
+investigators with training. The training shall be, at a minimum, in the
+following areas:
+1.First responder training on responding to reports
+of child abuse.
+2.Forensic interviewing and processes.
+3.Child physical and sexual abuse investigation.
+4.The protocols established pursuant to section 8817.
+5.Relevant law enforcement procedures, including
+the collection and preservation of evidence.
+6.A child's constitutional rights as a victim of a
+crime pursuant to article II, section 2.1, Constitution of Arizona.
+7.Impact and intervention practices related to
+adverse childhood experiences, culturally and linguistically appropriate
+service delivery, domestic violence, family engagement, communication with
+special populations and trauma informed responses.
+8.Any other training as directed by the director.
+E.A child welfare investigator shall:
+1.Protect children.
+2.Assess, respond to or investigate all criminal
+conduct allegations, which shall be a priority, but not otherwise exercise the
+authority of a peace officer.
+3.Not interview a child without the prior written
+consent of the parent, guardian or custodian of the child unless either:
+(a)The child initiates contact with the
+investigator.
+(b)The child who is interviewed is the subject of,
+is the sibling of or is living with the child who is the subject of an abuse or
+abandonment investigation pursuant to paragraph 4, subdivision (b) of this
+subsection.
+(c)The interview is conducted pursuant to the terms
+of the protocols established pursuant to section 8817.
+4.After the receipt of any report or information
+pursuant to paragraph 2 of this subsection, immediately do both of the
+following:
+(a)Notify the appropriate municipal or county law
+enforcement agency if they have not already been notified.
+(b)Make a prompt and thorough investigation of the
+nature, extent and cause of any condition that would tend to support or refute
+the report of child abuse or neglect when investigating allegations pursuant to
+paragraph 2 of this subsection. A criminal conduct allegation shall be
+investigated with the appropriate municipal or county law enforcement agency
+according to the protocols established pursuant to section 8817.
+5.Take a child into temporary custody as provided
+in section 8821. Law enforcement officers shall cooperate with the department
+to remove a child from the custody of the child's parents, guardian or
+custodian pursuant to section 8821.A child welfare
+investigator who is responding to or investigating a report containing a
+criminal conduct allegation shall have the primary responsibility for making
+the decision whether to take a child into temporary custody.
+6.Evaluate conditions created by the parents,
+guardian or custodian that would support or refute the allegation that the
+child should be adjudicated dependent.The investigator shall then
+determine whether any child is in need of child safety services.
+7.Identify, promptly obtain and abide by court
+orders that restrict or deny custody, visitation or contact by a parent or
+other person in the home with the child and notify appropriate personnel within
+the department to preclude violations of a court order in the provision of any
+services.
+8.On initial contact with the parent, guardian or
+custodian of a child who is the subject of an investigation pursuant to this section,
+provide the parent, guardian or custodian with the allegation received by the
+department.This paragraph does not require the department to
+disclose details or information that would compromise an ongoing criminal
+investigation.
+9.Have access to all records and information of the
+department necessary to carry out this section.
+F.Unless a dependency petition is filed, a child
+shall not remain in temporary custody for a period exceeding seventy-two hours,
+excluding Saturdays, Sundays and holidays. If a petition is not filed, the
+child shall be released to the child's parent, guardian or custodian.
+G.In conducting an investigation pursuant to this
+section, if the investigator is made aware that an allegation of abuse or
+neglect may also have been made in another state, the investigator shall
+contact the appropriate agency in that state to attempt to determine the
+outcome of any investigation of that allegation.
+H.The office of child welfare investigations shall
+submit a report by August 15 each year to the governor, the speaker of the
+house of representatives, the president of the senate and the secretary of
+state that includes the following information for the most recently completed
+fiscal year:
+1.The number of DCS reports for investigation that involve criminal conduct
+allegations. 
+2.The number of joint investigations conducted
+pursuant to section 8817.
+3.For each case in which a joint investigation did
+not occur pursuant to section 8817, the reasons why the joint
+investigation did not occur.
+I.All records gathered or created by the department
+during an investigation conducted under this section are confidential and shall
+be protected and released as prescribed in sections 8807 and 8807.01,
+except the department shall not release records if the department determines
+that the release of these records may compromise an ongoing investigation.
+J.Notwithstanding any other law, the office of
+child welfare investigations is not responsible for conducting the criminal
+investigation of a criminal conduct allegation. END_STATUTE
+Sec.5.Section 8-807.01, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE8-807.01.Incidents involving fatality or near fatality; definition
+A.The department shall promptly provide DCS
+information to the public regarding a case of child abuse, abandonment or
+neglect that has resulted in a fatality or near fatality as follows:
+1.The department shall provide preliminary
+information including at a minimum:
+(a)In the case of a fatality, the name of the child
+who has died.
+(b)The age, gender, county and general location of
+the residence of the child who has suffered a fatality or a near fatality.
+(c)The fact that a child suffered a fatality or
+near fatality as the result of abuse, abandonment or neglect.
+(d)The name, age and city, town or general location
+of the residence of the alleged perpetrator, if available, unless the
+disclosure would violate the privacy of victims of crime pursuant to article
+II, section 2.1, Constitution of Arizona.
+(e)Whether there have been reports, or any current
+or past cases, of abuse, abandonment or neglect involving the child or the
+alleged perpetrator.
+(f)Actions taken by the department in response to
+the fatality or near fatality of the child.
+(g)A detailed synopsis of prior reports or cases of
+abuse, abandonment or neglect involving the child or the alleged perpetrator
+and of the actions taken or determinations made by the department in response
+to these reports or cases.
+2.On request by any person, the department shall
+promptly provide additional DCS information to the requestor in a case of child
+abuse, abandonment or neglect that has resulted in a fatality or a near fatality.
+Before releasing additional DCS information, the department shall promptly
+notify the county attorney of any decision to release that information, and the
+county attorney shall promptly inform the department if it believes the release
+would cause a specific, material harm to a criminal investigation or
+prosecution.After consulting with the county attorney, pursuant to
+paragraph 3 of this subsection, the department shall produce to the requestor
+as much additional DCS information as promptly as possible about a case of
+child abuse, abandonment or neglect that resulted in a fatality or near
+fatality.
+3.On request, the department shall continue to
+provide DCS information promptly to the public about a fatality or near
+fatality unless:
+(a)After consultation with the county attorney, the
+county attorney demonstrates that release of particular DCS information would
+cause a specific, material harm to a criminal investigation or prosecution.
+(b)The release would violate section 8807,
+subsection A or L or the privacy of victims of crime pursuant to article II,
+section 2.1, Constitution of Arizona.
+4.If any person believes that the county attorney
+has failed to demonstrate that release would cause a specific, material harm to
+a criminal investigation or prosecution, that person may file an action in
+superior court pursuant to title 39, chapter 1, article 2 and section 8807,
+subsection J and request the court to review the DCS information in camera to
+determine if disclosure should be ordered.
+5.Within ninety days after the date of the DCS report for investigation for a case involving a
+fatality or a near fatality, the department shall provide to the public a
+summary report that: 
+(a)May include any actions taken by the department
+in response to the case, any changes in policies or practices that have been
+made to address any issues raised in the review of the case and any
+recommendations for further changes in policies, practices, rules or statutes
+to address those issues.
+(b)Shall include the information prescribed in
+subsection B of this section if the child was residing in the child's home and
+in subsection C of this section if the child was placed in an outofhome
+placement.
+B.If the summary report prescribed in subsection A,
+paragraph 5 of this section involves a child who was residing in the child's
+home, the summary report shall contain a summary of all of the following:
+1.Whether services pursuant to this chapter were
+being provided to the child, a member of the child's family or the person
+suspected of the abuse or neglect at the time of the incident and the date of
+the last contact before the incident between the entity providing the services
+and the person receiving the services.
+2.Whether the child, a member of the child's family
+or the person suspected of the abuse or neglect was the subject of a DCS report for investigation at the time of the incident.
+3.All involvement of the child's parents and of the
+person suspected of the abuse or neglect in a situation for which a DCS report for investigation was made or in services
+provided pursuant to this chapter in the five years preceding the incident
+involving a fatality or a near fatality.
+4.Any investigation pursuant to a DCS report for investigation concerning the child, a member
+of the child's family or the person suspected of the abuse or neglect or
+services provided to the child or the child's family since the date of the
+incident involving a fatality or a near fatality.
+C.If the summary report prescribed in subsection A,
+paragraph 5 of this section involves a child who was in outofhome
+placement, the summary report shall include the name of any agency the licensee
+was licensed by, the licensing history of the outofhome
+placement, including the type of license held by the operator of the placement,
+the period for which the placement has been licensed and a summary of all
+violations by the licensee and any other actions by the licensee or an employee
+of the licensee that constitute a substantial failure to protect and promote
+the health, safety and welfare of a child.
+D.For the purposes of this section, "near
+fatality" means an act that, as certified by a physician, including the
+child's treating physician, places a child in serious or critical condition. END_STATUTE
+

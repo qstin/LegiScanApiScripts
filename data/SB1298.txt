@@ -1,0 +1,578 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: probation; juvenile; adult
+
+
+
+
+
+
+
+State of Arizona
+Senate
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+SB 1298
+
+
+
+
+
+
+
+
+
+Introduced by
+Senator
+  Driggs
+
+
+
+
+
+AN ACT
+
+amending sections
+8341, 8352, 8355, 13902, 13914 and 13916,
+Arizona Revised Statutes; relating to probation.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 8-341, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE8-341.Disposition and commitment; definitions
+A.After receiving and considering the evidence on
+the proper disposition of the case, the court may enter judgment as follows:
+1.It may award a delinquent juvenile:
+(a)To the care of the juvenile's parents, subject
+to the supervision of a probation department.
+(b)To a probation department, subject to any
+conditions the court may impose, including a period of incarceration in a
+juvenile detention center of not more than one year.
+(c)To a reputable citizen of good moral character,
+subject to the supervision of a probation department.
+(d)To a private agency or institution, subject to
+the supervision of a probation officer.
+(e)To the department of juvenile corrections.
+(f)To maternal or paternal relatives, subject to
+the supervision of a probation department.
+(g)To an appropriate official of a foreign country
+of which the juvenile is a foreign national who is unaccompanied by a parent or
+guardian in this state to remain on unsupervised probation for at least one
+year on the condition that the juvenile cooperate with that official.
+2.It may award an
+incorrigible child:
+(a)To the care of
+the child's parents, subject to the supervision of a probation department.
+(b)To the protective supervision of a probation
+department, subject to any conditions the court may impose.
+(c)To a reputable citizen of good moral character,
+subject to the supervision of a probation department.
+(d)To a public or private agency, subject to the
+supervision of a probation department.
+(e)To maternal or paternal relatives, subject to
+the supervision of a probation department.
+B.If a juvenile is placed on probation pursuant to
+this section, the period of probation may continue until the juvenile's eighteenth
+birthday, except that the term of probation shall not exceed one year if all of
+the following apply:
+1.The juvenile is not charged with a subsequent
+offense.
+2.The juvenile has not been found in violation of a
+condition of probation.
+3.The court has not made a determination that it is
+in the best interests of the juvenile or the public to require continued
+supervision. The court shall state by minute entry or written order its
+reasons for finding that continued supervision is required.
+4.The offense for which the juvenile is placed on
+probation does not involve a dangerous offense as defined in section 13105.
+5.The offense for which the juvenile is placed on
+probation does not involve a violation of title 13, chapter 14 or 35.1.
+6.Restitution ordered pursuant to section 8344
+has been made.
+7.The juvenile's parents have not requested that
+the court continue the juvenile's probation for more than one year.
+C.If a juvenile is adjudicated as a first time
+felony juvenile offender, the court shall provide the following written notice
+to the juvenile:
+You have been adjudicated a first time felony juvenile
+offender. You are now on notice that if you are adjudicated of another offense
+that would be a felony offense if committed by an adult and if you commit the
+other offense when you are fourteen years of age or older, you will may
+be placed on juvenile intensive probation, which may include home
+arrest and electronic monitoring, or you may be placed on juvenile intensive
+probation and may be incarcerated for a period of time in a juvenile detention
+center, or you may be committed to the department of juvenile corrections or
+you may be prosecuted as an adult. If you are convicted as an adult of a
+felony offense and you commit any other offense, you will be prosecuted as an
+adult.
+D.If a juvenile is fourteen years of age or older
+and is adjudicated as a repeat felony juvenile offender, the juvenile court shall may place the juvenile on juvenile intensive
+probation, which may include home arrest and electronic monitoring, may place
+the juvenile on juvenile intensive probation, which may include incarceration
+for a period of time in a juvenile detention center, or may commit the juvenile
+to the department of juvenile corrections pursuant to subsection A, paragraph
+1, subdivision (e) of this section for a significant period of time.
+E.If the juvenile is adjudicated as a repeat felony
+juvenile offender, the court shall provide the following written notice to the
+juvenile:
+You have been adjudicated a repeat felony juvenile offender.
+You are now on notice that if you are arrested for another offense that would
+be a felony offense if committed by an adult and if you commit the other
+offense when you are fifteen years of age or older, you will be tried as an
+adult in the criminal division of the superior court. If you commit the other
+offense when you are fourteen years of age or older, you may be tried as an
+adult in the criminal division of the superior court. If you are convicted as
+an adult, you will be sentenced to a term of incarceration. If you are
+convicted as an adult of a felony offense and you commit any other offense, you
+will be prosecuted as an adult.
+F.The failure or inability of the court to provide
+the notices required under subsections C and E of this section does not
+preclude the use of the prior adjudications for any purpose otherwise
+permitted.
+G.Except as provided in subsection S of this
+section, after considering the nature of the offense and the age, physical and
+mental condition and earning capacity of the juvenile, the court shall order
+the juvenile to pay a reasonable monetary assessment if the court determines
+that an assessment is in aid of rehabilitation. If the director of the
+department of juvenile corrections determines that enforcement of an order for
+monetary assessment as a term and condition of conditional liberty is not costeffective,
+the director may require the youth to perform an equivalent amount of community
+restitution in lieu of the payment ordered as a condition of conditional
+liberty.
+H.If a child is adjudicated incorrigible, the court
+may impose a monetary assessment on the child of not more than one hundred
+fifty dollars.
+I.A juvenile who is charged with unlawful purchase,
+possession or consumption of spirituous liquor is subject to section 8323.
+The monetary assessment for a conviction of unlawful purchase, possession or
+consumption of spirituous liquor by a juvenile shall not exceed five hundred
+dollars. The court of competent jurisdiction may order a monetary assessment
+or equivalent community restitution.
+J.The court shall require the monetary assessment
+imposed under subsection G or H of this section on a juvenile who is not
+committed to the department of juvenile corrections to be satisfied in one or
+both of the following forms:
+1.Monetary reimbursement by the juvenile in a lump
+sum or installment payments through the clerk of the superior court for
+appropriate distribution.
+2.A program of work, not in conflict with regular
+schooling, to repair damage to the victim's property, to provide community
+restitution or to provide the juvenile with a job for wages.The
+court order for restitution or monetary assessment shall specify, according to
+the dispositional program, the amount of reimbursement and the portion of wages
+of either existing or provided work that is to be credited toward satisfaction
+of the restitution or assessment, or the nature of the work to be performed and
+the number of hours to be spent working.The number of hours to be
+spent working shall be set by the court based on the severity of the offense
+but shall not be less than sixteen hours.
+K.If a juvenile is committed to the department of
+juvenile corrections, the court shall specify the amount of the monetary assessment
+imposed pursuant to subsection G or H of this section.
+L.After considering the length of stay guidelines
+developed pursuant to section 412816, subsection C, the court may set
+forth in the order of commitment the minimum period during which the juvenile
+shall remain in secure care while in the custody of the department of juvenile
+corrections. When the court awards a juvenile to the department of juvenile
+corrections or an institution or agency, it shall transmit with the order of
+commitment copies of a diagnostic psychological evaluation and educational
+assessment if one has been administered, copies of the case report, all other
+psychological and medical reports, restitution orders, any request for
+postadjudication notice that has been submitted by a victim and any other
+documents or records pertaining to the case requested by the department of
+juvenile corrections or an institution or agency. The department shall not
+release a juvenile from secure care before the juvenile completes the length of
+stay determined by the court in the commitment order unless the county attorney
+in the county from which the juvenile was committed requests the committing
+court to reduce the length of stay. The department may temporarily escort the
+juvenile from secure care pursuant to section 41-2804, may release the juvenile
+from secure care without a further court order after the juvenile completes the
+length of stay determined by the court or may retain the juvenile in secure
+care for any period subsequent to the completion of the length of stay in
+accordance with the law.
+M.Written notice of the release of any juvenile
+pursuant to subsection L of this section shall be made to any victim requesting
+notice, the juvenile court that committed the juvenile and the county attorney
+of the county from which the juvenile was committed.
+N.Notwithstanding any law to the contrary, if a
+person is under the supervision of the court as an adjudicated delinquent
+juvenile at the time the person reaches eighteen years of age, treatment
+services may be provided until the person reaches twentyone years of age
+if the court, the person and the state agree to the provision of the treatment
+and a motion to transfer the person pursuant to section 8327 has not
+been filed or has been withdrawn. The court may terminate the provision of
+treatment services after the person reaches eighteen years of age if the court
+determines that any of the following applies:
+1.The person is not progressing toward treatment
+goals.
+2.The person terminates treatment.
+3.The person commits a new offense after reaching
+eighteen years of age.
+4.Continued treatment is not required or is not in
+the best interests of the state or the person.
+O.On the request of a victim of an act that may
+have involved significant exposure as defined in section 131415 or that
+if committed by an adult would be a sexual offense, the prosecuting attorney
+shall petition the adjudicating court to require that the juvenile be tested
+for the presence of the human immunodeficiency virus. If the victim is a minor
+the prosecuting attorney shall file this petition at the request of the
+victim's parent or guardian. If the act committed against a victim is an act
+that if committed by an adult would be a sexual offense or the court determines
+that sufficient evidence exists to indicate that significant exposure occurred,
+it shall order the department of juvenile corrections or the department of
+health services to test the juvenile pursuant to section 131415.
+Notwithstanding any law to the contrary, the department of juvenile corrections
+and the department of health services shall release the test results only to
+the victim, the delinquent juvenile, the delinquent juvenile's parent or
+guardian and a minor victim's parent or guardian and shall counsel them
+regarding the meaning and health implications of the results.
+P.If a juvenile has been adjudicated delinquent for
+an offense that if committed by an adult would be a felony
+an offense listed in section 411750, subsection C, the
+court shall provide the department of public safety Arizona automated
+fingerprint identification system established in section 412411 with the
+juvenile's tenprint fingerprints,
+personal identification data and other pertinent information. If a juvenile
+has been committed to the department of juvenile corrections the department
+shall provide the fingerprints and information required by this subsection to
+the Arizona automated fingerprint identification system.If the
+juvenile's fingerprints and information have been previously submitted to the
+Arizona automated fingerprint identification system the information is not
+required to be resubmitted.
+Q.Access to fingerprint records submitted pursuant
+to subsection P of this section shall be limited to the administration of
+criminal justice as defined in section 411750. Dissemination of
+fingerprint information shall be limited to the name of the juvenile, juvenile
+case number, date of adjudication and court of adjudication.
+R.If a juvenile is adjudicated delinquent for an
+offense that if committed by an adult would be a misdemeanor, the court may
+prohibit the juvenile from carrying or possessing a firearm while the juvenile
+is under the jurisdiction of the department of juvenile corrections or the
+juvenile court.
+S.If a juvenile is adjudicated delinquent for a
+violation of section 131602, subsection A, paragraph 5, the court shall
+order the juvenile to pay a fine of at least three hundred dollars but not more
+than one thousand dollars. Any restitution ordered shall be paid in accordance
+with section 13809, subsection A. The court may order the juvenile to
+perform community restitution in lieu of the payment for all or part of the
+fine if it is in the best interests of the juvenile.The amount of
+community restitution shall be equivalent to the amount of the fine by
+crediting any service performed at a rate of ten dollars per hour. If the
+juvenile is convicted of a second or subsequent violation of section 131602,
+subsection A, paragraph 5 and is ordered to perform community restitution, the
+court may order the parent or guardian of the juvenile to assist the juvenile
+in the performance of the community restitution if both of the following apply:
+1.The parent or guardian had knowledge that the
+juvenile intended to engage in or was engaging in the conduct that gave rise to
+the violation.
+2.The parent or guardian knowingly provided the
+juvenile with the means to engage in the conduct that gave rise to the
+violation.
+T.If a juvenile is adjudicated delinquent for an
+offense involving the purchase, possession or consumption of spirituous liquor
+or a violation of title 13, chapter 34 and is placed on juvenile probation, the
+court may order the juvenile to submit to random drug and alcohol testing at
+least two times per week as a condition of probation.
+U.A juvenile who is adjudicated delinquent for an
+offense involving the purchase, possession or consumption of spirituous liquor
+or a violation of title 13, chapter 34, who is placed on juvenile probation and
+who is found to have consumed any spirituous liquor or to have used any drug
+listed in section 133401 while on probation is in violation of the
+juvenile's probation.If a
+juvenile who commits a
+third or subsequent violation of a condition of probation as prescribed by this
+subsection, the juvenile shall
+be brought before the juvenile court and, if the allegations are proven, the
+court shall either revoke probation and hold a disposition hearing pursuant to
+this section or select additional conditions of probation as it deems
+necessary, including detention, global position system monitoring, additional
+alcohol or drug treatment, community restitution, additional drug or alcohol
+testing or a monetary assessment.
+V.For the purposes of this section:
+1."First time felony juvenile offender"
+means a juvenile who is adjudicated delinquent for an offense that would be a
+felony offense if committed by an adult.
+2."Repeat felony juvenile offender" means
+a juvenile to whom both of the following apply:
+(a)Is adjudicated delinquent for an offense that
+would be a felony offense if committed by an adult.
+(b)Previously has been adjudicated a first time
+felony juvenile offender.
+3."Sexual offense" means oral sexual
+contact, sexual contact or sexual intercourse as defined in section 131401.
+END_STATUTE
+Sec.2.Section 8-352, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE8-352.Intensive probation; evaluation; criteria; limit;
+conditions
+A.A juvenile probation officer shall prepare a
+disposition summary report for every juvenile who has been adjudicated of a
+delinquent act or of a technical violation of probation.
+B.The juvenile probation officer shall evaluate the
+needs of the juvenile and the juvenile's risk to the community, including the
+nature of the offense, the delinquent history of the juvenile, the juvenile's
+history of referrals and adjustments and the recommendation of the juvenile's
+parents.The juvenile probation officer shall include the
+recommendation of the juvenile's parents in the disposition summary report. If
+the nature of the offense and the prior delinquent history of the juvenile
+indicate that the juvenile should be included in an intensive probation program
+pursuant to supreme court guidelines for juvenile intensive probation, the
+juvenile probation officer may recommend to the court that the juvenile be
+granted intensive probation.
+C.After reviewing the juvenile's prior record, the
+facts and circumstances of the current delinquent act or technical violation of
+probation and the disposition summary report, the court may grant the juvenile
+a period of intensive probation.
+D.When granting intensive probation the court shall
+set forth on the record the factual reasons for using the disposition.
+E.Intensive probation shall be conditioned on the
+juvenile:
+1.Participating in one or more of the following throughout the term of intensive probation, if approved by the court or probation officer,
+for not less than thirtytwo hours each week throughout the term of probation:
+(a)School.
+(b)A court
+ordered treatment program.
+(c)Employment.
+(d)Supervised community restitution work.
+(e)An activity that improves the
+juvenile's prosocial skill development, including enhancing the juvenile's
+relationship with the juvenile's family.
+2.Paying restitution and probation fees except that
+the inability to pay probation fees or restitution does not prohibit
+participation in the intensive probation program.
+3.Remaining at a place of residence at all times
+except to attend school, work or treatment, to perform community restitution or
+to participate in some activity, as specifically allowed in each instance by
+the supervising juvenile probation officer, or if in the direct company of a
+parent, guardian or custodian, as approved by the juvenile probation officer.
+4.Allowing administration of drug and alcohol tests
+as directed by a juvenile probation officer.
+5.Meeting any other conditions imposed by the
+court, including electronic monitoring, to meet the needs of the juvenile or to
+limit the risks to the community.
+F.Probation fees shall be deposited in the juvenile
+probation fund established pursuant to section 12268. END_STATUTE
+Sec.3.Section 8-355, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE8-355.School; employment; community restitution programs
+The juvenile intensive probation team shall ensure that each
+juvenile under its supervision is either
+employed, attending school, participating in a community restitution program or
+attending a court ordered treatment program or any combination thereof as
+ordered by the court participating
+in one or more of the following, if approved by the court or probation officer,
+for not less than thirtytwo hours each week.
+throughout the term of intensive probation:
+1.School.
+2.A
+treatment program.
+3.Employment.
+4.An
+activity that improves the juvenile's prosocial skill development, including
+enhancing the juvenile's relationship with the juvenile's family. END_STATUTE
+Sec.4.Section 13-902, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE13-902.Periods of probation; monitoring; fees; definition
+A.Unless terminated sooner, probation may continue
+for the following periods:
+1.For a class 2 felony, seven years.
+2.For a class 3 felony, five years.
+3.For a class 4 felony, four years.
+4.For a class 5 or 6 felony, three years.
+5.For a class 1 misdemeanor, three years.
+6.For a class 2 misdemeanor, two years.
+7.For a class 3 misdemeanor, one year.
+B.Notwithstanding subsection A of this section,
+unless terminated sooner, probation may continue for the following periods:
+1.For a violation of section 281381 or 281382,
+five years.
+2.For a violation of section 281383, ten
+years.
+C.When
+If the court has
+required, as a condition of probation, that the defendant make restitution for
+any economic loss related to the defendant's offense and that condition has not
+been satisfied, the court at any time before the termination or expiration of
+probation may extend the period within the following limits:
+1.For a felony, not more than five years.
+2.For a misdemeanor, not more than two years.
+D.Notwithstanding any other provision of law,
+justice courts and municipal courts may impose the probation periods specified
+in subsection A, paragraphs 5, 6 and 7 and subsection B, paragraph 1 of this
+section.
+E.After conviction of a felony offense or an
+attempt to commit any offense that is included in chapter 14 or 35.1 of this
+title or section 132308.01, 132923 or 133623, if probation
+is available, probation may continue for a term of not less than the term that
+is specified in subsection A of this section up to and including life and that
+the court believes is appropriate for the ends of justice.
+F.After conviction of a violation of section 133824,
+subsection A, if a term of probation is imposed and the offense for which the
+person was required to register was a felony, probation may continue for a term
+of not less than the term that is specified in subsection A of this section up
+to and including life and that the court believes is appropriate for the ends
+of justice.
+G.If a person is convicted on or after November 1,
+2006 of a dangerous crime against children as defined in section 13705,
+a term of probation is imposed, the person is required to register pursuant to
+section 133821 and the person is classified as a level three offender
+pursuant to section 133825, the court shall require global position
+system or electronic monitoring for the duration of the term of probation, unless the court determines that the
+defendant is in a secure facility or is physically incapacitated to the extent
+that global position system or electronic monitoring is unnecessary.
+The court may impose a fee on the probationer to offset the cost of the
+monitoring device required by this subsection.The fee shall be
+deposited in the adult probation services fund pursuant to section 12267,
+subsection A, paragraph 3. This subsection does not preclude global position
+system or electronic monitoring of any other person who is serving a term of
+probation.
+H.For the
+purposes of this section, "secure facility" means a facility whose
+purpose is to prevent a person from leaving the facility because of the danger
+the person may present to oneself or the community. END_STATUTE
+Sec.5.Section 13-914, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE13-914.Intensive probation; evaluation; sentence; criteria;
+limit; conditions
+A.An adult probation officer shall prepare a
+presentence report for every offender who has either:
+1.Been convicted of a felony and for whom the
+granting of probation is not prohibited by law.
+2.Violated probation by commission of a technical
+violation that was not chargeable or indictable as a criminal offense.
+B.The adult probation officer shall evaluate the
+needs of the offender and the offender's risk to the community, including the
+nature of the offense and criminal history of the offender.If the
+nature of the offense and the prior criminal history of the offender indicate
+that the offender should be included in an intensive probation program pursuant
+to supreme court guidelines for intensive probation, the adult probation officer
+may recommend to the court that the offender be granted intensive probation.
+C.The court may suspend the imposition or execution
+of the sentence and grant the offender a period of intensive probation in
+accordance with this chapter. Except for sentences that are imposed pursuant
+to section 133601, the sentence is tentative to the extent that it may
+be altered or revoked pursuant to this chapter, but for all other purposes it
+is a final judgment of conviction. This subsection does not preclude the court
+from imposing a term of intensive probation pursuant to section 133601.
+D.When granting intensive probation the court shall
+set forth on the record the factual and legal reasons in support of the
+sentence.
+E.Intensive probation shall be conditioned on the
+offender:
+1.Maintaining employment or maintaining fulltime student status at a
+school subject to title 15 or title 32, chapter 30, or a combination of employment and student status,
+and making progress deemed satisfactory to the probation officer, or both, or being involved in
+supervised job searches and community restitution work at least six days a week
+throughout the offender's term of intensive probation.
+2.Paying restitution and probation fees of not less
+than seventy-five dollars unless, after determining the inability of the
+offender to pay the fee, the court assesses a lesser fee. Probation fees shall
+be deposited in the adult probation services fund established by section 12267.
+Any amount assessed pursuant to this paragraph shall be used to supplement
+monies used for the salaries of adult probation and surveillance officers and
+for support of programs and services of the superior court adult probation
+departments.
+3.Establishing a residence at a place approved by
+the intensive probation team and not changing the offender's residence without
+the team's prior approval.
+4.Remaining at the offender's place of residence at
+all times except to go to work, to attend school, to perform community
+restitution and as specifically allowed in each instance by the adult probation
+officer.
+5.Allowing administration of drug and alcohol tests
+if requested by a member of the intensive probation team.
+6.Performing not less than forty hours of community
+restitution each month. Offenders who
+are fulltime students, employed or in a treatment program approved by the court
+or the probation department may be exempted or required to
+perform fewer hours of community restitution.For good cause, the
+court may reduce the number of community restitution hours performed to not
+less than twenty hours each month.
+7.Meeting any other conditions imposed by the court
+to meet the needs of the offender and limit the risks to the community,
+including participation in a program of community punishment authorized in title
+12, chapter 2, article 11. END_STATUTE
+Sec.6.Section 13-916, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE13-916.Intensive probation teams; adult probation officer
+qualifications; duties; case load limit
+A.The chief adult probation officer in each county,
+with approval of the presiding judge of the superior court, shall appoint
+intensive probation teams consisting of one adult probation officer and one
+surveillance officer, two adult probation officers or one adult probation
+officer and two surveillance officers.
+B.A two person intensive probation team shall
+supervise no more than twentyfive persons at one time, and a three
+person intensive probation team shall supervise no more than forty persons at
+one time.
+C.The adult probation officers shall meet the
+bonding requirements and experience and education standards established
+pursuant to section 12251.
+D.The intensive probation team may serve warrants
+on, make arrests of and bring before the court persons who have violated the
+terms of intensive probation.
+E.The adult probation and surveillance officers
+both have the authority of a peace officer in the performance of their duties
+but are not eligible to participate in the public safety personnel retirement
+system.
+F.The intensive probation team shall:
+1.Secure and keep a complete identification record
+of each person supervised by the team and a written statement of the conditions
+of the probation.
+2.Exercise close supervision and observation over
+persons sentenced to intensive probation including both of the following:
+(a)Visual contact with each probationer at least
+four times per week.
+(b)Weekly contact
+with the employer of the probationer verification of the probationer's employment.
+3.Obtain and assemble information concerning the
+conduct of persons sentenced to intensive probation, including weekly arrest
+records, and report the information to the court.
+4.Report to the court if the probationer engages in
+conduct constituting an offense.
+5.Bring a defaulting probationer into court if, in
+the judgment of the adult probation officer, the probationer's conduct
+justifies revoking the intensive probation.
+6.Monitor the payment of restitution and probation
+fees and bring into court any probationer who fails to pay restitution or fees.
+7.Perform any other responsibilities required by
+the terms and conditions imposed by the court. END_STATUTE
+Sec.7.Global position system and electronic
+monitoring; applicability
+A.Beginning on
+the effective date of this act, the requirement for global position system or
+electronic monitoring prescribed by section 13902, subsection G, Arizona
+Revised Statutes, as amended by this act, does not apply to any person who on
+the effective date of this act is on global position system or electronic
+monitoring prescribed by section 13902, subsection G, Arizona Revised
+Statutes, as amended by this act, who was convicted or found guilty except
+insane before July 13, 2009 of a dangerous crime against children as defined in
+section 13705, Arizona Revised Statutes, and who at the time of
+conviction or finding of guilty except insane was not required to register
+pursuant to section 133821, Arizona Revised Statutes, and was not
+classified as a level three offender.
+B.Section 13902,
+subsection G, Arizona Revised Statutes, as amended by this act, applies to all
+persons who are required to have global position system or electronic
+monitoring, including persons who were required to have global position system
+or electronic monitoring on or before the effective date of this section.
+

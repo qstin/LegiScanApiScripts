@@ -1,0 +1,1326 @@
+
+
+
+
+PREFILED DEC 30 2015
+
+
+
+REFERENCE TITLE: information technology; transfer; title
+  18
+
+
+
+
+
+
+State of Arizona
+House of Representatives
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+HB 2013
+
+
+
+
+
+
+
+
+
+Introduced by
+Representative
+  Stevens
+
+
+
+
+
+AN ACT
+
+Repealing title
+12, chapter 6, article 14, Arizona Revised Statutes; amending the arizona
+revised statutes by adding title 18; providing for transferring and
+renumbering; amending sections 18103, 18105, 18443, 18501,
+18502, 18503, 18504, 18541, 18543, 18544
+and 18545, Arizona Revised Statutes, as transferred and renumbered;
+amending sections 282065, 331701, 363802, 38543, 38544,
+41121, 41352, 411277, 411504, 412513, 413016.06,
+447011, 447041, 447042 and 479525, Arizona Revised
+Statutes; amending laws 2006, chapter 232, section 3; relating to information
+technology.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Repeal
+Title 12, chapter 6,
+article 14, Arizona Revised Statutes, is repealed.
+Sec.2.The Arizona Revised Statutes are
+amended by adding Title 18, to read:
+TITLE 18
+INFORMATION TECHNOLOGY
+CHAPTER 1
+GOVERNMENT INFORMATION TECHNOLOGY
+ARTICLE 1.GENERAL PROVISIONS
+ARTICLE 2.INFORMATION TECHNOLOGY AUTHORIZATION
+COMMITTEE
+ARTICLE 3.ALTERNATIVE ACCESS TO ELECTRONIC
+OR INFORMATION TECHNOLOGY
+CHAPTER 2
+NETWORK ACCESS
+ARTICLE 1.ACCEPTABLE USE POLICY
+CHAPTER 3
+GOVERNMENTAL REPORTING OF INFORMATION
+ARTICLE 1.GENERAL PROVISIONS
+CHAPTER 4
+NETWORK SERVICES
+ARTICLE 1.GENERAL PROVISIONS
+ARTICLE 2.DEPARTMENT OF ADMINISTRATION
+ARTICLE 3.SECRETARY OF STATE
+CHAPTER 5
+NETWORK SECURITY
+ARTICLE 1.COMPUTER SPYWARE
+ARTICLE 2.GOVERNMENT ANTIIDENTIFICATION
+PROCEDURES
+ARTICLE 3.INTERNET REPRESENTATIONS
+Sec.3.Transfer and renumber
+A.Title 41, chapter 32,
+Arizona Revised Statutes, is transferred and renumbered for placement in title
+18, Arizona Revised Statutes, as added by this act, as chapter 1. Title 41,
+chapter 32, articles 1, 2 and 3, Arizona Revised Statutes, are transferred and
+renumbered for placement in title 18, chapter 1, Arizona Revised Statutes, as
+added by this act, as articles 1, 2 and 3, respectively. The following
+sections are transferred and renumbered for placement in title 18, chapter 1,
+article 1:
+ Former
+Sections New Sections
+413501.................................. 18101
+413502.................................. 18102
+413503.................................. 18103
+413504.................................. 18104
+413507.................................. 18105
+The
+following section is transferred and renumbered for placement in title 18,
+chapter 1, article 2:
+ Former
+Section New Section
+413521.................................. 18121
+The following sections are
+transferred and renumbered for placement in title 18, chapter 1, article 3:
+ Former
+Sections New Sections
+413531.................................. 18131
+413532.................................. 18132
+B.The following sections are transferred and
+renumbered for placement in title 18, chapter 2, article 1:
+ Former
+Sections New Sections
+414151.................................. 18201
+414152.................................. 18202
+414153.................................. 18203
+C.Title 41, chapter 46, Arizona Revised Statutes,
+is transferred and renumbered for placement in title 18, Arizona Revised
+Statutes, as added by this act, as chapter 3. Title 41, chapter 46, article 1,
+Arizona Revised Statutes, is transferred and renumbered for placement in title
+18, chapter 3, Arizona Revised Statutes, as added by this act, as article 1.
+The following sections are transferred and renumbered for placement in title
+18, chapter 3, article 1:
+ Former
+Sections New Sections
+414601.................................. 18301
+414602.................................. 18302
+414603.................................. 18303
+414604.................................. 18304
+D.The following
+sections are transferred and renumbered for placement in title 18, chapter 4,
+article 1:
+ Former Sections New
+Sections
+413505.................................. 18401
+413508.................................. 18402
+The following sections are
+transferred and renumbered for placement in title 18, chapter 4, article 2:
+ Former Sections New
+Sections
+413506.................................. 18421
+415101.................................. 18422
+The following sections are
+transferred and renumbered for placement in title 18, chapter 4, article 3:
+ Former Sections New
+Sections
+41127................................... 18441
+41132................................... 18442
+41134................................... 18443
+Section 38542, Arizona
+Revised Statutes, as amended by Laws 2011, chapter 332, section 27, is
+transferred and renumbered for placement in title 18, chapter 4, article 3,
+Arizona Revised Statutes, as section 18444. Section 38542,
+Arizona Revised Statutes, as amended by Laws 2014, chapter 149, section 1, is
+transferred and renumbered for placement in title 18, chapter 4, article 3,
+Arizona Revised Statutes, as section 18444.
+E.The following sections are transferred and
+renumbered for placement in title 18, chapter 5, article 1:
+ Former
+Sections New Sections
+447301.................................. 18501
+447302.................................. 18502
+447303.................................. 18503
+447304.................................. 18504
+The following sections are
+transferred and renumbered for placement in title 18, chapter 5, article 2:
+414171.................................. 18521
+414172.................................. 18522
+The following sections are
+transferred and renumbered for placement in title 18, chapter 5, article 3:
+447201.................................. 18541
+447202.................................. 18542
+447203.................................. 18543
+447204.................................. 18544
+447501.................................. 18545
+Sec.4.Heading repeal
+A.The following chapter
+headings are repealed:
+1.Title 41, chapter 39,
+Arizona Revised Statutes.
+2.Title 41, chapter 51,
+Arizona Revised Statutes.
+3.Title 44, chapter 29,
+Arizona Revised Statutes.
+4.Title 44, chapter 30,
+Arizona Revised Statutes.
+5.Title 44, chapter 32,
+Arizona Revised Statutes.
+B.The following article
+headings are repealed:
+1.Title 41, chapter 39,
+article 1, Arizona Revised Statutes.
+2.Title 41, chapter 39,
+article 2, Arizona Revised Statutes.
+3.Title 41, chapter 51,
+article 1, Arizona Revised Statutes.
+4.Title 44, chapter 29,
+article 1, Arizona Revised Statutes.
+5.Title 44, chapter 30,
+article 1, Arizona Revised Statutes.
+6.Title 44, chapter 32,
+article 1, Arizona Revised Statutes.
+Sec.5.Section 18103, Arizona Revised
+Statutes, as transferred and renumbered, is amended to read:
+START_STATUTE18103.Powers and duties of director
+In regard to government
+information technology, the director shall:
+1.Appoint a chief information officer for
+information technology.
+2.Establish minimum qualifications for each
+position authorized for the department for government information
+technology.The qualifications shall be subject to the review of the
+information technology authorization committee.
+3.Employ, determine the conditions of employment
+and prescribe the duties and powers of administrative, professional, technical,
+secretarial, clerical and other persons subject to title 41, chapter 4, article 4 of this title as may be necessary in the
+performance of the department's duties and contract for the services of outside
+advisors, consultants and aides as may be reasonably
+necessary.Employees of the department shall meet the minimum
+qualifications established pursuant to this section.END_STATUTE
+Sec.6.Section 18105, Arizona Revised
+Statutes, as transferred and renumbered, is amended to read:
+START_STATUTE18105.Statewide information security and privacy office; duties;
+suspension of budget unit's information infrastructure
+A.The statewide information security and privacy
+office is established in the department. The statewide information security
+and privacy office shall serve as the strategic planning, facilitation and
+coordination office for information technology security in this state. Individual
+budget units shall continue to maintain operational responsibility for
+information technology security.
+B.The director shall appoint a statewide chief
+information security officer to manage the statewide information security and
+privacy office. The statewide chief information security officer shall report
+to the director pursuant to section 413503
+18103. 
+C.The statewide information security and privacy
+office shall develop, implement, maintain and ensure compliance by each budget
+unit with a coordinated statewide assurance plan for information security and
+privacy. The statewide information security and privacy office shall:
+1.Direct information security and privacy
+protection compliance reviews with each budget unit to ensure compliance with
+standards and effectiveness of security assurance plans as necessary.
+2.Identify information security and privacy
+protection risks in each budget unit and direct agencies to adopt risk
+mitigation strategies, methods and procedures to lessen these risks.
+3.Monitor and report compliance of each budget unit
+with state information security and privacy protection policies, standards and
+procedures.
+4.Coordinate statewide information security and
+privacy protection awareness and training programs.
+5.Develop other strategies as necessary to protect
+this state's information technology infrastructure and the data that is stored
+on or transmitted by such the infrastructure.
+D.The statewide information security and privacy
+office may temporarily suspend operation of information infrastructure that is
+owned, leased, outsourced or shared in order to isolate the source of, or stop
+the spread of, an information security breach or other similar
+incident.A budget unit shall comply with directives to temporarily
+discontinue or suspend operations of information infrastructure.
+E.Each budget unit and its contractors shall
+identify and report security incidents to the statewide information security
+and privacy office immediately on discovery and deploy mitigation strategies as
+directed. END_STATUTE
+Sec.7.Section 18443, Arizona Revised
+Statutes, as transferred and renumbered, is amended to read:
+START_STATUTE18443.Electronic database system; procedures
+A.Subject to legislative
+appropriation or transfer of monies, the secretary of state shall develop
+electronic database systems for financial disclosures required under title 38,
+chapter 3.1, article 1 and lobbyist reporting requirements under title 41, chapter 7, article
+8.1 of this title.
+B.The electronic database system shall allow a
+county, city or town to elect to use the secretary of state's system subject
+to:
+1.Approval of the local governing body.
+2.The local governing body conforming the local
+governing body's financial disclosure requirement and lobbying disclosure
+requirements with requirements of this state.
+C.This section does not require the secretary of
+state to provide for a system that complies with filing requirements other than
+those required in sections 38542
+18444 and 38543
+and title 41, chapter 7,
+article 8.1 of this title. END_STATUTE
+Sec.8.Section 18501, Arizona Revised
+Statutes, as transferred and renumbered, is amended to read:
+START_STATUTE18501.Definitions
+In this chapter
+article, unless the
+context otherwise requires:
+1."Advertisement" means a communication
+the primary purpose of which is the commercial promotion of a commercial
+product or service, including communication on an internet web site website that is operated for a commercial purpose.
+2."Computer software" means a sequence of
+instructions that is written in any programming language and that is executed
+on a computer and does not include a web page or data components of web pages
+that are not executable independently of the web page.
+3."Damage" means any significant
+impairment to the integrity or availability of data, computer software, a
+system or information.
+4."Execute" means the performance of the
+functions or the carrying out of the instructions of the computer software.
+5."Intentionally deceptive" means any of
+the following:
+(a)By means of an intentionally and materially
+false or fraudulent statement.
+(b)By means of a statement or description that
+intentionally omits or misrepresents material information in order to deceive
+an owner or operator of a computer.
+(c)By means of an intentional and material failure
+to provide any notice to an owner or operator of a computer regarding the
+installation or execution of computer software in order to deceive the owner or
+operator.
+6."Internet" means the global information
+system that is logically linked together by a globally unique address space
+based on the internet protocol, or its subsequent extensions, and that is able
+to support communications using the transmission control protocol/internet protocol or internet protocol suite, or it its subsequent extensions, or other internet
+protocol compatible protocols, and that provides, uses or makes accessible,
+either publicly or privately, high level services layered on the communications
+and related infrastructure described in this paragraph.
+7."Owner or operator" means the owner or
+lessee of a computer or someone using the computer with the owner's or lessee's
+authorization. Owner or operator does not include any person who owns a
+computer before the first retail sale of the computer.
+8."Person" means any individual,
+partnership, corporation, limited liability company or other organization or
+any combination of these entities.
+9."Personally
+identifiable information" means any of the following with respect to an
+individual who is an owner or operator of a computer:
+(a)First name or first initial in combination with
+last name.
+(b)A home or other physical address including
+street name.
+(c)An electronic mail address.
+(d)A credit or debit card number or bank account
+number or any password or access code associated with a credit or debit card or
+bank account.
+(e)A social security number, tax identification
+number, driver license number, passport number or any other government issued
+identification number.
+(f)Any of the following information in a form that
+personally identifies an owner or operator of a computer:
+(i)Account balances.
+(ii)Overdraft history.
+(iii)Payment history.
+10."Transmit" means to transfer, send or
+make available computer software, or any component of computer software, via
+the internet or any other medium, including local area networks of computers,
+any other nonwire transmission and a disk or other data storage device.
+Transmit does not include any action by a person providing any of the
+following:
+(a)The internet connection, telephone connection or
+other means of transmission capability such as a compact disk or digital video
+disk through which the software was made available.
+(b)The storage or hosting of the software program
+or an internet web page through which the software was made available.
+(c)An information location tool, such as a
+directory, index, reference, pointer or hypertext link, through which the user
+of the computer located the software, unless the person receives a direct
+economic benefit from the execution of the software on the computer. END_STATUTE
+Sec.9.Section 18502, Arizona Revised
+Statutes, as transferred and renumbered, is amended to read:
+START_STATUTE18502.Prohibited activities; applicability
+A.It is unlawful for any person who is not an owner
+or operator of a computer to transmit computer software to a computer, with
+actual knowledge or with conscious avoidance of actual knowledge, and to use
+the software to do any of the following:
+1.Modify, through intentionally deceptive means,
+settings that control any of the following:
+(a)The page that appears when an owner or operator
+of a computer launches an internet browser or similar computer software used to
+access and navigate the internet.
+(b)The default provider or web proxy that an owner
+or operator of a computer uses to access or search the internet.
+(c)An owner owner's or operator's list of
+bookmarks used to access web pages.
+2.Collect, through intentionally deceptive means,
+personally identifiable information:
+(a)Through the use of a keystroke logging function
+that records all keystrokes made by an authorized user who uses the computer
+and transfers that information from the computer to another person.
+(b)In a manner that correlates the information with
+data respecting all or substantially all of the web sites websites visited by an owner or operator of
+the computer, other than web sites
+websites operated by the
+person collecting the information.
+(c)With respect only to information described in
+section 44-7301 18501, paragraph 9, by
+extracting such information from the hard drive of an owner owner's
+or operator's computer.
+3.Prevent, through intentionally deceptive means,
+an owner owner's or operator's reasonable efforts to
+block the installation or execution of, or to disable, computer software by
+causing software that an owner or operator of the computer has properly removed
+or disabled automatically to reinstall or reactivate on the computer.
+4.Intentionally misrepresent that computer software
+will be uninstalled or disabled by an owner
+owner's or operator's
+action.
+5.Through intentionally deceptive means, remove,
+disable or render inoperative security, antispyware or antivirus computer
+software installed on the computer.
+6.Take control of the computer by:
+(a)Accessing or using the modem or internet service
+for the computer for the purpose of causing damage to the computer or causing
+an owner or operator to incur financial charges for a service that the owner or
+operator of the computer has not authorized.
+(b)Opening multiple, sequential, stand alone stand-alone advertisements in an owner owner's or operator's internet browser without
+the authorization of an the owner or operator and that a reasonable computer
+user cannot close without turning off the computer or closing the internet
+browser.
+7.Modify any of the following settings related to
+the computer's access to, or use of, the internet:
+(a)Settings that protect information about an owner
+or operator of the computer for the purpose of stealing personally identifiable
+information of the owner or operator.
+(b)Security settings for the purpose of causing
+damage to a computer.
+8.Prevent an owner
+owner's or operator's
+reasonable efforts to block the installation of, or to disable, computer
+software, by doing either of the following:
+(a)Presenting the owner or operator with an option
+to decline installation of computer software with knowledge that, when if the option is selected, the installation
+nevertheless proceeds.
+(b)Falsely representing that computer software has
+been disabled.
+B.It is unlawful for any person who is not an owner
+or operator of a computer to do either of the following with regard to the
+computer:
+1.Induce an owner or operator to install a computer
+software component on the computer by intentionally misrepresenting the extent
+to which installing the software is necessary for security or privacy reasons
+or in order to open, view or play a particular type of content.
+2.Deceptively cause the execution on the computer
+of a computer software component with the intent of causing an owner or
+operator to use the component in a manner that violates any other provision of
+this section.
+C.Nothing in
+This section applies does not apply to any
+monitoring of, or interaction with, a subscriber's internet or other network
+connection or service, or a computer, by a telecommunications carrier, cable
+operator, computer hardware or software provider or provider of information
+service or interactive computer service for network or computer security
+purposes, diagnostics, technical support, maintenance, repair, authorized
+updates of software or system firmware, authorized remote system management or
+detection or prevention of the unauthorized use of or fraudulent or other
+illegal activities in connection with a network, service or computer software,
+including scanning for and removing software prescribed under this chapter article. END_STATUTE
+Sec.10.Section 18503, Arizona Revised
+Statutes, as transferred and renumbered, is amended to read:
+START_STATUTE18503.Statewide concern; preemption
+It is the intent of the legislature that this chapter article
+is a matter of statewide concern. This chapter article
+supersedes and preempts all rules, regulations, codes, ordinances
+and other laws adopted by a city, county, municipality or local agency
+regarding spyware and notices to consumers from computer software providers
+regarding information collection.END_STATUTE
+Sec.11.Section 18504, Arizona Revised
+Statutes, as transferred and renumbered, is amended to read:
+START_STATUTE18504.Civil remedies; damages
+A.In addition to any other remedies provided by
+law, the attorney general, or a computer software provider or a web site website or trademark owner who is adversely affected by a
+violation of this chapter article, may bring an action
+against a person who violates this chapter article to:
+1.Enjoin further violations of this chapter
+article.
+2.Recover the greater of actual damages or one
+hundred thousand dollars for each separate violation of this chapter
+article.
+B.A single action or conduct that violates more
+than one paragraph of section 447302
+18502, subsection
+A or subsection B or at
+least one paragraph of section 447302
+18502, subsection
+A and at least one paragraph of section 447302
+18502, subsection
+B shall be considered multiple violations. The number of violations shall be
+based on the number of paragraphs violated.
+C.In an action brought under this section, a court
+may:
+1.Increase the damages up to three times the damages
+allowed by subsection A of this section if the defendant has engaged in a
+pattern and practice of violating this chapter article.
+2.Award costs and reasonable attorney fees to the
+prevailing party. END_STATUTE
+Sec.12.Section 18541, Arizona Revised
+Statutes, as transferred and renumbered, is amended to read:
+START_STATUTE18541.Definitions
+For the purposes of this
+chapter In this article,
+unless the context otherwise requires:
+1."Electronic mail message" means a
+message sent to a unique destination that consists of a unique user name or
+mailbox and a reference to an internet domain, whether or not displayed, and to
+which an electronic mail message can be sent or delivered.
+2."Identifying information" means an
+individual's piece of information that can be used to access an individual's
+financial accounts or to obtain goods or services and that includes an
+individual's:
+(a)Social security number.
+(b)Driver license number.
+(c)Bank account number.
+(d)Credit or debit card number.
+(e)Personal identification number.
+(f)Automated or electronic signature.
+(g)Unique biometric data.
+(h)Account passwords.
+3."Internet" means collectively the
+myriad of computer and telecommunications facilities, including equipment and
+operating software, that comprise the interconnected worldwide network of
+networks that employ the transmission control protocol or internet protocol, or
+any predecessor or successor protocols to such protocol, to communicate
+information of all kinds by wire or radio.
+4."Web page" means a location with
+respect to the worldwide web that has a single uniform resource locator or
+other single location with respect to the internet. END_STATUTE
+Sec.13.Section 18543, Arizona Revised
+Statutes, as transferred and renumbered, is amended to read:
+START_STATUTE18543.Civil remedies; damages
+A.A person who either is engaged in the business of
+providing internet access service to the public or owns a web page or trademark
+and who is adversely affected by reason of a violation of this chapter article
+may bring an action against a person who violates this chapter article to:
+1.Enjoin further violations of this chapter article.
+2.Recover the greater of actual damages or two
+thousand five hundred dollars for each separate violation of this chapter article.
+B.A person, other than a person who is described in
+subsection A of this section, who is adversely affected by reason of a
+violation of this chapter article may bring an action
+only against the person who violates this chapter article to:
+1.Enjoin further violations of this chapter article.
+2.Recover the greater of actual damages or five
+thousand dollars for each separate violation of this chapter article.
+C.The attorney general may bring an action against
+a person who violates this chapter
+article to:
+1.Enjoin further violations of this chapter article.
+2.Recover two thousand five hundred dollars per
+violation.
+D.An action under this section must be brought
+within three years after the violation is discovered or by the exercise of
+reasonable diligence should have been discovered, whichever is earlier.
+E.In an action under this section, the court may
+increase a damage award to an amount equal to not more than three times the
+amount otherwise available under this section if the court determines that the
+defendant has engaged in a pattern and practice of violating this chapter article.
+F.The attorney general may also recover reasonable
+attorney fees and costs.
+G.For the purposes of this section, multiple
+violations of this chapter article resulting from any
+single action or act shall constitute one violation. END_STATUTE
+Sec.14.Section 18544, Arizona Revised
+Statutes, as transferred and renumbered, is amended to read:
+START_STATUTE18544.Violation; classification
+A person who violates this chapter article
+is guilty of a class 5 felony. END_STATUTE
+Sec.15.Section 18545, Arizona Revised
+Statutes, as transferred and renumbered, is amended to read:
+START_STATUTE18545.Notification of breach of security system; enforcement;
+civil penalty; preemption; exceptions; definitions
+A.When a person that conducts business in this
+state and that owns or licenses unencrypted computerized data that includes
+personal information becomes aware of an incident of unauthorized acquisition
+and access to unencrypted or unredacted computerized data that includes an
+individual's personal information, the person shall conduct a reasonable
+investigation to promptly determine if there has been a breach of the security
+system. If the investigation results in a determination that there has been a
+breach in the security system, the person shall notify the individuals
+affected. The notice shall be made in the most expedient manner possible and
+without unreasonable delay subject to the needs of law enforcement as provided
+in subsection C of this section and any measures necessary to determine the
+nature and scope of the breach, to identify the individuals affected or to
+restore the reasonable integrity of the data system.
+B.A person that maintains unencrypted computerized
+data that includes personal information that the person does not own shall
+notify and cooperate with the owner or the licensee of the information of any
+breach of the security of the system following discovery of the breach without
+unreasonable delay. Cooperation shall include sharing information relevant to
+the breach of the security of the system with the owner or licensee. The
+person that owns or licenses the computerized data shall provide notice to the
+individual pursuant to this section. The person that maintained the data under
+an agreement with the owner or licensee is not required to provide notice to
+the individual pursuant to this section unless the agreement stipulates
+otherwise.
+C.The notification required by subsection A of this
+section may be delayed if a law enforcement agency advises the person that the
+notification will impede a criminal investigation. The person shall make the
+notification after the law enforcement agency determines that it will not
+compromise the investigation.
+D.The disclosure required by subsection A of this
+section shall be provided by one of the following methods:
+1.Written notice.
+2.Electronic notice if the person's primary method
+of communication with the individual is by electronic means or is consistent
+with the provisions regarding electronic records and signatures set forth in
+the electronic signatures in global and national commerce act (P.L. 106229;
+114 Stat. 464; 15 United States Code section 7001).
+3.Telephonic notice.
+4.Substitute notice if the person demonstrates that
+the cost of providing notice pursuant to paragraph 1, 2 or 3 of this subsection
+would exceed fifty thousand dollars or that the affected class of subject
+individuals to be notified exceeds one hundred thousand persons, or the person
+does not have sufficient contact information. Substitute notice shall consist
+of all of the following:
+(a)Electronic mail notice if the person has
+electronic mail addresses for the individuals subject to the notice.
+(b)Conspicuous posting of the notice on the web site website of the person if the person maintains
+one.
+(c)Notification to major statewide media.
+E.A person who maintains the person's own
+notification procedures as part of an information security policy for the
+treatment of personal information and is otherwise consistent with the
+requirements of this section shall be deemed to be in compliance with the
+notification requirements of this section if the person notifies subject
+individuals in accordance with the person's policies if a breach of the
+security system occurs.
+F.A person that complies with the notification
+requirements or security breach procedures pursuant to the rules, regulations,
+procedures, guidance or guidelines established by the person's primary or
+functional federal regulator is deemed to be in compliance with this section.
+G.A person is not required to disclose a breach of
+the security of the system if the person or a law enforcement agency, after a
+reasonable investigation, determines that a breach of the security of the
+system has not occurred or is not reasonably likely to occur.
+H.This section may only be enforced by the attorney
+general. The attorney general may bring an action to obtain actual damages for
+a wilful and knowing violation of this section and a civil penalty not to
+exceed ten thousand dollars per breach of the security of the system or series
+of breaches of a similar nature that are discovered in a single investigation.
+I.The state legislature determines that security
+system breach notification is a matter of statewide concern. The power to
+regulate security breach notification is preempted by this state and this
+section shall supersede and preempt all municipal and county laws, charters,
+ordinances and rules relating to issues regulated by this chapter section.
+J.This section does not apply to either of the
+following:
+1.A person subject to title V of the GrammLeachBliley
+act of 1999 (P.L. 106-102;
+113 Stat. 1338; 15 United States Code sections 6801 through 6809).
+2.Covered entities as defined under regulations
+implementing the health insurance portability and accountability act of 1996, 45 Code of Federal
+Regulations section 160.103 (1996).
+K.The department of public safety, a county
+sheriff's department, a municipal police department, a prosecution agency and a
+court shall create and maintain an information security policy that includes
+notification procedures for a breach of the security system of the department
+of public safety, the county sheriff's department, the municipal police
+department, the prosecuting agency or the court.
+L.For the purposes of this section:
+1."Breach", "breach of the security
+of the system", "breach of the security system" or
+"security breach" means an unauthorized acquisition of and access to
+unencrypted or unredacted computerized data that materially compromises the
+security or confidentiality of personal information maintained by a person as
+part of a database of personal information regarding multiple individuals and
+that causes or is reasonably likely to cause substantial economic loss to an
+individual. Good faith acquisition of personal information by an employee or
+agent of the person for the purposes of the person is not a breach of the
+security system if the personal information is not used for a purpose unrelated
+to the person or subject to further wilful unauthorized disclosure.
+2."Court" means the supreme court, court
+of appeals, superior court, courts inferior to the superior court and justice
+courts.
+3."Encrypted" means use of an algorithmic
+process to transform data into a form in which the data is rendered unreadable
+or unusable without use of a confidential process or key.
+4."Individual" means a person that is a
+resident of this state as determined by a principal mailing address in this
+state as reflected in the records of the person conducting business in this
+state at the time of the breach.
+5."Person" means a natural person,
+corporation, business trust, estate, trust, partnership, association, joint
+venture, government, governmental subdivision or agency or any other legal or
+commercial entity.Person does not include the department of public safety,
+a county sheriff's department, a municipal police department, a prosecution
+agency or a court.
+6."Personal information":
+(a)Means an individual's first name or first
+initial and last name in combination with any one or more of the following data
+elements, when the data element is not encrypted, redacted or secured by any
+other method rendering the element unreadable or unusable:
+(i)The individual's social security number.
+(ii)The individual's number on a driver license
+issued pursuant to section 283166 or number on a nonoperating
+identification license issued pursuant to section 283165.
+(iii)The individual's financial account number or
+credit or debit card number in combination with any required security code,
+access code or password that would permit access to the individual's financial
+account.
+(b)Does not include publicly available information
+that is lawfully made available to the general public from federal, state or
+local government records or widely distributed media.
+7."Prosecution agency" means the attorney
+general, any county attorney or any municipal prosecutor.
+8."Redact" means alter or truncate data
+such that no more than the last four digits of a social security number, driver
+license number, nonoperating identification license number, financial account
+number or credit or debit card number is accessible as part of the personal
+information. END_STATUTE
+Sec.16.Section 28-2065, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-2065.Electronic and digital signatures; documents
+A.On or
+before January 1, 2009, The director in cooperation with a
+statewide association of franchised new motor vehicle dealers shall establish a
+schedule to develop a pilot program to accept and use electronic or digital
+signatures.
+B.In the process of developing the pilot program,
+the director shall research and develop methods to allow the department,
+authorized third parties, licensed financial institutions, licensed insurers or
+any other business or individual as determined by the director to accept,
+exchange and use electronic or digital signatures for any document or for any
+transaction prescribed in this chapter and sections 28370, 28444,
+28453 and 285111.
+C.The participants shall ensure that adequate
+security measures are in place to prevent any illegal use of the signatures or
+other information exchanged pursuant to this section.
+D.Except for a statewide association of franchised
+new motor vehicle dealers, the director may limit the number of participants in
+the system but shall encourage authorized third parties and businesses of
+various sizes to participate.
+E.After the system has been operating for twelve
+months, the director may expand the system if the director determines the
+system is successful.
+F.The director may determine and require
+reimbursement from pilot program participants for costs related to computer
+programming, hardware, development and personnel. The department shall
+deposit, pursuant to sections 35146 and 35147, all monies
+received pursuant to this section in a separate account of the state highway
+fund established by section 28-6991. Monies in the separate account are
+continuously appropriated.The director may transfer monies
+deposited pursuant to this subsection from the separate account to the
+operating budget of the department's motor vehicle division for the purpose of
+reimbursing the department's operating budget for expenditures made by the division
+pursuant to this section.
+G.This section does not limit the use of electronic
+and digital signatures used by state agencies, boards or commissions pursuant
+to section 41-132 18442.
+H.The director shall adopt policies necessary to
+implement this section. END_STATUTE
+Sec.17.Section
+33-1701, Arizona Revised Statutes, is amended to read:
+START_STATUTE33-1701.Definitions; exception
+A.In this article,
+unless the context otherwise requires:
+1."Default" means the failure to perform
+on time any obligation or duty set forth in the rental agreement.
+2."Department" means the Arizona game and
+fish department in the case of motorized watercraft and the department of
+transportation in the case of all other vehicles.
+3."Electronic mail" means an electronic
+message or an executable program or computer file that contains an image of a
+message that is transmitted between two or more computers or electronic
+terminals and includes electronic messages that are transmitted within or
+between computer networks from which a confirmation of receipt is received.
+4."Last known address" means that postal
+address or electronic address provided by the occupant in the rental agreement
+or the postal address or electronic address provided by the occupant in a
+subsequent written notice of a change of address.
+5."Late fee" means a reasonable fee or
+charge that is assessed by the operator for the failure of the occupant to pay
+rent when due pursuant to section 331703, subsection D.
+6."Leased space" means the storage space
+or spaces at the selfservice storage facility that are rented to an
+occupant pursuant to a rental agreement.
+7."Net proceeds" means the total proceeds
+received from the lien sale less the total amount of the lien.
+8."Occupant" means a person or the
+person's sublessee, successor or assign, entitled to the use of the leased
+space at a selfservice storage facility under a rental agreement, to the
+exclusion of others.
+9."Operator" means the owner, operator,
+lessor or sublessor of a selfservice storage facility, an agent or any
+other person authorized to manage the facility.
+10."Personal information" has the same
+meaning prescribed in section 44-7501
+18545 and includes
+passport information and medical or legal records.
+11."Personal property" means movable
+property that is not affixed to land and includes but is not limited to goods,
+wares, merchandise, household items and furnishings and vehicles.
+12."Protected property" means personal
+property the sale or disposal of which is regulated by state or federal law and
+that is one of the following:
+(a)Documents, files or electronic data that
+contains personal information relating to clients, customers, patients or
+others in connection with the occupant's business.
+(b)Alcoholic beverages.
+(c)Pharmaceuticals other than those dispensed by a
+licensed pharmacy for the occupant's personal use.
+(d)Firearms.
+13."Registered owner" means an owner of a
+vehicle as stated in the official records of the department.
+14."Rental
+agreement" means any written agreement provided to the occupant that
+establishes or modifies the terms, conditions or rules concerning the use and
+occupancy of leased space at a selfservice storage facility.
+15."Selfservice storage facility"
+means any real property used for renting or leasing storage spaces in which the
+occupants themselves customarily store and remove their own personal property
+on a selfservice basis.
+16."Vehicle" means a motor vehicle, a
+trailer or a semitrailer as defined in section 28101 and a motorized
+watercraft as defined in section 5301.
+17."Verified mail" means any method of
+mailing that is offered by the United States postal service and that provides
+evidence of mailing.
+B.This article does not apply to a warehouseman
+unless the warehouseman issues a warehouse receipt, bill of lading or other
+document of title for the personal property stored. END_STATUTE
+Sec.18.Section 36-3802, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE36-3802.Individual rights
+A.A health information organization must provide
+the following rights to individuals:
+1.To opt out of participating in the health
+information organization pursuant to section 363803.
+2.To request a copy of the individual's
+individually identifiable health information that is available through the
+health information organization.The health information organization
+may provide this right directly or may require health care providers
+participating in the health information organization to provide access to
+individuals. The copy may be provided electronically, if the individual
+requesting the copy consents to electronic delivery of the individually
+identifiable health information, and must be provided to the individual within
+thirty days after the individual's request. Charges for copies are governed by
+section 122295.
+3.To request amendment of incorrect individually
+identifiable health information available through the health information
+organization.
+4.To request a list of the persons who have
+accessed the individual's individually identifiable health information through
+the health information organization for a period of at least three years before
+the individual's request.This list must be provided to the
+individual within thirty days after the individual's request.
+5.To be notified, pursuant to section 447501 18545 and 45 Code of Federal
+Regulations part 164, subpart D, of a breach at the health information
+organization that affects the individual's individually identifiable health
+information.
+B.If an individual does not have the capacity to
+make health care decisions, the individual's health care decision maker may
+exercise all individual rights in this chapter on behalf of the individual. END_STATUTE
+Sec.19.Section 38-543, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE38-543.Duty to file financial disclosure statement by candidate
+for public office
+A candidate for public office as specified in section 38541,
+paragraph 8 shall file a financial disclosure statement covering the preceding
+twelve month period and containing the information described in section 38542 18444 on a form prescribed by the
+secretary of state at the time of filing of nomination papers. END_STATUTE
+Sec.20.Section 38-544, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE38-544.Violation; classification
+A.Any public officer, local public officer or
+candidate who knowingly fails to file a financial disclosure statement required
+pursuant to section 38542
+18444, 38543
+or 38545, who knowingly files an incomplete financial disclosure
+statement or who knowingly files a false financial disclosure statement is
+guilty of a class 1 misdemeanor.
+B.Any public officer, local public officer or
+candidate who violates this chapter is subject to a civil penalty of fifty
+dollars for each day of noncompliance but not more than five hundred dollars
+that may be imposed as prescribed in section 16924. END_STATUTE
+Sec.21.Section 41-121, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE41-121.Duties
+A.The secretary of state shall:
+1.Receive bills and resolutions from the
+legislature, and perform such other duties as devolve upon on
+the secretary of state by resolution of the two houses or either of them.
+2.Keep a register of and attest the official acts
+of the governor.
+3.Act as custodian of the great seal of this state.
+4.Affix the great seal, with the secretary of
+state's attestation, to public instruments to which the official signature of
+the governor is attached.
+5.File in the secretary of state's office receipts
+for all books distributed by the secretary of state and direct the county
+recorder of each county to do the same.
+6.Certify to the governor the names of those
+persons who have received at any election the highest number of votes for any
+office, the incumbent of which is commissioned by the governor.
+7.Publish slip laws of each act of the legislature
+promptly upon on passage and approval of
+such act, make such acts available to interested persons for a reasonable fee
+to compensate for the cost of printing and provide each house of the legislature
+and the legislative council with a certified copy of each bill or resolution,
+showing the chapter or resolution number of each, as each is filed in the
+secretary of state's office.
+8.Keep a fee book of fees and compensation of
+whatever kind and nature earned, collected or charged by the secretary of
+state, with the date, the name of the payer and the nature of the service in
+each case.The fee book shall be verified annually by the secretary
+of state's affidavit entered in the fee book.
+9.Perform other duties imposed on the secretary of
+state by law.
+10.Report to the governor on January 2 each year,
+and at such other times as provided by law, a detailed account of the secretary
+of state's official actions taken since the secretary of state's previous
+report together with a detailed statement of the manner in which all
+appropriations for the secretary of state's office have been expended.
+11.Transfer all noncurrent or inactive books,
+records, deeds and other papers otherwise required to be filed with or retained
+by the secretary of state to the custody of the Arizona state library, archives
+and public records.
+12.Make available to the public, without charge,
+title 33, chapters 10 and 11 on the secretary of state's website.
+13.Accept, and approve for use, electronic and
+digital signatures that comply with section 41132 18442, for documents filed with and by
+all state agencies, boards and commissions.In consultation with the
+department of administration and the state treasurer, the secretary of state
+shall adopt rules pursuant to chapter 6 of this title establishing policies and
+procedures for the use of electronic and digital signatures by all state
+agencies, boards and commissions for documents filed with and by all state
+agencies, boards and commissions.
+14.Meet at least annually with personnel from the
+federal voting assistance office of the United States department of defense and
+with county recorders and other county election officials in this state to
+coordinate the delivery and return of registrations, ballot requests, voted
+ballots and other election materials to and from absent uniformed and overseas
+citizens.
+B.The secretary of state may refuse to perform a
+service or refuse a filing based on a reasonable belief that the service or
+filing is being requested for an unlawful, illegitimate, false or fraudulent
+purpose or is being requested or submitted in bad faith or for the purpose of
+harassing or defrauding a person or entity. This subsection does not apply to
+election filings.END_STATUTE
+Sec.22.Section 41-352, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE41-352.Applicability of article; electronic signature laws
+A.Any notarial act in which a person by oath or
+affirmation signs a document may be performed electronically as prescribed by
+this article if under applicable law that document may be signed with an
+electronic signature.
+B.Unless otherwise expressly prohibited by law, the
+following notarial acts, terms and entities have the same legal effect as those
+prescribed by article 2 of this chapter:
+1.Electronic acknowledgment as acknowledgment.
+2.Electronic oath as oath.
+3.Electronic jurat as jurat.
+4.Electronic affidavit as affidavit.
+5.Electronic notarial act as notarial act.
+6.Electronic notarial certificate token as notarial
+certificate.
+7.Electronic notary as notary.
+C.An electronic commission is a commission to
+perform only electronic notary acts and only an electronic notary is authorized
+to perform electronic notary acts.
+D.Unless otherwise expressly prohibited by law, any
+electronic notarial act may be performed by either:
+1.An act in the presence of an electronic notary as
+prescribed by this article.
+2.An electronic notarial service as prescribed by
+this article for which the person signing appears before an electronic notary
+and by oath or affirmation acknowledges that any notary service electronic
+document that is created by the person pursuant to this article has the same
+legal force and effect as if the person appeared before an electronic notary
+and by oath or affirmation executed an electronic notarial act.
+E.Section 41132
+18442 applies in
+conjunction with this article to electronic signatures used by electronic
+notaries.
+F.This article applies to electronic notarial acts
+that are performed by electronic notaries who are appointed in this state and
+applies only to their acts performed in the United States. END_STATUTE
+Sec.23.Section 41-1277, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE41-1277.Joint legislative budget committee; annual report; debt;
+definitions
+A.On or before January 31 of each year, the joint
+legislative budget committee staff shall present to the appropriations
+committees of the senate and the house of representatives a report on state
+debt and obligations, including:
+1.Outstanding general obligation bonds.
+2.Longterm notes and obligations.
+3.Certificates of participation and other
+obligations pursuant to any leasepurchase agreements.
+4.Revenue bonds.
+5.Deferred rollover payment obligations.
+B.The report shall contain, for the most recent
+fiscal year:
+1.The statewide aggregate level of outstanding
+principal and the principal and interest payments, by type of debt or
+obligation. The report shall be based on data available from the searchable
+database required by section 414604
+18304.
+2.Itemization, by budget unit, of the original due
+date of each deferred payment for deferred rollover payment obligations, the
+amount of interest paid to date due to the deferral and the amount of yearly
+interest to be paid in the most recent and the next fiscal year due to the
+deferral.
+3.Information on per capita state debt and
+obligations.
+4.Information on the ten year history of state debt
+and obligations based on available data.
+C.The report and a link to the searchable database
+required by section 414604
+18304 shall be
+posted on the joint legislative budget committee's website, and a copy of the
+report shall be provided to any member of the public who makes a request.
+D.For the purposes of this section:
+1."Deferred rollover payment obligation" means
+an obligation to make a payment in a fiscal year that was due in and deferred
+from a previous fiscal year.
+2."State debt and obligations" means debt
+and obligations whose principal or interest is paid with state funds. END_STATUTE
+Sec.24.Section 41-1504, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE41-1504.Powers and duties; e-verify requirement
+A.The board of directors, on behalf of the authority,
+may:
+1.Adopt and use a corporate seal.
+2.Sue and be sued.
+3.Enter into contracts as necessary to carry out
+the purposes and requirements of this chapter, including intergovernmental
+agreements pursuant to title 11, chapter 7, article 3 and interagency service
+agreements as provided by section 35148.
+4.Lease real property and improvements to real
+property for the purposes of the authority. Leases by the authority are exempt
+from chapter 4, article 7 of this title, relating to management of state
+properties.
+5.Employ or retain legal counsel and other
+consultants as necessary to carry out the purposes of the authority.
+6.Develop and use written policies, procedures and
+guidelines for the terms and conditions of employing officers and employees of
+the authority and may include background checks of appropriate personnel.
+B.The board of directors, on behalf of the
+authority, shall:
+1.Develop comprehensive long-range strategic
+economic plans for this state and submit the plans to the governor.
+2.Annually update a strategic economic plan for
+submission to the governor.
+3.Accept gifts, grants and loans and enter into
+contracts and other transactions with any federal or state agency,
+municipality, private organization or other source.
+C.The authority shall:
+1.Assess and collect fees for processing
+applications and administering incentives. The board shall adopt the manner of
+computing the amount of each fee to be assessed. Within thirty days after
+proposing fees for adoption, the chief executive officer shall submit a
+schedule of the fees for review by the joint legislative budget committee. It
+is the intent of the legislature that a fee shall not exceed one per cent percent of the amount of the incentive.
+2.Determine and collect registry fees for the
+administration of the allocation of federal tax exempt industrial development
+bonds and student loan bonds authorized by the authority. Such monies
+collected by the authority shall be deposited, pursuant to sections 35146
+and 35147, in an authority bond fund. Monies in the fund shall be used,
+subject to annual appropriation by the legislature, by the authority to
+administer the allocations provided in this paragraph and are exempt from the
+provisions of section 35190 relating to the lapsing of appropriations.
+3.Determine and collect security deposits for the
+allocation, for the extension of allocations and for the difference between
+allocations and principal amounts of federal tax exempt industrial development
+bonds and student loan bonds authorized by the authority. Security deposits
+forfeited to the authority shall be deposited in the state general fund.
+4.At the direction of the board, establish and
+supervise the operations of full-time or part-time offices in other states and
+foreign countries for the purpose of expanding direct investment and export
+trade opportunities for businesses and industries in this state if, based on
+objective research, the authority determines that the effort would be
+beneficial to the economy of this state.
+5.Establish a program by which entrepreneurs become
+aware of permits, licenses or other authorizations needed to establish, expand
+or operate in this state.
+6.Be the state registration agency for
+apprenticeship functions prescribed by the federal government.
+D.The authority, through the chief executive
+officer, may:
+1.Contract and incur obligations reasonably
+necessary or desirable within the general scope of the authority's activities
+and operations to enable the authority to adequately perform its duties.
+2.Use monies, facilities or services to provide
+matching contributions under federal or other programs that further the
+objectives and programs of the authority.
+3.Accept gifts, grants, matching monies or direct
+payments from public or private agencies or private persons and enterprises for
+the conduct of programs that are consistent with the general purposes and
+objectives of this chapter.
+4.Assess business fees for promotional services
+provided to businesses that export products and services from this state. The
+fees shall not exceed the actual costs of the services provided.
+5.Establish and maintain one or more accounts in
+banks or other depositories, for public or private monies of the authority,
+from which operational activities, including payroll, vendor and grant
+payments, may be conducted. Individual funds that are established by law under
+the jurisdiction of the authority may be maintained in separate accounts in
+banks or other depositories, but shall not be commingled with any other monies
+or funds of the authority.
+E.The chief executive officer shall:
+1.Hire employees and prescribe the terms and
+conditions of their employment as necessary to carry out the purposes of the
+authority. The board of directors shall adopt written policies, procedures and
+guidelines, similar to those adopted by the department of administration,
+regarding officer and employee compensation, observed holidays, leave and
+reimbursement of travel expenses and health and accident insurance.The
+officers and employees of the authority are exempt from any laws regulating
+state employment, including:
+(a)Chapter 4, articles 5 and 6 of this title,
+relating to state service.
+(b)Title 38, chapter 4, article 1 and chapter 5,
+article 2, relating to state personnel compensation, leave and retirement.
+(c)Title 38, chapter 4, article 2, relating to
+reimbursement of state employee expenses.
+(d)Title 38, chapter 4, article 4, relating to
+health and accident insurance.
+2.On a quarterly basis, provide public record data
+in a manner prescribed by the department of administration related to the
+authority's revenues and expenditures for inclusion in the comprehensive
+database of receipts and expenditures of state monies pursuant to section 41725.
+F.In addition to any other requirement, in order to
+qualify for any grant, loan, reimbursement, tax incentive or other economic
+development incentive pursuant to this chapter, an applicant that is an
+employer must register with and participate in the e-verify program in
+compliance with section 23214. The authority shall require verification
+of compliance with this subsection as part of any application process.
+G.Notwithstanding any other law, the authority is
+subject to chapter 3.1, article 1 of this title, relating to risk management.
+H.The authority is exempt from title 18, chapter 32 1,
+articles 1 and 2 of this title,
+relating to statewide information technology. The authority shall adopt
+policies, procedures and guidelines regarding information technology.
+I.The authority is exempt from state general
+accounting and finance practices and rules adopted pursuant to chapter 4,
+article 3 of this title, but the board shall adopt written accounting
+practices, systems and procedures for the economic and efficient operation of
+the authority.
+J.The authority is exempt from section 41712,
+relating to the installation and maintenance of telecommunications telecommunication systems.
+K.The authority may lease or purchase motor
+vehicles for use by employees to conduct business activities. The authority is
+exempt from section 41803, relating to the state motor vehicle fleet,
+and title 38, chapter 3, article 10, relating to vehicle usage and markings.
+L.Any tangible or intangible record submitted to or
+compiled by the board or the authority in connection with its work, including
+the award of monies, is subject to title 39, chapter 1, unless an applicant
+shows, or the board or authority determines, that specific information meets
+either of the following:
+1.If made public, the information would divulge the
+applicant's or potential applicant's trade secrets, as defined in section 44401.
+2.If made public, the information could potentially
+harm the applicant's, the potential
+applicant's or this state's competitive position relating to potential business
+development opportunities and strategies.
+M.The authority is exempt from chapter 25, article
+1 of this title, relating to government competition with private enterprise. END_STATUTE
+Sec.25.Section 41-2513, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE41-2513.Authority to contract for certain services
+A.For the purpose of procuring the services of
+clergy, certified public accountants, legal counsel pursuant to section 41192,
+subsection D, physicians or dentists as defined by the laws of this state, any
+state governmental unit may act as a purchasing agency and contract on its own
+behalf for such services, subject to this chapter and rules adopted by the
+director.
+B.In accordance with the provisions of section 41192,
+subsection D and notwithstanding any contrary statute, no contract for the
+services of legal counsel may be awarded without the approval of the attorney
+general.
+C.The auditor general shall approve state agency
+contracting for financial and compliance auditing services except if specific
+statutory authority is otherwise provided. The auditor general shall ensure
+that such contract audits are conducted in accordance with generally accepted
+governmental auditing standards. An audit shall not be accepted until it has
+been approved by the auditor general.
+D.The department may approve all information
+technology purchases exceeding twentyfive thousand dollars for a budget
+unit as defined in section 41350118101. Purchases shall
+not be artificially divided to avoid review.
+E.Payment for any services, including those
+services described in subsections A, B and C of this section, procured under this
+chapter shall not be made unless pursuant to a fully approved written contract.
+END_STATUTE
+Sec.26.Section 41-3016.06, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE41-3016.06.Department of administration; termination July 1, 2016
+A.The department of administration terminates on
+July 1, 2016.
+B.title 18,
+chapter 1 and title 41, chapter 4, articles 1, 2, 3, 4, 5 and 7 and chapter 32 are repealed on
+January 1, 2017. END_STATUTE
+Sec.27.Section 44-7011, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE44-7011.Notarization; acknowledgment
+Notwithstanding title 41, chapter 2, article 2, if the law
+requires a signature or record to be notarized, acknowledged, verified or made
+under oath, that requirement is satisfied if a notary completes a notarial act
+on the electronic message or document. That notarial act on the electronic
+message or document is complete without the imprint of the notary's seal if all
+of the following apply:
+1.The electronic message or document is signed
+pursuant to this chapter or section 41-132
+18442 in the
+presence of a notary.
+2.The notary confirms that the electronic signature
+on the electronic message or document is verifiably the electronic signature
+issued to the signer pursuant to this chapter or section 41-132 18442.
+3.The notary electronically signs with an electronic
+signature that is consistent with this chapter, any electronic notary law title 41, chapter 2, article 3 or any other
+applicable law.
+4.The following information appears electronically
+within the message electronically signed by the notary:
+(a)The notary's full name and commission number
+exactly as it appears on the notary's commission.
+(b)The words "electronic notary public",
+"state of Arizona" and "my commission expires on (date)".
+(c)The address of the notary's principal place of
+contact exactly as it appears on the notary's commission.
+(d)The notary's e-mail or other electronic address
+exactly as it appears on the notary's commission.END_STATUTE
+Sec.28.Section 44-7041, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE44-7041.Creation; retention; conversion of written records
+A.Each governmental agency shall determine if, and
+the extent to which, the governmental agency will create and retain electronic
+records and convert written records to electronic records. Any governmental
+agency that is subject to the management, preservation, determination of value
+and disposition of records requirements prescribed in sections 41151.12,
+41151.13, 41151.14, 41151.15, 41151.16, 41151.17,
+41151.18 and 41151.19 and the permanent public records
+requirements prescribed in section 39-101 shall comply with those requirements.
+B.State agencies shall comply with the standards
+adopted by the department of administration pursuant to title 41 18,
+chapter 32 1.
+C.All governmental agencies shall comply with the
+policies that are established by the secretary of state pursuant to section 41-132 18442 and that apply to the use of
+electronic signatures. END_STATUTE 
+Sec.29.Section 44-7042, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE44-7042.Sending and accepting electronic records
+A.Except as otherwise provided in section 44-7012,
+subsection E, each governmental agency shall determine if, and the extent to
+which, the governmental agency will send and accept electronic records and
+electronic signatures to and from other persons and otherwise create, generate,
+communicate, store, process, use and rely on electronic records and electronic
+signatures. State agencies shall comply with the appropriate standards and
+policies adopted or established by the department of administration pursuant to
+title 41 18, chapter 32 1 and
+the secretary of state pursuant to section 41132 18442.
+B.To the extent that a governmental agency uses
+electronic records and electronic signatures pursuant to subsection A of this
+section, the governmental agency after giving due consideration to security may
+specify:
+1.The manner and format in which the electronic
+records must be created, generated, sent, communicated, received and stored and
+the systems established for those purposes.
+2.If electronic records must be signed by
+electronic means, the type of electronic signature required, the manner and
+format in which the electronic signature must be affixed to the electronic
+record and the identity of or criteria that must be met by any third party used
+by a person filing a document to facilitate the process.
+3.Control processes and procedures as appropriate
+to ensure adequate preservation, disposition, integrity, security,
+confidentiality and ability to perform audits of electronic records.
+4.Any other required attributes for electronic
+records that are specified for corresponding nonelectronic records or that are
+reasonably necessary under the circumstances.
+C.Except as otherwise provided in section 447012,
+subsection E, this chapter does not require a governmental agency to use or
+allow the use of electronic records or electronic signatures.END_STATUTE
+Sec.30.Section
+47-9525, Arizona Revised Statutes, is amended to read:
+START_STATUTE47-9525.Fees
+A.Except as
+otherwise provided in subsection E of this section and except for a filing
+office described in section 479501, subsection A, paragraph 1, the fee
+for filing and indexing a record under this article, other than an initial
+financing statement of the kind described in section 479502, subsection
+C, is not more than nine dollars as provided in sections 18441 and 41126 and 41127, if the record is communicated
+in writing or by any other medium authorized by filing office rule.
+B.Except as otherwise provided in subsection E of
+this section, the fee for filing and indexing an initial financing statement of
+the kind described in section 479502, subsection C is not more than nine
+dollars as provided in sections 18441
+and 41126 and 41127
+if the financing statement indicates that it is filed in connection with a
+manufactured home transaction.
+C.The number of names required to be indexed does
+not affect the amount of the fee in subsections A and B of this section.
+D.The fee for responding to a request for
+information from the filing office, including for issuing a certificate showing
+whether there is on file any financing statement naming a particular debtor, is
+not more than nine dollars as provided in sections 18441 and 41126 and 41127 if the request is communicated
+in writing or by any other medium authorized by filing office rule.
+E.This section does not require a fee with respect
+to a record of a mortgage that is effective as a financing statement filed as a
+fixture filing or as a financing statement covering asextracted
+collateral or timber to be cut under section 479502, subsection
+C.However, the recording and satisfaction fees that otherwise would
+be applicable to the record of the mortgage apply.
+F.The filing fee for filing, indexing and
+furnishing filing data about a statement of master amendment pursuant to
+section 479512, subsection F or master assignment pursuant to section 479514,
+subsection D is not more than four hundred fifty dollars plus fifty cents for
+each financing statement covered by the master statement in excess of fifty
+financing statements.END_STATUTE
+Sec.31.Laws 2006,
+chapter 232, section 3 is amended to read:
+Sec. 3.Conditional repeal; notice
+A.Title 44, chapter 32 section 18-545, Arizona Revised Statutes, as added by this act, is repealed
+one year after the effective date of the federal personal data privacy and
+security act.
+B.The attorney general
+shall notify in writing the director of the Arizona legislative council of this
+date.
+

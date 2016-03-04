@@ -1,0 +1,1174 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: psychologists; licensure compact
+
+
+
+
+
+
+
+State of Arizona
+House of Representatives
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+HB 2503
+
+
+
+
+
+
+
+
+
+Introduced by
+Representative
+  Carter
+
+
+
+
+
+AN ACT
+
+Amending title
+32, chapter 19.1, article 3, Arizona Revised Statutes, by adding section 322087;
+relating to the state board of psychologist examiners.
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Title 32, chapter 19.1, article 3,
+Arizona Revised Statutes, is amended by adding section 32-2087, to read:
+START_STATUTE32-2087.Psychology interjurisdictional compact
+ARTICLE I
+PURPOSE
+Whereas, states license
+psychologists in order to protect the public through verification of education,
+training and experience and to ensure accountability for professional practice;
+and
+Whereas, this compact
+is intended to regulate the daytoday practice of telepsychology,
+which is the provision of psychological services using telecommunication
+technologies, by psychologists across state boundaries in the performance of
+their psychological practice as assigned by an appropriate authority; and
+Whereas, this compact
+is intended to regulate the temporary in-person, face-to-face practice of
+psychology by psychologists across state boundaries for thirty days within a
+calendar year in the performance of their psychological practice as assigned by
+an appropriate authority;
+Whereas, this compact
+is intended to authorize state psychology regulatory authorities to afford
+legal recognition, in a manner consistent with the terms of the compact, to
+psychologists licensed in another state;
+Whereas, this compact
+recognizes that states have a vested interest in protecting the public's health
+and safety through their licensing and regulation of psychologists and that
+such state regulation will best protect public health and safety;
+Whereas, this compact
+does not apply when a psychologist is licensed in both the home and receiving
+states; and
+Whereas, this compact
+does not apply to permanent in-person, facetoface practice, but
+it does allow for authorization of temporary psychological practice.
+Consistent with these
+principles, this compact is designed to achieve the following purposes and
+objectives:
+1.Increase
+public access to professional psychological services by allowing for
+telepsychological practice across state lines as well as temporary in-person,
+face-to-face services into a state where the psychologist is not licensed to
+practice psychology;
+2.Enhance
+the states' ability to protect the public's health and safety, especially
+client/patient safety;
+3.Encourage
+the cooperation of compact states in the areas of psychology licensure and
+regulation;
+4.Facilitate
+the exchange of information between compact states regarding psychologist
+licensure, adverse actions and disciplinary history;
+5.Promote
+compliance with the laws governing psychological practice in each compact
+state; and
+6.Invest
+all compact states with the authority to hold licensed psychologists
+accountable through the mutual recognition of compact state licenses.
+ARTICLE II
+DEFINITIONS
+As used in this
+compact:
+A."Adverse
+action" means any action that is taken by a state psychology regulatory
+authority that finds a violation of a statute or regulation, that is identified
+by the state psychology regulatory authority as discipline and that is a matter
+of public record.
+B."Association
+of state and provincial psychology boards" or "ASPPB" means the
+recognized membership organization composed of state and provincial psychology
+regulatory authorities responsible for the licensure and registration of
+psychologists throughout the United States and Canada.
+C."Authority
+to practice interjurisdictional telepsychology" means a licensed
+psychologist's authority to practice telepsychology, within the limits
+authorized under this compact, in another compact state.
+D."Bylaws"
+means those bylaws established by the psychology interjurisdictional compact
+commission pursuant to article X of this compact for its governance or for
+directing and controlling its actions and conduct.
+E."Client/patient"
+means the recipient of psychological services, whether psychological services
+are delivered in the context of health care, corporate, supervision or
+consulting services.
+F."Commissioner"
+means the voting representative appointed by each state psychology regulatory
+authority pursuant to article X of this compact.
+G."Compact
+state" means a state, the District of Columbia, or a United States
+territory that has enacted this compact legislation and that has not withdrawn
+pursuant to article XIII, subsection C or been terminated pursuant to article
+XII, subsection B.
+H."Confidentiality"
+means the principle that data or information is not made available or disclosed
+to unauthorized persons or processes.
+I."Coordinated
+licensure information system" or "coordinated database" means an
+integrated process for collecting, storing and sharing information on
+psychologists' licensure and enforcement activities related to psychology
+licensure laws that is administered by the recognized membership organization
+composed of state and provincial psychology regulatory authorities.
+J."Day"
+means any part of a day in which psychological work is performed.
+K."Distant
+state" means the compact state where a psychologist is physically present,
+not through the use of telecommunications technologies, to provide temporary
+in-person, facetoface psychological services.
+L."E.Passport" means a certificate issued
+by the association of state and provincial psychology boards that promotes the
+standardization in the criteria of interjurisdictional telepsychology practice
+and facilitates the process for licensed psychologists to provide
+telepsychological services across state lines.
+M."Executive
+board" means a group of directors elected or appointed to act on behalf
+of, and within the powers granted to them by, the commission.
+N."Home
+state" means a compact state where a psychologist is licensed to practice
+psychology.if the psychologist is licensed in more than one compact
+state and is practicing under the authorization to practice interjurisdictional
+telepsychology, the home state is the compact state where the psychologist is
+physically present when the telepsychological services are
+delivered.if the psychologist is licensed in more than one compact
+state and is practicing under the temporary authorization to practice, the home
+state is any compact state where the psychologist is licensed.
+O."Identity
+history summary" means a summary of information retained by the federal
+bureau of investigation or another designee with similar authority in
+connection with arrests and in some instances, federal employment,
+naturalization or military service.
+P."In-person,
+facetoface" means interactions in which the psychologist and
+the client/patient are in the same physical space and does not include
+interactions that may occur through the use of telecommunication technologies.
+Q."Interjurisdictional
+practice certificate" or "IPC" means a certificate issued by the
+association of state and provincial psychology boards that grants temporary
+authority to practice based on notification to the state psychology regulatory
+authority of intention to practice temporarily, and verification of one's
+qualifications for such practice.
+R."License"
+means authorization by a state psychology regulatory authority to engage in the
+independent practice of psychology, which would be unlawful without the
+authorization.
+S."Noncompact
+state" means any state that is not at the time a compact state.
+T."Psychologist"
+means an individual who is licensed for the independent practice of psychology.
+U."Psychology
+interjurisdictional compact commission" or "commission" means
+the national administration of which all Compact States are members.
+V."Receiving
+state" means a compact state where the client/patient is physically
+located when the telepsychological services are delivered.
+W."Rule"
+means a written statement by the psychology interjurisdictional compact
+commission promulgated pursuant to article XI of this compact that is of
+general applicability, that implements, interprets or prescribes a policy or
+provision of the compact or an organizational, procedural or practice requirement
+of the commission and that has the force and effect of statutory law in a
+compact state, and includes the amendment, repeal or suspension of an existing
+rule.
+X."Significant
+investigatory information" means either of the following:
+1.Investigative
+information that a state psychology regulatory authority, after a preliminary
+inquiry that includes notification and an opportunity to respond if required by
+state law, has reason to believe, if proven true, would indicate more than a
+violation of state statute or ethics code that would be considered more
+substantial than a minor infraction.
+2.Investigative
+information that indicates that the psychologist represents an immediate threat
+to public health and safety regardless of whether the psychologist has been
+notified or had an opportunity to respond.
+Y."State"
+means a state, commonwealth, territory or possession of the United States or
+the District of Columbia.
+Z."State
+psychology regulatory authority" means the board, office or other agency
+with the legislative mandate to license and regulate the practice of
+psychology.
+AA."Telepsychology"
+means the provision of psychological services using telecommunication
+technologies.
+BB."Temporary
+authorization to practice" means a licensed psychologist's authority to
+conduct temporary in-person, face-to-face practice, within the limits
+authorized under this compact, in another compact state.
+CC."Temporary
+in-person, face-to-face practice" means that a psychologist is physically
+present, not through the use of telecommunications technologies, in the distant
+state to provide for the practice of psychology for thirty days within a
+calendar year, based on notification to the distant state.
+ARTICLE III
+HOME STATE LICENSURE
+A.The home
+state shall be a compact state where a psychologist is licensed to practice
+psychology.
+B.A
+psychologist may hold one or more compact state licenses at a
+time.if the psychologist is licensed in more than one compact
+state, the home state is the compact state where the psychologist is physically
+present when the services are delivered as authorized by the authority to
+practice interjurisdictional telepsychology under the terms of this compact.
+C.Any
+compact state may require a psychologist who has not been previously licensed
+in a compact state to obtain and retain a license to be authorized to practice
+in the compact state under circumstances not authorized by the authority to
+practice interjurisdictional telepsychology under the terms of this compact.
+D.Any
+compact state may require a psychologist to obtain and retain a license to be
+authorized to practice in a compact state under circumstances not authorized by
+temporary authorization to practice under the terms of this compact.
+E.A home
+state's license authorizes a psychologist to practice in a receiving state
+under the authority to practice interjurisdictional telepsychology only if the
+compact state:
+1.Currently
+requires the psychologist to hold an active E.Passport;
+2.Has a
+mechanism in place for receiving and investigating complaints about licensed
+individuals;
+3.Notifies
+the commission, in compliance with the terms in this compact, of any adverse
+action or significant investigatory information regarding a licensed
+individual;
+4.Requires
+an identity history summary of all applicants at initial licensure, including
+the use of the results of fingerprints or other biometric data checks compliant
+with the requirements of the federal bureau of investigation or another
+designee with similar authority, no later than ten years after activation of
+the compact; and
+5.Complies
+with the bylaws and rules of the commission.
+F.A home
+state's license grants temporary authorization to practice to a psychologist in
+a distant state only if the compact state:
+1.Currently
+requires the psychologist to hold an active IPC;
+2.Has a
+mechanism in place for receiving and investigating complaints about licensed
+individuals;
+3.Notifies
+the commission, in compliance with the terms in this compact, of any adverse
+action or significant investigatory information regarding a licensed
+individual;
+4.Requires
+an identity history summary of all applicants at initial licensure, including
+the use of the results of fingerprints or other biometric data checks compliant
+with the requirements of the federal bureau of investigation or another
+designee with similar authority, no later than ten years after activation of
+the compact; and
+5.Complies
+with the bylaws and rules of the commission.
+ARTICLE IV
+COMPACT PRIVILEGE TO PRACTICE TELEPSYCHOLOGY
+A.Compact
+states shall recognize the right of a psychologist who is licensed in a compact
+state in conformance with Article III of this compact to practice
+telepsychology in other compact states, or receiving states, in which the
+psychologist is not licensed, under the authority to practice
+interjurisdictional telepsychology as provided in this compact.
+B.To
+exercise the authority to practice interjurisdictional telepsychology under the
+terms and provisions of this compact, a psychologist licensed to practice in a
+compact state must meet all of the following:
+1.Hold
+a graduate degree in psychology from an institute of higher education that was,
+at the time the degree was awarded:
+(a)Regionally accredited
+by an accrediting body recognized by the United States department of education
+to grant graduate degrees or authorized by provincial statute or royal charter
+to grant doctoral degrees; or
+(b)A foreign college or
+university deemed to be equivalent to subdivision (a) of this paragraph by a foreign credential
+evaluation service that is a member of the national association of credential
+evaluation services or by a recognized foreign credential evaluation service;
+and
+2.Hold
+a graduate degree in psychology that meets the following criteria:
+(a)The program, wherever
+it may be administratively housed, must be clearly identified and labeled as a
+psychology program. Such a program must specify in pertinent institutional
+catalogues and brochures its intent to educate and train professional
+psychologists;
+(b)The psychology program
+must stand as a recognizable, coherent, organizational entity within the
+institution;
+(c)There must be a clear
+authority and primary responsibility for the core and specialty areas whether
+or not the program cuts across administrative lines;
+(d)The program must
+consist of an integrated, organized sequence of study;
+(e)There must be an
+identifiable psychology faculty sufficient in size and breadth to carry out its
+responsibilities;
+(f)The designated
+director of the program must be a psychologist and a member of the core
+faculty;
+(g)The program must have
+an identifiable body of students who are matriculated in that program for a
+degree;
+(h)The program must
+include supervised practicum, internship or field training appropriate to the
+practice of psychology;
+(i)The curriculum shall
+encompass a minimum of three academic years of fulltime graduate study
+for doctoral degrees and a minimum of one academic year of full-time graduate
+study for master's degrees;
+(j)The program includes
+an acceptable residency as defined by the rules of the commission.
+3.Possess
+a current, full and unrestricted license to practice psychology in a home state
+that is a compact state;
+4.Have
+no history of adverse action that violates the rules of the commission;
+5.Have
+no criminal record history reported on an identity history summary that
+violates the rules of the commission;
+6.Possess
+a current, active E.Passport;
+7.Provide
+attestations in regard to areas of intended practice, conformity with standards
+of practice, competence in telepsychology technology, criminal background and
+knowledge and adherence to legal requirements in the home and receiving states,
+and provide a release of information to allow for primary source verification in
+a manner specified by the commission; and
+8.Meet
+other criteria as defined by the rules of the commission.
+C.A
+psychologist practicing into a receiving state under the authority to practice
+interjurisdictional telepsychology shall practice within areas of competencies
+and the scope of practice authorized by the home state.
+D.A
+psychologist practicing into a receiving state under the authority to practice
+interjurisdictional telepsychology will be subject to the home state's
+authority and laws. A receiving state may, in accordance with that state's due
+process law, limit or revoke a psychologist's authority to practice
+interjurisdictional telepsychology in the receiving state and may take any
+other necessary actions under the receiving state's applicable law to protect
+the health and safety of the receiving state's citizens.if a
+receiving state takes action, the state shall promptly notify the home state
+and the commission.
+E.If
+a psychologist's license in any home state or another compact state, or any
+authority to practice interjurisdictional telepsychology in any receiving
+state, is restricted, suspended or otherwise limited, the E.Passport shall be
+revoked and the psychologist is not eligible to practice telepsychology in a
+compact state under the authority to practice interjurisdictional
+telepsychology.
+ARTICLE V
+COMPACT TEMPORARY AUTHORIZATION TO PRACTICE
+A.Compact
+states shall also recognize the right of a psychologist who is licensed in a
+compact state in conformance with article III of this compact to practice
+temporarily in other compact states, or distant states, in which the
+psychologist is not licensed, as provided in this compact.
+B.To
+exercise the temporary authorization to practice under the terms and provisions
+of this compact, a psychologist licensed to practice in a compact state must
+meet all of the following:
+1.Hold
+a graduate degree in psychology from an institute of higher education that was,
+at the time the degree was awarded:
+(a)Regionally accredited
+by an accrediting body recognized by the United States department of education
+to grant graduate degrees, or authorized by provincial statute or royal charter
+to grant doctoral degrees; or
+(b)A foreign college or
+university deemed to be equivalent to subdivision (a) of this paragraph by a foreign
+credential evaluation service that is a member of the national association of
+credential evaluation services or by a recognized foreign credential evaluation
+service; and
+2.Hold
+a graduate degree in psychology that meets the following criteria:
+(a)The program, wherever
+it may be administratively housed, must be clearly identified and labeled as a
+psychology program. Such a program must specify in pertinent institutional
+catalogues and brochures its intent to educate and train professional
+psychologists;
+(b)The psychology program
+must stand as a recognizable, coherent, organizational entity within the
+institution;
+(c)There must be a clear
+authority and primary responsibility for the core and specialty areas whether
+or not the program cuts across administrative lines;
+(d)The program must
+consist of an integrated, organized sequence of study;
+(e)There must be an
+identifiable psychology faculty sufficient in size and breadth to carry out its
+responsibilities;
+(f)The designated
+director of the program must be a psychologist and a member of the core
+faculty;
+(g)The program must have
+an identifiable body of students who are matriculated in that program for a
+degree;
+(h)The program must
+include supervised practicum, internship or field training appropriate to the
+practice of psychology;
+(i)The curriculum shall
+encompass a minimum of three academic years of fulltime graduate study
+for doctoral degrees and a minimum of one academic year of fulltime
+graduate study for master's degrees;
+(j)The program includes
+an acceptable residency as defined by the rules of the commission.
+3.Possess
+a current, full and unrestricted license to practice psychology in a home state
+that is a compact state;
+4.Have
+no history of adverse action that violates the rules of the commission;
+5.Have
+no criminal record history that violates the rules of the commission;
+6.Possess
+a current, active IPC;
+7.Provide
+attestations in regard to areas of intended practice and work experience and
+provide a release of information to allow for primary source verification in a
+manner specified by the Commission; and
+8.Meet
+other criteria as defined by the rules of the commission.
+C.A
+psychologist practicing into a distant state under the temporary authorization
+to practice shall practice within the scope of practice authorized by the
+distant state.
+D.A
+psychologist practicing into a distant state under the temporary authorization
+to practice will be subject to the distant state's authority and law. A distant
+state may, in accordance with that state's due process law, limit or revoke a
+psychologist's temporary authorization to practice in the distant state and may
+take any other necessary actions under the distant state's applicable law to
+protect the health and safety of the distant state's citizens. If a distant
+state takes action, the state shall promptly notify the home state and the
+commission.
+E.If
+a psychologist's license in any home state or another compact state, or any
+temporary authorization to practice in any distant state, is restricted,
+suspended or otherwise limited, the IPC shall be revoked and the psychologist
+is not eligible to practice in a compact state under the temporary
+authorization to practice.
+ARTICLE VI
+CONDITIONS OF TELEPSYCHOLOGY PRACTICE
+IN A RECEIVING STATE
+A psychologist may
+practice in a receiving state under the authority to practice
+interjurisdictional telepsychology only in the performance of the scope of
+practice for psychology as assigned by an appropriate state psychology
+regulatory authority, as defined in the rules of the commission, and under the
+following circumstances:
+1.The
+psychologist initiates a client/patient contact in a home state via
+telecommunications technologies with a client/patient in a receiving state;
+2.Other
+conditions regarding telepsychology as determined by rules promulgated by the
+commission.
+ARTICLE VII
+ADVERSE ACTIONS
+A.A
+Home State shall have the power to impose adverse action against a
+psychologist's license issued by the home state. A distant state shall have
+the power to take adverse action on a psychologist's temporary authorization to
+practice within that distant state.
+B.A
+receiving state may take adverse action on a psychologist's authority to
+practice interjurisdictional telepsychology within that receiving state. A
+home state may take adverse action against a psychologist based on an adverse
+action taken by a distant state regarding temporary inperson,
+face-to-face practice.
+C.If
+a home state takes adverse action against a psychologist's license, that
+psychologist's authority to practice interjurisdictional telepsychology is
+terminated and the E.Passport is revoked.Furthermore, that
+psychologist's temporary authorization to practice is terminated and the IPC is
+revoked as follows:
+1.All
+home state disciplinary orders that impose adverse action shall be reported to
+the commission in accordance with the rules promulgated by the commission. A
+compact state shall report adverse actions in accordance with the rules of the
+commission.
+2.In
+the event discipline is reported on a psychologist, the psychologist will not
+be eligible for telepsychology or temporary inperson, facetoface
+practice in accordance with the rules of the commission.
+3.Other
+actions may be imposed as determined by the rules of the commission.
+D.A
+home state's psychology regulatory authority shall investigate and take
+appropriate action with respect to reported inappropriate conduct engaged in by
+a licensee that occurred in a receiving state as it would if such conduct had
+occurred by a licensee within the home state. in such cases, the home state's
+law shall control in determining any adverse action against a psychologist's
+license.
+E.A
+distant state's psychology regulatory authority shall investigate and take
+appropriate action with respect to reported inappropriate conduct engaged in by
+a psychologist practicing under temporary authorization practice which occurred
+in that distant state as it would if such conduct had occurred by a licensee within
+the home state. In such cases, the distant state's law shall control in
+determining any adverse action against a psychologist's temporary authorization
+to practice.
+F.Nothing
+in this compact shall override a compact state's decision that a psychologist's
+participation in an alternative program may be used in lieu of adverse action
+and that such participation shall remain nonpublic if required by the compact
+state's law. Compact states must require psychologists who enter any
+alternative programs to not provide telepsychology services under the authority
+to practice interjurisdictional telepsychology or provide temporary
+psychological services under the temporary authorization to practice in any
+other compact state during the term of the alternative program.
+G.No
+other judicial or administrative remedies shall be available to a psychologist
+in the event a compact state imposes an adverse action pursuant to subsection C of this article.
+ARTICLE VIII
+ADDITIONAL AUTHORITIES INVESTED IN A COMPACT
+STATE'S PSYCHOLOGY REGULATORY AUTHORITY
+A.In
+addition to any other powers granted under state law, a compact state's
+psychology regulatory authority shall have the authority under this compact to:
+1.Issue
+subpoenas for both hearings and investigations that require the attendance and
+testimony of witnesses and the production of evidence. Subpoenas issued by a
+compact state's psychology regulatory authority for the attendance and
+testimony of witnesses or the production of evidence from another compact state
+shall be enforced in the latter state by any court of competent jurisdiction,
+according to that court's practice and procedure in considering subpoenas
+issued in its own proceedings.The issuing state psychology
+regulatory authority shall pay any witness fees, travel expenses, mileage and
+other fees required by the service statutes of the state where the witnesses or
+evidence are located; and
+2.Issue
+cease and desist or injunctive relief orders to revoke a psychologist's
+authority to practice interjurisdictional telepsychology and/or temporary
+authorization to practice.
+B.During
+the course of any investigation, a psychologist may not change the
+psychologist's home state licensure. A home state psychology regulatory
+authority is authorized to complete any pending investigations of a
+psychologist and to take any actions appropriate under its law. The home state
+psychology regulatory authority shall promptly report the conclusions of such
+investigations to the commission. Once an investigation has been completed,
+and pending the outcome of said investigation, the psychologist may change the
+psychologist's home state licensure.The Commission shall promptly
+notify the new home state of any such decisions as provided in the rules of the
+commission.All information provided to the commission or
+distributed by compact states pursuant to the psychologist shall be
+confidential, filed under seal and used for investigatory or disciplinary
+matters.The commission may create additional rules for mandated or
+discretionary sharing of information by compact states.
+ARTICLE IX
+COORDINATED LICENSURE INFORMATION SYSTEM
+A.The
+commission shall provide for the development and maintenance of a coordinated
+database and reporting system containing licensure and disciplinary action
+information on all psychologists or individuals to whom this compact is
+applicable in all compact states as defined by the rules of the commission.
+B.Notwithstanding
+any other provision of state law to the contrary, a compact state shall submit
+a uniform data set to the coordinated database on all licensees as required by
+the rules of the commission, including:
+1.Identifying
+information;
+2.Licensure
+data;
+3.Significant
+investigatory information;
+4.Adverse
+actions against a psychologist's license;
+5.An
+indicator that a psychologist's authority to practice interjurisdictional
+telepsychology and/or temporary authorization to practice is revoked;
+6.Nonconfidential
+information related to alternative program participation information;
+7.Any
+denial of application for licensure and the reasons for such denial; and
+8.Other
+information that may facilitate the administration of this compact, as
+determined by the rules of the commission.
+C.The
+coordinated database administrator shall promptly notify all compact states of
+any adverse action taken against, or significant investigative information on,
+any licensee in a compact state.
+D.Compact
+States reporting information to the coordinated database may designate
+information that may not be shared with the public without the express
+permission of the compact state reporting the information.
+E.Any
+information submitted to the coordinated database that is subsequently required
+to be expunged by the law of the compact state reporting the information shall
+be removed from the coordinated database.
+ARTICLE X
+ESTABLISHMENT OF THE PSYCHOLOGY
+INTERJURISDICTIONAL
+COMPACT COMMISSION
+A.The compact states hereby create and
+establish a joint public agency known as the psychology interjurisdictional
+compact commission as follows:
+1.The
+commission is a body politic and an instrumentality of the compact states.
+2.Venue
+is proper and judicial proceedings by or against the commission shall be
+brought solely and exclusively in a court of competent jurisdiction where the
+principal office of the commission is located. The commission may waive venue
+and jurisdictional defenses to the extent it adopts or consents to participate
+in alternative dispute resolution proceedings.
+3.Nothing
+in this compact shall be construed to be a waiver of sovereign immunity.
+B.Membership,
+Voting and Meetings are as follows:
+1.The
+commission shall consist of one voting representative appointed by each compact
+state who shall serve as that state's commissioner.The state
+psychology regulatory authority shall appoint its delegate.This
+delegate shall be empowered to act on behalf of the compact
+state.This delegate shall be limited to:
+(a)The executive director
+or executive secretary or a similar executive;
+(b)A current member of
+the state psychology regulatory authority of a compact state; or
+(c)A designee empowered
+with the appropriate delegate authority to act on behalf of the compact state.
+2.Any
+commissioner may be removed or suspended from office as provided by the law of
+the state from which the commissioner is appointed. Any vacancy occurring in
+the commission shall be filled in accordance with the laws of the compact state
+in which the vacancy exists.
+3.Each
+commissioner shall be entitled to one vote with regard to the promulgation of
+rules and creation of bylaws and shall otherwise have an opportunity to
+participate in the business and affairs of the commission. A commissioner
+shall vote in person or by such other means as provided in the bylaws. The
+bylaws may provide for commissioners' participation in meetings by telephone or
+other means of communication.
+4.The
+commission shall meet at least once during each calendar year. Additional
+meetings shall be held as set forth in the bylaws.
+5.All
+meetings shall be open to the public, and public notice of meetings shall be
+given in the same manner as required under the rulemaking provisions in article
+XI of this compact.
+6.The commission may convene in a closed,
+nonpublic meeting if the commission must discuss:
+(a)Noncompliance
+of a compact state with its obligations under the compact;
+(b)The employment,
+compensation, discipline or other personnel matters, practices or procedures
+related to specific employees or other matters related to the commission's
+internal personnel practices and procedures;
+(c)Current, threatened or
+reasonably anticipated litigation against the commission;
+(d)The negotiation of
+contracts for the purchase or sale of goods, services or real estate;
+(e)An accusation against
+any person of a crime or formally censuring any person;
+(f)The disclosure of
+trade secrets or commercial or financial information that is privileged or
+confidential;
+(g)The disclosure of
+information of a personal nature where disclosure would constitute a clearly unwarranted
+invasion of personal privacy;
+(h)The disclosure of
+investigatory records compiled for law enforcement purposes;
+(i)The disclosure of
+information related to any investigatory reports prepared by or on behalf of or
+for use of the commission or another committee charged with responsibility for
+investigation or determination of compliance issues pursuant to the compact; or
+(j)Matters specifically
+exempted from disclosure by federal and state statute.
+7.If
+a meeting, or portion of a meeting, is closed pursuant to this provision, the
+commission's legal counsel or designee shall certify that the meeting may be
+closed and shall reference each relevant exempting provision. The commission
+shall keep minutes that fully and clearly describe all matters discussed in a
+meeting and shall provide a full and accurate summary of actions taken, of any
+person participating in the meeting, and the reasons therefore, including a
+description of the views expressed. All documents considered in connection
+with an action shall be identified in such minutes. All minutes and documents
+of a closed meeting shall remain under seal, subject to release only by a
+majority vote of the commission or order of a court of competent jurisdiction.
+C.The
+commission shall, by a majority vote of the commissioners, prescribe bylaws or
+rules to govern its conduct as may be necessary or appropriate to carry out the
+purposes and exercise the powers of this compact, including:
+1.Establishing
+the fiscal year of the commission;
+2.Providing
+reasonable standards and procedures:
+(a)For the establishment
+and meetings of other committees; and
+(b)Governing any general
+or specific delegation of any authority or function of the commission;
+3.Providing
+reasonable procedures for calling and conducting meetings of the commission,
+ensuring reasonable advance notice of all meetings and providing an opportunity
+for attendance of such meetings by interested parties, with enumerated
+exceptions designed to protect the public's interest, the privacy of
+individuals of such proceedings and proprietary information, including trade
+secrets.The commission may meet in closed session only after a
+majority of the commissioners vote to close a meeting to the public in whole or
+in part. As soon as practicable, the commission must make public a copy of the
+vote to close the meeting revealing the vote of each commissioner with no proxy
+votes allowed;
+4.Establishing
+the titles, duties and authority and reasonable procedures for the election of
+the officers of the commission;
+5.Providing
+reasonable standards and procedures for the establishment of the personnel
+policies and programs of the commission. Notwithstanding any civil service or
+other similar law of any compact state, the bylaws shall exclusively govern the
+personnel policies and programs of the commission;
+6.Promulgating
+a code of ethics to address permissible and prohibited activities of commission
+members and employees;
+7.Providing
+a mechanism for concluding the operations of the commission and the equitable
+disposition of any surplus funds that may exist after the termination of the
+compact and after the payment and/or reserving of all of its debts and
+obligations;
+8.The
+commission shall publish its bylaws in a convenient form and file a copy
+thereof and a copy of any amendment thereto, with the appropriate agency or
+officer in each of the compact states;
+9.The
+commission shall maintain its financial records in accordance with the bylaws;
+and
+10.The
+commission shall meet and take such actions as are consistent with the
+provisions of this compact and the bylaws.
+D.The
+commission shall have the following powers:
+1.To
+promulgate uniform rules to facilitate and coordinate implementation and
+administration of this compact. The rule shall have the force and effect of
+law and shall be binding in all compact states;
+2.To
+bring and prosecute legal proceedings or actions in the name of the commission,
+provided that the standing of any state psychology regulatory authority or
+other regulatory body responsible for psychology licensure to sue or be sued
+under applicable law shall not be affected;
+3.To
+purchase and maintain insurance and bonds;
+4.To
+borrow, accept or contract for services of personnel, including employees of a
+compact state;
+5.To
+hire employees, elect or appoint officers, fix compensation, define duties,
+grant such individuals appropriate authority to carry out the purposes of the
+compact and establish the commission's personnel policies and programs relating
+to conflicts of interest, qualifications of personnel and other related
+personnel matters;
+6.To
+accept any and all appropriate donations and grants of money, equipment,
+supplies, materials and services, and to receive, utilize and dispose of the
+same, provided that at all times the commission shall strive to avoid any
+appearance of impropriety or conflict of interest;
+7.To
+lease, purchase, accept appropriate gifts or donations of, or otherwise own,
+hold, improve or use, any property, real, personal or mixed, provided that at
+all times the commission shall strive to avoid any appearance of impropriety;
+8.To
+sell, convey, mortgage, pledge, lease, exchange, abandon or otherwise dispose
+of any property, real, personal or mixed;
+9.To
+establish a budget and make expenditures;
+10.To
+borrow money;
+11.To
+appoint committees, including advisory committees composed of members, state
+regulators, state legislators or their representatives, and consumer
+representatives, and such other interested persons as may be designated in this
+compact and the bylaws;
+12.To
+provide and receive information from, and to cooperate with, law enforcement
+agencies;
+13.To
+adopt and use an official seal; and
+14.To
+perform such other functions as may be necessary or appropriate to achieve the
+purposes of this Compact consistent with the state regulation of psychology
+licensure, temporary in-person, face-to-face practice and telepsychology
+practice.
+E.The
+elected officers shall serve as the executive board, which shall have the power
+to act on behalf of the commission according to the terms of this compact as
+follows:
+1.The
+executive board shall be composed of the following six members:
+(a)Five voting members
+who are elected from the current membership of the commission by the
+commission;
+(b) One ex officio, nonvoting member
+from the recognized membership organization composed of state and provincial
+psychology regulatory authorities.
+2.The
+ex officio member must have served as staff with or a member on a state
+psychology regulatory authority and will be selected by its respective
+organization.
+3.The
+commission may remove any member of the executive board as provided in bylaws.
+4.The
+Executive Board shall meet at least annually.
+5.The
+executive board shall have the following duties and responsibilities:
+(a)Recommend to the
+entire commission changes to the rules or bylaws, changes to this compact, fees
+paid by compact states such as annual dues, and any other applicable fees;
+(b)Ensure compact
+administration services are appropriately provided, contractual or otherwise;
+(c)Prepare and recommend
+the budget;
+(d)Maintain financial
+records on behalf of the commission;
+(e)Monitor compact
+compliance of member states and provide compliance reports to the commission;
+(f)Establish additional
+committees as necessary; and
+(g)Other duties as
+provided in rules or bylaws.
+F.The
+financing of the commission shall be as follows:
+1.The
+commission shall pay, or provide for the payment of, the reasonable expenses of
+its establishment, organization and ongoing activities.
+2.The
+commission may accept any and all appropriate revenue sources, donations and
+grants of money, equipment, supplies, materials and services.
+3.The
+commission may levy on and collect an annual assessment from each compact state
+or impose fees on other parties to cover the cost of the operations and
+activities of the Commission and its staff, which must be in a total amount
+sufficient to cover its annual budget as approved each year for which revenue
+is not provided by other sources.The aggregate annual assessment
+amount shall be allocated based on a formula to be determined by the
+commission, which shall promulgate a rule binding on all compact states.
+4.The
+commission shall not incur obligations of any kind prior to securing the funds
+adequate to meet the same, nor shall the commission pledge the credit of any of
+the compact states, except by and with the authority of the compact state.
+5.The
+commission shall keep accurate accounts of all receipts and disbursements.The
+receipts and disbursements of the commission shall be subject to the audit and
+accounting procedures established under its bylaws. However, all receipts and
+disbursements of funds handled by the commission shall be audited yearly by a
+certified or licensed public accountant, and the report of the audit shall be
+included in and become part of the annual report of the commission.
+G.Qualified
+Immunity, Defense and Indemnification provisions are as follows:
+1.The
+members, officers, executive director, employees and representatives of the
+commission shall be immune from suit and liability, either personally or in
+their official capacity, for any claim for damage to or loss of property or
+personal injury or other civil liability caused by or arising out of any actual
+or alleged act, error or omission that occurred, or that the person against
+whom the claim is made had a reasonable basis for believing occurred within the
+scope of commission employment, duties or responsibilities, except that nothing
+in this paragraph shall be construed to protect any such person from suit or
+liability for any damage, loss, injury or liability caused by the intentional
+or wilful or wanton misconduct of that person.
+2.The
+commission shall defend any member, officer, executive director, employee or
+representative of the commission in any civil action seeking to impose
+liability arising out of any actual or alleged act, error or omission that
+occurred within the scope of commission employment, duties or responsibilities,
+or that the person against whom the claim is made had a reasonable basis for
+believing occurred within the scope of commission employment, duties or
+responsibilities, except that nothing in this paragraph shall be construed to
+prohibit that person from retaining his or her own counsel, and provided
+further, that the actual or alleged act, error or omission did not result from
+that person's intentional or wilful or wanton misconduct.
+3.The
+commission shall indemnify and hold harmless any member, officer, executive
+director, employee or representative of the commission for the amount of any
+settlement or judgment obtained against that person arising out of any actual
+or alleged act, error or omission that occurred within the scope of commission
+employment, duties or responsibilities, or that such person had a reasonable
+basis for believing occurred within the scope of commission employment, duties
+or responsibilities, if the actual or alleged act, error or omission did not
+result from the intentional or wilful or wanton misconduct of that person.
+ARTICLE XI
+RULEMAKING
+A.The
+commission shall exercise its rulemaking powers pursuant to the criteria set
+forth in this article and the rules adopted under this article. Rules and
+amendments shall become binding as of the date specified in each rule or
+amendment.
+B.If
+a majority of the legislatures of the compact states reject a rule, by
+enactment of a statute or resolution in the same manner used to adopt the
+compact, that rule shall have no further force and effect in any compact state.
+C.Rules
+or amendments to the rules shall be adopted at a regular or special meeting of
+the commission.
+D.Prior
+to promulgation and adoption of a final rule or rules by the commission, and at
+least sixty days in advance of the meeting at which the rule will be considered
+and voted on, the commission shall file a notice of proposed rulemaking:
+1.On
+the website of the commission; and
+2.On
+the website of each compact state's psychology regulatory authority or the
+publication in which each state would otherwise publish proposed rules.
+E.The
+notice of proposed rulemaking shall include:
+1.The
+proposed time, date and location of the meeting in which the rule will be
+considered and voted on;
+2.The
+text of the proposed rule or amendment and the reason for the proposed rule;
+3.A
+request for comments on the proposed rule from any interested person; and
+4.The
+manner in which interested persons may submit notice to the commission of their
+intention to attend the public hearing and any written comments.
+F.Prior
+to adoption of a proposed rule, the commission shall allow persons to submit
+written data, facts, opinions and arguments, which shall be made available to
+the public.
+G.The
+commission shall grant an opportunity for a public hearing before it adopts a
+rule or amendment if a hearing is requested by:
+1.At
+least twenty-five persons who submit comments independently of each other;
+2.A
+governmental subdivision or agency; or
+3.A
+duly appointed person in an association that has at least twentyfive
+members.
+H.If
+a hearing is held on the proposed rule or amendment, the commission shall
+publish the place, time and date of the scheduled public hearing. The
+following apply to a hearing:
+1.All
+persons wishing to be heard at the hearing shall notify the executive director
+of the commission or other designated member in writing of their desire to
+appear and testify at the hearing not less than five business days before the
+scheduled date of the hearing.
+2.Hearings
+shall be conducted in a manner providing each person who wishes to comment a
+fair and reasonable opportunity to comment orally or in writing.
+3.No
+transcript of the hearing is required, unless a written request for a
+transcript is made, in which case the person requesting the transcript shall
+bear the cost of producing the transcript. A recording may be made in lieu of
+a transcript under the same terms and conditions as a transcript. This
+paragraph does not preclude the commission from making a transcript or
+recording of the hearing if it so chooses.
+4.Nothing
+in this subsection shall be construed as requiring a separate hearing on each
+rule. Rules may be grouped for the convenience of the commission at hearings
+required by this subsection.
+I.Following
+the scheduled hearing date, or by the close of business on the scheduled
+hearing date if the hearing was not held, the commission shall consider all
+written and oral comments received.
+J.The
+commission, by majority vote of all members, shall take final action on the proposed
+rule and shall determine the effective date of the rule, if any, based on the
+rulemaking record and the full text of the rule.
+K.If
+no written notice of intent to attend the public hearing by interested parties
+is received, the commission may proceed with promulgation of the proposed rule
+without a public hearing.
+L.On
+a determination that an emergency exists, the commission may consider and adopt
+an emergency rule without prior notice, opportunity for comment or hearing,
+provided that the usual rulemaking procedures provided in the compact and in
+this section shall be retroactively applied to the rule as soon as reasonably
+practicable but not later than ninety days after the effective date of the
+rule.For the purposes of this subsection, an emergency rule is one
+that must be adopted immediately in order to:
+1.Meet
+an imminent threat to public health, safety or welfare;
+2.Prevent
+a loss of commission or compact state funds;
+3.Meet
+a deadline for the promulgation of an administrative rule that is established
+by federal law or rule; or
+4.Protect
+public health and safety.
+M.The
+commission or an authorized committee of the commission may direct revisions to
+a previously adopted rule or amendment for purposes of correcting typographical
+errors, errors in format, errors in consistency or grammatical errors. Public
+notice of any revisions shall be posted on the website of the commission. The
+revision shall be subject to challenge by any person for a period of thirty
+days after posting.The revision may be challenged only on grounds
+that the revision results in a material change to a rule. A challenge shall be
+made in writing and delivered to the chair of the commission prior to the end
+of the notice period. If no challenge is made, the revision will take effect
+without further action. If the revision is challenged, the revision may not
+take effect without the approval of the commission.
+ARTICLE XII
+OVERSIGHT, DISPUTE RESOLUTION AND ENFORCEMENT
+A.Oversight
+of the commission is as follows:
+1.The
+executive, legislative and judicial branches of state government in each
+compact state shall enforce this compact and take all actions necessary and
+appropriate to effectuate the compact's purposes and intent. The provisions of
+this compact and the rules promulgated hereunder shall have standing as
+statutory law.
+2.All
+courts shall take judicial notice of the compact and the rules in any judicial
+or administrative proceeding in a compact state pertaining to the subject
+matter of this compact that may affect the powers, responsibilities or actions
+of the commission.
+3.The
+commission shall be entitled to receive service of process in any such
+proceeding and shall have standing to intervene in such a proceeding for all
+purposes. Failure to provide service of process to the commission shall render
+a judgment or order void as to the commission, this compact or promulgated
+rules.
+B.Default,
+Technical Assistance and Termination provisions are as follows:
+1.If
+the commission determines that a compact State has defaulted in the performance
+of its obligations or responsibilities under this compact or the promulgated
+rules, the commission shall:
+(a)Provide written notice
+to the defaulting state and other compact states of the nature of the default, the
+proposed means of remedying the default or any other action to be taken by the
+commission; and
+(b)Provide remedial
+training and specific technical assistance regarding the default.
+2.If
+a state in default fails to remedy the default, the defaulting state may be
+terminated from the compact on an affirmative vote of a majority of the compact
+States, and all rights, privileges and benefits conferred by this compact shall
+be terminated on the effective date of termination. A remedy of the default
+does not relieve the offending state of obligations or liabilities incurred
+during the period of default.
+3.Termination
+of membership in the compact shall be imposed only after all other means of
+securing compliance have been exhausted. Notice of intent to suspend or
+terminate shall be submitted by the commission to the Governor, the majority
+and minority leaders of the defaulting state's legislature and each of the
+compact States.
+4.A
+compact State that has been terminated is responsible for all assessments,
+obligations and liabilities incurred through the effective date of termination,
+including obligations which extend beyond the effective date of termination.
+5.The
+commission shall not bear any costs incurred by the state that is found to be
+in default or that has been terminated from the compact, unless agreed on in
+writing between the commission and the defaulting state.
+6.The
+defaulting state may appeal the action of the commission by petitioning the
+United States district court for the state of Georgia or the federal district
+where the compact has its principal offices. The prevailing member shall be
+awarded all costs of such litigation, including reasonable attorney fees.
+C.Dispute
+Resolution provisions are as follows:
+1.On
+request by a compact state, the commission shall attempt to resolve disputes
+related to the compact which arise among compact states and between compact and
+non-compact states.
+2.The
+commission shall promulgate a rule providing for both mediation and binding
+dispute resolution for disputes that arise before the commission.
+D.Enforcement
+provisions are as follows:
+1.The
+commission, in the reasonable exercise of its discretion, shall enforce the
+provisions and rules of this compact.
+2.By
+majority vote, the commission may initiate legal action in the United States
+district court for the state of Georgia or the federal district where the
+compact has its principal offices against a compact state in default to enforce
+compliance with the provisions of the compact and its promulgated rules and
+bylaws. The relief sought may include both injunctive relief and damages. In
+the event judicial enforcement is necessary, the prevailing member shall be
+awarded all costs of such litigation, including reasonable attorney fees.
+3.The
+remedies in this subsection are not the exclusive remedies of the commission.
+The commission may pursue any other remedies available under federal or state
+law.
+ARTICLE XIII
+DATE OF IMPLEMENTATION OF THE PSYCHOLOGY
+INTERJURISDICTIONAL COMPACT COMMISSION and
+ASSOCIATED RULES, WITHDRAWAL AND AMENDMENTS
+A.The
+compact shall take effect on the date on which the compact is enacted into law
+in the seventh compact state. The provisions that become effective at that
+time shall be limited to the powers granted to the commission relating to
+assembly and the promulgation of rules. Thereafter, the commission shall meet
+and exercise rulemaking powers necessary to the implementation and
+administration of this compact.
+B.Any
+state that joins the compact subsequent to the commission's initial adoption of
+the rules shall be subject to the rules as they exist on the date on which the
+compact becomes law in that state. Any rule that has been previously adopted
+by the commission shall have the full force and effect of law on the day the
+compact becomes law in that state.
+C.Any
+compact state may withdraw from this compact by enacting a statute repealing
+the same, subject to the following:
+1.A compact
+state's withdrawal shall not take effect until six months after enactment of
+the repealing statute.
+2.Withdrawal
+shall not affect the continuing requirement of the withdrawing state's
+psychology regulatory authority to comply with the investigative and adverse
+action reporting requirements of this compact before the effective date of
+withdrawal.
+D.Nothing
+in this compact shall be construed to invalidate or prevent any psychology
+licensure agreement or other cooperative arrangement between a compact state
+and a noncompact state that does not conflict with the provisions of
+this compact.
+E.This
+compact may be amended by the compact states. No amendment to this compact
+shall become effective and binding on any compact state until it is enacted
+into the law of all compact states.
+ARTICLE XIV
+CONSTRUCTION AND SEVERABILITY
+This compact
+shall be liberally construed so as to effectuate the purposes thereof. If this
+compact is held contrary to the constitution of any state member thereto, the
+compact remains in full force and effect as to the remaining compact states. END_STATUTE
+

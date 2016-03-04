@@ -1,0 +1,1202 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: TPT; municipalities; customer refund
+  claims
+
+
+
+
+
+
+
+State of Arizona
+House of Representatives
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+HB 2598
+
+
+
+
+
+
+
+
+
+Introduced by
+Representative
+  Olson
+
+
+
+
+
+AN ACT
+
+Amending Sections
+421101.01 and 421118, Arizona Revised Statutes; Amending Title
+42, chapter 1, article 3, Arizona revised statutes, by adding section 421118.01;
+amending sections 421119, 421123, 421251, 421253,
+421254, 422003, 422064 and 425008, Arizona Revised
+Statutes; amending title 42, chapter 6, article 1, arizona revised statutes, by
+adding section 426009; amending section 441263, Arizona Revised
+Statutes; relating to taxes.
+
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 42-1101.01, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE42-1101.01.Definitions
+In this article, unless the context otherwise requires:
+1."Customer"
+means a person that purchases goods or services from any vendor.
+1.2."Electronic return
+preparer" means a person who for compensation prepares an electronic
+return, statement or other document or prepares a substantial portion of an
+electronic return, statement or other document or transforms a paper version of
+a completed return, statement or other document to an electronic version of the
+same return, statement or other document for filing with the department.
+Electronic return preparer does not include a person who for compensation
+provides only computational and informational software used to prepare and file
+taxes.
+2.3."Electronic return
+transmitter" means a person who receives the electronic return, statement
+or other document from a taxpayer or electronic return preparer for ultimate
+transmittal to the department.
+3.4."Return preparer": 
+(a)Means any person
+that prepares a return, statement or other document or substantial portion of a
+return, statement or other document for compensation, regardless of the media
+used to prepare the return.
+(b)Does not include a person because the person:
+(i)Furnishes typing, reproducing or other
+mechanical assistance.
+(ii)Prepares a return, statement or other document
+for an employer and is regularly and continuously employed by the employer.
+(iii)Prepares as a fiduciary a return, statement or
+other document for any person.
+(iv)Prepares a claim for refund or a return,
+statement or other document for a taxpayer in response to any notice of
+deficiency issued to the taxpayer or in response to any waiver of restriction
+after the commencement of an audit of the taxpayer.
+(v)Furnishes computational and informational
+software used by the taxpayer to prepare the taxpayer's return, statement or
+other document.
+(vi)Only prepares payment documents for payment
+made to the department pursuant to section 421129.
+4.5."Return,
+statement or other document" means any return, claim for refund, statement
+or other document that is required or authorized to be filed with the
+department pursuant to this title or title 43, including returns for any
+political subdivision of this state for which the department collects taxes.
+6."Vendor"
+means any taxpayer that either is liable for filing and remitting transaction
+privilege tax to the department under any tax classification pursuant to
+chapter 5, article 2 of this title or is registered with the department to
+remit use tax to the department on behalf of its purchasers. END_STATUTE
+Sec.2.Section 42-1118, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE42-1118.Refunds, credits, offsets and abatements
+A.If the department determines that any amount of
+tax, penalty or interest has been paid in excess of the amount actually due,
+the department shall credit the excess amount against any tax administered
+pursuant to this article, including any penalty, interest or other amounts owed
+by the taxpayer to the department.If it is determined that the
+amount cannot be credited against a tax or installment of taxes due from the
+taxpayer, the department may:
+1.Refund the entire amount of tax, interest and
+penalty, in a lump sum or in not more than five annual installments, to the
+taxpayer from whom it was collected.
+2.Issue to the taxpayer a credit voucher for the
+entire amount of tax, interest and penalty collected, to be carried forward and
+applied against future tax liabilities until exhausted.
+3.Refund part, and issue a credit voucher for the
+balance, of the tax, interest and penalties as provided in paragraphs 1 and 2
+of this subsection.
+B.In the
+case of a transaction privilege tax, a vendor may claim a refund under this
+chapter except as provided in section 42-1118.01 or subsection K of this
+section.
+B.C.If
+the total amount withheld from income under section 43401 exceeds the
+amount of the tax on the employee's entire taxable income as computed under
+title 43, the department shall refund the amount of the excess deducted without
+requiring a filing of a refund claim as provided in this section. The failure
+of the department to make the refund does not limit the right of the taxpayer
+to file a claim for a refund pursuant to this section if the claim is not
+barred under section 421106.The department shall not refund
+amounts less than one dollar unless specifically requested by the taxpayer at
+the time the return or claim for refund is filed.
+C.D.Any
+overpayment that may result from withholdings or estimates pursuant to section
+43401, 43581 or 43582 shall not be credited or refunded
+unless an Arizona income tax return has been filed for the tax year for which
+the withholdings or estimates were made.
+D.E.The
+department shall give a vendor who has a duty to collect use tax pursuant to
+chapter 5, article 4 of this title and who has not collected that tax full
+credit or offset for any use tax, interest and penalty paid to the department
+by the purchaser when issuing a determination of a deficiency pursuant to
+section 421108.This credit or offset shall be computed from
+the date of the use tax payment by the purchaser.If the purchaser
+has been audited by the department for use tax for the period of the purchase,
+the purchaser is considered to have paid the use tax to the
+department.For other purchases, the vendor may submit an
+affirmation by a purchaser on a form prescribed by the department that use tax
+was paid on the purchase.A fully completed certificate, taken in
+good faith by the vendor, constitutes proof that the vendor is entitled to this
+credit or offset.The department may require a purchaser who has
+submitted the certificate to establish the accuracy and completeness of the
+information contained in the certificate. If the purchaser cannot establish
+the accuracy and completeness of the information, the purchaser is liable for a
+penalty equal to the amount of tax and interest that would have been paid by
+the seller and for the additional penalties pursuant to section 421125.Payment
+of the penalty relieves the purchaser of any responsibility for paying the use
+tax.The department may require this proof and may assess the
+purchaser within the later of the period of limitations set forth in section 421104
+or one year from the date the notice of proposed deficiency is issued to the
+vendor if the purchaser does not establish the accuracy of the information
+contained in the certificate.
+E.F.Each
+claim for refund shall be filed with the department in writing and shall
+identify the claimant by name, address and tax identification
+number.Each claim shall provide the amount of refund requested, the
+specific tax period involved and the specific grounds on which the claim is
+founded.Refunds are subject to setoff for debts pursuant to section
+421122.
+F.G.A
+motor vehicle manufacturer that repurchases a vehicle pursuant to section 441263
+or for reasons of consumer satisfaction may apply for a refund of the taxes
+paid under chapter 5 of this title if that manufacturer has refunded the amount
+of tax to the consumer. A refund is allowed under this subsection only if the
+manufacturer provides satisfactory proof to the department that tax amounts
+attributed to the sale of the vehicle were collected from the consumer and that
+the manufacturer refunded an amount of tax to the consumer. Any refund
+provided under this subsection is in lieu of any refund on the vehicle that the
+dealer may otherwise be entitled to receive. A manufacturer must apply for a
+refund under this subsection within four years after repurchasing the
+vehicle.For the purposes of this subsection:
+1."Consumer" has the same meaning
+prescribed in section 441261.
+2."Motor vehicle manufacturer" means a
+corporation engaged in the business of producing passenger cars, trucks and
+multipurpose passenger vehicles as described in 49 Code of Federal Regulations
+section 571.3.
+3."Satisfactory proof" includes copies of
+checks and a purchase or lease agreement that lists the vehicle identification
+number and that itemizes the amount that was collected as tax from the
+consumer.
+G.H.The
+department shall not imprint the full social security number or other taxpayer
+identifier used pursuant to section 421105 on any taxpayer refund check,
+voucher or other credit documentation issued to the taxpayer under this
+section.
+H.I.If
+any amount has been erroneously determined to be due from any person but not
+yet collected, the department shall cancel the amount or amounts on its
+records.
+I.J.If,
+with or after the filing of a protest or an appeal with the department, the
+state board of tax appeals or the court, a taxpayer pays the tax protested or
+appealed before the department, board or court acts upon on
+the protest or the appeal, such body shall treat the protest or the appeal as a
+claim for refund or an appeal from the denial of a claim for refund filed under
+this section.
+K.Notwithstanding
+any law to the contrary, the department may deny a claim for refund of
+transaction privilege tax filed by a vendor that arises from the same
+transaction or transactions for which the department has paid a claim filed
+under section 421118.01. END_STATUTE
+Sec.3.Title 42, chapter 1, article 3, Arizona
+Revised Statutes, is amended by adding section 42-1118.01, to read:
+START_STATUTE42-1118.01.Customer refund claims; transaction privilege or use tax;
+assignment by vendor; payment or denial of claim
+A.A customer who paid to a vendor an amount that
+the vendor passed on to the customer equal to the vendor's transaction
+privilege tax or who paid a use tax to a vendor may file a claim pursuant to
+this section if the vendor assigns under subsection B or C of this section to
+the customer its right to claim an amount equal to any tax and interest that
+the vendor could otherwise claim as a refund under section 42-1118.
+B.Any claim
+by a customer under this section is in lieu of the vendor claiming a refund for
+the underlying tax under section 42-1118. If a claim is paid under this section,
+only the customer and not the vendor may be held liable for any amount
+erroneously paid or credited to the customer. a Customer may file a claim
+under this section as follows:
+1.Through
+an affirmative assignment of rights by the vendor to the customer using a form
+and in the manner prescribed by the department.The form prescribed
+by the department shall require all of the following:
+(a)The
+vendor's transaction privilege tax license number or use tax registration
+number.
+(b)A
+description of transactions covered by the assignment and the total amount of
+transaction privilege or use tax paid by the vendor for those transactions.
+(c)The tax
+periods for which the vendor reported and remitted the tax to the department.
+(d)A list
+of any local jurisdictions to which the vendor reported and remitted local
+privilege taxes arising from the transactions covered by the assignment.
+(e)The
+vendor's authorization for the department to amend the vendor's returns or
+account to reflect the amount paid to the customer pursuant to a claim filed
+under this section.
+(f)A statement executed by the
+vendor affirming, under penalty of perjury, that the vendor has not requested
+or received a refund or credit and will not claim a refund or credit for the
+tax remitted on the transactions covered by the assignment. If the vendor is a
+legal entity, the statement shall be executed by a full-time officer, partner,
+member or manager of a limited liability company or an employee of the vendor
+who is authorized to execute the form on behalf of the vendor.
+2.If the
+vendor fails or refuses to properly assign its right to a claim as provided in
+paragraph 1 of this subsection within sixty days after the date of the
+customer's written request to the vendor or if the vendor is no longer in
+business, the customer may provide the department with a statement on a form
+prescribed by the department explaining the efforts made to obtain an
+assignment from the vendor.The statement shall contain all of the
+following:
+(a)The vendor's transaction
+privilege tax license number or use tax registration number, if known by the
+customer.
+(b)A description of transactions
+sought to be covered by the assignment and either the total amount of
+transaction privilege tax due for the transactions or the total amount of use
+tax collected by the vendor for the transactions.
+(c)The tax periods for which the vendor should have reported
+and remitted the tax to the department.
+C.If a
+claim is filed with the department pursuant to subsection B, paragraph 2 of
+this section, the department shall attempt to notify the vendor of the claim at
+the vendor's last known address.The department shall continue
+processing the claim on receiving written acknowledgment from the vendor
+affirming the accuracy of the information regarding the transactions provided
+by the customer.On paying or crediting monies to the customer
+pursuant to the claim, the department shall amend the vendor's returns or
+account to reflect the amount paid or credited to the customer.If
+the vendor objects to the claim by the customer or fails to respond within
+thirty days after the date of the notice, the department may continue to
+process the claim and, on paying or crediting monies to the customer pursuant
+to the claim, the department shall amend the vendor's returns or account to
+reflect the amount paid or credited to the customer and notify the vendor of
+the adjustment.Notwithstanding any law to the contrary, the
+department and the vendor may communicate regarding the customer's claim.
+d.A claim
+submitted by a customer under this section is subject to any offset, defense or
+other claim that the department would otherwise have against either the
+customer or the vendor.
+e.The
+department may not require the vendor or the customer to submit amended returns
+for a claim submitted under this section.
+f.Notwithstanding
+any law to the contrary, the department may disallow a claim filed by a
+customer for an amount under this section if the department already paid or
+credited a refund of transaction privilege or use tax arising from the same
+transaction or transactions pursuant to section 421118. END_STATUTE
+Sec.4.Section 42-1119, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE42-1119.Denial of refund
+A.If the department disallows any claim for refund,
+it shall notify the taxpayer accordingly.The department's action on
+the claim is final unless the taxpayer appeals to the department in writing
+within the time and in the manner prescribed by section 421123.If
+the department disallows interest on any claim for refund, it shall notify the
+taxpayer accordingly and the claim shall be treated as a claim for refund.
+B.If the
+department disallows any claim under section 42-1118.01, the department shall
+notify the customer and the vendor. The department's action on the claim is
+final unless the customer appeals to the department in writing within the time
+and in the manner prescribed by section 42-1251. If the department disallows
+interest on any claim under section 42-1123, the department shall notify the
+customer and the claim shall be treated as a claim under section 42-1118.01.
+B.C.If
+the department fails to mail notice of action on any claim for refund of tax or
+interest within six months after the claim is filed, the taxpayer or a customer with rights to a claim under
+section 421118.01, prior to mailing of notice of action on
+the refund claim, may consider the claim disallowed.The taxpayer or the customer may appeal to
+the department for a hearing pursuant to section 421251. END_STATUTE
+Sec.5.Section 42-1123, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE42-1123.Interest
+A.If it is provided by law that interest applies as
+determined pursuant to this section, the department shall apply interest,
+compounded annually, in the same manner and at the same times as prescribed by
+section 6621 of the United States internal revenue code, except that the rate
+of interest for both overpayments and underpayments for all taxpayers is the
+federal shortterm rate, determined pursuant to section 6621(b) of the
+internal revenue code, plus three percentage points.
+B.On January 1 of each year the department shall
+add any interest outstanding as of that date to the principal amount of the
+tax.For purposes of this section, the amount added to the principal is
+thereafter considered a part of the principal amount of the tax and accrues
+interest pursuant to this section.
+C.If the tax, whether determined by the department
+or the taxpayer, or any portion of the tax is not paid on or before the date
+prescribed for its payment,
+the department shall collect, as a part of the tax, interest on the unpaid
+amount at the rate determined pursuant to this section from the date prescribed
+for its payment until it is paid.
+D.Interest on the amount assessed as a deficiency
+shall be assessed and paid at the same time as the deficiency at the rate
+determined pursuant to this section from the date prescribed for the payment of
+the tax to the date the deficiency is assessed.If any portion of
+the deficiency is paid before the date it is assessed, interest shall accrue on
+that portion only to the date paid.
+E.If the time for filing a return is extended, the
+department shall collect, as part of such tax, interest on any unpaid balance
+at the rate determined pursuant to this section from the date on which the
+payment should have been made if no extension had been granted until the date
+the tax is paid.
+F.Except in the case of a jeopardy assessment,
+collection of which has been stayed by the posting of a bond, if a deficiency
+or any interest is not paid in full within ten days from the date of notice and
+demand from the department, the department shall collect as a part of the tax
+interest on the unpaid tax or interest at the rate determined pursuant to this
+section from the date of the notice and demand until it is paid.
+G.If an original return filed with the department
+shows that the taxpayer is entitled to a refund, interest is not allowed on the
+amount to be refunded if the refund is paid within sixty days of the last day
+for filing the return or sixty days from the filing of the return, whichever is
+later.If the department does not pay the amount of the refund due
+within sixty days after the date established in this subsection, the department
+shall pay the interest on the amount at the rate prescribed in this section
+from the sixtyfirst day to the issued date of the refund
+warrant.The department's annual budget shall separately state the
+amount necessary to satisfy the requirements of this subsection.
+H.In the case of an amended return, claim for refund
+or refund determined through audit, interest shall be allowed and paid, with
+respect to any tax, from the date prescribed for the payment of that tax to the
+issue date of the refund warrant, but in the case of an original return of tax which that is filed after the last date prescribed
+for filing the return and paying such tax, determined with regard to
+extensions, no interest may be allowed or paid for any day before the date on
+which the return is filed or the tax paid, whichever is later.A
+payment not made incident to a bona fide and orderly discharge of an actual
+liability or one reasonably assumed to be imposed by law is not an overpayment
+for the purposes of this subsection and interest is not payable on the payment.
+I.In the
+case of a customer claim under section 42-1118.01, interest shall be allowed
+and paid with respect to any amount from the date prescribed for the payment of
+that amount to the date of the credit or payment of the claim to the
+customer.A payment not made incident to a bona fide and orderly
+discharge of an actual liability or one reasonably assumed to be imposed by law
+is not an overpayment for the purposes of this subsection, and interest is not
+payable on the payment.
+I.J.If a
+credit or refund of any part of an overpayment would be barred under section 421106,
+subsection A, except for the provisions of section 421104, subsection B,
+paragraph 4, interest shall not be allowed or paid with respect to such part of
+the overpayment for any period beginning after the expiration of the period of
+limitation provided in section 421106, subsection A for filing a claim
+for credit or refund of such part of the overpayment and ending at the
+expiration of six months after the date on which the claim was filed or, if no
+claim was filed and the overpayment was found by the department, ending at the
+time the appeal was filed with the board.
+J.K.In
+any judgment of any court rendered for any overpayment, interest shall be
+allowed at the rate determined pursuant to this section on the amount of the
+overpayment from the date of the payment or collection to the date of allowance
+of credit on account of such judgment or to a date determined by the department
+preceding the date of the refund warrant by not more than thirty days. END_STATUTE
+Sec.6.Section 42-1251, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE42-1251.Appeal to the department; hearing
+A.Except in the case of individual income taxes, a
+person from whom an amount is determined to be due under article 3 of this
+chapter may apply to the department by a petition in writing within fortyfive
+days after the notice of a proposed assessment made pursuant to section 421109,
+subsection B or the notice required by section 421108, subsection B is
+received, or within such additional time as the department may allow, for a
+hearing, correction or redetermination of the action taken by the
+department.In the case of individual income taxes, the period is ninety days from the date the
+notice is mailed.The petition shall set forth the reasons why the
+hearing, correction or redetermination should be granted and the amount in
+which any tax, interest and penalties should be reduced.If only a
+portion of the deficiency assessment is protested, all unprotested amounts of
+tax, interest and penalties must be paid at the time the protest is filed. The
+department shall consider the petition and grant a hearing, if requested. To
+represent the taxpayer person at the hearing or to
+appear on the taxpayer's person's behalf is deemed not
+to be the practice of law.
+B.If the taxpayer person does not file a
+petition for hearing, correction or redetermination within the period provided
+by this section, the amount determined to be due becomes final at the
+expiration of the period. The taxpayer person is deemed to have
+waived and abandoned the right to question the amount determined to be due,
+unless the taxpayer person pays the total
+deficiency assessment, including interest and penalties.The taxpayer person may then file a claim for refund
+pursuant to section 421118 within six months of payment of the
+deficiency assessment or within the time limits prescribed by section 421106,
+whichever period expires later.
+C.All orders or decisions made on the filing of a
+petition for a hearing, correction or redetermination become final thirty days
+after notice has been received by the petitioner, unless the petitioner appeals
+the order or decision to the state board of tax appeals. END_STATUTE
+Sec.7.Section
+42-1253, Arizona Revised Statutes, is amended to read:
+START_STATUTE42-1253.Appeal to state board of tax appeals; definition
+A.Except as provided in section 421254,
+subsection C, a person aggrieved by a final decision or order of the department
+under section 421251, article 3 of this chapter or section 422065,
+422068, 422069, 422074, 422201 or 422202 may
+appeal to the state board of tax appeals by filing a notice of appeal in
+writing within thirty days after the decision or order from which the appeal is
+taken has become final.
+B.The board shall take testimony and examine
+documentary evidence as necessary to determine the appeal, all pursuant to
+administrative rules to govern such appeals.
+C.On determining the appeal the board shall issue a
+decision consistent with its determination.The board's decision is
+final on the expiration of thirty days from the date when notice of its action
+is received by the taxpayer person, unless either the
+department or the taxpayer person brings an action in tax
+court as provided in section 421254.
+D.If the amount in any single dispute before the
+board is less than twentyfive thousand dollars, a taxpayer
+person may be represented in that dispute before the board by:
+1.A certified public accountant.
+2.A person who is enrolled to practice before the
+United States internal revenue service and is recognized as an enrolled agent.
+3.Any other person individual who is authorized
+by the taxpayer person under a properly
+executed power of attorney and who was previously or is currently retained by
+the taxpayer person for purposes other than representation
+in a hearing before the board.
+E.If a practitioner who represents a taxpayer
+person before the board pursuant to subsection D of this section
+fails to comply with an order or rule of the board, the board may impose
+sanctions including one or both of the following:
+1.Order that the stipulation of the facts proposed
+by the department of revenue be accepted.
+2.Suspend the practitioner from further practice
+before the board either for a specific period of time or until the board
+removes the suspension.
+F.For the purposes of this section,
+"practitioner" means a person, other than a party, who files
+documents with or appears before the board in connection with a matter before
+the board. END_STATUTE
+Sec.8.Section 42-1254, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE42-1254.Appeal to tax court
+A.The department or a taxpayer person aggrieved by a decision of the state board of tax
+appeals may bring an action in tax court.
+B.If the department is aggrieved by a decision of
+the board and the amount in dispute is less than five thousand dollars, the
+department may not bring an action in tax court unless the department
+determines that the decision of the board involves an issue of substantial
+significance to the state.A taxpayer person aggrieved by a
+determination of the department that an issue is of substantial significance to
+the state may file a motion with the tax court to dismiss the action brought by
+the department on the grounds that the determination constitutes an abuse of
+discretion.
+C.Except in the case of individual income tax cases
+in which the amount in dispute is less than five thousand dollars, a person who
+is aggrieved by a final decision or order of the department under section 421251
+or article 3 of this chapter may,
+in lieu of appealing to the state board of tax appeals under section 421253,
+may bring an action in
+tax court by filing a notice of appeal in writing within thirty days after the
+decision or order from which the appeal is taken has become final.
+D.Any appeal that is taken to tax court pursuant to
+this section is subject to the following provisions:
+1.No injunction, writ of mandamus or other legal or
+equitable process may issue in an action in any court in this state against an
+officer of this state to prevent or enjoin the collection of any tax, penalty
+or interest.
+2.The action shall not begin more than thirty days
+after the order or decision of the board or department becomes
+final.Failure to bring the action within thirty days after the
+order or decision of the board or department becomes final constitutes a waiver
+of the protest and a waiver of all claims against this state arising from or
+based on the illegality in the tax, penalties and interest at issue, except
+that within the time limits set forth in section 421106, a taxpayer person who fails to bring an action within
+thirty days may pay the tax under protest stating the grounds of objection to
+the legality of the tax and then file a claim for refund of the taxes
+paid.The refund claim shall then be governed by section 421119
+and this section.
+3.The tax court shall hear and determine the appeal
+as a trial de novo.
+4.Either party to such action may appeal to the court
+of appeals or supreme court as provided by law.
+5.If a final judgment is rendered in favor of the taxpayer person in the action, the amount or such
+portion of the judgment as may be necessary shall first be credited to any
+taxes, penalties and interest due from the plaintiff taxpayer
+person, and the amount of the balance remaining due the taxpayer person shall be certified by the department of
+revenue to the department of administration, with a certified copy of the final
+judgment and a claim for refund authenticated by the department of
+revenue.On receipt, the department of administration shall draw a
+warrant payable to the taxpayer person in an amount equal to
+the amount of the tax found by the judgment to be illegal, less the amount of
+any taxes, penalties and interest due from the taxpayer
+person.The department of administration shall draw a
+separate warrant payable to the taxpayer person in an amount equal to
+the interest and other costs recovered against the department of revenue by the
+judgment, which shall be paid from the appropriate tax account. END_STATUTE
+Sec.9.Section 42-2003, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE42-2003.Authorized disclosure of confidential information
+A.Confidential
+information relating to:
+1.A taxpayer may be
+disclosed to the taxpayer, its successor in interest or a designee of the
+taxpayer who is authorized in writing by the taxpayer.A principal
+corporate officer of a parent corporation may execute a written authorization
+for a controlled subsidiary.
+2.A corporate taxpayer
+may be disclosed to any principal officer, any person designated by a principal
+officer or any person designated in a resolution by the corporate board of
+directors or other similar governing body.
+3.A partnership may be
+disclosed to any partner of the partnership. This exception does not include
+disclosure of confidential information of a particular partner unless otherwise
+authorized.
+4.An estate may be
+disclosed to the personal representative of the estate and to any heir, next of
+kin or beneficiary under the will of the decedent if the department finds that
+the heir, next of kin or beneficiary has a material interest which
+that will be affected by the confidential information.
+5.A trust may be
+disclosed to the trustee or trustees, jointly or separately, and to the grantor
+or any beneficiary of the trust if the department finds that the grantor or
+beneficiary has a material interest that will be affected by the confidential
+information.
+6.Any taxpayer may be
+disclosed if the taxpayer has waived any rights to confidentiality either in
+writing or on the record in any administrative or judicial proceeding.
+7.The name and taxpayer
+identification numbers of persons issued direct payment permits may be publicly
+disclosed.
+8.The
+vendor as defined in section 42-1101.01 of a customer as defined in section
+42-1101.01 with rights to a claim under section 421118.01 or 421119
+may be disclosed to the customer in order for the customer to pursue a claim in
+lieu of a claim for refund of transaction privilege tax or use tax reported and
+remitted by the customer's vendor.
+B.Confidential
+information may be disclosed to:
+1.Any employee of the
+department whose official duties involve tax administration.
+2.The office of the
+attorney general solely for its use in preparation for, or in an investigation
+that may result in, any proceeding involving tax administration before the
+department or any other agency or board of this state, or before any grand jury
+or any state or federal court.
+3.The department of
+liquor licenses and control for its use in determining whether a spirituous
+liquor licensee has paid all transaction privilege taxes and affiliated excise
+taxes incurred as a result of the sale of spirituous liquor, as defined in
+section 4101, at the licensed establishment and imposed on the licensed
+establishments by this state and its political subdivisions.
+4.Other state tax officials
+whose official duties require the disclosure for proper tax administration
+purposes if the information is sought in connection with an investigation or
+any other proceeding conducted by the official. Any disclosure is limited to
+information of a taxpayer who is being investigated or who is a party to a
+proceeding conducted by the official.
+5.The following
+agencies, officials and organizations, if they grant substantially similar
+privileges to the department for the type of information being sought, pursuant
+to statute and a written agreement between the department and the foreign
+country, agency, state, Indian tribe or organization:
+(a)The United States
+internal revenue service, alcohol and tobacco tax and trade bureau of the
+United States treasury, United States bureau of alcohol, tobacco, firearms and
+explosives of the United States department of justice, United States drug
+enforcement agency and federal bureau of investigation.
+(b)A state tax official
+of another state.
+(c)An organization of
+states, federation of tax administrators or multistate tax commission that
+operates an information exchange for tax administration purposes.
+(d)An agency, official
+or organization of a foreign country with responsibilities that are comparable
+to those listed in subdivision (a), (b) or (c) of this paragraph.
+(e)An agency, official
+or organization of an Indian tribal government with responsibilities comparable
+to the responsibilities of the agencies, officials or organizations identified
+in subdivision (a), (b) or (c) of this paragraph.
+6.The auditor general,
+in connection with any audit of the department subject to the restrictions in
+section 422002, subsection D.
+7.Any person to the
+extent necessary for effective tax administration in connection with:
+(a)The processing,
+storage, transmission, destruction and reproduction of the information.
+(b)The programming,
+maintenance, repair, testing and procurement of equipment for purposes of tax
+administration.
+(c)The collection of
+the taxpayer's civil liability.
+8.The office of
+administrative hearings relating to taxes administered by the department
+pursuant to section 421101, but the department shall not disclose any
+confidential information:
+(a)Regarding income tax
+or withholding tax.
+(b)On any tax issue
+relating to information associated with the reporting of income tax or
+withholding tax.
+9.The United States
+treasury inspector general for tax administration for the purpose of reporting
+a violation of internal revenue code section 7213A (26 United States Code
+section 7213A), unauthorized inspection of returns or return information.
+10.The financial
+management service of the United States treasury department for use in the
+treasury offset program.
+11.The United States
+treasury department or its authorized agent for use in the state income tax
+levy program and in the electronic federal tax payment system.
+12.The Arizona
+commerce authority for its use in:
+(a)Qualifying renewable
+energy operations for the tax incentives under sections 4212006, 431083.01
+and 431164.01.
+(b)Qualifying
+businesses with a qualified facility for income tax credits under sections 431083.03
+and 431164.04.
+(c)Fulfilling its
+annual reporting responsibility pursuant to section 411511, subsections
+U and V and section 411512, subsections U and V.
+(d)Certifying computer
+data centers for tax relief under section 411519.
+13.A prosecutor for
+purposes of section 321164, subsection C.
+14.The state fire
+marshal for use in determining compliance with and enforcing title 41, chapter
+16, article 3.1.
+15.The department of
+transportation for its use in administering taxes, surcharges and penalties
+prescribed by title 28.
+16.The Arizona
+health care cost containment system administration for its use in administering
+nursing facility provider assessments.
+C.Confidential
+information may be disclosed in any state or federal judicial or administrative
+proceeding pertaining to tax administration pursuant to the following
+conditions:
+1.One or more of the
+following circumstances must apply:
+(a)The taxpayer is a
+party to the proceeding.
+(b)The proceeding arose
+out of, or in connection with, determining the taxpayer's civil or criminal
+liability, or the collection of the taxpayer's civil liability, with respect to
+any tax imposed under this title or title 43.
+(c)The treatment of an
+item reflected on the taxpayer's return is directly related to the resolution
+of an issue in the proceeding.
+(d)Return information
+directly relates to a transactional relationship between a person who is a
+party to the proceeding and the taxpayer and directly affects the resolution of
+an issue in the proceeding.
+2.Confidential
+information may not be disclosed under this subsection if the disclosure is
+prohibited by section 422002, subsection C or D.
+D.Identity information
+may be disclosed for purposes of notifying persons entitled to tax refunds if
+the department is unable to locate the persons after reasonable effort.
+E.The department, on
+the request of any person, shall provide the names and addresses of bingo
+licensees as defined in section 5401, verify whether or not a person has
+a privilege license and number, a tobacco product distributor's license and number or a
+withholding license and number or disclose the information to be posted on the
+department's website or otherwise publicly accessible pursuant to section 421124,
+subsection F and section 423401.
+F.A department
+employee, in connection with the official duties relating to any audit,
+collection activity or civil or criminal investigation, may disclose return
+information to the extent that disclosure is necessary to obtain information
+that is not otherwise reasonably available.These official duties
+include the correct determination of and liability for tax, the amount to be
+collected or the enforcement of other state tax revenue laws.
+G.If an organization is
+exempt from this state's income tax as provided in section 431201 for
+any taxable year, the name and address of the organization and the application
+filed by the organization on which the department made its determination for
+exemption together with any papers submitted in support of the application and
+any letter or document issued by the department concerning the application are
+open to public inspection.
+H.Confidential
+information relating to transaction privilege tax, use tax, severance tax, jet
+fuel excise and use tax and any other tax collected by the department on behalf
+of any jurisdiction may be disclosed to any county, city or town tax official
+if the information relates to a taxpayer who is or may be taxable by a county,
+city or town or who may be subject to audit by the department pursuant to
+section 426002.Any taxpayer information released by the
+department to the county, city or town:
+1.May only be used for
+internal purposes, including audits.
+2.May not be disclosed
+to the public in any manner that does not comply with confidentiality standards
+established by the department.The county, city or town shall agree
+in writing with the department that any release of confidential information
+that violates the confidentiality standards adopted by the department will
+result in the immediate suspension of any rights of the county, city or town to
+receive taxpayer information under this subsection.
+I.The department may
+disclose statistical information gathered from confidential information if it
+does not disclose confidential information attributable to any one taxpayer.
+The department may disclose statistical information gathered from confidential
+information, even if it discloses confidential information attributable to a
+taxpayer, to:
+1.The state treasurer
+in order to comply with the requirements of section 425029, subsection
+A, paragraph 3.
+2.The joint legislative
+income tax credit review committee, the joint legislative budget committee
+staff and the legislative staff in order to comply with the requirements of
+section 43221.
+J.The department may
+disclose the aggregate amounts of any tax credit, tax deduction or tax
+exemption enacted after January 1, 1994. Information subject to disclosure
+under this subsection shall not be disclosed if a taxpayer demonstrates to the
+department that such information would give an unfair advantage to competitors.
+K.Except as provided in
+section 422002, subsection C, confidential information, described in
+section 422001, paragraph 1, subdivision (a), item (ii), may be
+disclosed to law enforcement agencies for law enforcement purposes.
+L.The department may
+provide transaction privilege tax license information to property tax officials
+in a county for the purpose of identification and verification of the tax
+status of commercial property.
+M.The department may
+provide transaction privilege tax, luxury tax, use tax, property tax and
+severance tax information to the ombudsmancitizens aide pursuant to
+title 41, chapter 8, article 5.
+N.Except as provided in
+section 422002, subsection D, a court may order the department to
+disclose confidential information pertaining to a party to an action. An order
+shall be made only upon on a showing of good cause and
+that the party seeking the information has made demand upon on
+the taxpayer for the information.
+O.This section does not
+prohibit the disclosure by the department of any information or documents
+submitted to the department by a bingo licensee. Before disclosing the
+information the department shall obtain the name and address of the person
+requesting the information.
+P.If the department is
+required or permitted to disclose confidential information, it may charge the
+person or agency requesting the information for the reasonable cost of its
+services.
+Q.Except as provided in
+section 422002, subsection D, the department of revenue shall release
+confidential information as requested by the department of economic security
+pursuant to section 421122 or 46291. Information disclosed under
+this subsection is limited to the same type of information that the United
+States internal revenue service is authorized to disclose under section
+6103(l)(6) of the internal revenue code.
+R.Except as provided in
+section 422002, subsection D, the department of revenue shall release
+confidential information as requested by the courts and clerks of the court
+pursuant to section 421122.
+S.To comply with the
+requirements of section 425031, the department may disclose to the state
+treasurer, to the county stadium district board of directors and to any city or
+town tax official that is part of the county stadium district confidential
+information attributable to a taxpayer's business activity conducted in the
+county stadium district.
+T.The department shall
+release to the attorney general confidential information as requested by the
+attorney general for purposes of determining compliance with or enforcing any
+of the following:
+1.Any public health
+control law relating to tobacco sales as provided under title 36, chapter 6,
+article 14.
+2.Any law relating to
+reduced cigarette ignition propensity standards as provided under title 41,
+chapter 16, article 3.1.
+3.Sections 447101
+and 447111, the master settlement agreement referred to in those
+sections and all agreements regarding disputes under the master settlement
+agreement.
+U.For proceedings
+before the department, the office of administrative hearings, the board of tax
+appeals or any state or federal court involving penalties that were assessed
+against a return preparer, an electronic return preparer or a payroll service
+company pursuant to section 421103.02, 421125.01 or 43419,
+confidential information may be disclosed only before the judge or
+administrative law judge adjudicating the proceeding, the parties to the
+proceeding and the parties' representatives in the proceeding prior to its
+introduction into evidence in the proceeding.The confidential
+information may be introduced as evidence in the proceeding only if the
+taxpayer's name, the names of any dependents listed on the return, all social
+security numbers, the taxpayer's address, the taxpayer's signature and any
+attachments containing any of the foregoing information are redacted and if
+either:
+1.The treatment of an
+item reflected on such return is or may be related to the resolution of an
+issue in the proceeding.
+2.Such a return or the return information relates or may relate
+to a transactional relationship between a person who is a party to the
+proceeding and the taxpayer which that directly affects the
+resolution of an issue in the proceeding. 
+3.The method of payment
+of the taxpayer's withholding tax liability or the method of filing the
+taxpayer's withholding tax return is an issue for the period.
+V.The department and
+attorney general may share the information specified in subsection T of this
+section with any of the following:
+1.Federal, state or
+local agencies for the purposes of enforcement of corresponding laws of other
+states.
+2.A court, arbitrator,
+data clearinghouse or similar entity for the purpose of assessing compliance
+with or making calculations required by the master settlement agreement or
+agreements regarding disputes under the master settlement agreement, and with
+counsel for the parties or expert witnesses in any such proceeding, if the
+information otherwise remains confidential.
+W.The department may
+provide the name and address of qualifying hospitals and qualifying health care
+organizations, as defined in section 425001, to a business classified
+and reporting transaction privilege tax under the utilities classification.
+X.The department may
+disclose to an official of any city, town or county in a current agreement or
+considering a prospective agreement with the department as described in section
+425032.02, subsection F any information relating to amounts subject to
+distribution required by section 425032.02. Information disclosed by
+the department under this subsection:
+1.May only be used by
+the city, town or county for internal purposes.
+2.May not be disclosed
+to the public in any manner that does not comply with confidentiality standards
+established by the department.The city, town or county must agree
+with the department in writing that any release of confidential information
+that violates the confidentiality standards will result in the immediate
+suspension of any rights of the city, town or county to receive information
+under this subsection. END_STATUTE
+Sec.10.Section 42-2064, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE42-2064.Reimbursement of fees and other costs; definitions
+A.A taxpayer
+person who is a
+prevailing party may be reimbursed for reasonable fees and other costs related
+to an administrative proceeding that is brought by or against the department in
+connection with an assessment, determination, collection or refund of any tax
+listed in section 421101 or in
+connection with a claim under section 42-1118.01. For the
+purposes of this subsection, a taxpayer
+person is considered to
+be a prevailing party only if both of the following are true:
+1.The department's position was not substantially
+justified.
+2.The taxpayer
+person prevails as to the
+most significant issue or set of issues.
+B.Reimbursement under this section may be denied if
+any either of the following circumstances apply applies:
+1.During the course of the proceeding the taxpayer person unduly and unreasonably protracted the
+final resolution of the matter.
+2.The reason that the taxpayer person prevailed is due to an intervening change in the
+applicable law.
+C.The taxpayer
+person shall present an
+itemization of the reasonable fees and other costs to the taxpayer problem
+resolution officer within thirty days after the conclusion of the
+administrative proceedings.The taxpayer problem resolution officer
+shall determine the validity of the fees and other costs within thirty days after
+receiving the itemization.The taxpayer problem resolution officer's
+decision is considered the department's final decision or order and is subject
+to appeal to the state board under section 421253.
+D.The department of revenue shall pay the fees and
+other costs awarded as provided in this section from any monies appropriated
+for such purpose.If the department of revenue does not pay the fees
+and other costs within thirty days after demand by a person who has received an
+award pursuant to this section, and if no further review or appeals of the
+award are pending, the person may file a claim for the fees and other costs
+with the department of administration, which shall pay the claim within thirty
+days, in the same manner as an uninsured property loss under title 41, chapter
+3.1, article 1.If, at the time the department of revenue failed to
+pay the award, it had appropriated monies either designated or assignable for
+the purpose of paying such awards, the legislature shall reduce the department
+of revenue's operating appropriation for the following year by the amount of
+the award and appropriate the amount of the reduction to the department of
+administration, risk management division, as reimbursement for the loss.
+E.Reimbursement to a taxpayer person under this section shall not exceed seventyfive
+thousand dollars or actual monies spent, whichever is less.The
+reimbursable attorney or other representative fees shall not exceed three
+hundred fifty dollars per hour or actual monies spent, whichever is less,
+unless the state board of tax appeals determines that an increase in the cost
+of living or a special factor such as the limited availability of qualified
+attorneys for the proceeding involved justifies a higher fee.
+F.For each calendar year beginning from and after
+December 31, 2015, the income dollar amounts for maximum awards made pursuant
+to subsection E of this section shall be adjusted by the attorney general
+according to the average annual change in the metropolitan phoenix consumer price
+index published by the United States bureau of labor statistics.The
+revised dollar amounts shall be raised to the nearest whole
+dollar.The income dollar amounts may not be revised below the
+amounts prescribed in the prior calendar year.
+G.The department shall adopt administrative rules
+to implement this section.
+H.Notwithstanding any provision of title 12,
+chapter 3, article 5, a taxpayer
+person who is a
+prevailing party may only be reimbursed pursuant to this section.
+I.For the purposes of this section:
+1."Administrative proceeding" means any
+review proceeding or appeal pursuant to section 421251 that is conducted
+under the authority of section 421003 and an appeal to the state board
+of tax appeals pursuant to section 421253.
+2."Reasonable
+fees and other costs" means fees and other costs that are based on
+prevailing market rates for the kind and quality of the furnished services, but
+not exceeding the amounts actually spent for expert witnesses, the cost of any
+study, analysis, report, test or project that is found to be necessary to
+prepare the party's case and necessary fees for attorneys or other
+representatives. END_STATUTE
+Sec.11.Section 42-5008, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE42-5008.Levy of tax; purposes; distribution
+A.There is levied and there shall be collected by
+the department, for the purpose of raising public money, privilege taxes
+measured by the amount or volume of business transacted by persons on account
+of their business activities, and in the amounts to be determined by the
+application of rates against values, gross proceeds of sales or gross income,
+as the case may be, as prescribed by this article and article 2 of this
+chapter.
+B.If any monies remain after the payments are made
+for state purposes, as provided for by subsection A of this section, the remainder of the monies
+shall be paid into the state school fund for educational purposes.
+C.The tax levied by and collected pursuant to this
+article and article 2 of this chapter is designated as the "transaction privilege tax".
+D.Vendors as defined in section 42-1101.01 are
+responsible for payment of transaction privilege tax to the department and,
+except as provided in sections 421118.01 and 421119, only vendors
+may pursue a refund of transaction privilege tax paid to the department. END_STATUTE
+Sec.12.Title 42, chapter 6, article 1,
+Arizona Revised Statutes, is amended by adding section 42-6009, to read:
+START_STATUTE42-6009.Municipal refund claims; valid claim; notice of denial;
+limitations period; conditions or requirements; interest; recovery of fees;
+definitions
+A.A customer who paid to a vendor an amount that
+the vendor passed on to the customer equal to the vendor's municipal
+transaction privilege tax or who paid a use tax to a vendor may file a claim
+pursuant to this section if the vendor assigns to the customer its right to
+claim an amount equal to any tax and interest that the vendor could otherwise
+claim.
+B.Claims under this section shall be made to the
+tax collector of the city or town to which the tax was originally paid.
+C.Any claim by a customer under this section is
+in lieu of the vendor claiming a refund for the underlying tax.If a
+claim is paid under this section, only the customer and not the vendor may be
+held liable for any amount erroneously paid or credited to the customer.A
+customer may file a claim under this section as follows:
+1.Through an affirmative assignment of rights by
+the vendor to the customer using a form and in the manner prescribed by the
+department.The form prescribed by the department shall require all of
+the following:
+(a)The
+vendor's municipal transaction privilege tax license number or use tax
+registration number.
+(b)A
+description of transactions covered by the assignment and the total amount of
+municipal transaction privilege or use tax paid by the vendor for such
+transactions.
+(c)The
+tax periods for which the vendor reported and remitted the tax to the tax
+collector.
+(d)The
+vendor's authorization for the tax collector to amend the vendor's returns or
+account to reflect the amount paid to the customer pursuant to a claim filed
+under this section.
+(e)A
+statement executed by the vendor affirming, under penalty of perjury, that the
+vendor has not requested or received a refund or credit and will not claim a
+refund or credit for the tax remitted on the transactions covered by the
+assignment.If the vendor is a legal entity, the statement shall be
+executed by a fulltime officer, partner, member or manager of a limited
+liability company or an employee of the vendor who is authorized to execute the
+form on behalf of the vendor.
+2.If the vendor fails or refuses to properly
+assign its right to a claim under this section within sixty days after the date
+of the customer's written request to the vendor or if a vendor is no longer in
+business, the customer may provide the tax collector with a statement on a form
+prescribed by the department explaining the efforts made to obtain an
+assignment from the vendor.The statement shall contain all of the
+following:
+(a)The
+vendor's municipal transaction privilege tax license number or use tax
+registration number, if known by the customer.
+(b)A
+description of transactions sought to be covered by the assignment and either
+the total amount of municipal transaction privilege tax due for the
+transactions or the total amount of use tax collected by the vendor for the
+transactions.
+(c)The
+tax periods for which the vendor should have reported and remitted the tax to
+the tax collector.
+D.If a claim is filed with the tax collector
+pursuant to subsection C, paragraph 2 of this section, the tax collector shall
+attempt to notify the vendor of the claim at the vendor's last known
+address.The tax collector shall continue processing the claim on
+receiving written acknowledgment from the vendor affirming the accuracy of the
+information regarding the transactions provided by the customer.On
+paying or crediting monies to the customer pursuant to the claim, the tax
+collector shall amend the vendor's returns or account to reflect the amount
+paid or credited to the customer. If the vendor objects to the claim by the
+customer or fails to respond within thirty days after the date of the notice,
+the tax collector may continue to process the claim and, on paying or crediting
+monies to the customer pursuant to the claim, the tax collector shall amend the
+vendor's returns or account to reflect the amount paid or credited to the
+customer and notify the vendor of the adjustment.Notwithstanding
+any law to the contrary, the tax collector and the vendor may communicate regarding
+the customer's claim.
+E.A claim submitted by a customer under this
+section is subject to any offset, defense or other claim that the tax collector
+would otherwise have against either the customer or the vendor.
+F.The tax collector may not require the vendor or
+the customer to submit amended returns for a claim submitted under this
+section.
+G.Notwithstanding any law to the contrary, the
+tax collector may deny a claim filed by a customer for an amount under this
+section if the tax collector already paid or credited a refund of municipal
+transaction privilege tax arising from the same transaction or transactions.
+H.If a claim is valid under this section, the
+tax collector may not refuse to process the claim or require the customer to
+refile the claim.If the tax collector refuses to process or
+requires the refiling of a claim that is valid under this section:
+1.For the purposes of the limitations period,
+the claim is deemed received on the date the original filing was received by
+the tax collector notwithstanding the tax collector's refusal to process the
+claim or requirement to refile the claim.
+2.The customer may treat the tax
+collector's refusal to process or requirement to refile the claim as a denial
+of the claim and the customer may file a petition for hearing regarding the
+refusal to process or requirement to refile under the administrative review
+provisions of the model city tax code or state law, as
+applicable.The customer may file a petition for hearing at any time
+after the refusal to process or requirement to refile the claim.
+I.Except as provided in subsection H, paragraph
+2 of this section, a denial of a claim does not occur until the tax collector
+notifies the customer in writing that:
+1.The claim has been denied and provides the
+reasoning for the denial.
+2.The notice constitutes a denial of the claim
+that triggers the deadline for filing a petition for hearing under the
+administrative review provisions of the model city tax code or state law, as
+applicable.
+J.The time limitation for filing an
+administrative appeal does not begin until the tax collector issues the
+notifications required by subsection I of this section.
+K.Any request by the tax collector for
+additional information to process the claim shall be reasonably related to the
+claim.The tax collector may not require a customer making a claim
+under this section to provide any report or information that is not required to
+be maintained in the normal course of business under the recordkeeping
+requirements of the model city tax code.The tax collector may not
+impose unreasonable time limits for a customer making a claim under this
+section to respond to any valid request for a report or
+information.The tax collector shall grant a customer's reasonable
+request for one or more extensions to provide any requested report or
+information.
+L.Any denial of a request for claim under this
+section shall state in writing that:
+1.The claim has been denied and provide the
+reason for the denial.
+2.The notice constitutes a denial of the claim
+that triggers the deadline for filing a petition for hearing under the
+administrative review provisions of the model city tax code or state law, as
+applicable.
+M.Tax paid on an activity that is not subject to
+tax or that qualifies for an exemption, deduction, exclusion or credit is not
+excess collected tax.
+N.Interest on a claim shall be paid to the
+customer making a claim under this section at the rate and in the manner
+prescribed by section 421123, subsection A. Interest on a claim shall
+be computed from the date the claim is filed.
+O.A customer that is ultimately determined to be
+entitled to a claim may be awarded, by order of a court, board or hearing
+officer, reasonable fees and other costs relating to the administrative
+processing or administrative appeal of the claim, if the tax collector's
+position was not substantially justified or was brought for the purpose of
+harassing the customer, frustrating the claim process or delaying the claim.
+P.If a discrepancy occurs between this section and
+any provision of the model city tax code, this section applies.
+Q.For the purposes of this section:
+1."Customer" means a person that
+purchases goods or services from any vendor.
+2."Model city tax code" means the
+model city tax code as defined in section 426051, and its appendices and
+regulations, as adopted in the city or town, and includes the specific state
+law incorporated in the model city tax code and the interpretation of state
+law.
+3."Municipal transaction privilege
+tax" means a municipal transaction privilege tax, municipal privilege
+license tax or municipal transaction privilege license tax, municipal use tax
+or similar excise tax that is imposed by the tax collector.
+4."Reasonable fees and other costs"
+means fees and other costs that are based on prevailing market rates for the
+kind and quality of the furnished services and that do not exceed the amounts
+actually paid for expert witnesses, the cost of any study, analysis, report,
+test, project or computer program found to be necessary to prepare the
+claimant's case and necessary fees for attorneys or other representatives.
+5."Tax collector" means the municipal
+tax collector or the department when it is acting as the tax collector for
+those cities and towns in the state collection program, as applicable under the
+model city tax code and its appendices.
+6."Vendor" means any taxpayer that
+either is liable for filing and remitting municipal transaction privilege tax
+to the tax collector or that is registered with the tax collector to remit use
+tax to the tax collector on behalf of its purchasers. END_STATUTE
+Sec.13.Section 44-1263, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE44-1263.Inability to conform motor vehicle to express warranty;
+replacement of vehicle or refund of monies; affirmative defenses; tax refund
+A.If the manufacturer, its agents or its authorized
+dealers are unable to conform the motor vehicle to any applicable express
+warranty by repairing or correcting any defect or condition which that
+substantially impairs the use and value of the motor vehicle to the consumer
+after a reasonable number of attempts, the manufacturer shall replace the motor
+vehicle with a new motor vehicle or accept the return of the motor vehicle from the
+consumer and refund to the consumer the full purchase price, including all
+collateral charges, less a reasonable allowance for the consumer's use of the
+vehicle.The manufacturer shall make refunds to the consumer and
+lienholder, if any, as their interests appear.A reasonable
+allowance for use is that amount directly attributable to use by the consumer
+before his the consumer's first written report of the
+nonconformity to the manufacturer, agent or dealer and during any subsequent
+period when the vehicle is not out of service by reason of repair.
+B.It is an affirmative defense to any claim under
+this article that either:
+1.An alleged nonconformity does not substantially
+impair the use and market value of the motor vehicle.
+2.A nonconformity is the result of abuse, neglect
+or unauthorized modifications or alterations of the motor vehicle.
+C.In the case of taxes paid pursuant to title 42,
+chapter 5, if the manufacturer:
+1.Accepts the
+return of a motor vehicle from a consumer without replacing the
+motor vehicle, the manufacturer shall refund the amount of tax attributed to
+the sale of the vehicle to that consumer.
+2.Replaces a motor vehicle with a new motor vehicle
+of lesser value, the manufacturer shall refund the difference between the
+original amount of tax attributed to the sale of that vehicle and the amount of
+tax attributed to the sale of the replacement vehicle, excluding the value of
+the motor vehicle being replaced.
+3.Replaces a motor vehicle with a new motor vehicle
+of greater value, the manufacturer shall calculate the gross proceeds of sales
+pursuant to section 425001, paragraph 6.
+D.Pursuant to section 421118, subsection F g, the manufacturer may apply to the department
+of revenue for a refund for the amount of tax that the manufacturer properly
+refunds to the consumer. END_STATUTE
+

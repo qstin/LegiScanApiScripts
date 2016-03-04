@@ -1,0 +1,183 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: statewide voter registration portability
+
+
+
+
+
+
+
+State of Arizona
+Senate
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+SB 1075
+
+
+
+
+
+
+
+
+
+Introduced by
+Senators
+  Quezada, Farley, Hobbs; Representatives Andrade, Clark, Espinoza, Velasquez:
+  Senator Contreras
+
+
+
+
+
+AN ACT
+
+amending sections
+16-135 and 16-584, Arizona Revised Statutes; relating to elections and
+electors.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 16-135, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE16-135.Change of residence from one address to another
+A.An elector who is correcting the residence
+address shown on the elector's voter registration record shall reregister with
+the new residence address or correct the voter registration record as
+prescribed by this section.
+B.An elector who moves from the address at which he the elector is registered to another address
+within the same county and who fails to notify the county recorder of the
+change of address before the date of an election or an elector who moves from the address at which the
+elector is registered to a different county and who fails to reregister at the
+new address in the new county before the date of an election shall
+be permitted to correct the statewide voter
+registration records at the appropriate polling place for the voter's new
+address.The voter shall present a form of identification that
+includes the voter's given name and surname and the voter's complete residence
+address that is located within the precinct for the voter's new residence
+address.The voter shall affirm in writing the new residence address
+and shall be permitted to vote a provisional ballot. The provisional ballot ENVELOPE shall CONTAIN a section
+for a voter to provide the voter's previous address in that previous county.
+C.When an elector completes voting a provisional
+ballot, the election official shall place the ballot in an envelope for
+provisional ballots and shall deposit the envelope in the ballot box designated
+for provisional ballots.
+D.Within ten calendar days after a general election
+that includes an election for a federal office and within five business days
+after any other election, a provisional ballot shall be compared to the
+signature roster for the precinct in which the voter was listed and if the
+voter's signature does not appear on the signature roster for that election and
+if there is no record of that voter having voted early for that election, the
+provisional ballot shall be counted.If the signature roster or
+early ballot information indicates that the person did vote in that election,
+the provisional ballot for that person shall remain unopened and shall not be
+counted.
+E.An elector may also correct the residence address
+on the elector's voter registration record by requesting the address change on
+a written request for an early ballot that is submitted pursuant to section 16542
+and that contains all of the following:
+1.A request to change the voter registration
+record.
+2.The elector's new residence address.
+3.An affirmation that the information is true and
+correct.
+4.The elector's signature. END_STATUTE
+Sec.2.Section
+16-584, Arizona Revised Statutes, is amended to read:
+START_STATUTE16-584.Qualified elector not on precinct register; recorder's
+certificate; verified ballot; procedure
+A.A qualified elector whose name is not on the
+precinct register and who presents a certificate from the county recorder
+showing that the elector is entitled by law to vote in the precinct shall be
+entered on the signature roster on the blank following the last printed name
+and shall be given the next consecutive register number, and the qualified
+elector shall sign in the space provided.
+B.A qualified elector whose name is not on the
+precinct register, upon on presentation of
+identification verifying the identity of the elector that includes the voter's
+given name and surname and the complete residence address that is verified by
+the election board to be in the precinctor on signing an affirmation that
+states that the elector is a registered voter in that jurisdiction this state and is eligible to vote in that jurisdiction this state as prescribed in section 16-101,
+shall be allowed to vote a provisional ballot.
+C.If a voter has moved to a new address within the
+county and has not notified the county recorder of the change of address before
+the date of an election or has moved
+from the address at which the voter is registered to a different county and has
+failed to reregister at the new address in the new county before the date of an
+election, the voter shall be permitted to correct the voting statewide voter registration records for
+purposes of voting in future elections at the appropriate polling place for the
+voter's new address.The voter shall be permitted to vote a
+provisional ballot. The voter shall present a form of identification that
+includes the voter's given name and surname and the voter's complete residence
+address. The residence address must be within the precinct in which the voter
+is attempting to vote, and the voter shall affirm in writing that the voter is
+registered in that jurisdiction
+this state and is
+eligible to vote in that jurisdiction this state as prescribed in section 16-101.
+D.On completion of the ballot, the election
+official shall remove the ballot stub, shall place the ballot in a provisional
+ballot envelope and shall deposit the envelope in the ballot
+box.Within ten calendar days after a general election that includes
+an election for a federal office and within five business days after any other
+election or no later than the time at which challenged early voting ballots are
+resolved, the signature shall be compared to the precinct signature roster of
+the former precinct where the voter was registered.If the voter's
+name is not signed on the roster and if there is no indication that the voter voted
+an early ballot, the provisional ballot envelope shall be opened and the ballot
+shall be counted.If there is information showing the person did
+vote, the provisional ballot shall remain unopened and shall not be
+counted.When provisional ballots are confirmed for counting, the
+county recorder shall use the information supplied on the provisional ballot
+envelope to correct the address record of the voter.
+E.When a voter is allowed to vote a provisional
+ballot, the elector's name shall be entered on a separate signature roster page
+at the end of the signature roster.Voters' names shall be numbered
+consecutively beginning with the number V1.The elector shall
+sign in the space provided. The ballot stub shall be removed and the ballot
+shall be placed in a separate envelope, the outside of which shall contain the
+precinct name or number, a sworn or attested statement of the elector that the
+elector resides in the precinct, is eligible to vote in the election and has
+not previously voted in the election, the signature of the elector and the
+voter registration number of the elector, if available. The ballot shall be
+verified for proper registration of the elector by the county recorder before
+being counted.The verification shall be made by the county recorder
+within ten calendar days after a general election that includes an election for
+a federal office and within five business days following any other election,
+and the voter receipt card, notification or identification card, if any, from
+the county recorder used therefor, if valid, shall be returned to the elector
+within a reasonable time thereafter.Verified ballots shall be
+counted by depositing the ballot in the ballot box and showing on the records
+of the election that the elector has voted.If registration is not
+verified the ballot shall remain unopened and shall be retained in the same
+manner as voted ballots.
+F.For any person who votes a provisional ballot,
+the county recorder or other officer in charge of elections shall provide for a
+method of notifying the provisional ballot voter at no cost to the voter
+whether the voter's ballot was verified and counted and, if not counted, the
+reason for not counting the ballot.The notification may be in the
+form of notice by mail to the voter, establishment of a toll free telephone
+number, internet access or other similar method to allow the voter to have
+access to this information.The method of notification shall provide
+reasonable restrictions that are designed to limit transmittal of the information
+only to the voter. END_STATUTE
+

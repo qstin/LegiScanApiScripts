@@ -1,0 +1,248 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: insurance; pharmacy benefits; audits;
+  pricing
+
+
+
+
+
+
+
+State of Arizona
+House of Representatives
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+HB 2692
+
+
+
+
+
+
+
+
+
+Introduced by
+Representative
+  Livingston
+
+
+
+
+
+AN ACT
+
+Amending title
+20, Arizona Revised Statutes, by adding chapter 25; relating to pharmacy
+benefits.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Title 20, Arizona Revised Statutes,
+is amended by adding chapter 25, to read:
+CHAPTER 25
+PHARMACY BENEFITS
+ARTICLE 1.AUDITING
+START_STATUTE20-3321.Definitions
+In this article, unless
+the context otherwise requires:
+1."Auditing
+Entity" means any person, company, group or plan working on behalf of or
+pursuant to a contract with an insurer, plan sponsor or pharmacy benefits
+manager for the purposes of auditing pharmacy drug claims adjudicated by
+pharmacies or pharmacists.
+2."Clerical
+error" means a minor error that meets all of the following criteria:
+(a)Occurs in the keeping, recording
+or transcribing of records or documents or in the handling of electronic or
+hard copies of correspondence.
+(b)Does not result in financial
+harm to an entity.
+(c)Does not involve dispensing an
+incorrect dose, amount or type of medication or dispensing a prescription drug
+to the wrong person.
+3."Concurrent
+daily review audit" means an audit that is conducted by an auditing
+entity, that is in direct response to the adjudication of a prescription order
+for the express purpose of therapeutic appropriateness and that may occur and
+is resolved only at the time the prescription order is adjudicated.
+4.
+"Desktop audit" means an audit that is conducted by an auditing
+entity at a location other than the location of the pharmacist or pharmacy.
+Desktop audit includes an audit that is performed at the offices of the
+auditing entity during which the pharmacist or pharmacy provides requested
+documents for review by hard copy or by microfiche, disk or other electronic
+media.
+5."Fraud"
+means knowingly or wilfully executing or attempting to execute a scheme in
+connection with the delivery or payment for health care benefits, items or
+services that uses false or misleading pretenses, representations or promises
+to obtain any money or property owned by or under the custody or control of any
+person.
+6."In-pharmacy
+audit" means an audit that is conducted by an auditing entity at the
+physical business address of the pharmacy where the claim was adjudicated.
+7."Insurer"
+means a disability insurer, group disability insurer, blanket disability
+insurer, health care services organization, hospital service corporation,
+medical service corporation or hospital and medical service corporation.
+8."Multisource
+generic drug" means a covered outpatient prescription drug for which there
+is at least one other drug product that is rated as therapeutically equivalent
+under the United States food and drug administration's most recent publication
+of approved drug products with therapeutic equivalence evaluations, that is
+determined by the United States food and drug administration to be
+pharmaceutically equivalent and bioequivalent and that is sold or marketed in
+this state.
+9."Pharmacist"
+has the same meaning prescribed in section 321901.
+10."Pharmacists
+services" means products, goods or services provided as a part of the
+practice of pharmacy to individuals who reside or who are employed in this
+state.
+11."Pharmacy"
+has the same meaning prescribed in section 321901.
+12."Pharmacy
+benefits management" means any plan or program that pays for, reimburses,
+covers the cost of or otherwise provides for pharmacists services to
+individuals who reside or who are employed in this state.
+13."Pharmacy
+benefits manager" means an entity that performs pharmacy benefits
+management.Pharmacy benefits manager includes both of the
+following:
+(a)A person or entity
+acting for a pharmacy benefits manager in a contractual or employment
+relationship in the performance of pharmacy benefits management for a covered
+entity.
+(b)Mail service pharmacy.
+14."Plan
+sponsor" means the employer, insurance company, union and health
+maintenance organization or any other entity responsible for establishing,
+maintaining or administering a health benefit plan on behalf of covered
+individuals. END_STATUTE
+START_STATUTE20-3322.Audit procedures
+A.The following procedures apply to
+an audit conducted by an auditing entity:
+1.When
+conducting an in-pharmacy or desktop audit, except in cases of an audit of pharmacy records when fraud
+or other intentional and wilful misrepresentation is evidenced by physical
+review, review of claims data or statements or other investigative methods, an auditing entity shall:
+(a)give a pharmacy at least
+fourteen days' written notice via United States postal service, contracted mail
+services or email before conducting an in-pharmacy audit and at least
+seven days' written notice via United States postal service, contracted mail
+services or e-mail before conducting a desktop audit.
+(b)Not conduct an audit during the
+first five days of the month unless the pharmacy otherwise consents.
+(c)Provide the pharmacy a list of
+items to be audited that provides for identification of prescription number or
+numbers or date range that the auditing entity is seeking to audit. 
+(d)Limit the audit to claims that
+may not exceed two years from the earlier of the date that the claim was
+submitted to or the date that the claim was adjudicated by the pharmacy
+benefits manager. 
+2.An
+inpharmacy audit, desktop audit or concurrent daily review audit that
+involves clinical or professional judgment shall be conducted by or in
+consultation with a pharmacist licensed in the state of the audit or by the
+Arizona state board of pharmacy.
+3.The
+pharmacy may use the records of a hospital, physician or other authorized
+practitioner to validate the pharmacy records.The validated records
+may be obtained via electronic methods, fax, phone or written prescription
+orders and do not have to be the original hard copy prescription order.
+4.Any
+prescription that complies with Arizona state board of pharmacy requirements
+may be used to validate claims in connection with prescriptions, refills or
+changes in prescriptions.
+5.Each
+pharmacy shall be audited under the same standards and parameters as other
+similarly situated pharmacies in this state.
+B.When
+conducting an inpharmacy audit, desktop audit or concurrent daily review
+audit, An auditing entity shall comply with the following requirements:
+1.The
+auditing entity shall base a finding of overpayment or underpayment on the
+actual overpayment or underpayment and not on a projection based on the number
+of patients served who have similar diagnoses or on the number of similar
+orders or refills for similar drugs.
+2.Calculations
+of overpayments may not include dispensing fees.
+3.Interest
+may not accrue during the audit period.
+4.To
+the extent that an audit results in the identification of any clerical errors
+in a required document or record, the auditing entity may not recoup monies
+from the pharmacy. END_STATUTE
+START_STATUTE20-3323.Audit reports
+A.The
+auditing entity must deliver via United States postal service, contracted mail services or e-mail a preliminary audit report to the pharmacy within
+sixty days after the conclusion of the audit.
+B.A
+pharmacy is allowed at least thirty days after receipt of the preliminary audit
+to provide documentation to address any discrepancy found in the audit.
+C.Each
+auditing entity conducting an audit shall establish and make available to
+network pharmacies a written appeals process under which a pharmacy shall have
+at least thirty days from the delivery of the preliminary and final audit
+report to appeal an unfavorable audit report to the auditing
+entity.If, following the appeal, the auditing entity finds that an
+unfavorable audit report or any portion of the report is unsubstantiated, the
+auditing entity shall dismiss the audit report or portion of the report without
+the necessity of any further proceedings.
+D.All
+contracts between a pharmacy benefits manager and a network pharmacy or a pharmacy
+benefits manager and a pharmacy's contracting representative shall include a
+process to appeal, investigate and resolve disputes regarding preliminary and
+final audit findings. If either party is not satisfied with the appeal, that
+party may seek mediation or arbitration through a neutral third party in the
+state in which the pharmacy is located.
+E.The
+auditing entity must deliver via United States postal service, contracted mail
+services or e-mail a final audit report to the pharmacy within ninety days
+after receipt of the preliminary audit report or final appeal, whichever is
+later, and provide a copy of the final audit report, including the disclosure
+of any money recouped in the audit, to the insurer.
+F.No
+chargebacks, recoupment or other penalties may be assessed until the appeal
+process has been exhausted and the final audit report has been issued.
+G.Unless
+superseded by state or federal law, audit information may not be shared.
+Auditors may have access only to previous audit reports on a particular
+pharmacy conducted by that same auditing entity. END_STATUTE
+START_STATUTE20-3324.Maximum allowable cost; updates; notice
+A.Multisource
+generic drug pricing shall be updated every seven days and reimbursements shall
+reflect price changes in the marketplace.
+B.A
+pharmacy benefits manager shall establish a reasonable process for the
+notification of drug price updates to the network pharmacies and shall disclose
+the drug price update in advance of using the updated drug prices for
+reimbursement.
+C.The site or delivery method to convey generic
+pricing must enable the pharmacies to connect a claim to the correct drug price
+at the appropriate point in time in order to validate the price. END_STATUTE
+Sec.2.Applicability
+This act applies to contracts entered into, amended, extended
+or renewed on or after December 31, 2016.
+

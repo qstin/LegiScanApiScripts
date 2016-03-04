@@ -1,0 +1,989 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: business entities; database; posting;
+  requirements
+
+
+
+
+
+
+
+State of Arizona
+House of Representatives
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+HB 2447
+
+
+
+
+
+
+
+
+
+Introduced by
+Representatives
+  Montenegro, Barton, Borrelli, Bowers, Finchem, Gowan, Kern, Mitchell, Thorpe:
+  Allen J, Cobb, Leach, Olson, Rivero, Weninger, Senator Biggs
+
+
+
+
+
+AN ACT
+
+amending sections
+10-130, 10-203, 10-1006, 10-1007, 10-1008, 10-1105, 101403, 10-1503,
+10-1520, 10-2077, 10-2143, 10-3203, 10-11006, 10-11007, 1011008,
+10-11105, 10-11403, 10-11503, 10-11520, 29-633, 29-635 and 29-754, Arizona
+Revised Statutes; relating to business entities.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 10-130, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE10-130.Powers; duties; database
+A.The
+commission has the power and authority reasonably necessary to enable it to
+administer this title efficiently and to perform the duties imposed on it by
+this title, including the power and authority to make rules and regulations for those purposes.
+B.The
+commission shall establish and maintain a database for documents filed pursuant
+to sections 10-203, 10-1006, 10-1007, 10-1008, 101105, 10-1403, 10-1503,
+10-1520, 10-2077, 10-2143, 10-3203, 10-11006, 1011007, 10-11008,
+10-11105, 10-11403, 1011503, 1011520, 29-633, 29-635 and 29-754.
+the database shall only include documents that are filed for an entity with a
+known place of business that is located in a county with a population of more
+than eight hundred thousand persons. The commission shall post the database on
+its website to allow the public to search for business information, including
+an entity's name, approval date and county of the known place of business. The
+information must be maintained in the database for at least ninety days. END_STATUTE
+Sec.2.Section 10-203, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE10-203.Incorporation
+A.Unless a delayed effective date is specified in
+the articles of incorporation, incorporation occurs and the corporate existence
+begins when the articles of incorporation and certificate of disclosure are
+delivered to the commission for filing.
+B.The commission's filing of the articles of
+incorporation and certificate of disclosure is conclusive proof that the
+incorporators satisfied all conditions precedent to incorporation except in a
+proceeding by the state to cancel or revoke the incorporation or involuntarily
+dissolve the corporation pursuant to chapter 14 of this title.
+C.Subject to section 10124, if the
+commission determines that the requirements of chapters 1 through 17 of this
+title for filing have not been met, the articles of incorporation and
+certificate of disclosure shall not be filed and the corporate existence
+terminates at the time the commission completes the
+determination.If the corporate existence is terminated pursuant to
+this subsection, sections 101405, 101406 and 101407 apply.
+D.Within sixty days after the commission approves
+the filing, either of the
+following must occur:
+1.A
+copy of the articles of incorporation shall be published.An
+affidavit evidencing the publication may be filed with the commission.
+2.The
+commission shall input the information regarding the approval into the database
+as prescribed by section 10-130. END_STATUTE
+Sec.3.Section
+10-1006, Arizona Revised Statutes, is amended to read:
+START_STATUTE10-1006.Articles of amendment
+A.A corporation
+amending its articles of incorporation shall deliver to the commission for
+filing articles of amendment setting forth:
+1.The name of the corporation.
+2.The text of each amendment adopted.
+3.If an amendment provides for an exchange,
+reclassification or cancellation of issued shares, provisions for implementing
+the amendment if not contained in the amendment itself.
+4.The date of each amendment's adoption.
+5.If an amendment was adopted by the incorporators
+or board of directors without shareholder action, a statement to that effect
+and that shareholder action was not required.
+6.If an amendment was approved by the shareholders:
+(a)The designation of outstanding shares, number of
+outstanding shares, number of votes entitled to be cast by each voting group
+entitled to vote separately on the amendment and number of votes of each voting
+group indisputably represented at the meeting.
+(b)Either the total number of votes cast for and
+against the amendment by each voting group entitled to vote separately on the
+amendment or the total number of undisputed votes cast for the amendment by
+each voting group and a statement that the number cast for the amendment by
+each voting group was sufficient for approval by that voting group.
+B.Within sixty days after the commission approves
+the filing, either of the
+following must occur:
+1.A
+copy of the articles of amendment shall be published.An affidavit
+evidencing the publication may be filed with the commission.
+2.The
+commission shall input the information regarding the approval into the database
+as prescribed by section 10-130. END_STATUTE
+Sec.4.Section 10-1007, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE10-1007.Restated articles of incorporation
+A.A corporation's board of directors may restate
+its articles of incorporation at any time with or without shareholder action.
+B.The restatement may include one or more
+amendments to the articles. If the restatement includes an amendment requiring
+shareholder approval, it shall be adopted as provided in section 101003.
+C.If the board of directors submits a restatement
+for shareholder action, the corporation shall notify each shareholder, whether
+or not entitled to vote, of the proposed shareholders' meeting in accordance with pursuant to section 10705.The
+notice shall also state that the purpose or one of the purposes of the meeting
+is to consider the proposed restatement and shall contain or be accompanied by
+a copy of the restatement that identifies any amendment or other change it
+would make in the articles.
+D.A corporation restating its articles of
+incorporation shall deliver to the commission for filing articles of
+restatement setting forth the name of the corporation and the text of the
+restated articles of incorporation together with a certificate setting forth:
+1.Whether the restatement contains an amendment to
+the articles requiring shareholder approval and, if it does not, that the board
+of directors adopted the restatement.
+2.If the restatement contains an amendment to the
+articles requiring shareholder approval, the information required by section 101006.
+E.Duly adopted restated articles of incorporation
+supersede the original articles of incorporation and all amendments to them.
+F.The commission may certify restated articles of
+incorporation, as the articles of incorporation currently in effect, without
+including the certificate information required by subsection D of this section.
+G.Within sixty days after the commission approves
+the filing, either of the
+following must occur:
+1.A
+copy of the articles of restatement shall be published.An affidavit
+evidencing the publication may be filed with the commission.
+2.The
+commission shall input the information regarding the approval into the database
+as prescribed by section 10-130. END_STATUTE
+Sec.5.Section 10-1008, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE10-1008.Amendment pursuant to reorganization
+A.A corporation's articles of incorporation may be
+amended pursuant to this section without action by the board of directors or
+shareholders to carry out a plan of reorganization confirmed by an order or
+decree of a court of competent jurisdiction under a federal statute or a
+statute of this state if the articles of incorporation after amendment contain
+only provisions required or permitted by section 10202.
+B.Before the date of entry of a final decree in the
+reorganization proceeding, the individual or individuals designated by the plan
+shall deliver to the commission for filing articles of amendment setting forth
+all of the following:
+1.The name of the corporation.
+2.The text of each amendment contained in the plan
+of reorganization.
+3.The date of the court's order or decree
+confirming the plan of reorganization containing the articles of amendment.
+4.The title of the reorganization proceeding in
+which the order or decree was entered.
+5.A statement that the court had jurisdiction of
+the proceeding under federal or state statute.
+C.Shareholders of a corporation undergoing
+reorganization do not have dissenters' rights except as and to the extent
+provided in the reorganization plan.
+D.This section does not apply after entry of a
+final decree in the reorganization proceeding even though the court retains
+jurisdiction of the proceeding for limited purposes unrelated to consummation
+of the reorganization plan.
+E.Within sixty days after the commission approves
+the filing, either of the
+following must occur:
+1.A
+copy of the articles of amendment shall be published.An affidavit
+evidencing the publication may be filed with the commission.
+2.The
+commission shall input the information regarding the approval into the database
+as prescribed by section 10-130. END_STATUTE
+Sec.6.Section 10-1105, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE10-1105.Statement of merger or interest
+exchange; publication or posting
+Within sixty days after the commission approves the filing of a
+statement of merger or statement of interest exchange, either of the following must occur:
+1.A
+copy of the statement of merger or statement of interest exchange shall be
+published. An affidavit evidencing the publication may be filed with the
+commission.
+2.The
+commission shall input the information regarding the approval into the database
+as prescribed by section 10-130. END_STATUTE
+Sec.7.Section 10-1403, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE10-1403.Articles of dissolution; effective date of dissolution
+A.At any time after dissolution is authorized, the
+corporation may dissolve by delivering to the commission for filing articles of
+dissolution setting forth all of the following:
+1.The name of the corporation.
+2.The date dissolution was authorized.
+3.If dissolution was approved by the shareholders,
+both:
+(a)The number of votes entitled to be cast on the
+proposal to dissolve.
+(b)Either the total number of votes cast for and
+against dissolution or the total number of undisputed votes cast for
+dissolution and a statement that the number cast for dissolution was sufficient
+for approval.
+4.If voting by voting groups was required, the
+information required by paragraph 3 of this subsection shall be separately provided for each
+voting group entitled to vote separately on the plan to dissolve.
+B.A corporation is dissolved on the effective date
+of its articles of dissolution.
+C.The articles of dissolution shall not be
+considered complete until the commission has received a notice from the
+department of revenue to the effect that the tax levied under title 42, chapter
+5, article 1 against the corporation has been paid, or until it is notified by
+the department of revenue that the corporation is not subject to the tax and
+until the commission has received from the department of revenue its
+certificate issued pursuant to section 431151.
+D.Within sixty days after the commission approves
+the filing, either of the
+following must occur:
+1.A
+copy of the articles of dissolution shall be published. An affidavit
+evidencing the publication may be filed with the commission.
+2.The
+commission shall input the information regarding the approval into the database
+as prescribed by section 10-130.
+E.The articles of dissolution shall not be
+considered complete until all fees, penalties and costs required to be paid
+under this title have been paid. END_STATUTE
+Sec.8.Section 10-1503, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE10-1503.Application for authority to transact business
+A.A foreign corporation may apply for authority to
+transact business in this state by delivering an application and a certificate
+of disclosure to the commission for filing. The certificate of disclosure
+shall contain the information set forth in section 10202, subsection D
+and is subject to the requirements of section 10202, subsection
+F.The application shall be executed by the corporation and shall
+set forth:
+1.The name of the foreign corporation and, if its
+name is unavailable for use in this state, a corporate name that satisfies the
+requirements of section 101506.
+2.The name of the state or country under whose law
+it is incorporated.
+3.Its date of incorporation and period of duration.
+4.The street address of its principal office in its
+state or country of incorporation.
+5.The street address of the proposed known place of
+business of the corporation in this state and the name and street address of
+its proposed statutory agent in this state.
+6.If its purpose or purposes are narrower than the
+transaction of any or all lawful business in which corporations may engage in
+the state or country under whose law it is incorporated, a statement of the
+limitations on its purpose.
+7.The names and usual business addresses of its
+current directors and officers.
+8.A statement of the aggregate number of shares
+that the corporation has authority to issue, itemized by classes, par value of
+shares, shares without par value and series, if any, within a class.
+9.A statement of the aggregate number of issued
+shares itemized by classes, par value of shares, shares without par value and
+series, if any, within a class.
+10.A brief statement of the character of business
+that the corporation initially intends actually to conduct in this state. This
+statement does not limit the character of business that the corporation
+ultimately conducts.
+B.The foreign corporation shall deliver the
+application and the certificate of disclosure to the commission, together with
+a copy of its articles of incorporation, any amendments to the articles of
+incorporation and a certificate of existence or a document of similar import
+duly authenticated by the secretary of state or other official having custody
+of corporate records in the state or country under whose law it is
+incorporated, and the nonrefundable fees required by law.
+C.After determining that the application sets forth
+the information required by this section, does not use as the name of the
+corporation in this state a name that is in violation of section 101506
+and appears in all other respects to conform to the requirements of this
+article, the commission shall file the application. The date of filing shall
+be the date on which the corporation is granted authority to transact business
+in this state.
+D.Within sixty days after the commission approves
+the filing, either of the
+following must occur:
+1.A
+copy of the application shall be published.An affidavit evidencing
+the publication may be filed with the commission.
+2.The
+commission shall input the information regarding the approval into the database
+as prescribed by section 10-130.
+E.A foreign corporation authorized to transact
+business in this state is subject to section 101623. END_STATUTE
+Sec.9.Section 10-1520, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE10-1520.Withdrawal of foreign corporation
+A.A foreign corporation authorized to transact
+business in this state shall not withdraw from this state until the commission
+files its application for withdrawal.
+B.A foreign corporation authorized to transact
+business in this state may apply to surrender the authority by delivering an
+application to the commission for filing.The application shall set
+forth:
+1.The name of the foreign corporation and the name
+of the state or country under whose law it is incorporated.
+2.That it is not transacting business in this state
+and that it surrenders its authority to transact business in this state.
+3.That the foreign corporation revokes the
+authority of its statutory agent to accept service on its behalf and appoints
+the commission as its agent for service of process in any proceeding based on a
+cause of action arising during the time it was authorized to transact business
+in this state.
+4.A mailing address to which the commission may
+mail a copy of any process served on the commission pursuant to its appointment
+as the foreign corporation's agent for service of process.
+5.A commitment to notify the commission in the
+future of any change in the foreign corporation's mailing address.
+C.The application for withdrawal is not considered
+complete until the commission has received a notice from the department of
+revenue to the effect that the tax levied under title 42, chapter 5, article 1
+against the foreign corporation has been paid or until it is notified by the
+department of revenue that the applicant is not subject to the tax and further
+has received from the department of revenue its certificate issued pursuant to
+section 431151.
+D.The application for withdrawal is not considered
+complete until all fees, penalties and costs required to be paid under this
+chapter have been paid.
+E.After determining that the application appears in
+all respects to conform to the requirements of this chapter and when all fees
+have been paid as are prescribed in this chapter, the commission shall file the
+application in the manner provided in section 10120.On the
+filing of the application for withdrawal, the authority of the foreign
+corporation to transact business in this state ceases.
+F.Within sixty days after the commission approves
+the filing, either of the
+following must occur:
+1.A
+copy of the application for withdrawal shall be published. An affidavit
+evidencing the publication may be filed with the commission.
+2.The
+commission shall input the information regarding the approval into the database
+as prescribed by section 10-130.
+G.After withdrawal of the foreign corporation is
+effective, service of process on the commission under this section is service
+on the foreign corporation. On receipt of process, the commission shall mail a
+copy of the process to the foreign corporation at the most recent mailing address
+provided by the foreign corporation in the application or by notice to the
+commission. END_STATUTE
+Sec.10.Section 10-2077, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE10-2077.Dissolution
+A.A cooperative which that has not commenced
+business may be dissolved by delivering to the corporation commission articles
+of dissolution, which shall be executed by the cooperative and which shall
+state:
+1.The name of the cooperative.
+2.The address of its principal office.
+3.That the cooperative has not commenced business.
+4.That any monies received by the cooperative, less
+any part disbursed for expenses of the cooperative, have been returned or paid
+to those entitled to the monies.
+5.That no debt of the cooperative is unpaid.
+6.That a majority of the incorporators elect that
+the cooperative be dissolved.
+B.A cooperative which that has commenced business
+may be dissolved in the following manner:
+1.The proposition to dissolve shall be submitted to
+the members of the cooperative at any annual or special meeting, the notice of
+which shall set forth the proposition.
+2.The members at the meeting shall approve, by the
+affirmative vote of not less than a majority of all members of the cooperative,
+the proposition that the cooperative be dissolved.
+3.Upon On approval, a certificate
+of election to dissolve, designated in this subsection as the
+"certificate", shall be executed by the cooperative.
+4.The certificate shall state:
+(a)The name of the cooperative.
+(b)The address of its principal office.
+(c)That the members of the cooperative have duly
+voted that the cooperative be dissolved.
+5.The certificate shall be submitted to the
+corporation commission for filing.
+6.Upon On filing the certificate
+with the corporation commission the cooperative shall cease to carry on its
+business except to the extent necessary for winding up, but its corporate
+existence shall continue until articles of dissolution have been filed with the
+corporation commission.
+7.The board of directors shall immediately cause
+notice of the dissolution proceedings to be mailed to each known creditor of
+and claimant against the cooperative, and such notice shall be published once a
+week for two successive weeks in a newspaper of general circulation in the
+county in which the principal office of the cooperative is located.
+8.The board of directors shall wind up and settle
+the affairs of the cooperative, collect monies owing to it, liquidate its
+property and assets, pay and discharge its debts, obligations and liabilities,
+other than those to patrons arising by reason of their patronage, and do all
+other things required to wind up its business.After paying or discharging
+or adequately providing for the payment or discharge of all its debts,
+obligations and liabilities, other than those to patrons arising by reason of
+their patronage, the board of directors shall distribute any remaining sums,
+first to patrons for the pro rata return of all amounts standing to their
+credit by reason of their patronage, and second to members for the pro rata
+repayment of membership fees.Any sums then remaining shall be
+distributed among its members and former members in proportion to their patronage.
+9.The board of directors shall thereupon authorize
+the execution of articles of dissolution, which shall be executed by the
+cooperative.
+10.The articles of dissolution shall recite that
+they are executed pursuant to this article and shall state:
+(a)The name of the cooperative.
+(b)The address of its principal office.
+(c)The date on which the certificate of election to
+dissolve was filed by the corporation commission.
+(d)That there are no actions or suits pending
+against the cooperative.
+(e)That all debts, obligations and liabilities of
+the cooperative have been paid and discharged or that adequate provision has
+been made for payment and discharge.
+(f)That the preceding provisions of this subsection
+have been duly complied with.
+11.The articles of dissolution prepared pursuant to
+paragraph 10 of this subsection shall be delivered to the corporation commission for
+filing. Within sixty days after the corporation commission approves the filing, either of the following must occur:
+(a)A copy of the
+articles of dissolution shall be published. An affidavit evidencing the
+publication may be filed with the corporation
+commission.
+(b)The corporation commission shall
+input the information regarding the approval into the database as prescribed by
+section 10-130. END_STATUTE
+Sec.11.Section 10-2143, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE10-2143.Dissolution
+A.A generation and transmission cooperative that
+has not commenced business may dissolve voluntarily by delivering to the
+corporation commission articles of dissolution, executed and acknowledged on
+behalf of the generation and transmission cooperative by a majority of the incorporators,
+which shall state:
+1.The name of the generation and transmission
+cooperative.
+2.The address of its principal office.
+3.The date of its incorporation.
+4.That the generation and transmission cooperative
+has not commenced business.
+5.That the amount, if any, actually paid in on
+account of membership fees, less any part disbursed for necessary expenses, has
+been returned to those entitled and that all easements have been released to
+the grantors.
+6.That no debt of the generation and transmission
+cooperative remains unpaid.
+7.That a majority of the incorporators elect that
+the generation and transmission cooperative be dissolved.The
+articles of dissolution shall be submitted to the corporation commission for
+filing as provided in this article.
+B.A generation and transmission cooperative that
+has commenced business may dissolve voluntarily and wind up its affairs in the
+following manner:
+1.The proposition that the generation and
+transmission cooperative be dissolved must be submitted to the members of the
+generation and transmission cooperative at any meeting.The meeting
+notice shall state the proposition. The proposed voluntary dissolution is
+deemed to be approved on the affirmative vote of not less than twothirds
+of those members acting through their voting delegates voting at the meeting.
+2.On approval, a certificate of election to
+dissolve, designated the "certificate", shall be executed by the
+generation and transmission cooperative.The certificate shall be
+submitted to the corporation commission for filing as provided in this article
+and shall state:
+(a)The name of the generation and transmission
+cooperative.
+(b)The address of its principal office.
+(c)The names and addresses of its directors.
+(d)The total number of voting delegates of the
+generation and transmission cooperative and the number of voting delegates who
+voted for and against the voluntary dissolution of the generation and
+transmission cooperative.
+3.On the filing of the certificate with the
+corporation commission, the generation and transmission cooperative shall cease
+to carry on its business except as is necessary for the winding up of business,
+but its corporate existence continues until articles of dissolution have been
+filed with the corporation commission.
+4.After the filing of the certificate with the
+corporation commission, the board of directors shall immediately mail notice of
+the winding up of proceedings to each known creditor and claimant and publish
+notice once a week for two successive weeks in a newspaper of general
+circulation in the county in which the principal office of the generation and
+transmission cooperative is located.
+5.The board of directors has full power to wind up
+and settle the affairs of the cooperative and shall proceed to collect the
+debts owing to the generation and transmission cooperative, convey and dispose
+of its property and assets, pay, satisfy and discharge its debts, obligations
+and liabilities and do all other things required to liquidate its business and
+affairs and, after paying or adequately providing for the payment of all its
+debts, obligations and liabilities, shall distribute the remainder of its
+property and assets among its members without priority in proportion to the
+aggregate patronage of each member during the seven years next preceding the
+date of filing the certificate, or, if the generation and transmission
+cooperative was not in existence for such period, during the period of its
+existence.
+6.When all debts, liabilities and obligations of
+the generation and transmission cooperative have been paid and discharged or
+adequate provision has been made for them, and all the remaining property and
+assets of the generation and transmission cooperative have been distributed to
+the members pursuant to this section, the board of directors shall authorize
+the execution of articles of dissolution.The articles of
+dissolution shall state:
+(a)The name of the generation and transmission
+cooperative.
+(b)The address of the principal office of the
+generation and transmission cooperative.
+(c)That the generation and transmission cooperative
+has previously delivered to the corporation commission a certificate of
+election to dissolve and the date on which the certificate was filed by the
+corporation commission.
+(d)That all debts, obligations and liabilities of
+the generation and transmission cooperative have been paid and discharged or
+that adequate provision has been made for them.
+(e)That all the remaining property and assets of
+the generation and transmission cooperative have been distributed among the
+members in accordance with this section.
+(f)That there are no actions or suits pending
+against the generation and transmission cooperative.
+7.The articles of dissolution prepared pursuant to
+paragraph 6 of this subsection shall be delivered to the corporation commission for
+filing. Within sixty days after the corporation commission approves the filing, either of the following must occur:
+(a)A copy of the
+articles of dissolution shall be published. An affidavit evidencing the
+publication may be filed with the corporation
+commission.
+(b)The corporation commission shall
+input the information regarding the approval into the database as prescribed by
+section 10-130. END_STATUTE
+Sec.12.Section 10-3203, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE10-3203.Incorporation
+A.Unless a delayed effective date is specified in
+the articles of incorporation, incorporation occurs and the corporate existence
+begins when the articles of incorporation and certificate of disclosure are
+delivered to the commission for filing.
+B.The commission's filing of the articles of
+incorporation and certificate of disclosure is conclusive proof that the
+incorporators satisfied all conditions precedent to incorporation except in a
+proceeding by the state to cancel or revoke the incorporation or involuntarily
+dissolve the corporation pursuant to chapter 37 of this title.
+C.Subject to section 103124, if the
+commission determines that the requirements of chapters 24 through 42 of this
+title for filing have not been met, the articles of incorporation and
+certificate of disclosure shall not be filed and the corporate existence terminates
+at the time the commission completes the determination.If the
+corporate existence is terminated pursuant to this subsection, sections 1011404,
+1011405 and 1011406 apply.
+D.Within sixty days after the commission approves
+the filing, either of the
+following must occur:
+1.A
+copy of the articles of incorporation shall be published. An affidavit
+evidencing the publication may be filed with the commission.
+2.The
+commission shall input the information regarding the approval into the database
+as prescribed by section 10-130. END_STATUTE
+Sec.13.Section
+10-11006, Arizona Revised Statutes, is amended to read:
+START_STATUTE10-11006.Articles of amendment
+A.A corporation
+amending its articles of incorporation shall deliver to the commission for
+filing articles of amendment setting forth:
+1.The name of the corporation.
+2.The text of each amendment adopted.
+3.The date of each amendment's adoption.
+4.A statement that the amendment was duly adopted
+by act of the members or act of the board of directors and, if applicable, with
+the approval required pursuant to section 1011030.
+B.Within sixty days after the commission approves
+the filing, either of the
+following must occur:
+1.A
+copy of the articles of amendment shall be published.An affidavit
+evidencing the publication may be filed with the commission.
+2.The
+commission shall input the information regarding the approval into the database
+as prescribed by section 10-130. END_STATUTE
+Sec.14.Section 10-11007, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE10-11007.Restated articles of incorporation
+A.A corporation's board of directors may restate
+its articles of incorporation at any time with or without approval by the
+members or any other person.
+B.The restatement may include one or more
+amendments to the articles of incorporation.If the restatement
+includes an amendment requiring approval by the members or any other person, it
+shall be adopted as provided in section 1011003.
+C.If the board of directors submits a restatement
+for member action, the corporation shall notify each member entitled to vote of
+the proposed membership meeting in writing in accordance with section 103705.The
+notice shall also state that the purpose or one of the purposes of the meeting
+is to consider the proposed restatement and shall contain or be accompanied by
+a copy or summary of the restatement that identifies any amendment or other
+change it would make in the articles.
+D.If the board of directors submits a restatement
+for member action by written ballot or written consent, the material that
+solicits the approval shall contain or be accompanied by a copy or summary of
+the restatement that also identifies any amendment or other change it would
+make in the articles of incorporation.
+E.A corporation restating its articles of
+incorporation shall deliver to the commission for filing articles of
+restatement setting forth the name of the corporation and the text of the
+restated articles of incorporation together with a certificate setting forth:
+1.Whether the restatement contains an amendment to
+the articles requiring approval by any other person other than the board of
+directors and, if it does not, that the board of directors adopted the
+restatement.
+2.If the restatement contains an amendment to the
+articles requiring approval by the members, a statement that such approval was
+obtained.
+3.If the restatement contains an amendment to the
+articles requiring approval by a person whose approval is required pursuant to
+section 1011030, a statement that such approval was obtained.
+F.Duly adopted restated articles of incorporation
+supersede the original articles of incorporation and all amendments to them.
+G.The commission may certify restated articles of
+incorporation, as the articles of incorporation currently in effect, without
+including the certificate information required by subsection E of this section.
+H.Within sixty days after the commission approves
+the filing, either of the
+following must occur:
+1.A
+copy of the articles of restatement shall be published.An affidavit
+evidencing the publication may be filed with the commission.
+2.The
+commission shall input the information regarding the approval into the database
+as prescribed by section 10-130. END_STATUTE
+Sec.15.Section 10-11008, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE10-11008.Amendment pursuant to reorganization
+A.A corporation's articles may be amended pursuant
+to this section without action by the board of directors or members or approval
+required pursuant to section 1011030 to carry out a plan of
+reorganization ordered or decreed by a court of competent jurisdiction under a
+federal statute or a statute of this state if the articles of incorporation
+after amendment contain only provisions required or permitted by section 103202.
+B.Before the date of entry of a final decree in the
+reorganization proceeding, the individual or individuals designated by the
+court plan shall deliver to the commission articles of amendment setting forth
+all of the following:
+1.The name of the corporation.
+2.The text of each amendment contained in the plan
+of reorganization.
+3.The date of the court's order or decree
+confirming the plan of reorganization containing the articles of amendment.
+4.The title of the reorganization proceeding in
+which the order or decree was entered.
+5.A statement that the court had jurisdiction of
+the proceeding under federal or state statute.
+C.This section does not apply after entry of a
+final decree in the reorganization proceeding even though the court retains
+jurisdiction of the proceeding for limited purposes unrelated to consummation
+of the reorganization plan.
+D.Within sixty days after the commission approves
+the filing, either of the
+following must occur:
+1.A
+copy of the articles of amendment shall be published.An affidavit
+evidencing the publication may be filed with the commission.
+2.The
+commission shall input the information regarding the approval into the database
+as prescribed by section 10-130. END_STATUTE
+Sec.16.Section 10-11105, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE10-11105.Statement of merger or interest
+exchange; publication or posting
+Within sixty days after the commission approves the filing, either of the following must occur:
+1.A
+copy of the statement of merger or interest exchange shall be
+published.An affidavit evidencing the publication may be filed with
+the commission.
+2.The
+commission shall input the information regarding the approval into the database
+as prescribed by section 10-130. END_STATUTE
+Sec.17.Section 10-11403, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE10-11403.Articles of dissolution
+A.At any time after dissolution is authorized, the
+corporation may dissolve by delivering to the commission articles of
+dissolution setting forth all of the following:
+1.The name of the corporation.
+2.The date dissolution was authorized.
+3.A statement that the dissolution was duly
+authorized by an act of the members or an act of the board of directors and, if
+applicable, with the approval required pursuant to section 1011402.
+B.A corporation is dissolved on the effective date
+of its articles of dissolution.
+C.The articles of dissolution shall not be
+considered complete until all fees, penalties and costs required to be paid
+under this title have been paid.
+D.Within sixty days after the commission approves
+the filing, either of the
+following must occur:
+1.A
+copy of the articles of dissolution shall be published.An affidavit
+evidencing the publication may be filed with the commission.
+2.The commission
+shall input the information regarding the approval into the database as
+prescribed by section 10-130.
+E.The articles of dissolution are not complete
+until the commission has received a notice from the department of revenue that
+the tax levied under title 42, chapter 5, article 1 against the corporation has
+been paid, or until the department of revenue notifies the commission that the
+corporation is not subject to the tax and the commission has received from the
+department of revenue a certificate issued by the department of revenue
+pursuant to section 431151. END_STATUTE
+Sec.18.Section 10-11503, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE10-11503.Application for certificate of authority
+A.A foreign corporation may apply for authority to
+conduct affairs in this state by delivering an application and a certificate of
+disclosure to the commission for filing. The certificate of disclosure shall
+contain the information set forth in section 103202, subsection D and is
+subject to the requirements of section 103202, subsection F. The
+application shall be executed by the corporation and shall set forth:
+1.The name of the foreign corporation and, if its
+name is unavailable for use in this state, a corporate name that satisfies the
+requirements of section 1011506.
+2.The name of the state or country under whose law
+it is incorporated.
+3.Its date of incorporation and period of duration.
+4.The street address of its principal office in its
+state or country of incorporation.
+5.The street address of the proposed known place of
+business of the corporation in this state and the name and street address of
+its proposed statutory agent in this state.
+6.If its purpose or purposes are narrower than the
+transaction of any or all lawful affairs in which corporations may engage in
+the state or country under whose law it is incorporated, a statement of the
+limitations on its purpose.
+7.The names and usual business addresses of its
+current directors and officers.
+8.Whether the foreign corporation has members.
+9.A brief statement of the character of business
+that the corporation initially intends actually to conduct in this
+state.This statement does not limit the character of business that
+the corporation ultimately conducts.
+B.The foreign corporation shall deliver the
+application and the certificate of disclosure to the commission, together with
+a copy of its articles of incorporation, any amendments to the articles of
+incorporation and a certificate of existence or a document of similar import
+duly authenticated by the secretary of state or other official having custody
+of corporate records in the state or country under whose law it is incorporated,
+and the nonrefundable fees required by law.
+C.After determining that the application sets forth
+the information required by this section, does not use as the name of the
+corporation in this state a name that is in violation of section 1011506
+and appears in all other respects to conform to the requirements of this
+article, the commission shall file the application. The date of filing shall
+be the date on which the corporation is granted authority to transact business
+in this state.
+D.Within sixty days after the commission approves
+the filing, either of the
+following must occur:
+1.A
+copy of the application shall be published.An affidavit evidencing
+the publication may be filed with the commission.
+2.The
+commission shall input the information regarding the approval into the database
+as prescribed by section 10-130.
+E.A foreign corporation authorized to transact
+business in this state is subject to section 1011623. END_STATUTE
+Sec.19.Section 10-11520, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE10-11520.Withdrawal of foreign corporation
+A.A foreign corporation authorized to conduct
+affairs in this state shall not withdraw from this state until the commission
+files its application for withdrawal.
+B.A foreign corporation authorized to conduct
+affairs in this state may apply to surrender the authority by delivering an
+application to the commission for filing.The application shall set
+forth:
+1.The name of the foreign corporation and the name
+of the state or country under whose law it is incorporated.
+2.That it is not conducting affairs in this state
+and that it surrenders its authority to conduct affairs in this state.
+3.That the foreign corporation revokes the
+authority of its statutory agent to accept service on its behalf and appoints
+the commission as its agent for service of process in any proceeding based on a
+cause of action arising during the time it was authorized to conduct affairs in
+this state.
+4.A mailing address to which the commission may
+mail a copy of any process served on the commission pursuant to its appointment
+as the foreign corporation's agent for service of process.
+5.A commitment to notify the commission in the
+future of any change in the foreign corporation's mailing address.
+C.The application for withdrawal is not considered
+complete until the commission has received a notice from the department of
+revenue to the effect that the tax levied under title 42, chapter 5, article 1
+against the foreign corporation has been paid or until it is notified by the
+department of revenue that the applicant is not subject to the tax and further
+has received from the department of revenue its certificate issued pursuant to
+section 431151.
+D.The application for withdrawal is not considered
+complete until all fees, penalties and costs required to be paid under this
+chapter have been paid.
+E.After determining that the application appears in
+all respects to conform to the requirements of this chapter and when all fees
+have been paid as are prescribed in this chapter, the commission shall file the
+application in the manner provided in section 103120.On the
+filing of the application for withdrawal, the authority of the foreign
+corporation to transact business in this state ceases.
+F.Within sixty days after the commission approves
+the filing, either of the
+following must occur:
+1.A
+copy of the application for withdrawal shall be published. An affidavit
+evidencing the publication may be filed with the commission.
+2.The
+commission shall input the information regarding the approval into the database
+as prescribed by section 10-130.
+G.After the withdrawal of the corporation is
+effective, service of process on the commission under this section is service
+on the foreign corporation. On receipt of process, the commission shall mail a
+copy of the process to the foreign corporation at the mailing address set forth
+in its application for withdrawal. END_STATUTE
+Sec.20.Section 29-633, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE29-633.Amendment of articles of organization;
+restatement; publication or posting
+A.The articles of organization of a limited
+liability company are amended by filing with the commission the articles of
+amendment, signed on behalf of the limited liability company by a manager if
+management of the limited liability company is vested in one or more managers
+or by a member if management of the limited liability company is reserved to
+the members.The articles of amendment shall set forth:
+1.The name of the limited liability company.
+2.The text of the amendment to the articles of
+organization.
+B.A limited liability company shall amend its
+articles of organization if there is a statement in the articles of
+organization that was false or erroneous when it was made or within thirty days
+after the occurrence of any of the following events:
+1.Any arrangements or facts have changed making the
+articles of organization inaccurate in any respect other than those changes
+required to be set forth in a statement delivered to the commission pursuant to
+section 29605.
+2.Management of the limited liability company is
+reserved to the members and there is a change in the persons who are members.
+3.Management of the limited liability company is
+vested in a manager or managers and there is a change in the persons who are
+managers or in the members who own a twenty per cent
+percent or greater
+interest in the capital or profits interest of the limited liability company.
+C.A limited liability company may amend its
+articles of organization if its articles of organization as amended contain
+only provisions that may be lawfully contained in the articles of organization
+at the time of making the amendment.In particular and without
+limitation on the general power of amendment, a limited liability company may
+amend its articles of organization to:
+1.Change the name of the limited liability company.
+2.Change, enlarge or diminish the purposes of the
+limited liability company.
+3.If management is reserved to the members of a
+limited liability company, vest management of the limited liability company in
+one or more managers.
+4.If management is vested in one or more managers,
+vest management of the limited liability company in the members.
+D.A limited liability company may restate its
+articles of organization. Restated articles of organization shall be executed
+and filed in the same manner as articles of amendment.Restated
+articles of organization shall be specifically designated as such in the
+heading and shall state either in the heading or in an introductory paragraph
+the limited liability company's present name and, if it has been changed, all
+of its former names.
+E.A limited liability company that has not amended
+its articles of organization as required by this section may not maintain an
+action upon on or on account of a contract or transaction
+made in the name of the limited liability company in any court of this state
+until it has first amended its articles of organization as required by this
+section.No person has any liability because an amendment to
+articles of organization has not been filed to reflect the occurrence of any
+event prescribed by subsection B of this section if the amendment is filed
+within the thirtyday period specified in subsection B of this section.
+F.Within sixty days after the commission approves
+the filing, either of the
+following must occur:
+1.A
+copy of the articles of amendment or restated articles of organization shall be
+published in a newspaper of general circulation in the county of the known
+place of business for three consecutive publications. An affidavit evidencing
+publication may be filed with the commission.
+2.The
+commission shall input the information regarding the approval into the database
+as prescribed by section 10-130.
+G.Publication or posting pursuant to subsection F of this section
+is not required if amendments to the articles of organization or restated
+articles of organization only change any of the following:
+1.The name or address of members or managers.
+2.The known place of business address.
+3.The name or address of the statutory agent. END_STATUTE
+Sec.21.Section 29-635, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE29-635.Formation of limited liability company
+A.Except as provided in section 29634,
+subsection D, a limited liability company is formed when the articles of
+organization are delivered to the commission for filing, even if the commission
+is unable to make the determination required for filing by section 29634,
+subsection A at the time of delivery.If the articles of
+organization, as delivered to the commission, do not conform to the filing
+provisions of this chapter and are not brought into conformance within the time
+period prescribed by section 29634, subsection C, paragraph 2, the
+existence of the limited liability company terminates at the end of the time
+period.
+B.A copy of the articles of organization that is
+filed with the commission and that is stamped "filed" and marked with
+the filing date is conclusive evidence that all conditions precedent required
+to be performed by the organizers have been complied with and that the limited
+liability company has been legally organized and formed under this
+chapter.A limited liability company continues perpetually unless
+otherwise provided in its articles of organization or operating agreement or
+until the limited liability company is dissolved and terminated in accordance
+with this chapter.
+C.Within sixty days after the commission approves
+the filing, either of the
+following must occur:
+1.There
+shall be published in a newspaper of general circulation in the county of the
+known place of business, for three consecutive publications, a notice of the
+filing of such articles of organization consisting of the information required
+in section 29632, subsection A, paragraphs 1, 2, 3, 5 and 6. An
+affidavit evidencing publication may be filed with the commission.
+2.The
+commission shall input the information regarding the approval into the database
+as prescribed by section 10-130. END_STATUTE
+Sec.22.Section 29-754, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE29-754.Statement of merger or other
+transaction; publication or posting
+A. A statement of merger, conversion, domestication
+or division shall serve as articles of termination for a domestic limited
+liability company that is not the surviving or resulting business entity in a
+transaction.
+B.If a statement of merger includes amendments to
+the articles of organization of a domestic limited liability company, the
+document shall be published as provided in section 29633 or the commission shall input the
+information into the database as prescribed by section 10-130.The
+document required to be filed and published or posted shall be styled "statement of
+merger". 
+END_STATUTE
+Sec.23.Effective
+date
+This act is effective from and after December 31, 2016.
+

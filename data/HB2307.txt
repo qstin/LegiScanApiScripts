@@ -1,0 +1,527 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: anatomical gifts; procurement
+  organizations; licensure
+
+
+
+
+
+
+
+State of Arizona
+House of Representatives
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+HB 2307
+
+
+
+
+
+
+
+
+
+Introduced by
+Representatives
+  Cobb, Borrelli: Shope
+
+
+
+
+
+AN ACT
+
+Amending sections
+36414, 36841, 36848 and 36850, Arizona Revised
+Statutes; amending title 36, chapter 7, article 3, Arizona Revised Statutes, by
+adding sections 36851.01 and 36851.02; amending sections 36852,
+36853 and 36860, Arizona Revised Statutes; relating to the
+revised uniform anatomical gift act.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 36-414, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE36-414.Health services licensing fund; exemption
+A.The health services licensing fund is established
+consisting of monies deposited pursuant to sections 36405, 36851.01, 36882,
+36897.01 and 361903.The department of health services
+shall administer the fund.
+B.Monies in the fund are subject to legislative
+appropriation.
+C.Monies in the fund are exempt from the provisions
+of section 35190 relating to lapsing of appropriations. END_STATUTE
+Sec.2.Section 36-841, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE36-841.Definitions
+In this article, unless the context otherwise requires:
+1."Adult" means an individual who is at
+least eighteen years of age.
+2."Agent" means an individual who is
+either:
+(a)Authorized to make health care decisions on the
+principal's behalf pursuant to a health care power of attorney.
+(b)Expressly authorized to make an anatomical gift
+on the principal's behalf pursuant to any other record signed by the principal.
+3."Anatomical gift" means a donation of
+all or part of a human body to take effect after the donor's death for the
+purpose of transplantation, therapy, research or education.
+4."Decedent" means a deceased individual
+whose body or part is or may be the source of an anatomical gift. Decedent
+includes a stillborn infant and, subject to restrictions imposed by any other
+law, a fetus.
+5."Disinterested witness" means a witness
+other than the spouse, child, parent, sibling, grandchild, grandparent or
+guardian of the individual who makes, amends, revokes or refuses to make an
+anatomical gift, or another adult who exhibited special care and concern for
+the individual. Disinterested witness does not include a person to which an
+anatomical gift could pass pursuant to section 36850.
+6."Document of gift" means a donor card
+or other record that is used
+to make an anatomical gift. Document of gift includes a statement or symbol on
+a driver license, identification card or donor registry.
+7."Donor" means an individual whose body
+or part is the subject of an anatomical gift.
+8."Donor registry" means a database that
+contains records of anatomical gifts.
+9."Driver license" means a license or
+permit that is issued
+pursuant to title 28 to operate a vehicle, whether or not conditions are
+attached to the license or permit.
+10."Eye bank" means a person that is
+licensed or regulated under
+federal or state law or and that is accredited by a nationally
+recognized accrediting agency to engage in the recovery, screening, testing,
+processing, storage or distribution of human eyes or portions of human eyes.
+11."Guardian" means a person who is
+appointed by a court to make decisions regarding the support, care, education,
+health or welfare of an individual. Guardian does not include a guardian ad
+litem.
+12."Hospital" means a facility that is
+licensed as a hospital under the laws of any state or that is operated as a
+hospital by the United States, a state or a subdivision of a state.
+13."Identification card" means an a nonoperating identification card license
+that is issued by the motor vehicle division of the department of
+transportation.
+14."Know" means to have actual knowledge.
+15."Minor" means an individual who is
+under eighteen years of age.
+16."Organ procurement organization" means
+a person that is licensed under state
+law, that is accredited by a nationally recognized accrediting agency and that
+is designated by the secretary of the United States department of
+health and human services as an organ procurement organization.
+17."Parent" means a parent whose parental
+rights have not been terminated.
+18."Part" means an organ, eye or tissue
+of a human being. Part does not include the whole body.
+19."Person" means an individual,
+corporation, business trust, estate, trust, partnership, limited liability
+company, association, joint venture, public corporation, government or
+governmental subdivision, agency or instrumentality, or any other legal or
+commercial entity.
+20."Physician" means an individual who is licensed as a physician
+pursuant to title 32, chapter 13 or 17.
+21."Principal" means a person who is the
+subject of a health care power of attorney.
+22."Procurement organization" means any of the following that is licensed
+pursuant to section 36851.01:
+(a)An organ procurement organization.
+(b)A tissue bank for the recovery of tissues for transplantation, therapy,
+research or education.
+(c)An eye bank.
+(d)A storage facility that is licensed, accredited or approved under federal law or the laws of any state by a nationally recognized accrediting
+agency to engage in the recovery, screening, testing, processing,
+storage or distribution of human bodies or parts.
+23."Prospective donor" means an
+individual who is dead or near death and who has been determined by a
+procurement organization to have a part that could be medically suitable for
+transplantation, therapy, research or education. Prospective donor does not
+include an individual who has made a refusal.
+24."Reasonably available" means able to
+be contacted by a procurement organization without undue effort and willing and
+able to act in a timely manner consistent with existing medical criteria
+necessary for the making of an anatomical gift.
+25."Recipient" means an individual into
+whose body a decedent's part has been or is intended to be transplanted.
+26."Record" means information that is
+inscribed on a tangible medium or that is stored in an electronic or other
+medium and is retrievable in perceivable form.
+27."Refusal" means a record created
+pursuant to section 36846 that expressly states an intent to bar other
+persons from making an anatomical gift of an individual's body or part.
+28."Sign", with respect to the present
+intent to authenticate or adopt a record, means either:
+(a)To execute or adopt a tangible symbol.
+(b)To attach to or logically associate with the
+record an electronic symbol, sound or process.
+29."State" means a state of the United States,
+the District of Columbia, Puerto Rico, the United States Virgin Islands or any
+territory or insular possession subject to the jurisdiction of the United
+States.
+30."Technician" means an individual who
+is determined to be qualified to remove or process parts by an appropriate
+organization that is licensed or regulated under federal or state law or is
+accredited by a nationally recognized accrediting agency. Technician includes
+an enucleator.
+31."Tissue" means all or a portion of the
+human body other than blood, an organ or an eye unless the blood, organ or eye
+is donated for the purpose of transplantation,
+research or education.
+32."Tissue bank" means a person that is
+licensed or regulated under
+federal or state law or and that is accredited as a tissue bank by a
+nationally recognized accrediting agency organization to engage in the
+recovery, screening, testing, processing, storage or distribution of tissue for transplantation, therapy, research or
+education.
+33."Transplant hospital" means a hospital
+that furnishes organ transplants and other medical and surgical specialty
+services required for the care of transplant patients. END_STATUTE
+Sec.3.Section 36-848, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE36-848.Who may make anatomical gift of decedent's body or part
+A.Subject to the requirements of subsections B and
+C of this section, and unless barred pursuant to section 36846 or 36847,
+an anatomical gift for transplantation, therapy, research or education may be
+made by any member of the following classes of persons who is reasonably
+available, in the order of priority listed:
+1.An agent of the decedent at the time of death who
+could have made an anatomical gift pursuant to section 36843 immediately
+before the decedent's death.
+2.The decedent's spouse.
+3.The decedent's adult children.
+4.The decedent's parents.
+5.If the decedent is unmarried, the decedent's
+domestic partner, if another person had not assumed financial responsibility
+for the decedent.
+6.The decedent's adult siblings.
+7.The decedent's adult grandchildren.
+8.The decedent's grandparents.
+9.An adult who exhibited special care and concern
+for the decedent.
+10.The persons who were acting as the guardians of
+the person of the decedent at the time of death.
+11.Any other person who has the authority to
+dispose of the decedent's body.
+B.If there is more than one member of a class that
+is listed in subsection A, paragraph 1, 3, 4, 5, 6, 7, 8 or 10 of this section
+who is entitled to make an anatomical gift, an anatomical gift may be made by a
+member of the class unless that member or a person to which the gift may pass
+pursuant to section 36850 knows of an objection by another member of the
+class. If an objection is known, the gift may be made only by a majority of
+the members of the class who are reasonably available.
+C.A person may not make an anatomical gift if, at
+the time of the decedent's death, a person in a prior class pursuant to
+subsection A of this section is reasonably available to make or to object to
+the making of an anatomical gift.
+D.If the decedent's body is not within the custody
+of the county medical examiner, the county health officer may release and
+permit the removal of any part from the body in the county health officer's
+custody for transplantation, therapy, education or research if the requirements
+of section 36860, subsection A, B are met. END_STATUTE
+Sec.4.Section 36-850, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE36-850.Persons who may receive anatomical gifts; purpose of
+anatomical gift
+A.An anatomical gift may be made to the following
+named in the document of gift:
+1.An organ procurement organization.
+2.A hospital, accredited medical school, dental
+school, college, university, or procurement organization or
+any other appropriate person, for research or education.
+3.Subject to the requirements of subsection B of
+this section, an individual designated by the person making the anatomical gift
+if the individual is the recipient of the part.
+4.An eye bank or a tissue bank.
+B.If an anatomical gift to an individual pursuant
+to subsection A, paragraph 3 of this section cannot be transplanted into the
+individual, the part passes pursuant to subsection G
+H of this section in the absence of an express contrary
+indication by the person making the anatomical gift.
+C.If an anatomical gift of one or more specific
+parts or of all parts is made in a document of gift that does not name a person
+described in subsection A of this section but that identifies the purpose for
+which an anatomical gift may be used, the gift passes:
+1.To the appropriate eye bank if the part is an eye
+and the gift is for the purpose of transplantation or therapy.
+2.To the appropriate tissue bank if the part is
+tissue and the gift is for the purpose of transplantation or therapy.
+3.To the organ procurement organization as
+custodian of the organ if the part is an organ and the gift is for the purpose
+of transplantation or therapy.
+4.To the appropriate procurement organization if
+the part is an organ, an eye or tissue and the gift is for the purpose of
+research or education.
+D.If an
+anatomical gift is suitable for transplantation and the procurement
+organization is unable or unwilling to recover the tissue, the procurement
+organization shall refer the gift and all relevant donation information to
+another procurement organization in a manner that ensures the gift is recovered
+for transplantation.
+D.E.For
+the purposes of subsection C of this section, if there is more than one purpose
+of an anatomical gift stated in the document of gift but the purposes are not
+stated in any priority, the gift must be used for transplantation or therapy,
+if suitable. If the gift cannot be used for transplantation or therapy, the
+gift may be used for research or education.
+E.F.If an
+anatomical gift of one or more specific parts is made in a document of gift
+that does not name a person described in subsection A of this section and does
+not identify the purpose of the gift, the gift may be used only for
+transplantation or therapy and the gift passes pursuant to subsection G H of this section.
+F.G.If a
+document of gift specifies only a general intent to make an anatomical gift by
+words such as "donor", "organ donor" or "body
+donor", or by a symbol or statement of similar import, the gift may be
+used only for transplantation or therapy and the gift passes pursuant to
+subsection G H of this section.
+G.H.For
+the purposes of subsections B, E F and F
+G of this section:
+1.If the part is an eye, the gift passes to the
+appropriate eye bank.
+2.If the part is tissue, the gift passes to the
+appropriate tissue bank.
+3.If the part is an organ, the gift passes to the
+organ procurement organization as custodian of the organ.
+H.I.An
+anatomical gift of an organ for transplantation or therapy, other than an anatomical
+gift pursuant to subsection A, paragraph 3 of this section, passes to the organ
+procurement organization as custodian of the organ.
+I.J.If an
+anatomical gift does not pass pursuant to subsection A, B, C, D, E, F, G, or H or
+I of this section or the decedent's body or part is not used for
+transplantation, therapy, research or education, custody of the body or part
+passes to the person who is under an obligation to dispose of the body or part pursuant
+to section 36831.
+J.K.A
+person may not accept an anatomical gift if the person knows that the gift was
+not effectively made pursuant to section 36844 or 36849 or if the
+person knows that the decedent made a refusal pursuant to section 36846
+that was not revoked. For the purposes of this subsection, if a person knows
+that an anatomical gift was made in a document of gift, the person is deemed to
+know of any amendment of the gift, revocation of the gift or refusal to make an
+anatomical gift in the same document of gift.
+K.L.Except
+as otherwise provided in subsection A, paragraph 3 of this section, this
+article does not affect the allocation of organs for transplantation or
+therapy. END_STATUTE
+Sec.5.Title 36, chapter 7, article 3, Arizona
+Revised Statutes, is amended by adding sections 36-851.01 and 36851.02,
+to read:
+START_STATUTE36-851.01.Procurement organizations; licensure; renewal; fees;
+penalties
+A.A person
+may not act as a procurement organization in this state unless the person is
+licensed by the department of health services as a procurement organization.
+The person shall apply in writing to the director of the department on a form
+specified by the director, shall include all information requested in the
+application and shall pay the fees prescribed by the director.
+B.The
+director shall grant a procurement organization license to a person If the
+organization either is registered or regulated by the federal government and is
+subject to inspection or meets the requirements prescribed in section 36851.02
+and the rules adopted by the department.
+C.A license
+under this section is valid for two years and must be renewed every two years.
+A person shall file an application for renewal at least thirty days before the
+expiration of the current license.
+D.Each
+procurement organization applying for licensure or renewal under this section
+shall pay all applicable fees as prescribed by the director. All fees
+collected pursuant to this section for the licensure and renewal of procurement
+organizations shall be deposited in the health services licensing fund
+established by section 36414.
+E.The
+director may sanction, impose civil penalties on or, pursuant to title 41,
+chapter 6, article 10, suspend or revoke, in whole or in part, the license of
+any procurement organization if any person who is an owner, officer, agent or
+employee of the procurement organization is in or continues to be in violation
+of this article or the rules of the department of health services adopted
+pursuant to this article.END_STATUTE
+START_STATUTE36-851.02.Procurement organizations; requirements; records
+Each procurement organization shall do all of the following:
+1.Designate a medical director who is a
+physician licensed pursuant to title 32, chapter 13 or 17 and who provides
+medical guidance to determine donor eligibility.
+2.Employ a
+director who holds at least a bachelor's degree in a related science from an
+accredited university and who is responsible for all licensed activities of the
+organization.
+3.Implement
+and maintain all of the following:
+(a)Standard operating procedures
+for all licensed functions of the organization.
+(b)A safety awareness and bloodborne
+pathogen training program that complies with state and federal law.
+(c)a cleaning program that
+mitigates potential crosscontamination between donors.
+4.Provide a
+designated area for tissue recovery that:
+(a)Is open to inspection by the
+department of health services with or without notice.
+(b)Does not operate in a funeral
+establishment for the recovery of whole bodies for medical research and
+education.
+5.Properly
+track donors and label tissue by doing both of the following:
+(a)Assigning a unique identifying
+number to each donor and using this number for all tissue from that donor that
+is recovered and distributed.
+(b)Affixing labels with the
+following information on all nontransplant tissue specimens:
+(i)A statement that universal
+precautions will be used.
+(ii)A statement that the specimen is
+not for transplant or clinical use.
+(iii)Any condition or limitation
+regarding the use of the specimen.
+(iv)Contact information for the
+procurement organization.
+6.Maintain
+the following records for ten years after the last date of tissue distribution:
+(a)A copy or recorded consent of
+the donation authorization.
+(b)A copy of the donor's death
+certificate and transit permit issued by the state where the death occurred.
+(c)A copy of the donor's physical
+assessment and risk assessment questionnaire.
+(d)A copy of the donor's
+serological results, when applicable.
+(e)A copy of all documentation
+relating to tissue recovery, storage and distribution activities. END_STATUTE
+Sec.6.Section
+36-852, Arizona Revised Statutes, is amended to read:
+START_STATUTE36-852.Rights and duties of procurement organizations and others
+A.When a hospital
+refers an individual who is at
+or near death to an organ procurement organization, the organization shall make
+a reasonable search of the records of any donor registry that it knows exists
+for the geographical area in which the individual resides to determine if the
+individual has made an anatomical gift.
+B.A procurement organization must be allowed reasonable Direct access to all of the information in the records of the
+donor registry to determine if an individual who is at or near death is a donor.
+C.When a hospital refers an individual who is at or near death to an
+organ procurement organization, the organ procurement organization or the
+appropriate eye bank or tissue bank may conduct any reasonable examination
+necessary to ensure the medical suitability of a part that is or could be the
+subject of an anatomical gift for transplantation, therapy, research or
+education from a donor or a prospective donor. During the examination period,
+measures necessary to ensure the medical suitability of the part may not be
+withdrawn unless the hospital or procurement organization knows that the
+individual expressed a contrary intent.
+D.Unless otherwise prohibited by law, at any time
+after a donor's death, the person to which a part passes pursuant to section 36850
+may conduct any reasonable examination necessary to ensure the medical
+suitability of the body or part for its intended purpose.
+E.Unless otherwise prohibited by law, an
+examination pursuant to subsection C or D of this section may include an
+examination of all medical and dental records of the donor or prospective
+donor.
+F.On the death of a minor who was a donor or who
+had signed a refusal, unless a procurement organization knows the minor is
+emancipated, the appropriate procurement organization shall conduct a
+reasonable search for the parents of the minor and provide the parents with an
+opportunity to revoke or amend the anatomical gift or revoke the refusal.
+G.On referral by a hospital pursuant to subsection
+A of this section, the appropriate procurement organization must make a
+reasonable search for any person listed in section 36848 who has
+priority to make an anatomical gift on behalf of a prospective donor. If a
+procurement organization receives information that an anatomical gift to any
+other person was made, amended or revoked, it the
+organization shall promptly advise the other person of all
+relevant information.
+H.Subject to the requirements of section 36850,
+subsection I J and section 36861,
+the rights of the person to which a part passes pursuant to section 36-850 are
+superior to the rights of all others with respect to the part. The person may
+accept or reject an anatomical gift in whole or in part. Subject to the terms
+of the document of gift and this article, a person who accepts an anatomical
+gift of an entire body may allow embalming, burial or cremation and use of
+remains in a funeral service.If the gift is of a part, the person
+to which the part passes pursuant to section 36850, on the death of the
+donor and before embalming, burial or cremation, shall cause the part to be
+removed without unnecessary mutilation.
+I.The physician who attends the decedent at death
+and the physician who determines the time of the decedent's death may not
+participate in the procedures for removing or transplanting a part from the
+decedent.
+J.A physician or technician may remove a donated
+part from the body of a donor that the physician or technician is qualified to
+remove. END_STATUTE
+Sec.7.Section 36-853, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE36-853.Coordination of procurement and use
+A.Each hospital in this state shall enter into one or more agreements or affiliations
+a contract with all procurement organizations in this state that request a contract for the coordination of procurement and use of
+anatomical gifts to ensure that all
+donation opportunities are recovered.
+B.If there has been an anatomical gift, the
+institution where the removal of any donated parts occurs shall notify the
+funeral director or the person acting in that capacity who first assumes
+custody of the body about the removal of the body parts. END_STATUTE
+Sec.8.Section 36-860, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE36-860.County medical examiners; authorization
+A.Each
+county medical examiner in this state shall enter into a contract with all
+procurement organizations in this state that request a contract for the
+coordination of procurement and use of anatomical gifts to ensure that all
+donation opportunities are recovered.
+A. B.The medical
+examiner or individual legally delegated that authority may release and permit
+the removal of a part from or all of a body within the custody of that official
+for transplantation, therapy, research or education pursuant to title 11,
+chapter 3, article 12 if the part is the subject of an anatomical gift and:
+1.A request has been received from a procurement
+organization.
+2.The organ procurement organization has made a
+reasonable effort, taking into account the useful life of the part, to locate
+and examine the decedent's medical records and, if the decedent has not
+executed a document of gift or has not refused to make an anatomical gift,
+inform persons listed in section 36-848, subsection A, of the person's option to make or object to
+making an anatomical gift.
+3.The official does not know of a refusal by the
+decedent or an objection by a person having priority to act as listed in
+section 36-848, subsection A.
+4.The removal will be by a physician, surgeon or
+trained technician.
+5.The removal will be in accordance with accepted
+medical standards.
+6.The removal will not interfere with any death
+investigation.
+7.Cosmetic restoration will be done, if
+appropriate.
+B.C.An
+official who releases and permits the removal of a part shall maintain a
+permanent record of the name of the decedent, the person making the request,
+the date and purpose of the request, the part requested and the person to whom
+it was released. END_STATUTE
+Sec.9.Department of health services; rulemaking exemption
+For the purposes of implementing this act, the department of
+health services shall adopt rules relating to the licensure of procurement
+organizations and enforcement of those provisions. The department is exempt
+from the rulemaking requirements of title 41, chapter 6, Arizona Revised
+Statutes, for one year after the effective date of this act.
+

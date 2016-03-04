@@ -1,0 +1,99 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: income tax; college tuition deduction
+
+
+
+
+
+
+
+State of Arizona
+Senate
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+SB 1215
+
+
+
+
+
+
+
+
+
+Introduced by
+Senators
+  Bradley, Begay, Cajero Bedford, Hobbs, Meza, Miranda, Pancrazi;
+  Representative Saldate: Senators Barto, Dalessandro; Representatives Friese,
+  Mach
+
+
+
+
+
+AN ACT
+
+Amending section
+43-1042, Arizona Revised Statutes; relating to income tax itemized deductions.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 43-1042, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE43-1042.Itemized deductions
+A.Except as provided by subsections B and D of this
+section, at the election of the taxpayer, and in lieu of the standard deduction
+allowed by section 431041, in computing taxable income the taxpayer may
+take the amount of itemized deductions allowable for the taxable year pursuant
+to subtitle A, chapter 1, subchapter B, parts VI and VII, but subject to the
+limitations prescribed by sections 67, 68 and 274, of the internal revenue code.
+B.In lieu of the amount of the federal itemized
+deduction for expenses paid for medical care allowed under section 213 of the
+internal revenue code, the taxpayer may deduct the full amount of such
+expenses.
+C.Notwithstanding subsection B of this section,
+expenses for longterm health care that are paid or reimbursed from the
+taxpayer's longterm health care savings account pursuant to section 431032
+shall not be deducted pursuant to this section.
+D.A taxpayer shall not claim both a deduction
+provided by this section and a credit allowed by this title with respect to the
+same charitable contributions.
+E.The taxpayer may add any interest expense paid by
+the taxpayer for the taxable year that is equal to the amount of federal credit
+for interest on certain home mortgages allowed by section 25 of the internal
+revenue code.
+F.For
+taxable years beginning from and after December 31, 2016, in addition to the
+other itemized deductions allowed by this section, in computing taxable income
+a qualifying taxpayer may deduct expenses, but not more than two thousand five
+hundred dollars, paid by the taxpayer during the taxable year for tuition to a university
+under the jurisdiction of the Arizona board of regents or to a community
+college under the jurisdiction of a community college district in this state.
+For the purposes of this subsection, "qualifying taxpayer" means a
+taxpayer whose Arizona adjusted gross income for the taxable year does not
+exceed:
+1.Eighty
+thousand dollars for a single individual or a head of household.
+2.One
+hundred sixty thousand dollars for a married couple filing a joint return. END_STATUTE
+

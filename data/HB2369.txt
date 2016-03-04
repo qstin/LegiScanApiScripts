@@ -1,0 +1,2111 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: forfeiture; criminal conviction;
+  procedures; remedies 
+
+
+
+
+
+
+
+State of Arizona
+House of Representatives
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+HB 2369
+
+
+
+
+
+
+
+
+
+Introduced by
+Representatives
+  Thorpe, Barton: Cobb, Finchem, Townsend
+
+
+
+
+
+AN ACT
+
+amending sections
+11584, 12-348, 12-349, 132301, 132314, 132314.01,
+132314.03, 134304, 134305, 134306 and 134308,
+Arizona Revised Statutes; repealing section 134309, Arizona Revised
+Statutes; amending title 13, chapter 39, Arizona Revised Statutes, by adding a
+new section 13-4309; amending sections 134310, 134311, 134312,
+134314 and 13-4315, Arizona Revised Statutes; relating to forfeiture.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 11-584, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE11-584.Public defender; duties; reimbursement
+A.The public defender shall, on order of the court, shall defend, advise and counsel any person
+who is entitled to counsel as a matter of law and who is not financially able
+to employ counsel in the following proceedings and circumstances:
+1.Offenses triable in the superior court or justice
+courts at all stages of the proceedings, including the preliminary examination.
+2.Extradition hearings.
+3.Mental disorder hearings only if appointed by the
+court under title 36, chapter 5.
+4.Involuntary commitment hearings held pursuant to
+title 36, chapter 18, only if appointed by the court.
+5.Involuntary commitment hearings held pursuant to
+title 36, chapter 37, if appointed by the court as provided in section 363704,
+subsection C and the board of supervisors has advised the presiding judge of
+the county that the public defender is authorized to accept these appointments.
+6.Juvenile delinquency and incorrigibility
+proceedings only if appointed by the court under section 8221.
+7.Appeals to a higher court or courts.
+8.All juvenile proceedings other than delinquency
+and incorrigibility proceedings under paragraph 6 of this subsection, including
+serving as a guardian ad litem, if appointed by the court pursuant to section 8221
+and the board of supervisors has advised the presiding judge of the county that
+the public defender is authorized to accept these appointments.
+9.All mental health hearings regarding release
+recommendations held before the psychiatric security review board pursuant to
+section 133994, if appointed by the court as provided in section 31502,
+subsection A, paragraph 8 and the board of supervisors has advised the
+presiding judge of the superior court in the county that the public defender is
+authorized to accept these appointments.
+10.As attorneys in any other proceeding or
+circumstance in which a party is entitled to counsel as a matter of law if the
+court appoints the public defender and the board of supervisors has advised the
+presiding judge of the county that the public defender is authorized to accept
+these appointments as specified.
+11.All
+forfeiture proceedings held pursuant to title 13.
+B.The public defender shall perform the following
+duties:
+1.Keep a record of all services rendered by the
+public defender in that capacity and file with the board of supervisors an
+annual report of those services.
+2.By December 1 of each year, file with the
+presiding judge of the superior court, the chief probation officer and the
+board of supervisors an annual report on the average cost of defending a felony
+case.
+C.Although the services of the public defender or
+court appointed counsel shall be without expense to the defendant, the
+juvenile, a parent or any other party, the court may make the following
+assessments:
+1.Order an indigent administrative assessment of
+not more than twentyfive dollars.
+2.Order an administrative assessment fee of not
+more than twentyfive dollars to be paid by the juvenile or the
+juvenile's parent or guardian.
+3.Require that the defendant, including a defendant
+who is placed on probation, a juvenile, a parent or any other party who is
+appointed counsel under subsection A of this section repay to the county a
+reasonable amount to reimburse the county for the cost of the person's legal
+services. Reimbursement for legal services in a delinquency, dependency or termination
+proceeding shall be ordered pursuant to section 8221. Reimbursement for
+legal services in a guardianship or conservatorship proceeding shall be ordered
+pursuant to section 14-5414.
+D.In determining the amount and method of payment
+the court shall take into account the financial resources of the defendant and
+the nature of the burden that the payment will impose.
+E.Assessments collected pursuant to subsection C of
+this section shall be paid into the county general fund in the account designed
+for use solely by the public defender and court appointed counsel to defray the
+costs of public defenders and court appointed counsel. The assessments shall
+supplement, not supplant, funding provided by counties for public defense,
+legal defense and contract indigent defense counsel in each county.END_STATUTE
+Sec.2.Section 12-348, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE12-348.Award of fees and other expenses against the state or a
+city, town or county; reduction or denial of award; application; basis for
+amount of award; source of award; definitions
+A.In addition to any costs that are awarded as
+prescribed by statute, a court shall award fees and other expenses to any party
+other than this state or a city, town or county that prevails by an
+adjudication on the merits in any of the following:
+1.A civil action brought by this state or a city,
+town or county against the party.
+2.A court proceeding to review a state agency
+decision pursuant to chapter 7, article 6 of this title or any other statute
+authorizing judicial review of agency, city, town or county decisions.
+3.A proceeding pursuant to section 411034.
+4.A special action proceeding brought by the party
+to challenge an action by this state or a city, town or county against the
+party.
+5.An appeal by this state to a court of law from a
+decision of the personnel board under title 41, chapter 4, article 6.
+6.A civil
+action brought by the party to challenge to the seizure and sale of personal property
+by this state or a city, town or county.
+B.In addition to any costs that are awarded as
+prescribed by statute, except as provided in subsection C of this section, a
+court may award fees and other expenses to any party, other than this state or
+a city, town or county, that prevails by an adjudication on the merits in an
+action brought by the party against this state or a city, town or county
+challenging:
+1.The assessment, collection or refund of taxes or
+in an action brought by this state or a city, town or county against the party
+to enforce the assessment or collection of taxes or the denial of a refund.
+2.The adequacy or regularity of notice of
+delinquent taxes.
+3.The regularity of sales of property for
+delinquent taxes.
+C.The court in its discretion may deny the award
+provided for in this section or may reduce the award if it finds that any of
+the following applies:
+1.During the course of the proceeding the prevailing
+party unduly and unreasonably protracted the final resolution of the matter.
+2.The reason that the party other than this state
+or a city, town or county has prevailed is an intervening change in the
+applicable law.
+3.The prevailing party refused an offer of civil
+settlement that was at least as favorable to the party as the relief ultimately
+granted.
+D.A party may apply
+pursuant to the applicable procedural rules for an award of attorney fees and
+other expenses authorized under this section and shall include as part of the
+application evidence of the party's eligibility for the award and the amount
+sought, including an itemized statement from the attorneys and experts stating
+the actual time expended in representing the party and the rate at which the
+fees were computed.
+E.The court shall base any award of fees as
+provided in this section on prevailing market rates for the kind and quality of
+the services furnished, except that:
+1.An expert is not eligible for compensation at a
+rate in excess of the highest rate of compensation for experts paid by this
+state or a city, town or county except for awards made pursuant to subsection B
+of this section.
+2.Except for awards made pursuant to subsection B
+of this section, the award of attorney fees may not exceed the amount that the
+prevailing party has paid or has agreed to pay the attorney or a maximum amount
+of seventyfive dollars per hour unless the court determines that an
+increase in the cost of living or a special factor, such as the limited availability
+of qualified attorneys for the proceeding involved, justifies a higher fee.
+3.For awards made pursuant to subsection B of this
+section, the award of attorney fees may not exceed the amount that the
+prevailing party has paid or agreed to pay the attorney or a maximum amount of
+three hundred fifty dollars per hour.
+4.Except for awards made pursuant to subsection B
+of this section, an award of fees against a city, town or county as provided in
+this section shall not exceed ten thousand dollars.
+5.For awards made pursuant to subsection B of this
+section, an award of fees against this state or a city, town or county shall
+not exceed seventy-five thousand dollars for fees incurred at each level of
+judicial appeal.
+6.For each calendar year beginning from and after
+December 31, 2015, the attorney general
+shall adjust the income dollar amounts for maximum awards made
+pursuant to subsections subsection B and E of this section shall be adjusted by the attorney general and paragraphs 2, 3, 4 and 5 of this
+subsection according to the average annual change in the
+metropolitan Phoenix consumer price index published by the United States bureau
+of labor statistics.The revised dollar amounts shall be raised to
+the nearest whole dollar.The income dollar amounts may not be
+revised below the amounts prescribed in the prior calendar year.
+F.The particular state agency over which a party
+prevails shall pay the fees and expenses awarded as provided in this section
+from any monies appropriated to the agency for that purpose. If no agency is
+involved or if an agency fails or refuses to pay fees and other expenses within
+thirty days after demand by a person who has received an award pursuant to this
+section, and if no further review or appeals of the award are pending, the
+person may file a claim for the fees and other expenses with the department of
+administration, which shall pay the claim within thirty days, in the same
+manner as an uninsured property loss under title 41, chapter 3.1, article 1.
+If, at the time the agency failed or refused to pay the award, it had
+appropriated monies either designated or assignable for the purpose of paying
+awards, the legislature shall reduce the agency's operating appropriation for
+the following year by the amount of the award and shall appropriate the amount
+of the reduction to the department of administration as reimbursement for the
+loss.
+G.A city, town or county shall pay fees and
+expenses awarded as provided in this section within thirty days after demand by
+a party who has received an award if no further review or appeal of the award
+is pending.
+H.This section does not:
+1.Apply to an action arising from a proceeding
+before this state or a city, town or county in which the role of this state or
+a city, town or county was to determine the eligibility or entitlement of an
+individual to a monetary benefit or its equivalent, to adjudicate a dispute or
+issue between private parties or to establish or fix a rate.
+2.Apply to proceedings brought by this state
+pursuant to title 13 or28.This paragraph does apply to a forfeiture proceeding
+pursuant to title 13, chapter 39.
+3.Entitle a party to obtain fees and other expenses
+incurred in making an application for an award pursuant to this section for
+fees and other expenses.
+4.Apply to proceedings involving eminent domain,
+foreclosure, collection of judgment debts or proceedings in which this state or
+a city, town or county is a nominal party.
+5.Personally obligate any officer or employee of
+this state or a city, town or county for the payment of an award entered under
+this section.
+6.Apply, except as provided in subsection A,
+paragraph 5 of this section, to proceedings involving the personnel board under
+title 41, chapter 4, article 6.
+7.Apply to proceedings brought by a city, town or
+county pursuant to title 13 or 28.
+8.Apply to proceedings brought by a city, town or
+county on collection of taxes or pursuant to traffic ordinances or to criminal
+proceedings brought by a city, town or county on ordinances which
+that contain a criminal penalty or fine for violations of those
+ordinances.
+I.For the purposes of this section:
+1."Fees and other expenses" means the
+reasonable expenses of expert witnesses, the reasonable cost of any study,
+analysis, engineering report, test or project which
+that the court finds to be directly related to and necessary for
+the presentation of the party's case and reasonable and necessary attorney
+fees, and in the case of an action to review an agency decision pursuant to
+subsection A, paragraph 2 of this section, all fees and other expenses that are
+incurred in the contested case proceedings in which the decision was rendered.
+2."Party" means an individual,
+partnership, corporation, limited liability company, limited liability
+partnership, association or public or private organization.
+3."State" means this state and any
+agency, officer, department, board or commission of this state.
+4."Taxes" includes all taxes and related
+levies and assessments addressed in section 12163. END_STATUTE
+Sec.3.Section 12-349, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE12-349.Unjustified actions; attorney fees, expenses and double
+damages; exceptions; definition
+A.Except as otherwise provided by and not
+inconsistent with another statute, in any civil action commenced or appealed in
+a court of record in this state, the court shall assess reasonable attorney
+fees, expenses and, at the court's discretion, double damages of not to exceed
+five thousand dollars against an attorney or party, including this state and
+political subdivisions of this state, if the attorney or party does any of the
+following:
+1.Brings or defends a claim without substantial
+justification.
+2.Brings or defends a claim solely or primarily for
+delay or harassment.
+3.Unreasonably expands or delays the proceeding.
+4.Engages in abuse of discovery.
+B.The court may allocate the payment of attorney
+fees among the offending attorneys and parties, jointly or severally, and may
+assess separate amounts against an offending attorney or party.
+C.Attorney fees shall not be assessed if after
+filing an action a voluntary dismissal is filed for any claim or defense within
+a reasonable time after the attorney or party filing the dismissal knew or
+reasonably should have known that the claim or defense was without substantial
+justification.
+D.This section does not apply to the adjudication
+of civil traffic violations or to any proceedings brought by this state
+pursuant to title 13, except for a
+proceeding brought pursuant to title 13, chapter 39.
+E.Notwithstanding any other law, this state and
+political subdivisions of this state may be awarded attorney fees pursuant to
+this section.
+F.For the purposes of this section, "without
+substantial justification" means that the claim or defense is groundless
+and is not made in good faith. END_STATUTE
+Sec.4.Section 13-2301, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE13-2301.Definitions
+A.For the purposes of
+sections 132302, 132303 and 132304:
+1."Collect an
+extension of credit" means to induce in any way any person to make repayment
+of that extension.
+2."Creditor"
+means any person making an extension of credit or any person claiming by, under
+or through any person making an extension of credit.
+3."Debtor"
+means any person to whom an extension of credit is made or any person who
+guarantees the repayment of an extension of credit, or in any manner undertakes
+to indemnify the creditor against loss resulting from the failure of any person
+to whom an extension is made to repay the extension.
+4."Extend
+credit" means to make or renew any loan or to enter into any agreement,
+tacit or express, whereby the repayment or satisfaction of any debt or claim,
+whether acknowledged or disputed, valid or invalid, and however arising, may or
+shall be deferred.
+5."Extortionate
+extension of credit" means any extension of credit with respect to which
+it is the understanding of the creditor and the debtor at the time the
+extension is made that delay in making repayment or failure to make repayment
+could result in the use of violence or other criminal means to cause harm to
+the person or the reputation or property of any person.
+6."Extortionate
+means" means the use, or an express or implicit threat of use, of violence
+or other criminal means to cause harm to the person or the reputation or property
+of any person.
+7."Repayment of
+any extension of credit" means the repayment, satisfaction or discharge in
+whole or in part of any debt or claim, acknowledged or disputed, valid or
+invalid, resulting from or in connection with that extension of credit.
+B.For the purposes of
+section 132305, 132306 or 132307:
+1."Dealer in
+property" means a person who buys and sells property as a business.
+2."Stolen
+property" means property of another as defined in section 131801
+that has been the subject of any unlawful taking.
+3."Traffic"
+means to sell, transfer, distribute, dispense or otherwise dispose of stolen
+property to another person, or to buy, receive, possess or obtain control of
+stolen property, with the intent to sell, transfer, distribute, dispense or
+otherwise dispose of the property to another person.
+C.For the purposes of
+this chapter:
+1."Animal
+activity" means a commercial enterprise that uses animals for food,
+clothing or fiber production, agriculture or biotechnology.
+2."Animal facility"
+means a building or premises where a commercial activity in which the use of
+animals is essential takes place, including a zoo, rodeo, circus, amusement
+park, hunting preserve and horse and dog event.
+3."Animal or
+ecological terrorism" means any felony in violation of section 132312,
+subsection B that involves at least three persons acting in concert, that
+involves the intentional or knowing infliction of property damage in an amount
+of more than ten thousand dollars to the property that is used by a person for
+the operation of a lawfully conducted animal activity or to a commercial
+enterprise that is engaged in a lawfully operated animal facility or research
+facility and that involves either:
+(a)The use of a deadly
+weapon or dangerous instrument.
+(b)The intentional or
+knowing infliction of serious physical injury on a person engaged in a lawfully
+conducted animal activity or participating in a lawfully conducted animal
+facility or research facility.
+4."Biological
+agent" means any microorganism, virus, infectious substance or biological
+product that may be engineered through biotechnology or any naturally occurring
+or bioengineered component of any microorganism, virus, infectious substance or
+biological product and that is capable of causing any of the following:
+(a)Death, disease or
+physical injury in a human, animal, plant or other living organism.
+(b)The
+deterioration or contamination of air, food, water, equipment, supplies or
+material of any kind.
+5."Combination"
+means persons who collaborate in carrying on or furthering the activities or
+purposes of a criminal syndicate even though such persons may not know each
+other's identity, membership in the combination changes from time to time or
+one or more members may stand in a wholesalerretailer or other arm's
+length relationship with others as to activities or dealings between or among
+themselves in an illicit operation.
+6."Communication
+service provider" has the same meaning prescribed in section 133001.
+7."Criminal
+syndicate" means any combination of persons or enterprises engaging, or
+having the purpose of engaging, on a continuing basis in conduct that violates
+any one or more provisions of any felony statute of this state.
+8."Explosive
+agent" means an explosive as defined in section 133101 and
+flammable fuels or fire accelerants in amounts over fifty gallons but excludes:
+(a)Fireworks as defined
+in section 361601.
+(b)Firearms.
+(c)A propellant
+actuated device or propellant actuated industrial tool.
+(d)A device that is
+commercially manufactured primarily for the purpose of illumination.
+(e)A rocket having a
+propellant charge of less than four ounces.
+9."Material
+support or resources" includes money or other financial securities,
+financial services, lodging, sustenance, training, safehouses, false
+documentation or identification, communications equipment, facilities, weapons,
+lethal substances, explosives, personnel, transportation, disguises and other
+physical assets but does not include medical assistance, legal assistance or
+religious materials.
+10."Public
+establishment" means a structure that is owned, leased or operated by this
+state or a political subdivision of this state or a health care institution as
+defined in section 36401.
+11."Research
+facility" means a laboratory, institution, medical care facility,
+government facility, public or private educational institution or nature
+preserve at which a scientific test, experiment or investigation involving the
+use of animals is lawfully carried out, conducted or attempted.
+12."Terrorism"
+means any felony, including any completed or preparatory offense, that involves
+the use of a deadly weapon or a weapon of mass destruction or the intentional
+or knowing infliction of serious physical injury with the intent to either:
+(a)Influence the policy
+or affect the conduct of this state or any of the political subdivisions,
+agencies or instrumentalities of this state.
+(b)Cause substantial
+damage to or substantial interruption of public communications, communication
+service providers, public transportation, common carriers, public utilities,
+public establishments or other public services.
+13."Toxin"
+means the toxic material of plants, animals, microorganisms, viruses, fungi or
+infectious substances or a recombinant molecule, whatever its origin or method
+of reproduction, including:
+(a)Any poisonous
+substance or biological product that may be engineered through biotechnology
+and that is produced by a living organism.
+(b)Any
+poisonous isomer or biological product, homolog or derivative of such
+substance.
+14."Vector"
+means a living organism or molecule, including a recombinant molecule or
+biological product that may be engineered through biotechnology, that is
+capable of carrying a biological agent or toxin to a host.
+15."Weapon of mass
+destruction" means:
+(a)Any device or object
+that is designed or that the person intends to use to cause multiple deaths or
+serious physical injuries through the use of an explosive agent or the release,
+dissemination or impact of a toxin, biological agent, poisonous chemical, or
+its precursor, or any vector.
+(b)Except as authorized
+and used in accordance with a license, registration or exemption by the
+radiation regulatory agency pursuant to section 30672, any device or
+object that is designed or that the person intends to use to release radiation
+or radioactivity at a level that is dangerous to human life.
+D.For the purposes of
+sections 132312, 132313, 132314 and 132315, unless
+the context otherwise requires:
+1."Control",
+in relation to an enterprise, means the possession of sufficient means to
+permit substantial direction over the affairs of an enterprise and, in relation
+to property, means to acquire or possess.
+2."Enterprise"
+means any corporation, partnership, association, labor union or other legal
+entity or any group of persons associated in fact although not a legal entity.
+3."Financial
+institution" means any business under the jurisdiction of the department
+of financial institutions or a banking or securities regulatory agency of the
+United States, a business coming within the definition of a bank, financial
+agency or financial institution as prescribed by 31 United States Code section
+5312 or 31 Code of Federal Regulations section 1010.100 or a business under the
+jurisdiction of the securities division of the corporation commission, the
+state real estate department or the department of insurance.
+4."Racketeering"
+means any criminal act,
+including any preparatory or completed offense, that is chargeable or indictable results in a conviction under the laws of the
+state or country in which the criminal act
+occurred and, if the criminal act
+occurred in a state or country other than this state, that would be chargeable
+or indictable under the laws of this state if the criminal act had occurred in this state, and
+that would be punishable by imprisonment for more than one year under the laws
+of this state and, if the criminal act
+occurred in a state or country other than this state, under the laws of the
+state or country in which the criminal act
+occurred, regardless of whether the act
+is charged or indicted, and the criminal act involves either:
+(a)Terrorism, animal
+terrorism or ecological terrorism that results or is intended to result in a
+risk of serious physical injury or death.
+(b)Any of the following
+criminal acts if
+committed for financial gain:
+(i)Homicide.
+(ii)Robbery.
+(iii)Kidnapping.
+(iv)Forgery.
+(v)Theft.
+(vi)Bribery.
+(vii)Gambling.
+(viii)Usury.
+(ix)Extortion.
+(x)Extortionate
+extensions of credit.
+(xi)Prohibited drugs,
+marijuana or other prohibited chemicals or substances.
+(xii)Trafficking in
+explosives, weapons or stolen property.
+(xiii)Participating in
+a criminal syndicate.
+(xiv)Obstructing or
+hindering criminal investigations or prosecutions.
+(xv)Asserting false
+claims including, but not limited to, false claims asserted through fraud or
+arson.
+(xvi)Intentional or
+reckless false statements or publications concerning land for sale or lease or
+sale of subdivided lands or sale and mortgaging of unsubdivided lands.
+(xvii)Resale of realty
+with intent to defraud.
+(xviii)Intentional or
+reckless fraud in the purchase or sale of securities.
+(xix)Intentional or
+reckless sale of unregistered securities or real property securities.
+(xx)A scheme or
+artifice to defraud.
+(xxi)Obscenity.
+(xxii)Sexual
+exploitation of a minor.
+(xxiii)Prostitution.
+(xxiv)Restraint of
+trade or commerce in violation of section 34252.
+(xxv)Terrorism.
+(xxvi)Money laundering.
+(xxvii)Obscene or indecent
+telephone communications to minors for commercial purposes.
+(xxviii)Counterfeiting
+marks as proscribed in section 441453.
+(xxix)Animal terrorism
+or ecological terrorism.
+(xxx)Smuggling of human
+beings.
+(xxxi)Child
+prostitution.
+(xxxii)Sex trafficking.
+(xxxiii)Trafficking of
+persons for forced labor or services.
+(xxxiv)Manufacturing,
+selling or distributing misbranded drugs in violation of section 133406,
+subsection A, paragraph 9.
+5."Records"
+means any book, paper, writing, computer program, data, image or information
+that is collected, recorded, preserved or maintained in any form of storage
+medium.
+6."Remedy
+racketeering" means to enter a civil judgment pursuant to this chapter or
+chapter 39 of this title against property or a person who is subject to
+liability, including liability for injury to the state that is caused by
+racketeering or by actions in concert with racketeering.
+E.For the purposes of
+sections 132316, 132316.01 and 132316.02:
+1."Access"
+means to instruct, communicate with, store data in, retrieve data from or
+otherwise make use of any resources of a computer, computer system or network.
+2."Access
+device" means any card, token, code, account number, electronic serial
+number, mobile or personal identification number, password, encryption key,
+biometric identifier or other means of account access, including a canceled or
+revoked access device, that can be used alone or in conjunction with another
+access device to obtain money, goods, services, computer or network access or
+any other thing of value or that can be used to initiate a transfer of any
+thing of value.
+3."Computer"
+means an electronic device that performs logic, arithmetic or memory functions
+by the manipulations of electronic or magnetic impulses and includes all input,
+output, processing, storage, software or communication facilities that are
+connected or related to such a device in a system or network.
+4."Computer
+contaminant" means any set of computer instructions that is designed to
+modify, damage, destroy, record or transmit information within a computer,
+computer system or network without the intent or permission of the owner of the
+information, computer system or network.Computer contaminant
+includes a group of computer instructions, such as viruses or worms, that is
+selfreplicating or selfpropagating and that is designed to
+contaminate other computer programs or computer data, to consume computer
+resources, to modify, destroy, record or transmit data or in some other fashion
+to usurp the normal operation of the computer, computer system or network.
+5."Computer
+program" means a series of instructions or statements, in a form
+acceptable to a computer, that permits the functioning of a computer system in
+a manner designed to provide appropriate products from the computer system.
+6."Computer
+software" means a set of computer programs, procedures and associated
+documentation concerned with the operation of a computer system.
+7."Computer
+system" means a set of related, connected or unconnected computer
+equipment, devices and software, including storage, media and peripheral
+devices.
+8."Critical
+infrastructure resource" means any computer or communications system or
+network that is involved in providing services necessary to ensure or protect the
+public health, safety or welfare, including services that are provided by any
+of the following:
+(a)Medical personnel
+and institutions.
+(b)Emergency services
+agencies.
+(c)Public and private
+utilities, including water, power, communications and transportation services.
+(d)Fire departments,
+districts or volunteer organizations.
+(e)Law enforcement
+agencies.
+(f)Financial
+institutions.
+(g)Public educational
+institutions.
+(h)Government agencies.
+9."False or
+fraudulent pretense" means the unauthorized use of an access device or the
+use of an access device to exceed authorized access.
+10."Financial
+instrument" means any check, draft, money order, certificate of deposit,
+letter of credit, bill of exchange, credit card or marketable security or any
+other written instrument as defined in section 132001 that is
+transferable for value.
+11."Network"
+includes a complex of interconnected computer or communication systems of any
+type.
+12."Property"
+means financial instruments, information, including electronically produced
+data, computer software and programs in either machine or human readable form,
+and anything of value, tangible or intangible.
+13."Proprietary or
+confidential computer security information" means information about a
+particular computer, computer system or network that relates to its access
+devices, security practices, methods and systems, architecture, communications
+facilities, encryption methods and system vulnerabilities and that is not made
+available to the public by its owner or operator.
+14."Services"
+includes computer time, data processing, storage functions and all types of
+communication functions. END_STATUTE
+Sec.5.Section 13-2314, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE13-2314.Racketeering; civil remedies by this state; definitions
+A.The attorney general or a county attorney may
+file an action in superior court on behalf of a person who sustains injury to
+his person, business or property by racketeering as defined by section 132301,
+subsection D, paragraph 4 or by a violation of section 132312 for the
+recovery of treble damages and the costs of the suit, including reasonable
+attorney fees, or to prevent, restrain,
+or remedy racketeering as defined by section 132301, subsection D,
+paragraph 4 or a violation of section 132312. If the person against whom
+a racketeering claim has been asserted, including a forfeiture action or lien,
+prevails on that claim, the person may be awarded costs and reasonable attorney
+fees incurred in defense of that claim.In actions filed by the
+state or a county, awards of costs and reasonable attorney fees are to be
+assessed against and paid from monies acquired pursuant to sections 132314.01
+and 132314.03.
+B.The superior court has jurisdiction to prevent,
+restrain, and remedy
+racketeering as defined by section 132301, subsection D, paragraph 4 or
+a violation of section 132312 after making provision for the rights of any
+person who sustained injury to his person, business or property by the
+racketeering conduct and after a hearing or trial, as appropriate, by issuing
+appropriate orders.
+C.Prior to
+Before a determination of liability such conviction, the orders may include, but are not limited to, issuing
+seizure warrants, entering findings of probable cause for in personam or in rem
+forfeiture, entering restraining orders or prohibitions or taking such other
+actions, including the acceptance of satisfactory performance bonds, the
+creation of receiverships and the enforcement of constructive trusts, in
+connection with any property or other interest subject to forfeiture, damages
+or other remedies or restraints pursuant to this section as the court deems
+proper.
+D.Following a determination of liability such conviction, the orders may include, but are not limited to:
+1.Ordering any person to divest himself of any
+interest, direct or indirect, in any enterprise.
+2.Imposing reasonable restrictions on the future
+activities or investments of any person, including prohibiting any person from
+engaging in the same type of endeavor as the enterprise engaged in, the
+activities of which affect the laws of this state, to the extent the
+constitutions of the United States and this state permit.
+3.Ordering dissolution or reorganization of any
+enterprise.
+4.Ordering the payment of treble damages to those
+persons injured by racketeering as defined by section 132301, subsection
+D, paragraph 4 or a violation of section 132312.
+5.Ordering the payment of all costs and expenses of
+the prosecution and investigation of any offense included in the definition of
+racketeering in section 132301, subsection D, paragraph 4 or a violation
+of section 132312, civil and criminal, including reasonable attorney
+fees, to be paid to the general fund of the state or the county which brings
+the action.
+6.In personam forfeiture pursuant to chapter 39 of
+this title to the general fund of the state or county, as appropriate, to the extent that forfeiture
+is not inconsistent with protecting the rights of any person who sustained
+injury to his person, business or property by the racketeering conduct, of the
+interest of a person in:
+(a)Any property or interest in property acquired or
+maintained by the person in violation of section 132312.
+(b)Any interest in, security of, claims against or
+property, office, title, licenseor contractual right of any kind
+affording a source of influence over any enterprise or other property which that the person has acquired or maintained an
+interest in or control of, conducted or participated in the conduct of in
+violation of section 132312.
+(c)All proceeds traceable to an offense included in
+the definition of racketeering in section 132301, subsection D, paragraph
+4 and held by the person and all monies, negotiable instruments, securities and
+other property used or intended to be used by the person in any manner or part
+to facilitate commission of the offense and that the person either owned or
+controlled for the purpose of that use.
+(d)Any other property up to the value of the
+subject property described in subdivision (a), (b) or (c) of this paragraph.
+7.Payment to the general fund of the state or
+county as appropriate of an amount equal to the gain that was acquired or
+maintained through an offense included in the definition of racketeering in
+section 132301, subsection D, paragraph 4 or a violation of section 132312
+or that any person is liable for under this section.
+E.A person who is liable for conduct described in
+subsection D, paragraph 6, subdivision (a), (b) or (c) of this section is
+liable for the total value of all interests in property described in those
+subdivisions. The court shall enter an order of forfeiture against the person
+in the amount of the total value of all those interests less the value of any
+interests that are forfeited before or at the time of the entry of the final
+judgment.
+F.A person or enterprise that acquires any property
+through an offense included in the definition of racketeering in section 132301,
+subsection D, paragraph 4 or through a violation of section 132312 is an
+involuntary trustee.The involuntary trustee and any other person or
+enterprise, except a bona fide purchaser for value who is reasonably without
+notice of the unlawful conduct and who is not knowingly taking part in an
+illegal transaction, hold the property, its proceeds and its fruits in
+constructive trust for the benefit of persons entitled to remedies under this
+section.
+G.In addition to or in lieu of an action under this section the
+attorney general or a county attorney may file an in rem action pursuant to
+chapter 39 of this title for forfeiture, to the extent that forfeiture is not
+inconsistent with protecting the rights of any person who sustained injury to
+his person, business or property by the racketeering conduct, of:
+1.Any property or interest in property acquired or
+maintained by a person in violation of section 132312.
+2.Any interest in, security of, claims against or
+property, office, title, license or contractual right of any kind affording a
+source of influence over any enterprise or other property which that
+a person has acquired or maintained an interest in or control of,
+conducted or participated in the conduct of in violation of section 132312.
+3.All proceeds traceable to an offense included in
+the definition of racketeering in section 132301, subsection D,
+paragraph 4 and all monies, negotiable instruments, securities and other
+property used or intended to be used in any manner or part to facilitate the
+commission of the offense.
+H.A defendant convicted in any criminal proceeding
+shall be precluded from subsequently denying the essential allegations of the
+criminal offense of which he was convicted in any civil proceeding.For
+the purposes of this subsection, a conviction may result from a verdict or plea
+including a no contest plea.
+I.Notwithstanding any law creating a lesser period,
+the initiation of civil proceedings related to violations of any offense
+included in the definition of racketeering in section 132301, subsection
+D, paragraph 4 or a violation of section 132312, including procedures
+pursuant to chapter 39 of this title, shall be commenced within seven years
+after actual discovery of the violation.
+J.In any civil action brought pursuant to this
+section, the attorney general or a county attorney may file with the clerk of
+the superior court a certificate stating that the case is of special public
+importance.A copy of that certificate shall be furnished immediately
+by such clerk to the chief judge or presiding chief judge of the superior court
+in the county in which such action is pending, and, upon receipt of such copy,
+the judge shall immediately designate a judge to hear and determine the
+action.The judge so designated shall promptly assign such action
+for hearing, participate in the hearings and determination and cause the action
+to be expedited.
+K.The standard of proof in actions brought pursuant
+to this section is the preponderance of the evidence test.
+L.A civil action authorized by this section,
+including proceedings pursuant to chapter 39 of this title, is remedial and not
+punitive and does not limit and is not limited by any other previous or
+subsequent civil or criminal action under this title or any other provision of
+law.Civil remedies provided under this title are supplemental and
+not mutually exclusive.
+M.The attorney general may appear as amicus curiae
+in any proceeding in which a claim under this section has been asserted,
+including proceedings pursuant to chapter 39 of this title, or in which the
+court is interpreting this chapter or chapter 39 of this title.A
+party who files a notice of appeal from a civil action brought under this
+chapter or chapter 39 of this title shall serve the notice and one copy of the
+appellant's brief on the attorney general at the time the person files the
+appellant's brief with the court.This requirement is
+jurisdictional.
+N.In
+For the purposes of this
+section and section 132312:
+1."Acquire" means for a person to do any
+of the following:
+(a)Possess.
+(b)Act so as to exclude other persons from using
+their property except on his own terms.
+(c)Bring about or receive the transfer of any
+interest in property, whether to himself or to another person, or to secure
+performance of a service.
+2."Gain" means any benefit, interest or
+property of any kind without reduction for expenses of acquiring or maintaining
+it or incurred for any other reason.
+3."Proceeds" includes any interest in
+property of any kind acquired through or caused by an act or omission, or
+derived from the act or omission, directly or indirectly, and any fruits of
+this interest, in whatever form. END_STATUTE
+Sec.6.Section 13-2314.01, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE13-2314.01.Anti-racketeering revolving fund; use of fund; reports;
+review board; board termination
+A.The antiracketeering revolving fund is
+established. The attorney general shall administer the fund under the
+conditions and for the purposes provided by this section. Monies in the fund
+are exempt from the lapsing provisions of section 35190.
+B.Any prosecution and investigation costs,
+including attorney fees, recovered for the state by the attorney general as a
+result of enforcement of civil and criminal statutes pertaining to any offense
+included in the definition of racketeering in section 132301, subsection
+D, paragraph 4 or section 132312, whether by final judgment, settlement
+or otherwise, shall be deposited in the fund established by this section.
+C.Any monies received by any department or agency
+of this state or any political subdivision of this state from any department or
+agency of the United States or another state as a result of participation in
+any investigation or prosecution, whether by final judgment, settlement or
+otherwise, shall be deposited in the fund established by this section or, if
+the recipient is a political subdivision of this state, may be deposited in the
+fund established by pursuant to section 132314.03.
+D.Any monies obtained as a result of a forfeiture
+by any department or agency of this state under this title or under federal law
+shall be deposited in the fund established by this section.Any
+monies or other property obtained as a result of a forfeiture by any political
+subdivision of this state or the federal government may be deposited in the
+fund established by this section.Monies deposited in the fund
+pursuant to this section or section 134315 shall accrue interest and
+shall be held for the benefit of the agency or agencies responsible for the
+seizure or forfeiture to the extent of their contribution.Except as
+provided in subsections F and G of this section, the monies and interest shall
+be distributed within thirty days of application to the agency or agencies
+responsible for the seizure or forfeiture.Monies in the fund used
+by the attorney general for capital projects in excess of one million dollars
+are subject to review by the joint committee on capital review.
+E.Monies in the fund:
+1.May be used for the following:
+1.(a)The
+funding of gang prevention programs, substance abuse prevention programs,
+substance abuse education programs, programs that provide assistance to victims
+of a criminal offense that is listed in section 132301 and witness
+protection pursuant to section 41196 or for any purpose permitted by
+federal law relating to the disposition of any property that is transferred to
+a law enforcement agency. 
+2.(b)
+The investigation and prosecution of any offense included in the definition of
+racketeering in section 132301, subsection D, paragraph 4 or section 132312,
+including civil enforcement.
+3.(c)The payment of the
+relocation expenses of any law enforcement officer and the officer's immediate
+family if the law enforcement officer is the victim of a bona fide threat that
+occurred because of the law enforcement officer's duties.
+2.In
+addition to any other restriction on the use of public monies provided by law,
+may not be used for any of the following:
+(a)Purchasing real property or any
+interest in real property except to acquire full title to or to satisfy liens
+or mortgages on forfeited property.
+(b)Paying reception and representation
+expenses, including refreshments, meals, gifts or entertainment.
+(c)Sharing vehicles or forfeited
+property or items purchased with shared monies by a person who is not employed
+by a law enforcement agency.
+(d)Paying education-related costs,
+including scholarships, financial aid or classes that are not for law
+enforcement. This subdivision does not prohibit paying tuition for a law
+enforcement class that is necessary to the performance of a peace officer's
+official duties.
+F.On or before January 15, April 15, July 15 and
+October 15 of each year, each department or agency of this state receiving
+monies pursuant to this section or section 132314.03 or 134315 or
+from any department or agency of the United States or another state as a result
+of participation in any investigation or prosecution shall file with the
+attorney general, the board of supervisors if the sheriff received the monies
+and the city or town council if the city city's or town's department
+received the monies a report for the previous calendar quarter.The
+report shall be in a form that is prescribed by the Arizona criminal justice
+commission and approved by the director of the joint legislative budget
+committee.The report shall set forth the sources of all monies and
+all expenditures.The report
+shall provide separate details for each forfeiture, including the criminal case
+number or the civil case number, as appropriate, that is associated with the
+forfeiture and any related law enforcement departmental report numbers. The
+report shall not include any identifying information about specific ongoing investigations.If
+a department or agency of this state fails to file a report within fortyfive
+days after the report is due and there is no good cause as determined by the Arizona
+criminal justice commission, the attorney general shall make no expenditures
+from the fund for the benefit of the department or agency until the report is
+filed.The attorney general is responsible for collecting all
+reports from departments and agencies of this state and transmitting the
+reports to the Arizona criminal justice commission at the time that the report
+required pursuant to subsection G of this section is submitted.
+G.On or before January 25, April 25, July 25 and
+October 25 of each year, the attorney general shall file with the Arizona
+criminal justice commission a report for the previous calendar
+quarter.The report shall be in a form that is prescribed by the
+Arizona criminal justice commission and approved by the director of the joint
+legislative budget committee. The report shall set forth the sources of all
+monies and all expenditures. the
+report shall provide separate details for each forfeiture, including the
+criminal case number or the civil case number, as appropriate, that is
+associated with the forfeiture and any related law enforcement departmental
+report numbers. The report shall not include any identifying
+information about specific ongoing investigations.
+If the attorney general fails to file a report within sixty days after the
+report is due and there is no good cause as determined by the Arizona criminal
+justice commission, the attorney general shall make no expenditures from the
+fund for the benefit of the attorney general until the report is
+filed.If a political subdivision of this state fails to file a
+report with the county attorney pursuant to section 132314.03 within
+fortyfive days after the report is due and there is no good cause as
+determined by the Arizona criminal justice commission, the attorney general
+shall make no expenditures from the fund for the benefit of the political
+subdivision until the report is filed.
+H.The
+Arizona criminal justice commission shall establish and maintain a searchable
+public website that includes the following information that is obtained from
+the attorney general pursuant to subsection G of this section:
+1.from closed cases involving property, other
+than currency, that is seized by a state, county, city or town law enforcement
+agency under federal and state law:
+(a)The
+name of the law enforcement agency that seized the property.
+(b)A
+description of the seized property, other than currency, including the make and
+model of a motor vehicle, except that the details are not required if
+publishing the details will compromise an ongoing investigation. 
+(c)The
+date the law enforcement agency seized the property. 
+(d)The
+estimated value of the seized property. 
+(e)Whether
+the suspect was charged with a criminal offense. 
+(f)The criminal offense alleged to have been committed
+that led to the property's seizure. 
+(g)Whether
+the criminal offense is under federal or state law. 
+(h)The
+disposition of the case, including whether charges were dropped or whether the
+defendant was acquitted, entered a plea or was convicted.
+(i)Whether
+the forfeiture proceedings were civil or criminal. 
+(j)The
+date of sale if the property was sold. 
+(k)Selling
+expenses associated with the property's sale. 
+(l)The
+total net proceeds received from the property's sale.
+(m)The
+proceeds received by the law enforcement agency from the property's sale.
+(n)If
+the property was retained, the purpose for which the property was used, except
+that the details are not required if publishing the details will compromise an
+ongoing investigation. 
+(o)The
+date of destruction if the property was destroyed. 
+(p)The
+date of the property's return if the property was returned to an owner or
+interest holder by the law enforcement agency or prosecuting agency or by court
+order.
+2.from closed cases involving currency that is
+seized by a state, county, city or town law enforcement agency under federal
+and state law:
+(a)The
+name of the law enforcement agency that seized the currency.
+(b)The
+amount of currency seized. 
+(c)The
+date the law enforcement agency seized the currency.
+(d)Whether
+the suspect was charged with a criminal offense. 
+(e)The
+criminal offense alleged to have been committed that led to the currency's
+seizure. 
+(f)Whether
+the criminal offense is under federal or state law. 
+(g)The
+disposition of the case, including whether charges were dropped or whether the
+defendant was acquitted, entered a plea or was convicted.
+(h)Whether
+the forfeiture proceedings were civil or criminal. 
+(i)The
+date of the return of the currency if the currency was returned to an owner or
+interest holder by the seizing law enforcement agency or prosecuting agency or
+by court order.
+3.The total amount of monies spent in each of
+the following categories that resulted from property seized and reported pursuant
+to subsection G of this section:
+(a)Abuse
+and crime prevention programs. 
+(b)Witness
+protection, victim restitution, informant fees, gang programs and controlled
+buys. 
+(c)Salaries,
+overtime and benefits.
+(d)Professional
+outside services and fees, including auditing, court reporting, expert witness
+fees, outside attorney fees and membership fees paid to trade associations.
+(e)Travel,
+meals, entertainment, training, conferences and continuing education seminars. 
+(f)Other operating expenses,
+including office supplies, postage and advertising.
+(g)
+Capital expenditures, including vehicles, firearms, equipment, computers and
+furniture. 
+(h)
+Other expenditures of forfeiture proceeds. 
+4. The total amount of currency that is held by the law
+enforcement agency at the end of the reporting period.
+H.I.On or before
+September30 of each year, the Arizona criminal justice commission shall
+compile the attorney general report and the reports of all departments and
+agencies of this state into a single comprehensive report and shall submit a
+copy of the report to the governor, the director of the department of
+administration, the president of the senate, the speaker of the house of
+representatives, the director of the joint legislative budget committee and the
+secretary of state.
+J.The
+attorney general shall establish and appoint members to an independent review
+board. The review board shall review the sources and expenditures of all
+monies that are in the antiracketeering revolving fund. The review board
+shall notify the attorney general if it finds any unlawful uses of fund
+monies. Board members may not be current or former employees of a law
+enforcement or PROSECUTORIAL agency or have any familial relationship to an
+employee of an agency or any recipient of forfeited money or property.
+K.The
+review board established by subsection J of this section ends on july 1, 2024
+pursuant to section 41-3103.
+L.The
+attorney general shall investigate all allegations of unlawful use of
+monies.If the allegation involves the attorney general, the county
+attorney in the county where the alleged unlawful use occurred shall
+investigate the allegation. END_STATUTE
+Sec.7.Section 13-2314.03, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE13-2314.03.County anti-racketeering revolving fund; use of fund;
+reports; review board; board termination
+A.The board of supervisors of a county shall
+establish a county antiracketeering revolving fund administered by the
+county attorney under the conditions and for the purposes provided by this
+section.
+B.Any prosecution and investigation costs,
+including attorney fees, recovered for the county as a result of enforcement of
+civil and criminal statutes pertaining to any offense included in the
+definition of racketeering in section 132301, subsection D, paragraph 4
+or section 132312, whether by final judgment, settlement or otherwise,
+shall be deposited in the fund established by the board of supervisors.
+C.Any monies received by any department or agency
+of this state or any political subdivision of this state from any department or
+agency of the United States or another state as a result of participation in
+any investigation or prosecution, whether by final judgment, settlement or
+otherwise, shall be deposited in the fund established by pursuant
+to this section or in the fund established by section 132314.01.
+D.Any monies obtained as a result of a forfeiture
+by the county attorney under this title or under federal law shall be deposited
+in the fund established by pursuant to this
+section.Any monies or other property obtained as a result of a
+forfeiture by any political subdivision of this state or the federal government
+may be deposited in the fund established by
+pursuant to this section
+or in the fund established by section 132314.01. Monies deposited in the
+fund pursuant to this section or section 134315 shall accrue interest
+and shall be held for the benefit of the agency or agencies responsible for the
+seizure or forfeiture to the extent of their contribution.Except as
+provided in subsections F and G of this section, the monies and interest shall
+be distributed to the agency or agencies responsible for the seizure or
+forfeiture within thirty days of application.
+E.Monies in the fund:
+1.May
+be used for the following:
+(a)The funding
+of gang prevention programs, substance abuse prevention programs, substance
+abuse education programs, programs that provide assistance to victims of a
+criminal offense that is listed in section 132301 and witness protection
+pursuant to section 11536 or for any purpose permitted by federal law
+relating to the disposition of any property that is transferred to a law
+enforcement agency. Monies in the fund
+may be used for
+(b)The investigation and prosecution of any offense
+included in the definition of racketeering in section 132301, subsection
+D, paragraph 4 or section 132312, including civil enforcement.
+2.In
+addition to any other restriction on the use of public monies provided by law,
+may not be used for any of the following:
+(a)Purchasing real property or any
+interest in real property except to acquire full title to or to satisfy liens
+or mortgages on forfeited property.
+(b)Paying reception and
+representation expenses, including refreshments, meals, gifts or entertainment.
+(c)Sharing vehicles or forfeited
+property or items purchased with shared monies by a person who is not employed
+by a law enforcement agency.
+(d)Paying education-related costs,
+including scholarships, financial aid or classes that are not for law
+enforcement. This subdivision does not prohibit paying tuition for a law
+enforcement class that is necessary to the performance of a peace officer's
+official duties.
+F.On or before January 25, April 25, July 25 and
+October 25 of each year, the county attorney shall cause to be filed file with the Arizona criminal justice
+commission a report for the previous calendar quarter.The report
+shall be in a form that is prescribed by the Arizona criminal justice
+commission and approved by the director of the joint legislative budget
+committee.The report shall set forth the sources of all monies and
+all expenditures. The report shall
+provide separate details for each forfeiture, including the criminal case
+number or the civil case number, as appropriate, that is associated with the
+forfeiture and any related law enforcement departmental report numbers. The
+report shall not include any identifying information about specific ongoing investigations.If
+the county attorney fails to file a report within sixty days after it is due
+and there is no good cause as determined by the Arizona criminal justice
+commission, the county attorney shall make no expenditures from the fund for
+the benefit of the county attorney until the report is filed.
+G.On or before January 15, April 15, July 15 and
+October 15 of each year, each political subdivision of this state receiving
+monies pursuant to this section or section 132314.01 or 134315 or
+from any department or agency of the United States or another state as a result
+of participating in any investigation or prosecution shall cause to be filed file with the board of supervisors of the
+county in which the political subdivision is located, each city or town council
+in which the political subdivision is located and the county attorney of the
+county in which the political subdivision is located a report for the previous
+calendar quarter.The report shall be in a form that is prescribed
+by the Arizona criminal justice commission and approved by the director of the
+joint legislative budget committee.The report shall set forth the
+sources of all monies and all expenditures.The report shall provide separate details for each
+forfeiture, including the criminal case number or the civil case number, as
+appropriate, that is associated with the forfeiture and any related law
+enforcement departmental report numbers. The report shall not
+include any identifying information about specific ongoing investigations.If a
+political subdivision of this state fails to file a report within fortyfive
+days after the report is due and there is no good cause as determined by the
+Arizona criminal justice commission, the county attorney shall make no expenditures
+from the fund for the benefit of the political subdivision until the report is
+filed.The county attorney shall be responsible for collecting all
+reports from political subdivisions within that county and transmitting the
+reports to the Arizona criminal justice commission at the time that the county
+report required pursuant to subsection F of this section is submitted.
+H.The
+Arizona criminal justice commission shall establish and maintain a searchable
+public website that includes the following information that is obtained from
+the county attorney pursuant to subsection G of this section:
+1.from
+closed cases involving property, other than currency, that is seized by a
+state, county, city or town law enforcement agency under federal and state law:
+(a)The
+name of the law enforcement agency that seized the property.
+(b)A
+description of the seized property, other than currency, including the make and
+model of a motor vehicle, except that the details are not required if
+publishing the details will compromise an ongoing investigation. 
+(c)The
+date the law enforcement agency seized the property. 
+(d)The
+estimated value of the seized property. 
+(e)Whether
+the suspect was charged with a criminal offense. 
+(f)The
+criminal offense alleged to have been committed that led to the property's
+seizure. 
+(g)Whether
+the criminal offense is under federal or state law. 
+(h)The
+disposition of the case, including whether charges were dropped or whether the
+defendant was acquitted, entered a plea or was convicted.
+(i)Whether
+the forfeiture proceedings were civil or criminal. 
+(j)The
+date of sale if the property was sold. 
+(k)Selling
+expenses associated with the property's sale. 
+(l)The
+total net proceeds received from the property's sale.
+(m)The
+proceeds received by the law enforcement agency from the property's sale.
+(n)If
+the property was retained, the purpose for which the property was used, except
+that the details are not required if publishing the details will compromise an
+ongoing investigation. 
+(o)The
+date of destruction if the property was destroyed. 
+(p)The
+date of the property's return if the property was returned to an owner or
+interest holder by the law enforcement agency or prosecuting agency or by court
+order.
+2.from closed cases involving currency that is
+seized by a state, county, city or town law enforcement agency under federal
+and state law:
+(a)The
+name of the law enforcement agency that seized the currency.
+(b)The
+amount of currency seized. 
+(c)The
+date the law enforcement agency seized the currency.
+(d)Whether
+the suspect was charged with a criminal offense. 
+(e)The
+criminal offense alleged to have been committed that led to the currency's
+seizure. 
+(f)Whether
+the criminal offense is under federal or state law. 
+(g)The
+disposition of the case, including whether charges were dropped or whether the
+defendant was acquitted, entered a plea or was convicted.
+(h)Whether
+the forfeiture proceedings were civil or criminal. 
+(i)The date of the return of the
+currency if the currency was returned to an owner or interest holder by the
+seizing law enforcement agency or prosecuting agency or by court order.
+3.The total amount of monies spent in each of
+the following categories that resulted from property seized and reported
+pursuant to subsection G of this section:
+(a)Abuse
+and crime prevention programs. 
+(b)Witness
+protection, victim restitution, informant fees, gang programs and controlled
+buys. 
+(c)Salaries,
+overtime and benefits.
+(d)Professional
+outside services and fees, including auditing, court reporting, expert witness
+fees, outside attorney fees and membership fees paid to trade associations.
+(e)Travel,
+meals, entertainment, training, conferences and continuing education seminars. 
+(f)Other
+operating expenses, including office supplies, postage and advertising.
+(g)
+Capital expenditures, including vehicles, firearms, equipment, computers and
+furniture. 
+(h)
+Other expenditures of forfeiture proceeds. 
+4. The total amount of
+currency that is held by the law enforcement agency at the end of the reporting
+period.
+H.I.On or before
+September30 of each year, the Arizona criminal justice commission shall
+compile all county attorney reports into a single comprehensive report and all
+political subdivision reports into a single comprehensive report and submit a
+copy of each comprehensive report to the governor, the president of the senate,
+the speaker of the house of representatives, the director of the joint
+legislative budget committee and the secretary of state.
+J.The board
+of supervisors shall establish and appoint members to an independent review
+board. The review board shall review the sources and expenditures of all
+monies that are in the antiracketeering revolving fund. The review board
+shall notify the attorney general if it finds any unlawful uses of fund
+monies. Board members may not be current or former employees of a law
+enforcement or prosecutorial agency or have any familial relationship to an
+employee of an agency or any recipient of forfeited money or property.
+K.The
+review board established by subsection J of this section ends on July 1, 2024
+pursuant to section 41-3103.
+L.The
+attorney general shall investigate all allegations of unlawful use of
+monies.If the allegation involves the attorney general, the county
+attorney in the county where the alleged unlawful use occurred shall
+investigate the allegation. END_STATUTE
+Sec.8.Section
+13-4304, Arizona Revised Statutes, is amended to read:
+START_STATUTE13-4304.Property subject to forfeiture; exemptions; waiver
+A.Following
+a person's conviction for a criminal offense that provides for forfeiture, the
+court may order the person to forfeit any of the following:
+1.Property,
+including all interests in such property, that was acquired through the
+commission of the offense.
+2.Property,
+including all interests in such property, that is directly traceable to
+property acquired through the commission of the offense.
+3.Any
+instrumentality the person used in the commission of the offense.
+B.All
+property, including all interests in such property, described in a statute providing for its forfeiture is subsection A of this section is subject
+to forfeiture.However, except that:
+1.No vehicle used by any person as a common carrier
+in the transaction of business as a common carrier may be forfeited under the provisions of this chapter
+unless it appears that the owner or other person in charge of the vehicle was a
+consenting party or privy to the act or omission giving rise to forfeiture or
+knew or had reason to know of it.
+2.No vehicle may be forfeited under the provisions of this chapter for any act or
+omission established by the owner to have been committed or omitted by a person
+other than the owner while the vehicle was unlawfully in the possession of a
+person other than the owner in violation of the criminal laws of this state or
+of the United States.
+3.No property may be forfeited pursuant to section
+133413, subsection A, paragraph 1 or 3 if the conduct giving rise to the
+forfeiture both:
+(a)Did not involve an amount of unlawful substance
+greater than the statutory threshold amount as defined in section 133401.
+(b)Was not committed for financial gain.
+4.No owner's or interest holder's interest may be
+forfeited under this chapter if the owner or interest holder establishes all of
+the following:
+(a)He acquired the interest before or during the
+conduct giving rise to forfeiture.
+(b)He did not empower any person whose act or
+omission gives rise to forfeiture with legal or equitable power to convey the
+interest, as to a bona fide purchaser for value, and he was not married to any
+such person or if married to such person, held the property as separate
+property.
+(c)He did not know and could not reasonably have
+known of the act or omission or that it was likely to occur.
+5.No owner's or interest holder's interest may be
+forfeited under this chapter if the owner or interest holder establishes all of
+the following:
+(a)He acquired the interest after the conduct
+giving rise to forfeiture.
+(b)He is a bona fide purchaser for value not
+knowingly taking part in an illegal transaction.
+(c)He was at the time of purchase and at all times
+after the purchase and before the filing of a racketeering lien notice or the
+provision of notice of pending forfeiture or the filing and notice of a civil
+or criminal proceeding under this title relating to the property, whichever is
+earlier, reasonably without notice of the act or omission giving rise to
+forfeiture and reasonably without cause to believe that the property was
+subject to forfeiture.
+C.Notwithstanding
+subsections A and B of this section and except for real property, if the
+alleged property or an interest in property is abandoned, the property or
+interest in property may be forfeited without a conviction. For the purposes
+of this subsection, "abandoned" means the owner or interest holder of
+property leaves the property and intentionally relinquishes all rights to
+control the property or interest in the property.END_STATUTE
+Sec.9.Section 13-4305, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE13-4305.Seizure of property
+A.Property subject to forfeiture under this chapter
+may be seized for forfeiture by a peace officer:
+1.On process issued pursuant to the Arizona rules of civil procedure or the provisions of this title
+including a seizure warrant.
+2.By making a seizure for forfeiture on property
+seized on process issued pursuant to law, including sections 133911
+through 133915.
+3.By making a seizure for forfeiture without court
+process if any of the following is true:
+(a)The seizure for forfeiture is of property seized
+incident to an arrest or search.
+(b)The property subject to seizure for forfeiture
+has been the subject of a prior judgment in favor of this state or any other
+state or the federal government in a forfeiture proceeding.
+(c)The peace officer has probable cause to believe
+that the property is subject to forfeiture.
+B.Property subject to forfeiture under this chapter
+may be seized for forfeiture by placing the property under constructive
+seizure.Constructive seizure may be made by posting notice of
+seizure for forfeiture on the property or by filing notice of seizure for
+forfeiture or notice of pending forfeiture in any appropriate public record
+relating to the property.
+C.The court shall determine probable cause for
+seizure before real property may be seized for forfeiture, unless the seizure
+is pursuant to a constructive seizure or the filing of a racketeering lien or
+lis pendens. The court may make its determination ex parte if the state
+demonstrates that notice and an opportunity to appear would create a risk of
+harm to the public safety or welfare, including the risk of physical injury or
+the likelihood of property damage or financial loss.
+D.The court shall determine probable cause for
+seizure before property may be seized for forfeiture as a substitute asset
+pursuant to section 132314, subsection D, E or G, or pursuant to section
+134313, subsection A, unless the seizure is pursuant to a constructive
+seizure or the filing of a racketeering lien or lis pendens.The
+court may issue a seizure warrant for such property if it determines that there
+is probable cause to believe that the property is subject to forfeiture and is
+not available for seizure for forfeiture for any reason described in section 134313,
+subsection A.The determinations shall be made ex parte unless real
+property is to be seized and subsection C of this section requires notice and
+an opportunity to appear.
+E.In
+establishing a preponderance of the evidence and in determining probable cause
+for seizure and for forfeiture, a rebuttable presumption exists that the
+property of any person is subject to forfeiture if the state establishes all of
+the following by the standard of proof applicable to that proceeding:
+1.Conduct
+giving rise to forfeiture occurred.
+2.The person
+acquired the property during the period of the conduct giving rise to
+forfeiture or within a reasonable time after that period.
+3.There is no
+likely source for the property other than the conduct giving rise to forfeiture.
+F.In
+establishing a preponderance of the evidence and in determining probable cause
+for seizure and for forfeiture, the fact that money or any negotiable
+instrument was found in proximity to contraband or to instrumentalities of an
+offense gives rise to an inference that the money or instrument was the
+proceeds of contraband or was used or intended to be used to facilitate
+commission of the offense. END_STATUTE
+Sec.10.Section
+13-4306, Arizona Revised Statutes, is amended to read:
+START_STATUTE13-4306.Powers and duties of peace officers and agencies
+A.In the event of a
+seizure for forfeiture under section 134305, the property is not subject
+to replevin, conveyance, sequestration or attachment but is deemed to be in the
+custody of the law enforcement agency making the seizure for
+forfeiture.The seizing agency or the attorney for the state may
+authorize the release of the seizure for forfeiture of the property if
+forfeiture or retention is unnecessary, may transfer the property to any other
+state or federal agency or may transfer
+the action to another attorney for the state by discontinuing forfeiture
+proceedings in favor of forfeiture proceedings initiated by the other agency or
+attorney.An action pursuant to this chapter shall be consolidated
+with any other action or proceeding pursuant to this title relating to the same
+property on motion by the attorney for the state in either action.
+B.If property is seized
+for forfeiture under section 134305, pending forfeiture and final
+disposition, the seizing agency may do any of the following:
+1.Remove the property
+to a storage area for safekeeping or, if the property is a negotiable
+instrument or money, deposit it in an interest bearing account.
+2.Remove the property
+to a place designated by the court.
+3.Provide for another
+custodian or agency to take custody of the property and remove it to an
+appropriate location within the jurisdiction of the court.
+C.As soon as
+practicable after seizure for forfeiture, the seizing agency shall conduct an
+inventory and estimate the value of the property seized.Within
+twenty days the seizing agency or the attorney for the state shall make
+reasonable efforts to provide notice of seizure for forfeiture to all persons
+known to have an interest in the seized property.
+D.A person who acts in
+good faith and in a reasonable manner to comply with an order of the court or a
+request of a peace officer is not liable to any person for acts done in
+compliance with the order or request.
+E.A possessory lien of
+a person from whose possession property is seized is not affected by the
+seizure.
+F.In the event of a
+seizure for forfeiture under section 134305, the seizing agency shall send
+to an attorney for the state a written request for forfeiture within twenty
+days, which shall include a statement of facts and circumstances of the seizure
+including the names of witnesses then known, the appraised or estimated value
+of the property and a summary of the facts relied on for forfeiture.
+G.An owner of property
+seized for forfeiture may obtain the release of the seized property by posting
+with the attorney for the state a surety bond or cash in an amount equal to the
+full fair market value of the property as determined by the attorney for the
+state.The state may refuse to release the property if any of the
+following applies:
+1.The bond or cash
+tendered is inadequate.
+2.The property is
+retained as contraband or evidence.
+3.The property is
+particularly altered or designed for use in conduct giving rise to forfeiture.
+H.If an owner of
+property posts a surety bond or cash and the property is forfeited the court
+shall forfeit the surety bond or cash in lieu of the property.
+I.The seizing agency or the attorney for the state may
+not directly or indirectly transfer seized property to a federal agency or
+attorney unless the seized property is valued at more than fifty thousand
+dollars, excluding the potential value of the sale of contraband. A seizing
+agency or the attorney for the state may not enter into a partnership or
+agreement with a federal agency to seize property to avoid the requirement for
+a criminal conviction. END_STATUTE
+Sec.11.Section
+13-4308, Arizona Revised Statutes, is amended to read:
+START_STATUTE13-4308.Commencement of proceedings
+A.The attorney for the state shall determine
+whether it is probable that the property is subject to forfeiture and, if so, following a criminal conviction,
+may cause the initiation of uncontested
+or judicial proceedings against the property.If, on
+inquiry and examination, the attorney for
+the state determines that the proceedings probably cannot be
+sustained, that a conviction may not
+occur or that justice does not require the institution of such
+proceedings, he the attorney for the state shall
+notify the seizing agency and immediately authorize the release of the seizure
+for forfeiture on the property or on any specified interest in it.
+B.If the state fails to initiate forfeiture proceedings against property
+seized for forfeiture by notice of pending forfeiture within sixty days after
+its seizure for forfeiture,
+or fails to pursue forfeiture of such property on which a timely claim has been
+properly filed by filing a complaint, information or indictment pursuant to
+section 134311 or 134312 within sixty days after notice of
+pending forfeiture or, if uncontested
+forfeiture has been made available, within sixty days after a declaration of
+forfeiture, whichever is later, such property shall be released
+from its seizure for forfeiture on the request of an owner or interest holder,
+pending further proceedings pursuant to this chapter, which shall be commenced
+within seven years after actual discovery of the last act giving rise to
+forfeiture.
+C.If the property sought to be forfeited is real
+property, including fixtures, the attorney for the state may file a lis pendens
+or a notice of pending forfeiture with respect to the property with the county
+recorder of the county in which the property is located, in addition to any
+lien provided by section 132314.02, without a filing fee or other
+charge. END_STATUTE
+Sec.12.Repeal
+Section 13-4309,
+Arizona Revised Statutes, is repealed.
+Sec.13.Title 13, chapter 39, Arizona Revised
+Statutes, is amended by adding a new section 13-4309, to read:
+START_STATUTE13-4309.Pretrial replevin hearing; seized property
+A.If
+property is seized pursuant to this chapter, the defendant or any other person
+who has an ownership interest in the property may request a pretrial hearing to
+determine the validity of the seizure, the validity of the claimant's alleged
+interest in the seized property and whether the court should grant a writ of
+replevin or another remedy. At least sixty days before trial on the related
+criminal offense the claimant may file a motion with the court requesting a
+writ of replevin. The motion shall include any evidence that establishes the
+validity of the claimant's alleged interest in the property. The state shall
+file an answer that provides probable cause for the seizure, or cross motions,
+at least ten days before a hearing on the claimant's motion. The court shall
+conduct the hearing within thirty days after the claimants motion is filed.
+B.Either
+party, by agreement or for good cause, may request that the court grant one
+extension for the hearing of not more than ten days. A motion for an extension
+may be supported by affidavit or other submissions.
+C.The court
+shall grant the claimant's motion for replevin if the court finds that any of
+the following applies:
+1.It is
+likely that the final judgment will require the state to return the seized
+property to the claimant.
+2.The
+seized property is not reasonably required to be held for investigatory
+purposes.
+3.The
+seized property is the only reasonable means for a defendant to pay for legal
+representation in the forfeiture or criminal proceeding. The court may order
+the return of money or property sufficient to obtain legal counsel but less
+than the total amount seized and require an accounting of the returned money or
+property.
+D.In lieu
+of ordering the writ of replevin, the court may order the state to provide
+security or a written assurance for satisfaction of any judgment, including
+damages, that may be rendered in the action or order other relief as may be
+just.
+Sec.14.Section 13-4310, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE13-4310.Judicial forfeiture proceedings; general
+A.In any proceeding pursuant to this chapter, the
+court, on application of the state, may enter any restraining order or
+injunction, require the execution of satisfactory performance bonds, create
+receiverships, appoint conservators, appraisers, accountants or trustees or
+take any other action to seize, secure, maintain or preserve the availability
+of property subject to forfeiture under this title, including a warrant for its
+seizure, whether prior or subsequent to the filing of a notice of pending
+forfeiture, complaint, indictment or information.
+B.If property is seized for forfeiture without a
+prior judicial determination of probable cause, an order of forfeiture or a
+hearing pursuant to section 134312, subsection D, the court, on an
+application filed by an owner of or interest holder in the property within
+fifteen days after notice of its seizure for forfeiture or actual knowledge of
+it, whichever is earlier, and complying with the requirements for claims in
+section 134311, subsections E and F, may issue an order to show cause to
+the seizing agency for a hearing on the sole issue of whether probable cause
+for forfeiture of the property then exists.Notice of the order to
+show cause hearing must be served upon on the attorney for the state
+at least five working days before the hearing is held.If the court
+finds that no probable cause for forfeiture of the propertythen exists or
+if the state elects not to contest the issue, the property seized for
+forfeiture from the applicant shall be released to the custody of the applicant
+pending the outcome of a judicial proceeding pursuant to this
+chapter.If the court finds that probable cause for the forfeiture
+of the property then exists, the court shall not order the property released,
+except as provided in section 134306, subsection G.
+C.A defendant convicted in any criminal proceeding
+shall be precluded from subsequently denying the essential allegations of the
+criminal offense of which he was convicted in any proceeding pursuant to this
+chapter.For the purposes of this chapter, a conviction may result
+from a verdict or plea including a no contest plea.
+D.In any judicial forfeiture hearing, determination
+or other proceeding pursuant to this chapter, the applicant, petitioner or
+claimant must establish by a preponderance of the evidence that he is an owner
+of or interest holder in the property seized for forfeiture before other
+evidence is taken.The burden of proving the standing of the
+claimant and the existence of the
+exemption is on the claimant or party raising theclaim, and
+it is not necessary to negate the standing of any claimant or the existence of any exemption in any
+notice, application, complaint, information or indictment. If a claimant establishes by a preponderance of the evidence
+that the claimant is an owner of or interest holder in the property, it is
+presumed that the claimant's interest in the property is exempt from forfeiture
+under section 13-4304 and the burden of establishing that the claimant's
+property should be forfeited is on the state. 
+E.In hearings and determinations pursuant to this
+chapter:
+1.The law of evidence relating to civil actions
+applies equally to all parties, including the this state,
+an applicant, a petitioner, a claimant and a defendant, on all issues required
+to be established by a preponderance of the evidence.
+2.The court shall receive and consider, in making
+any determination of probable cause or reasonable cause, all evidence and
+information that would be permissible in determining probable cause at a
+preliminary hearing, at a grand jury or by a magistrate pursuant to section 133913,
+together with inferences from the evidence and information.
+3.No
+Evidence may be suppressed in any hearing pursuant to this chapter on the
+ground that its acquisition by search or seizure violated constitutional
+protections applicable in criminal cases relating to unreasonable searches or
+seizures.
+F.All property, including all interests in such
+property, declared forfeited under this title vests in this state on the
+commission of the act or omission giving rise to forfeiture under this title
+together with the proceeds of the property after such time.Any such
+property or proceeds subsequently transferred to any person are subject to
+forfeiture and thereafter shall be ordered forfeited unless the transferee
+claims and establishes in a hearing pursuant to this chapter the showings set
+out in section 134304.
+G.On the motion of a
+party and after notice to any persons who are known to have an interest in the
+property and an opportunity to be heard, the court may order property that has
+been seized for forfeiture sold, leased, rented or operated to satisfy an
+interest of any interest holder who has timely filed a proper claim or to
+preserve the interests of any party.The court may order a sale or
+any other disposition of the property if the property may perish, waste, be
+foreclosed on or otherwise be significantly reduced in value or if the expenses
+of maintaining the property are or will become greater than its fair market
+value.If the court orders a sale, the court shall designate a third
+party or state property manager to dispose of the property by public sale or
+other commercially reasonable method and shall distribute the proceeds in the
+following order of priority:
+1.Payment of reasonable expenses incurred in
+connection with the sale.
+2.Satisfaction of exempt interests in the order of
+their priority.
+3.Preservation of the balance, if any, in the
+actual or constructive custody of the court in an interest bearing account,
+subject to further proceedings under this chapter.
+H.If the property is disposed of pursuant to
+subsection G of this section, a successful claimant may apply to the court for
+actual monetary damages suffered, if any, as a result of the disposal of the
+property, but the this state, a political
+subdivision of the this state, or an officer, employee or agent of any
+of them shall not in any event be liable under this chapter for incidental or
+consequential damages or for damages either:
+1.That could have been avoided if the claimant had
+made full and immediate disclosure to the attorney for the state of facts or
+evidence known or available to the claimant.
+2.In excess of the fair market value of the
+property seized for forfeiture at the time of its seizure plus interest from
+the time of its seizure for forfeiture.
+I.If an
+indictment or information is filed alleging the same conduct as the conduct
+giving rise to forfeiture in a civil forfeiture proceeding, the court in the
+civil proceeding may stay civil discovery against the criminal defendant and
+against the state in the civil proceeding until the defendant's criminal trial
+is completed.Before staying civil discovery, the court shall make
+adequate provision to prevent any loss or expense to any victim or party
+resulting from the delay, including loss or expense due to maintenance,
+management, insurance, storage or preservation of the availability of the
+property or due to depreciation in the value of the property.
+J.I.No
+person claiming to be an owner of or interest holder in property seized for
+forfeiture under this chapter may commence or maintain any action against the
+state concerning the validity of the alleged interest other than as provided in
+this chapter. END_STATUTE
+Sec.15.Section 13-4311, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE13-4311.Judicial in rem forfeiture proceedings
+A.If a forfeiture is authorized by law, it shall be
+ordered by a court on an action in rem brought by the state pursuant to a
+notice of pending forfeiture or a verified complaint for
+forfeiture.The state may serve the complaint in the manner provided
+by section 134307 or by the Arizona rules of civil procedure.
+B.A civil in rem action may be brought by the state
+in addition to or in lieu of
+the civil and criminal in personam forfeiture procedures set forth in sections
+134312 and 134313 or the
+uncontested civil forfeiture procedures set forth in section 134309.Judicial
+in rem forfeiture proceedings are in the nature of an action in rem and are
+governed by the Arizona rules of civil procedure unless a different procedure
+is provided by law.
+C.On the filing of a civil in rem action by the
+state in superior court the clerk of the court in which the action is filed
+shall provide, and the attorney for the state may provide, the notice of
+pending forfeiture required by section 134307 unless the files of the
+clerk of the court reflect that such notice has previously been made.
+D.An owner of or interest holder in the property
+may file a claim against the property, within thirty days after the notice, for
+a hearing to adjudicate the validity of his claimed interest in the
+property.The court shall
+hold the hearing shall be
+held by the court without a jury.
+E.The claim shall be signed by the claimant under
+penalty of perjury and shall set forth all of the following:
+1.The caption of the proceeding as set forth on the
+notice of pending forfeiture or complaint and the name of the claimant.
+2.The address at which the claimant will accept
+future mailings from the court or attorney for the state.
+3.The nature and extent of the claimant's interest
+in the property.
+4.The date, the identity of the transferor and the
+circumstances of the claimant's acquisition of the interest in the property.
+5.The specific provisions of this chapter relied on
+in asserting thatthe property is not subject to forfeiture.
+6.All facts supporting each such assertion.
+7.Any additional facts supporting the claimant's
+claim.
+8.The precise relief sought.
+F.Copies of the claim shall be mailed to the
+seizing agency and to the attorney for the state.No extension of
+time for the filing of a claim may be granted.
+G.Within twenty days after service of the
+complaint, the claimant shall file and serve the answer to the complaint and
+the answers to interrogatories and requests for admission if any were served
+with the complaint. The answer shall be signed by the owner or interest holder
+under penalty of perjury, shall comply with the Arizona rules of civil
+procedure relating to answers and shall comply with all of the requirements for
+claims. If no proper answer is timely filed, the attorney for the state shall
+proceed as provided in sections 134314 and 134315 with ten days'
+notice to any person who has timely filed a claim that has not been stricken by
+the court.
+H.At the time of filing its pleadings or at any
+other time not less than thirty days before the hearing, the state and any
+claimant who has timely answered the complaint may serve discovery requests on
+any other party, the answers or response to which shall be due in twenty days,
+and may take the deposition of any person at any time after the expiration of
+fifteen days after the filing and service of the complaint.Any
+party may move for summary judgment at any time after an answer or responsive
+pleading is served and not less than thirty days before the
+hearing.The state, as the
+party defending against the claim, may make offers of judgment at
+any time more than ten days before the hearing begins.
+I.An injured person may submit a request for
+compensation from forfeited property to the court at any time before the
+earlier of the entry of a final judgment or an application for an order of the
+forfeiture of the property, or if a hearing pursuant to subsections K, L and M
+of this section is held, not less than thirty days before the
+hearing.The request shall be signed by the requestor under penalty
+of perjury and shall set forth all of the following:
+1.The caption of the proceeding as set forth on the
+notice of pending forfeiture or complaint and the name of the requestor.
+2.The address at which the requestor will accept
+future mailings from the court or parties to the action.
+3.The property subject to forfeiture from which the
+requestor seeks compensation.
+4.The nature of the economic loss sustained by the
+requestor.
+5.All facts supporting each such assertion.
+6.Any additional facts supporting the request.
+7.The amount of economic loss for which the
+requestor seeks compensation.
+J.If a proper request for compensation from
+forfeited property is timely filed, the court shall hold a hearing to establish
+whether there is a factual basis for the request.The requestor has
+the burden of establishing by a preponderance of the evidence that the
+requestor is an injured person who sustained economic loss.
+K.The hearing on the claim, to the extent
+practicable and consistent with the interest of justice, shall be held sixty
+days after all parties have complied with the disclosure required by rule 26.1
+of the Arizona rules of civil procedure.The court may consolidate
+the hearing on the claim with a hearing on any other claim concerning the same
+property.
+L.At the hearing, the claimant may testify, present
+evidence and witnesses on the claimant's own behalf and crossexamine
+witnesses who appear at the hearing.The state may present evidence
+and witnesses and crossexamine witnesses who appear at the hearing.
+M.At the hearing, the state has the burden of
+establishing by a preponderance of the evidence that the property is subject to
+forfeiture under section 134304.Any If
+the claimant who
+has previously established by a preponderance of the evidence that the claimant
+is an owner of or interest holder in the property, has
+the burden of establishing by a preponderance of the evidence it is presumed that the
+claimant's interest in the property is exempt from forfeiture under section 134304
+and the burden of establishing that the
+claimant's property should be forfeited is on the state.
+N.In accordance with
+its findings at the hearing:
+1.The court shall
+order an interest in property returned or conveyed to a claimant, if any, who
+has established by a preponderance of the evidence that the claimant is an
+owner of or interest holder in the property if either of the following applies:
+(a)The state has failed to establish by a
+preponderance of the evidence that the interest is subject to forfeiture under
+section 134304.
+(b)The claimant
+state has established by a preponderance of the evidence failed to establish that the
+interest is not exempt
+from forfeiture under section 134304.
+2.The court shall order all other property,
+including all interests in the property, forfeited to this state and proceed
+pursuant to sections 134314 and 134315.
+3.If the court finds that a requestor is an injured
+person the court shall determine the amount of the injured person's economic
+loss caused by the conduct giving rise to the forfeiture of the designated
+property and shall require the following:
+(a)If the designated property is not contraband and
+is not altered or designed for use in conduct giving rise to forfeiture, the
+attorney for the state shall sell the property as provided in section 134315,
+subsection A, paragraph 2,
+and shall apply the resulting balance to compensate the injured person's
+economic loss in the amount found by the court.
+(b)If the balance is insufficient to compensate the
+economic loss of all injured persons the attorney for the state shall
+distribute the balance among the injured persons according to a method
+determined by the court.
+(c)After compensation of all injured persons, the
+attorney for the state shall transmit ten per cent percent of
+the remaining balance, if any, to the Arizona criminal justice commission for
+deposit in the victim compensation and assistance fund established by section
+412407.
+(d)The attorney for the state shall deposit the
+remainder of the balance, if any, in an appropriate antiracketeering
+revolving fund established by section 132314.01 or established pursuant to section 132314.03.
+END_STATUTE 
+Sec.16.Section
+13-4312, Arizona Revised Statutes, is amended to read:
+START_STATUTE13-4312.Judicial in personam forfeiture proceedings
+A.If a forfeiture is
+authorized by law, it shall be ordered by a court on proceedings by the state after a criminal conviction in
+an in personam civil or criminal action pursuant to section 132313 or 132314
+or any other law providing for a forfeiture.
+B.Any complaint, information or indictment alleging
+or charging one or more offenses included in section 132301, subsection
+D, paragraph 4 or a violation of section 132312, or any other offense
+giving rise to forfeiture under this title, shall set forth with reasonable
+particularity property that the state seeks to forfeit pursuant to this section
+in that action, if any. The court shall allow the allegation that particular
+new or different or differently described property is subject to forfeiture in
+an in personam criminal or civil case to be made at any time prior to the date
+the case is actually tried unless the allegation is filed fewer than twenty
+days before the case is actually tried, and the court finds on the record that
+the defendant was in fact prejudiced by the untimely filing and states reasons
+for these findings, provided that when the allegation is filed, the state must
+make available to the defendant a copy of any material information concerning
+the allegation.
+C.In any proceeding pursuant to this section, the
+court, on application of the state, may enter any order authorized by section
+134310, subsection A or take any other action to seize, secure, maintain
+or preserve the availability of property subject to forfeiture under this
+title, including a warrant for its seizure, whether before or after the filing
+of a complaint, indictment or information.
+D.Notwithstanding subsection E of this section, a
+temporary restraining order under this section may be entered on application of
+the state without notice or an opportunity for a hearing if the state
+demonstrates both that:
+1.There is probable cause to believe that the
+property with respect to which the order is sought would, in the event of final judgment or a criminal conviction, be subject to
+forfeiture under this title.
+2.Provision of notice will jeopardize the
+availability of the property for forfeiture. A temporary restraining order
+expires within ten days after the date on which it is entered unless the party
+against whom it is entered consents to an extension for a longer period or
+unless after commencing a hearing the court enters or is considering a
+preliminary injunction.
+E.Notice of the entry of the restraining order and
+an opportunity for a hearing shall be afforded to persons known to have an
+interest in the property, whether or not a temporary restraining order is
+entered without notice.The hearing, however, is limited to the
+issues of whether both:
+1.There is a probability that the state will
+prevail on the issue of forfeiture and that failure to enter the order will
+result in the property being destroyed, conveyed, encumbered or further
+encumbered, removed from the jurisdiction of the court, concealed or otherwise
+made unavailable for forfeiture.
+2.The need to preserve the availability of property
+through the entry of the requested order outweighs the hardship on any owner,
+interest holder or defendant against whom the order is to be entered.
+F.A hearing requested by any owner or interest
+holder concerning an order entered under this section shall be held at the
+earliest possible time and before the expiration of a temporary order.
+G.On a
+determination of liability or the conviction of a person for
+conduct giving rise to forfeiture under this title, the court shall enter a
+judgment of forfeiture of the property described in the forfeiture statute
+alleged and set out in the complaint, information or indictment, as amended,
+and shall also authorize the county attorney or attorney general, their agents
+or any peace officer to seize all property ordered forfeited that was not
+previously seized or is not then under seizure.Following the entry
+of an order declaring the property forfeited, the court, on application of the
+state, may enter any order authorized by section 134310, subsection A or
+take any other action to protect the interest of this state or a political
+subdivision in the property ordered forfeited.The filing of the
+order of forfeiture in the appropriate public records perfects the interest of
+the state in the property described in the order as of the earlier of the date
+of the act or omission giving rise to forfeiture or the date that a notice of
+seizure for forfeiture or notice of pending forfeiture or racketeering lien was
+first filed in the records, which entitles the state to all rights of a secured
+party as to that property in addition to any other rights or remedies of the
+state in relation to the property.Any income accruing to, or derived
+from, an enterprise or any interest in an enterprise or other property interest
+that is forfeited under this chapter is also forfeited from the time of the
+conduct giving rise to forfeiture.It may be used pending procedures
+subsequent to a verdict or finding of liability to offset ordinary and
+necessary expenses of the enterprise or property as required by law or that are
+necessary to protect the interests of this state or a political subdivision.
+H.Procedures subsequent to the verdict or finding of liability and order
+of forfeiture shall be as follows:
+1.Following the entry of an order of forfeiture
+under this subsection the clerk of the court shall, and the attorney for the
+state may, give notice of pending forfeiture to all owners and interest holders
+who have not previously been given notice, if any, in the manner provided in
+section 134307.
+2.An owner of or interest holder in property that
+has been ordered forfeited pursuant to such action whose claim is not precluded
+may file a claim as described in section 134311, subsections E and F in
+the court for a hearing to adjudicate the validity of his claimed interest in
+the property within thirty days after initial notice of pending forfeiture or
+after notice under paragraph 1 of this subsection, whichever is earlier.
+3.The hearing on the claim, to the extent
+practicable and consistent with the interest of justice, shall be held within
+sixty days after the order of forfeiture.The court may consolidate
+the hearing on the claim with a hearing on any other claim filed by a person
+other than a party or defendant in the underlying action and concerning the
+same property.
+4.The hearing shall be held by the court without a
+jury and conducted in the manner provided for in rem judicial forfeiture
+actions including the provisions of section 134311, subsections J and K L and M.In addition to testimony
+and evidence presented at the hearing, the court shall consider the relevant
+portions of the record of the underlying civil or criminal action that resulted
+in the order of forfeiture.
+5.In accordance with its findings at the hearing,
+the court may amend the order of forfeiture if it determines that any claimant
+has established by a preponderance of the evidence that the claimant is an
+owner of or interest holder in the property if either of the following applies:
+(a)The state has failed to establish by a
+preponderance of the evidence that the interest is subject to forfeiture under
+section 134304.
+(b)The claimant
+state has established by a preponderance of the evidence failed to establish that the
+interest is not exempt
+from forfeiture under section 134304.
+I.In order to facilitate the identification or
+location of property declared forfeited and to facilitate the disposition of
+filed or subsequent claims pursuant to subsection H, paragraph 2 of this
+section, the court, on application of the state, may order that the testimony
+of any witness relating to the property forfeited or alleged to be subject to
+forfeiture be taken by deposition and that any designated book, paper,
+document, record, recording, electronic or otherwise, or other material which
+is not privileged be produced at the same time and place and in the same manner
+as that provided for the taking of depositions under the rules of civil
+procedure. END_STATUTE
+Sec.17.Section 13-4314, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE13-4314.Disposition by court
+A.If no
+petitions for remission or mitigation or claims are timely filed or if no
+petitioner files a claim in the court within thirty days after the mailing of a
+declaration of forfeiture
+After a criminal conviction occurs, the attorney for the state
+shall apply to the court for an order of forfeiture and allocation of forfeited
+property pursuant to section 134315. On the state's written application
+showing a conviction, jurisdiction, and notice and facts sufficient to demonstrate probable cause for
+forfeiture, and in cases brought pursuant to section 133413,
+subsection A, paragraph 1 or 3, probable cause to believe that the conduct
+giving rise to forfeiture involved an amount of unlawful substance greater than
+the statutory threshold amount as defined in section 133401 or was
+committed for financial gain, the court shall order the property forfeited to
+the state.
+B.After the court's disposition of all claims
+timely filed under this chapter, the state has clear title to the forfeited
+property and the court shall so order.Title to the forfeited
+property and its proceeds is deemed to have vested in the state on the
+commission of the act or omission giving rise to the forfeiture under this
+title.
+C.If, in his discretion, the attorney for the state
+has entered into a stipulation with an interest holder that the interest holder
+has an interest that is exempted from forfeiture, the court, on application of
+the attorney for the state, may release or convey forfeited personal property
+to the interest holder if all of the following are true:
+1.The interest holder has an interest which that was acquired in the regular course of
+business as a financial institution within section 132301, subsection D,
+paragraph 3.
+2.The amount of the interest holder's encumbrance
+is readily determinable and it has been reasonably established by proof made
+available by the attorney for the state to the court.
+3.The encumbrance held by the interest holder
+seeking possession is the only interest exempted from forfeiture and the order
+forfeiting the property to the state transferred all of the rights of the owner
+prior to before forfeiture, including rights to
+redemption, to the state.
+4.After the court's release or conveyance, the
+interest holder shall dispose of the property by a commercially reasonable
+public sale, and within ten days of disposition shall tender to the state the
+amount received at disposition less the amount of the interest holder's
+encumbrance and reasonable expense incurred by the interest holder in
+connection with the sale or disposal.
+D.On order of the court forfeiting the subject
+property, the attorney for the state may transfer good and sufficient title to
+any subsequent purchaser or transferee, and the title shall be recognized by
+all courts, by this state and by all departments and agencies of this state and
+any political subdivision.
+E.On entry of judgment for a claimant or claimants
+in any proceeding to forfeit property under this chapter such property or
+interest in property shall be returned or conveyed immediately to the claimant
+or claimants designated by the court.If
+it appears that there was reasonable cause for the seizure for forfeiture or
+for the filing of the notice of pending forfeiture, complaint, information or
+indictment, the court shall cause a finding to be entered, and
+the claimant is not or claimants, in such case, are entitled to attorney fees, costs or damages. , nor
+is The person or seizing agency that made the seizure, nor is and the attorney for the state is not liable to suit or judgment on account
+of such the seizure, suit or prosecution.
+F.The court shall
+order any claimant who fails to establish that his entire interest is exempt
+from forfeiture under section 134304 to pay the his
+proportionate costs of any claimant who establishes that his
+entire interest is exempt from forfeiture under section 134304 and the
+state's costs and expenses of the investigation and prosecution of the matter,
+including reasonable attorney fees. The
+proportionate costs shall be equal to the claimant's percentage of interest
+that is subject to forfeiture.END_STATUTE
+Sec.18.Section 13-4315, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE13-4315.Allocation of forfeited property
+A.Any property, including all interests in
+property, forfeited to the state under this title shall be transferred as
+requested by the attorney for the state to the seizing agency or to the agency
+or political subdivision employing the attorney for the state, which may do any
+of the following:
+1.Sell, lease, lend or transfer the property to any
+local or state government entity or agency or political subdivision, any law enforcement agency or
+prosecutorial agency or any federal law enforcement agency which that
+operates within this state for official federal, state or
+political subdivision use within this state, with expenses for keeping and
+transferring such property to be paid by the recipient.Property may
+not be allocated for official use if the fair market value of the property
+substantially exceeds the agency's probable cost of purchasing other property
+equally suited for the intended official use.Property that is
+allocated for official use may not be assigned for use by any person who supervised
+or exercised discretion in its forfeiture unless the use is approved in writing
+by the head of the agency.
+2.Sell forfeited property by public or otherwise
+commercially reasonable sale with expenses of keeping and selling the property
+and the amount of all valid interests established by claimants paid out of the
+proceeds of the sale with the balance paid into the antiracketeering revolving fund of the state or
+of the county in which the political subdivision seizing the property or
+prosecuting the action is located.A sale of forfeited property may
+not be made to any employee of the seizing agency, any person who participated
+in the forfeiture, any employee of a contractor selling the property on behalf
+of the seizing agency or any member of the immediate family of any of these
+employees or persons.
+3.Destroy or use for investigative purposes any
+illegal or controlled substances or other contraband at any time more than
+twenty days after seizure, on written approval of the attorney for the state,
+preserving only such material as may be necessary for evidence.
+4.Sell, use or destroy all raw materials, products
+and equipment of any kind used or intended for use in manufacturing,
+compounding or processing a controlled substance.
+5.Compromise and pay claims against property
+forfeited pursuant to any provision of this section.
+6.Make any other disposition of forfeited property
+authorized by law for the disposition of property of the state, government
+entity, agency or political subdivision.
+B.Notwithstanding subsection A of this section or
+any other provision of law
+to the contrary:
+1.If the property forfeited is money, and a law
+enforcement agency can specifically identify monies as being from its
+investigative funds or as being exchanged for property from its investigative
+property, the monies shall be remitted to the investigative fund.If
+there are additional forfeited monies or monies tendered on satisfaction by an
+interest holder which that cannot be specifically
+identified, the court shall order the monies returned to each law enforcement
+agency that makes a showing of costs or expenses which that
+it incurred in connection with the investigation and prosecution
+of the matter and shall order all excess monies remaining after such returns deposited
+in the antiracketeering revolving
+fund of this state or of the county in which the political
+subdivision seizing the monies or prosecuting the action is located,
+established pursuant to section 132314.01 or 132314.03. 
+2.If the property declared forfeited is an interest
+in a vehicle, the court shall order it forfeited to the local, state or other
+law enforcement agency seizing the vehicle for forfeiture or to the seizing
+agency.
+C.Monies in any antiracketeering revolving fund established pursuant
+to this title may be used, in addition to any other lawful use, for:
+1.The payment of any expenses necessary to seize,
+detain, appraise, inventory, protect, maintain, preserve the availability of,
+advertise or sell property that is subject to forfeiture and that is seized,
+detained or forfeited pursuant to this title or of any other necessary expenses
+incident to the seizure, detention, preservation or forfeiture of the
+property.The payments may include payments for contract services and
+payments to reimburse any federal, state or local agency for any expenditures
+made to perform the functions of the seizing agency.
+2.The payment of awards for information or
+assistance leading to a civil or criminal proceeding under this title.
+3.The payment of compensation from forfeited
+property to injured persons as provided in section 134311, subsection N,
+paragraph 3.
+D.Each attorney for the state shall submit a copy
+of each forfeiture judgment, including each order of forfeiture, to the Arizona
+criminal justice commission within sixty days after the forfeiture judgment
+becomes final or after the conclusion of appellate review, if any.
+E.The
+attorney general shall investigate all allegations of unlawful use of monies.
+If the allegation involves the attorney general, the county attorney in the
+county where the alleged unlawful use occurred shall investigate the
+allegation. END_STATUTE
+

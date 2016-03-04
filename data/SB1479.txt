@@ -1,0 +1,185 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: income tax credits; patents; trademarks.
+
+
+
+
+
+
+
+State of Arizona
+Senate
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+SB 1479
+
+
+
+
+
+
+
+
+
+Introduced by
+Senator
+  Sherwood
+
+
+
+
+
+AN ACT
+
+amending title
+41, chapter 10, article 1, Arizona Revised Statutes, by adding section 41-1509;
+amending section 43-222, Arizona Revised Statutes; amending title 43, chapter
+10, article 5, Arizona Revised Statutes, by adding section 43-1075; relating to
+income tax credits.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Title 41, chapter 10, article 1,
+Arizona Revised Statutes, is amended by adding section 41-1509, to read:
+START_STATUTE41-1509.Tax credit; patent and trademark applications; rules;
+annual report
+A.The
+authority shall receive and evaluate applications and certify taxpayers who
+qualify for income tax credits pursuant to section 43-1075 for the costs of
+filing an application for a patent or trademark with the United States patent
+and trademark office.
+B.The
+authority shall provide application forms for the tax credit that include:
+1.The
+taxpayer's name, address, taxpayer identification number, telephone number and
+e-mail address.
+2.Information
+that confirms the taxpayer's application for a patent or trademark and the
+costs the taxpayer incurred in applying for the patent or trademark.
+3.any other
+information required by the authority.
+C.the
+authority shall process and evaluate each application and may request
+additional information needed to verify or correct the information contained in
+the application. Within thirty days after receiving a complete and correct
+application, the authority shall either:
+1.Issue to
+the applicant a certificate of qualification for the income tax
+credit.To claim the credit, the applicant must file the certificate
+with the applicant's income tax return.
+2.Notify
+the applicant of denial of the application with specific reasons for the
+denial.
+D.The
+authority may not approve tax credits exceeding:
+1.Three
+thousand dollars for any taxpayer as a credit relating to one or more
+applications for patents during the calendar year.
+2.Three
+hundred dollars for any taxpayer as a credit relating to one or more
+applications for trademarks during the calendar year.
+3.Aggregate
+totals of:
+(a)Ten
+million dollars in any calendar year for credits relating to applications for
+patents.
+(b)One
+million dollars in any calendar year for credits relating to applications for
+trademarks.
+E.Income
+tax credits shall be approved on a first-come, first-served basis according to
+the date the application is filed with the authority. An approved amount
+applies against the dollar limit for the year in which the authority received
+the complete and correct application. If, at the end of the calendar year, an
+unused balance occurs under the dollar limits prescribed in subsection D of
+this section, the unused balance rolls over to add to the credit capacity in
+the following calendar year.
+F.the
+authority, with the cooperation of the department of revenue, shall adopt
+rules, prescribe procedures and publish forms and instructions as necessary to
+accomplish the purposes of this section.
+g.On or
+before March 31 of each year, the authority shall:
+1.Issue a
+public report of:
+(a)The
+dollar amount of the credits approved under this section in the preceding
+calendar year.
+(b)The
+dollar amount of credits denied under this section in the preceding calendar
+year due to the dollar limits prescribed in subsection D of this section. 
+(c)Whether
+the credits under this section provide an actual incentive for taxpayers to
+apply for patents and trademarks.
+(d)Other
+information the authority considers to be useful and relevant to the policies
+underlying the tax credits.
+2.Provide
+copies of the report required in paragraph 1 of this subsection to the
+governor, the secretary of state, the president of the senate and the speaker
+of the house of representatives and post the report on the authority's website.
+END_STATUTE
+Sec.2.Section 43-222, Arizona Revised Statutes, is amended to read:
+START_STATUTE43-222.Income tax credit review schedule
+The joint legislative income tax credit review committee shall
+review the following income tax credits:
+1.For years ending in 0 and 5, sections 431079.01,
+431087, 431088, 43-1089.04, 431167.01 and 431175.
+2.For years ending in 1 and 6, sections 431074.02,
+43-1075, 431083,
+431083.02, 431085.01, 431164.02, 43-1164.03 and 431183.
+3.For years ending in 2 and 7, sections 431073,
+431079, 431080, 431085, 431086, 431089, 431089.01,
+431089.02, 43-1089.03, 431090, 431164, 431167, 431169,
+431176 and 431181.
+4.For years ending in 3 and 8, sections 431074.01,
+431081, 431168, 431170 and 431178.
+5.For years ending in 4 and 9, sections 431076,
+431076.01, 431081.01, 431083.01, 431083.04, 431084,
+431162, 431162.01, 431164.01, 431164.05, 431170.01
+and 43-1184 and, beginning in 2019, sections 431083.03 and 431164.04.
+END_STATUTE
+Sec.3.Title 43, chapter 10, article 5,
+Arizona Revised Statutes, is amended by adding section 43-1075, to read:
+START_STATUTE43-1075.Credit for costs of applying for patents and trademarks
+A.For
+taxable years beginning from and after December 31, 2016, a credit is allowed
+against the taxes imposed by this title for costs incurred by the taxpayer in
+filing an application for a patent or trademark with the United States patent
+and trademark office. The amount of the credit is the amount approved by the
+Arizona commerce authority pursuant to section 411509. To claim the
+credit, the taxpayer must include with the taxpayer's income tax return the
+certificate of qualification issued to the taxpayer by the Arizona commerce
+authority.
+b.If the
+amount of the tax credit exceeds the income taxes otherwise due on the
+claimant's income, or if there are no state income taxes due on the claimant's
+income, the amount of the claim not used as an offset against the income taxes
+may be carried forward as a credit against subsequent years' income tax
+liability for a period not to exceed five consecutive taxable years. END_STATUTE
+Sec.4.Purpose
+Pursuant to section 43-223, Arizona Revised Statutes, the
+purpose of section 43-1075, Arizona Revised Statutes, as added by this act, is
+to encourage innovation and enterprise in this state by granting relief from
+the cost of filing for patents and trademarks.
+

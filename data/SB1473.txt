@@ -1,0 +1,1213 @@
+
+
+
+
+
+
+
+
+
+REFERENCE TITLE: registered nurses; advanced practice
+
+
+
+
+
+
+
+State of Arizona
+Senate
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+SB 1473
+
+
+
+
+
+
+
+
+
+Introduced by
+Senator
+  Barto; Representative Boyer: Senator Pancrazi; Representative Rios
+
+
+
+
+
+AN ACT
+
+Amending section
+321601, Arizona Revised Statutes, as amended by Laws 2015, chapter 262,
+section 1; amending section 321602, Arizona Revised Statutes; amending
+section 321603, Arizona Revised Statutes, as amended by Laws 2015,
+chapter 262, section 2; amending section 321606, Arizona Revised
+Statutes, as amended by Laws 2015, chapter 262, section 4; amending section 321631,
+Arizona Revised Statutes; repealing sections 321634.03 and 321634.04,
+Arizona Revised Statutes; amending sections 321635.01 and 321636,
+Arizona Revised Statutes; amending title 32, chapter 15, article 2, Arizona
+Revised Statutes, by adding section 321641; amending section 321642,
+Arizona Revised Statutes, as amended by Laws 2015, chapter 262, section 7;
+amending section 321643, Arizona Revised Statutes, as amended by Laws
+2015, chapter 262, section 8; amending sections 321644 and 321663,
+Arizona Revised Statutes; amending section 321666, Arizona Revised
+Statutes, as amended by Laws 2015, chapter 262, section 19; amending section 321921,
+Arizona Revised Statutes; relating to the Arizona state board of nursing.
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 32-1601, Arizona Revised
+Statutes, as amended by Laws 2015, chapter 262, section 1, is amended to read:
+START_STATUTE32-1601.Definitions
+In this chapter, unless the context otherwise requires:
+1."Absolute discharge from the sentence"
+means completion of any sentence, including imprisonment, probation, parole,
+community supervision or any form of court supervision.
+2."Advanced
+practice registered nurse" means a registered nurse who is licensed to
+practice advanced practice nursing and who practices within the limits of
+education, certification and licensure as provided in this chapter and in rule
+in one of the following roles:
+(a)Certified nurse practitioner.
+(b)Certified registered nurse
+anesthetist.
+(c)Certified nurse midwife.
+(d)Clinical nurse specialist.
+2.3."Approval"
+means that a regulated training or educational program to prepare persons for
+licensure, certification or registration has met standards established by the
+board.
+3.4."Board"
+means the Arizona state board of nursing.
+4.5."Certified
+nursing assistant" means a person who is registered on the registry of
+nursing assistants pursuant to this chapter to provide or assist in the
+delivery of nursing or nursing-related services under the supervision and direction
+of a licensed nursing staff member.Certified nursing assistant does
+not include a person who:
+(a)Is a licensed health care professional.
+(b)Volunteers to provide nursing assistant services
+without monetary compensation.
+(c)Is a licensed nursing assistant.
+5.6."Certified
+registered nurse" means a registered nurse who has been certified by a
+national nursing credentialing agency recognized by the board.
+6."Certified
+registered nurse anesthetist" means a registered nurse who meets the
+requirements of section 321634.03 and who practices pursuant to the
+requirements of section 321634.04.
+7."Clinical
+nurse specialist" means a registered nurse who:
+(a)Is
+certified by the board as a clinical nurse specialist.
+(b)Holds a
+graduate degree with a major in nursing and completes educational requirements
+as prescribed by the board by rule.
+(c)Is
+nationally certified as a clinical nurse specialist or, if certification is not
+available, provides proof of competence to the board.
+(d)Has an
+expanded scope of practice based on advanced education in a clinical nursing
+specialty that includes:
+(i)Assessing clients, synthesizing and analyzing
+data and understanding and applying nursing principles at an advanced level.
+(ii)Managing directly and indirectly a client's
+physical and psychosocial health status.
+(iii)Analyzing
+multiple sources of data, identifying alternative possibilities as to the
+nature of a health care problem and selecting appropriate nursing
+interventions.
+(iv)Developing,
+planning and guiding programs of care for populations of patients.
+(v)Making
+independent nursing decisions to solve complex client care problems.
+(vi)Using
+research skills and acquiring and applying critical new knowledge and
+technologies to nursing practice.
+(vii)Prescribing
+and dispensing durable medical equipment.
+(viii)Consulting
+with or referring a client to other health care providers based on assessment
+of the client's health status and needs.
+(ix)Facilitating
+collaboration with other disciplines to attain the desired client outcome
+across the continuum of care.
+(x)Performing
+additional acts that require education and training as prescribed by the board
+and that are recognized by the nursing profession as proper to be performed by
+a clinical nurse specialist.
+8.7."Conditional
+license" or "conditional approval" means a license or approval
+that specifies the conditions under which the regulated party is allowed to
+practice or to operate and that is prescribed by the board pursuant to section
+321644 or 321663.
+9.8."Delegation"
+means transferring to a competent individual the authority to perform a
+selected nursing task in a designated situation in which the nurse making the
+delegation retains accountability for the delegation.
+10.9."Disciplinary
+action" means a regulatory sanction of a license, certificate or approval
+pursuant to this chapter in any combination of the following:
+(a)A civil penalty for each violation of this
+chapter, not to exceed one thousand dollars for each violation.
+(b)Restitution made to an aggrieved party.
+(c)A decree of censure.
+(d)A conditional license or a conditional approval
+that fixed a period and terms of probation.
+(e)Limited licensure.
+(f)Suspension of a license, a certificate or an
+approval.
+(g)Voluntary surrender of a license, a certificate
+or an approval.
+(h)Revocation of a license, a certificate or an
+approval.
+11.10."Health
+care institution" has the same meaning prescribed in section 36401.
+12.11."Licensed
+nursing assistant" means a person who is licensed pursuant to this chapter
+to provide or assist in the delivery of nursing or nursing-related services
+under the supervision and direction of a licensed nursing staff
+member.Licensed nursing assistant does not include a person who:
+(a)Is a licensed health care professional.
+(b)Volunteers to provide nursing assistant services
+without monetary compensation.
+(c)Is a certified nursing assistant.
+13.12."Licensee"
+means a person who is licensed pursuant to this chapter or in a party state as
+defined in section 321668.
+14.13."Limited
+license" means a license that restricts the scope or setting of a
+licensee's practice.
+15.14."Medication
+order" means a written or verbal communication given by a certified
+registered nurse anesthetist to a health care professional to administer a drug
+or medication.
+16.15."Practical
+nurse" means a person who holds a practical nurse license issued pursuant
+to this chapter or pursuant to a multistate compact privilege and who practices
+practical nursing as defined in this section.
+17.16."Practical
+nursing" includes the following activities that are performed under the
+supervision of a physician or a registered nurse:
+(a)Contributing to the assessment of the health
+status of individuals and groups.
+(b)Participating in the development and
+modification of the strategy of care.
+(c)Implementing aspects of the strategy of care
+within the nurse's scope of practice.
+(d)Maintaining safe and effective nursing care that
+is rendered directly or indirectly.
+(e)Participating in the evaluation of responses to
+interventions.
+(f)Delegating nursing activities within the scope
+of practice of a practical nurse.
+(g)Performing additional acts that require
+education and training as prescribed by the board and that are recognized by
+the nursing profession as proper to be performed by a practical nurse.
+18."Presence"
+means within the same room or an adjoining room or within the same surgical or
+obstetrical suite.
+19.17."Registered
+nurse" or "professional nurse" means a person who practices
+registered nursing and who holds a registered nurse license issued pursuant to
+this chapter or pursuant to a multistate compact privilege.
+20."Registered
+nurse practitioner" means a registered nurse who:
+(a)Is
+certified by the board.
+(b)Has
+completed a nurse practitioner education program approved or recognized by the
+board and educational requirements prescribed by the board by rule.
+(c)If
+applying for certification after July 1, 2004, holds national certification as
+a nurse practitioner from a national certifying body recognized by the board.
+(d)Has an
+expanded scope of practice within a specialty area that includes:
+(i)Assessing
+clients, synthesizing and analyzing data and understanding and applying
+principles of health care at an advanced level.
+(ii)Managing
+the physical and psychosocial health status of clients.
+(iii)Analyzing
+multiple sources of data, identifying alternative possibilities as to the
+nature of a health care problem and selecting, implementing and evaluating
+appropriate treatment.
+(iv)Making
+independent decisions in solving complex client care problems.
+(v)Diagnosing,
+performing diagnostic and therapeutic procedures, and prescribing,
+administering and dispensing therapeutic measures, including legend drugs,
+medical devices and controlled substances within the scope of registered nurse
+practitioner practice on meeting the requirements established by the board.
+(vi)Recognizing
+the limits of the nurse's knowledge and experience and planning for situations
+beyond the nurse's knowledge, educational preparation and expertise by
+consulting with or referring clients to other health care providers when
+appropriate.
+(vii)Delegating
+to a medical assistant pursuant to section 321456.
+(viii)Performing
+additional acts that require education and training as prescribed by the board
+and that are recognized by the nursing profession as proper to be performed by
+a nurse practitioner.
+21.18."Registered
+nursing" includes the following:
+(a)Diagnosing and treating human responses to
+actual or potential health problems.
+(b)Assisting individuals and groups to maintain or
+attain optimal health by implementing a strategy of care to accomplish defined
+goals and evaluating responses to care and treatment.
+(c)Assessing the health status of individuals and
+groups.
+(d)Establishing a nursing diagnosis.
+(e)Establishing goals to meet identified health
+care needs.
+(f)Prescribing nursing interventions to implement a
+strategy of care.
+(g)Delegating nursing interventions to others who
+are qualified to do so.
+(h)Providing for the maintenance of safe and
+effective nursing care that is rendered directly or indirectly.
+(i)Evaluating responses to interventions.
+(j)Teaching nursing knowledge and skills.
+(k)Managing and supervising the practice of
+nursing.
+(l)Consulting and
+coordinating with other health care professionals in the management of health
+care.
+(m)Performing
+additional acts that require education and training as prescribed by the board
+and that are recognized by the nursing profession as proper to be performed by
+a registered nurse.
+22.19."Registry
+of nursing assistants" means the nursing assistants registry maintained by
+the board pursuant to the omnibus budget reconciliation act of 1987 (P.L.100203;
+101 Stat. 1330), as amended by the medicare catastrophic coverage act of 1988
+(P.L. 100360; 102 Stat. 683).
+23.20."Regulated
+party" means any person or entity that is licensed, certified, registered,
+recognized or approved pursuant to this chapter.
+24.21."Unprofessional
+conduct" includes the following, whether occurring in this state or
+elsewhere:
+(a)Committing fraud or deceit in obtaining,
+attempting to obtain or renewing a license or a certificate issued pursuant to
+this chapter.
+(b)Committing a felony, whether or not involving
+moral turpitude, or a misdemeanor involving moral turpitude.In
+either case, conviction by a court of competent jurisdiction or a plea of no
+contest is conclusive evidence of the commission.
+(c)Aiding or abetting in a criminal abortion or
+attempting, agreeing or offering to procure or assist in a criminal abortion.
+(d)Any conduct or practice that is or might be
+harmful or dangerous to the health of a patient or the public.
+(e)Being mentally incompetent or physically unsafe
+to a degree that is or might be harmful or dangerous to the health of a patient
+or the public.
+(f)Having a license, certificate, permit or
+registration to practice a health care profession denied, suspended,
+conditioned, limited or revoked in another jurisdiction and not reinstated by
+that jurisdiction.
+(g)Wilfully or repeatedly violating a provision of
+this chapter or a rule adopted pursuant to this chapter.
+(h)Committing an act that deceives, defrauds or
+harms the public.
+(i)Failing to comply with a stipulated agreement,
+consent agreement or board order.
+(j)Violating this chapter or a rule that is adopted
+by the board pursuant to this chapter.
+(k)Failing to report to the board any evidence that
+a registered or practical nurse or a nursing assistant is or may be:
+(i)Incompetent to practice.
+(ii)Guilty of unprofessional conduct.
+(iii)Mentally or physically unable to safely
+practice nursing or to perform nursing related duties. A nurse who is
+providing therapeutic counseling for a nurse who is in a drug rehabilitation
+program is required to report that nurse only if the nurse providing
+therapeutic counseling has personal knowledge that patient safety is being
+jeopardized.
+(l)Failing to selfreport a conviction for a
+felony or undesignated offense within ten days after the conviction.
+(m)Cheating or assisting another to cheat on a
+licensure or certification examination.
+Sec.2.Section
+32-1602, Arizona Revised Statutes, is amended to read:
+START_STATUTE32-1602.Arizona state board of nursing; member terms; immunity
+A.The Arizona
+state board of nursing is established consisting of eleven
+members who are appointed by the governor.Six members shall be
+registered nurses, including at least one registered nurse practitioner, clinical nurse specialist or certified
+registered nurse anesthetist advanced practice registered nurse. One
+member shall be a nursing assistant or a nursing assistant
+educator.Two members shall represent the public and two members
+shall be licensed practical nurses. Members shall be appointed for a term of
+five years, to begin and end on June30.
+B.On or before May 1 each year and at any other
+time a vacancy on the board occurs, the governor shall make an appointment or
+appointments to the board.Appointment to fill a vacancy other than
+by expiration shall be for the unexpired term.A person shall not
+serve more than two consecutive terms as a member of the board.
+C.The governor may remove any person from the board
+for neglect of any duty imposed by law or for incompetency or unprofessional or
+dishonorable conduct.
+D.A board member's term automatically ends:
+1.On the death of the member.
+2.On the member's written resignation submitted to
+the board president or to the governor.
+3.On the member's failure to attend three
+consecutive board meetings.
+E.A board member who acts within the scope of board
+duties, without malice and in the reasonable belief that the member's action is
+warranted by law is not subject to civil liability. END_STATUTE
+Sec.3.Section 32-1603, Arizona Revised
+Statutes, as amended by Laws 2015, chapter 262, section 2, is amended to read:
+START_STATUTE32-1603.Qualifications of board members
+A.Each registered nurse member of the board shall:
+1.Be a resident of the state.
+2.Be a graduate of an approved registered nursing
+program.
+3.Be licensed as a registered nurse in this state.
+4.Have had at least five years' experience in
+nursing following graduation, including executive, supervisory or teaching
+experience in nursing education or nursing service.
+5.Have been actively engaged in the practice of
+nursing or nursing activities for at least three years preceding the
+appointment.
+B.Each licensed
+practical nurse member of the board shall:
+1.Be a resident of
+this state.
+2.Be a graduate of
+an approved practical nursing program.
+3.Be licensed as a
+licensed practical nurse in this state.
+4.Have had at least five years' experience in
+practical nursing following graduation.
+5.Have been actively engaged in the practice of
+nursing for at least three years preceding the appointment.
+C.Each public member of the board shall be a person
+who:
+1.Is not licensed pursuant to chapter 7, 8, 11, 13,
+14, 15.1, 16, 17, 18, 19, 19.1, 21, 25 or 29 of this title or this chapter as
+an individual health care provider.
+2.Is not an employee of any health care institution
+licensed pursuant to title 36, chapter 4 or any authorized insurer providing
+disability insurance coverage in this state.
+3.Does not have a financial interest as a provider
+in the delivery of health care services.
+D.Each licensed nursing assistant or certified nursing
+assistant member of the board shall either:
+1.Be a licensed nursing assistant or a certified
+nursing assistant pursuant to this chapter and currently practice or have
+practiced within three years before initial appointment to the board.
+2.Within one year before appointment to the board,
+have been employed as an instructor or coordinator in an approved licensed
+nursing assistant or certified nursing assistant training program.
+E.For at least three years preceding appointment to
+the board, each registered nurse
+practitioner or clinical nurse specialist advanced practice registered nurse member
+shall be certified licensed pursuant to this
+chapter and actively practicing as a
+registered nurse practitioner, actively engaged in a clinical nurse specialist
+practice an advanced
+practice registered nurse or teaching.
+F.Each member of the board shall take and subscribe
+to the oath prescribed by law for state officers, which shall be filed with the
+secretary of state. END_STATUTE
+Sec.4.Section 32-1606, Arizona Revised
+Statutes, as amended by Laws 2015, chapter 262, section 4, is amended to read:
+START_STATUTE32-1606.Powers and duties of board
+A.The board may:
+1.Adopt and revise rules necessary to carry into
+effect this chapter.
+2.Publish advisory opinions regarding registered
+and practical nursing practice and nursing education.
+3.Issue limited licenses or certificates if it
+determines that an applicant or licensee cannot function safely in a specific
+setting or within the full scope of practice.
+4.Refer criminal violations of this chapter to the
+appropriate law enforcement agency.
+5.Establish a confidential program for the
+monitoring of licensees who are chemically dependent and who enroll in
+rehabilitation programs that meet the criteria established by the
+board.The board may take further action if the licensee refuses to
+enter into a stipulated agreement or fails to comply with its terms.In
+order to protect the public health and safety, the confidentiality requirements
+of this paragraph do not apply if the licensee does not comply with the
+stipulated agreement.
+6.On the applicant's or regulated party's request,
+establish a payment schedule with the applicant or regulated party.
+7.Provide education regarding board functions.
+8.Collect or assist in the collection of workforce
+data.
+9.Adopt rules for conducting pilot programs
+consistent with public safety for innovative applications in nursing practice,
+education and regulation.
+10.Grant retirement status on request to retired
+nurses who are or were licensed under this chapter, who have no open complaint
+or investigation pending against them and who are not subject to discipline.
+11.Accept and spend federal monies and private
+grants, gifts, contributions and devises to assist in carrying out the purposes
+of this chapter. These monies do not revert to the state general fund at the
+end of the fiscal year.
+B.The board shall:
+1.Approve regulated training and educational
+programs that meet the requirements of this chapter and rules adopted by the
+board.
+2.By rule, establish approval and reapproval
+processes for nursing and nursing assistant training programs that meet the
+requirements of this chapter and board rules.
+3.Prepare and maintain a list of approved nursing
+programs for the preparation of registered and practical nurses whose graduates
+are eligible for licensing under this chapter as registered nurses or as
+practical nurses if they satisfy the other requirements of this chapter and
+board rules.
+4.Examine qualified registered and practical nurse
+applicants.
+5.License and renew the licenses of qualified
+registered and practical nurse applicants and licensed nursing assistants who
+are not qualified to be licensed by the executive director.
+6.Adopt a seal, which the executive director shall
+keep.
+7.Keep a record of all proceedings.
+8.For proper cause, deny or rescind approval of a
+regulated training or educational program for failure to comply with this
+chapter or the rules of the board.
+9.Adopt rules for the approval of credential
+evaluation services that evaluate the qualifications of applicants who
+graduated from an international nursing program.
+10.Determine and administer appropriate
+disciplinary action against all regulated parties who are found guilty of
+violating this chapter or rules adopted by the board.
+11.Perform functions necessary to carry out the
+requirements of nursing assistant and nurse aide training and competency
+evaluation program as set forth in the omnibus budget reconciliation act of
+1987 (P.L. 100203; 101 Stat. 1330), as amended by the medicare
+catastrophic coverage act of 1988 (P.L. 100360; 102 Stat.
+683).These functions shall include:
+(a)Testing and registration of certified nursing
+assistants.
+(b)Testing and licensing of licensed nursing
+assistants.
+(c)Maintaining a list of board approved board-approved training programs.
+(d)Maintaining a registry of nursing assistants for
+all certified nursing assistants and licensed nursing assistants.
+(e)Assessing fees.
+12.Adopt rules establishing those acts that may be
+performed by aregistered nurse
+practitioner in collaboration with a licensed physician, except that the board
+does not have authority to decide scope of practice relating to abortion as
+defined in section 362151 an advanced practice registered nurse within the focus of
+care for each role. The board shall not adopt a scope of practice that is
+inconsistent with title 36, chapter 20, article 1.
+13.Adopt rules establishing educational
+requirements for the certification of school nurses.
+14.Publish copies of board rules and distribute
+these copies on request.
+15.Require each applicant for initial licensure or
+certification to submit a full set of fingerprints to the board for the purpose
+of obtaining a state and federal criminal records check pursuant to section 411750
+and Public Law 92544.The department of public safety may
+exchange this fingerprint data with the federal bureau of investigation.
+16.Revoke a license of a person, revoke the
+multistate licensure privilege of a person pursuant to section 321669 or
+not issue a license or renewal to an applicant who has one or more felony
+convictions and who has not received an absolute discharge from the sentences
+for all felony convictions five or more years before the date of filing an
+application pursuant to this chapter.
+17.Establish standards for approving and
+reapproving nurse practitioner and
+clinical nurse specialist advanced
+practice registered nursing programs and provide for surveys of nurse practitioner and clinical nurse
+specialist advanced
+practice registered nursing programs as it deems necessary.
+18.Provide the licensing authorities of health care
+institutions, facilities and homes any information the board receives regarding
+practices that place a patient's health at risk.
+19.Limit the multistate licensure privilege of any
+person who holds or applies for a license in this state pursuant to section 321668.
+20.Adopt rules to establish competency standards
+for obtaining and maintaining a license.
+21.Adopt
+rules for the qualification and certification of clinical nurse specialists.
+21.Adopt
+rules pursuant to section 321921, subsection A, paragraph 1 to establish
+educational and practice requirements for granting prescribing and dispensing
+privileges for advanced practice registered nurses consistent with the
+education, certification and licensure of each role and this chapter.
+22.Adopt rules for approval and reapproval of
+refresher courses for nurses who are not currently practicing.
+23.Maintain a list of approved medication assistant
+training programs.
+24.Test and certify medication assistants.
+25.Maintain a registry and disciplinary record of
+medication assistants who are certified pursuant to this chapter.
+C.The board may conduct an investigation on receipt
+of information that indicates that a person or regulated party may have
+violated this chapter or a rule adopted pursuant to this chapter.Following
+the investigation, the board may take disciplinary action pursuant to this
+chapter.
+D.The board may limit, revoke or suspend the
+privilege of a nurse to practice in this state granted pursuant to section 321668.
+E.Failure to comply with any final order of the
+board, including an order of censure or probation, is cause for suspension or
+revocation of a license or a certificate.
+F.The president or a member of the board designated
+by the president may administer oaths in transacting the business of the board.
+END_STATUTE
+Sec.5.Section 32-1631, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-1631.Acts and persons not affected by chapter
+This chapter does not prohibit:
+1.Auxiliary or supportive services by maids,
+porters, messengers, bus boys, nurses aides or attendants working under
+competent supervision in a licensed hospital, or gratuitous care by friends or
+members of the family of a sick or infirm person or incidental care of the sick
+by a domestic servant or person employed primarily as a housekeeper, as long as
+these persons do not practice registered nursing or claim to be licensed
+practical nurses.
+2.Nursing assistance in cases of emergency.
+3.Nursing by duly enrolled prelicensure students
+under competent supervision in approved nursing programs.
+4.The practice of nursing in this state by any
+legally qualified nurse of another state whose engagement requires the nurse to
+accompany and care for a patient temporarily residing in this state during one
+such engagement not to exceed six months, if the nurse does not claim to be a
+nurse licensed to practice in this state.
+5.Nursing by any legally qualified nurse of another
+state who is employed by the government of the United States or any bureau,
+division or agency of the United States government in the discharge of that
+person's official duties.
+6.Caring for the sick in connection with the
+practice of religion or treatment by prayer.
+7.Registered
+nurse practitioner or clinical nurse specialist The practice of advanced practice registered nursing by
+duly enrolled students under competent supervision as part of a registered nurse practitioner or clinical nurse specialist
+an advanced practice registered nursing
+program if the program is approved by a United States nursing
+regulatory agency in the state of the parent institution and the student is
+authorized to practice registered nursing in this state.
+8.Nursing education provided to students in this
+state that is provided electronically or in person by a person who resides in
+another state and who is licensed to practice registered nursing in that state
+if the provision of education does not exceed six consecutive months in any
+calendar year and does not include supervising or providing clinical care.
+9.Consulting services that are provided to persons
+in this state electronically or in person by a person who resides in another
+state and who is licensed to practice registered nursing in that state if the
+provision of services does not exceed six consecutive months in any calendar
+year and does not include direct patient care. END_STATUTE
+Sec.6.Repeal
+Sections 321634.03
+and 321634.04,
+Arizona Revised Statutes, are repealed.
+Sec.7.Section 32-1635.01, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-1635.01.Temporary advanced practice registered nurse license
+A.The board may issue a temporary nurse practitioner certificate advanced practice registered nurse license,
+including prescribing and dispensing authority, or a temporary clinical nurse specialist certificate
+to a registered nurse who holds an unencumbered temporary or permanent license
+and who meets the requirements for certification licensure and prescribing and
+dispensing authority as prescribed by this
+chapter and board rules.
+B.A temporary certificate license
+expires on the date specified in the certificate license and may be renewed at
+the discretion of the executive director. END_STATUTE
+Sec.8.Section 32-1636, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-1636.Use of titles or abbreviations
+A.Only a person who holds a valid and current
+license to practice registered nursing in this state or in a party state
+pursuant to section 321668 may use the title "nurse",
+"registered nurse", "graduate nurse" or "professional
+nurse" or the abbreviation "R.N.".
+B.Only a person who holds a valid and current
+license to practice practical nursing in this state or in a party state as
+defined in section 321668 may use the title "nurse",
+"licensed practical nurse" or "practical nurse" or the
+abbreviation "L.P.N.".
+C.Only a person who holds a valid and current certificate license issued pursuant to this chapter to
+practice as a registered certified nurse practitioner
+in this state may use the title "nurse practitioner", or
+"registered certified nurse
+practitioner" or "nurse
+midwife", if applicable, or use any words or letters to
+indicate the person is a registered certified nurse practitioner.
+A person who is certified licensed as a registered certified nurse practitioner shall indicate
+by title or initials the specialty area of certification licensure.
+D.Only a person who holds a valid and current certificate license issued pursuant to this chapter to
+practice as a clinical nurse specialist may use the title "clinical nurse
+specialist" or use any words or letters to indicate the person is a
+clinical nurse specialist. A person who is certified licensed as a clinical nurse specialist shall indicate by
+title or initials the specialty area of certification licensure.
+E.Only a
+person who holds a valid and current license issued pursuant to this chapter to
+practice as a certified nurse midwife may use the title "certified nurse
+midwife" or "nurse midwife" or use any words or letters to indicate
+the person is a certified nurse midwife. A person who is licensed as a
+certified nurse midwife shall indicate by title or initials the specialty area
+of licensure.
+F.Only a
+person who holds a valid and current license issued pursuant to this chapter to
+practice as a certified registered nurse anesthetist may use the title
+"certified registered nurse anesthetist" or "nurse
+anesthetist" or use any words or letters to indicate the person is a
+certified registered nurse anesthetist. A person who is licensed as a
+certified registered nurse anesthetist shall indicate by title or initials the
+area of licensure.
+E.G.A
+nurse who is granted retirement status shall not practice nursing but may use
+the title "registered nurseretired" or "RN-retired"
+or "licensed practical nurseretired" or
+"LPN-retired", as applicable. END_STATUTE
+Sec.9.Title 32, chapter 15, article 2,
+Arizona Revised Statutes, is amended by adding section 32-1641, to read:
+START_STATUTE32-1641.Advanced practice registered nurses; licensing; scope of
+practice; prescribing privileges; requirements; definition
+A.The board
+may license a registered nurse pursuant to this chapter as an advanced practice
+registered nurse if the registered nurse meets all of the following
+requirements:
+1.Submits
+an application as prescribed by the board.
+2.Has
+completed an accredited graduate-level education program for advanced practice
+registered nurses in one of the four roles specified in section 32-1601,
+paragraph 2 and, if applying for licensure as a clinical nurse specialist or a
+certified nurse practitioner, in at least one population focus.
+3.Has
+passed a national certification examination as specified by the board that
+measures the advanced practice registered nurse role and the related
+competencies.
+4.Has paid
+the required fee.
+B.In
+addition to the registered nurse scope of practice and within the role and
+competency focus of the advanced practice registered nurse, the scope of
+practice shall include:
+1.Maintaining
+and promoting health and the prevention of disease.
+2.Diagnosing,
+including ordering the interpreting diagnostic procedures as appropriate for
+the person's level of education and training.
+3.If
+granted privileges and subject to the requirements and limitations specified in
+this section, Prescribing, ordering and dispensing pharmacological agents.
+4.Delegating
+and assigning therapeutic measures to assistive personnel.
+5.consulting
+with other disciplines and providing referrals to health care agencies, health
+care providers and community resources.
+6.Planning
+and initiating a therapeutic regimen that may include ordering and prescribing
+nonpharmacological interventions, including durable medical equipment, medical
+devices, nutrition and diagnostic and supportive services such as home health
+care, hospice care and physical and occupational therapies.
+7.Performing
+additional acts that require education and training as prescribed by the board and
+that are proper to be performed by an advanced practice registered nurse within
+the focus of care for each role.
+C.If
+granted privileges and subject to the requirements and limitations specified in
+this section, Prescribing, administering, procuring, ordering and dispensing
+pharmacological agents shall include the authority to prescribe, administer,
+procure, order and dispense pharmacological agents, including overthecounter
+medications and legend and controlled substances, consistent with the education,
+certification and licensure of the applicant.
+D.As part
+of and complementary to a procedure, test or childbirth delivery performed or
+ordered by a health care provider, a certified registered nurse anesthetist, in
+coordination with that health care provider or a designated provider and
+without supervision by the health care provider, may:
+1.Notwithstanding
+subsection B, paragraph 3 of this section, prescribe and provide anesthesia and
+analgesic services and treatment including those controlled substances
+necessary to provide those services.
+2.If
+granted prescribing privileges pursuant to this section, prescribe and provide,
+for not more than seven days before or after a procedure, test or childbirth
+delivery, nonanesthesia and nonanalgesic pharmacological agents
+necessary to facilitate the provision of anesthesia and analgesic services.
+The certified registered nurse anesthetist shall not prescribe an opioid
+medication for patient selfadministration.
+E.The
+prescribing privileges of a clinical nurse specialist are limited as follows:
+1.A
+clinical nurse specialist may not prescribe opioid medications for patient
+self-administration.
+2.A
+clinical nurse specialist who has been granted prescribing privileges may
+prescribe only for patients of an accredited or licensed health care
+institution or health care agency that uses the services of the clinical nurse
+specialist and shall observe the protocols and standards of care of the
+institution or agency.
+3.A
+clinical nurse specialist shall notify the medical director or the physician
+responsible for managing a patient within one business day after writing a
+prescription order for the patient that is new or that changes an existing
+dosage, unless the clinical nurse specialist is acting pursuant to a written
+protocol that provides for the types and amounts of pharmacological agents to
+be prescribed.
+F.The
+requirements for an advanced practice registered nurse to be granted privileges
+to prescribe pharmacological agents shall include:
+1.Graduate-level
+courses in each of the following:
+(a)Advanced physiology and
+pathophysiology, including general principles across a person's life span.
+(b)Advanced health assessment,
+which includes assessment of all human systems and advanced assessment
+techniques, concepts and approaches as appropriate for each role and population
+focus.
+(c)Advanced pharmacology, which
+includes pharmacodynamics, pharmacokinetics and pharmacotherapeutics of all
+broad category agents.
+(d)The diagnosis and management of
+diseases as related to the role and population focus of the applicant.
+(e)Clinical preceptorship in
+patient management, including pharmacotherapeutics, that is comparable to the
+requirements for the completion of a certified nurse practitioner program as
+appropriate for each role and population focus.Clinical preceptors
+shall hold a current unencumbered license to practice either as a physician or
+as an advanced practice registered nurse with prescribing authority and at
+least one year of clinical experience.
+2.Meeting
+the requirements of subsection A, paragraph 3 of this section.
+G.An
+advanced practice registered nurse shall consult with or refer to one or more
+persons who are licensed pursuant to chapter 7, 11, 13 or 17 of this title if
+the consultation or referral is appropriate. An advanced practice registered
+nurse's activities are not required to be supervised by a physician, and a
+referral agreement is not required.
+H.For the
+purposes of:
+1.This
+section, "opioid" means a class II controlled substance.
+2.Subsection
+D of this section:
+(a)"Coordination" means
+that through the period in which anesthesia or analgesic services are provided
+by the certified registered nurse anesthetist either:
+(i)The health care provider is
+performing the procedure, test or childbirth.
+(ii)The health care provider has
+ordered anesthesia or analgesic services and the health care provider or health
+care provider's designee is available onsite or through telecommunication.
+(b)"Health care provider"
+means a person who is licensed pursuant to chapter 7, 11, 13 or 17 of this
+title or a certified nurse midwife who is licensed pursuant to this chapter and
+who is acting within the midwife's scope of practice. END_STATUTE
+Sec.10.Section 32-1642, Arizona Revised
+Statutes, as amended by Laws 2015, chapter 262, section 7, is amended to read:
+START_STATUTE32-1642.Renewal of license or registration; failure to renew
+A.Except as provided in section 324301, a
+registered nurse, advanced practice
+registered nurse and practical nurse licensee shall renew the
+license every four years on or before April 1. If a licensee does not renew
+the license on or before May 1, the licensee shall pay an additional fee for
+late renewal as prescribed in section 321643. If a licensee does not
+renew the license on or before August 1, the license expires.It is
+a violation of this chapter for a person to practice nursing with an expired
+license.
+B.An applicant for renewal of a registered nurse, advanced practice registered nurse or
+practical nursing nurse license shall submit a
+verified statement that indicates whether the applicant has been convicted of a
+felony and, if convicted of one or more felonies, indicates the date of
+absolute discharge from the sentences for all felony convictions.
+C.On receipt of the application and fee, the board
+shall verify the accuracy of the application and issue to the applicant an
+active renewal license, which shall be effective for the following four
+calendar years.The renewal license shall render the holder a legal
+practitioner of nursing, as specified in the license, during the period stated
+on the certificate of renewal. A licensee who fails to secure a renewal license
+within the time specified may secure a renewal license by making verified
+application as the board prescribes by furnishing proof of being qualified and
+competent to act as a registered nurse,
+advanced practice registered nurse or practical nurse, and
+additional information and material as required by the board, and by payment of
+the prescribed fee.
+D.Except as provided in section 324301, a
+licensed nursing assistant shall renew the license every two years on the last
+day of the licensed nursing assistant's birth month.An applicant
+for renewal shall submit a verified statement that indicates whether the
+applicant has been convicted of a felony and, if convicted of one or more
+felonies, indicates the date of absolute discharge from the sentences for all
+felony convictions.On receipt of the application and fee, the board
+shall issue a renewal license to qualified applicants.
+E.Except as provided in section 324301, a
+certified nursing assistant shall file an application to renew the certified nursing
+assistant registration every two years on the last day of the certified nursing
+assistant's birth month. An applicant for renewal shall submit a verified
+statement that indicates whether the applicant has performed nursing or
+nursing-related services within the previous twentyfour consecutive
+months and whether the individual's registry entry includes documented findings
+of abuse, neglect or misappropriation of property.On receipt of the
+application, the board shall issue a renewal registration to each qualified
+renewal applicant.
+F.On written request to the board, the name and
+license of a licensee in good standing may be transferred to an inactive
+list.The licensee shall not practice during the time the license is
+inactive, and renewal fees do not accrue.If an inactive licensee
+wishes to resume the practice of nursing, the board shall renew the license on
+satisfactory showing that the licensee is then qualified and competent to
+practice and on payment of the current renewal fee.The licensee
+shall also file with the board a verified statement that indicates whether the
+applicant has been convicted of a felony and, if convicted of one or more
+felonies, that indicates the date of absolute discharge from the sentences for
+all felony convictions. END_STATUTE
+Sec.11.Section 32-1643, Arizona Revised
+Statutes, as amended by Laws 2015, chapter 262, section 8, is amended to read:
+START_STATUTE32-1643.Fees; penalties
+A.The board by formal vote at its annual meeting
+shall establish fees not to exceed the following amounts:
+1.Initial application for certification for certified registered nurse anesthetist,
+registered nurse practitioner and clinical nurse specialist in specialty areas licensure as an advanced practice registered
+nurse, one hundred fifty dollars.
+2.Initial application for school nurse
+certification, seventyfive dollars.
+3.Initial application for license as a registered
+nurse, one hundred fifty dollars.
+4.Initial application for license as a practical
+nurse, one hundred fifty dollars.
+5.Application for reissuance of a registered or
+practical nursing license, one hundred fifty dollars.
+6.Application for renewal of a registered nurse, an advanced practice registered nurse
+or a practical nurse license before expiration, one hundred sixty dollars.
+7.Application for renewal of a registered nurse, an advanced practice registered nurse or
+a practical nurse license after expiration, one hundred sixty
+dollars, plus a late fee of fifty dollars for each month a the
+license is lapsed, but not to exceed a total of two hundred
+dollars.
+8.Application for renewal of a school nurse
+certificate, fifty dollars.
+9.Application for temporary registered nurse,
+practical nurse or licensed nursing assistant license, fifty dollars.
+10.Retaking the registered nurse or practical nurse
+examination, one hundred dollars.
+11.Issuing a license to an applicant to become a
+licensed nursing assistant, fifty dollars.
+12.Issuing a license to a licensed nursing
+assistant applicant for renewal, fifty dollars.
+13.Application for renewal of a licensed nursing
+assistant license after its expiration, twentyfive dollars for each year
+it is expired, not to exceed a total of one hundred dollars.
+14.Issuing a duplicate license or certificate,
+twentyfive dollars.
+15.Copying a nursing program transcript, twentyfive
+dollars.
+16.Verification to another state or country of
+licensure for endorsement, certification
+licensure for advanced
+practice or licensed nursing assistant licensure, fifty dollars.
+17.Providing
+verification to an applicant for licensure or for licensed nursing assistant
+licensure by endorsement, fifty dollars.
+18.Application to
+prescribe, order and
+dispense medication and application to
+prescribe medication, one hundred fifty dollars.
+19.Application
+for renewal of prescribing and dispensing medication privileges before
+expiration and application for renewal of prescribing medication privileges before
+expiration, twenty dollars.
+20.Application
+for renewal of prescribing and dispensing medication privileges after
+expiration and application for renewal of prescribing medication privileges
+after expiration, thirtyfive dollars.
+21.19.Issuing an
+inactive license, fifty dollars.
+22.20.Writing the
+national council licensing examination for the first time, one hundred fifty
+dollars.
+23.21.Sale of
+publications prepared by the board, fifty dollars.
+24.22.Providing notary
+services, two dollars, or as allowed under section 41316.
+25.23.Copying records,
+documents, letters, minutes, applications and files, fifty cents a page.
+26.24.Processing
+fingerprint cards, fifty dollars.
+27.25.Registration for
+board seminars, one hundred dollars.
+28.26.Failing to
+notify the board of a change of address pursuant to section 321609,
+twentyfive dollars.
+B.The board may collect from the drawer of a
+dishonored check, draft order or note an amount allowed pursuant to section 446852.
+END_STATUTE
+Sec.12.Section 32-1644, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-1644.Approval of nursing schools and programs; application;
+maintenance of standards
+A.The board shall approve all new prelicensure
+nursing, nurse practitioner and clinical
+nurse specialist and
+advanced practice registered nursing programs pursuant to this
+section.A postsecondary educational institution or a school in this state that is accredited by
+an accrediting agency recognized by the United States department of education
+desiring to conduct a registered nursing, practical nursing, nurse practitioner or clinical nurse specialist or advanced practice registered nursing program
+shall apply to the board for approval and submit satisfactory proof that it is
+prepared to meet and maintain the minimum standards prescribed by this chapter
+and board rules.
+B.The board or its authorized agent shall
+may conduct a survey of the institution or program applying for
+approval and shall submit a written report of its findings to the board. If
+the board determines that the program meets the requirements prescribed in its
+rules, it the board shall approve the applicant as
+either a registered nursing program, a practical
+nursing program, nurse practitioner
+program or clinical nurse specialist program in a specialty area or an advanced practice registered nursing
+program. Certified nurse
+practitioner and clinical nurse specialist programs may be approved only for
+the specific population of care.
+C.A nursing program approved by the board may also
+be accredited by a national nursing accrediting agency recognized by the
+board.If a prelicensure nursing program is accredited by a national
+nursing accrediting agency recognized by the board, the board does not have
+authority over it unless any of the following occurs:
+1.The board receives a complaint about the program
+relating to patient safety.
+2.The program falls below the standards prescribed
+by the board in its rules.
+3.The program loses its accreditation by a national
+nursing accrediting agency recognized by the board.
+4.The program allows its accreditation by a
+national nursing accrediting agency recognized by the board to lapse.
+D.From time to time the board, through its
+authorized employees or representatives, may resurvey all approved programs in
+the state and shall file written reports of these resurveys with the
+board.If the board determines that an approved nursing program is
+not maintaining the required standards, it
+the board shall
+immediately give written notice to the program specifying the
+defects.If the defects are not corrected within a reasonable time
+as determined by the board, the board may take either of the following actions:
+1.Approve the program but restrict the program's
+ability to admit new students until the program complies with board standards.
+2.Remove the program from the list of approved
+nursing programs until the program complies with board standards.
+E.All approved nursing programs shall maintain
+accurate and current records showing in full the theoretical and practical
+courses given to each student.
+F.The board does not have regulatory authority over
+the following approved nurse practitioner
+or clinical nurse specialist advanced practice registered nursing programs
+unless the conditions prescribed in subsection C of this section are met:
+1.A nurse
+practitioner or clinical nurse specialist An advanced practice registered nursing
+program that is part of a graduate program in nursing accredited by an agency
+recognized by the board if the program was surveyed as part of the graduate
+program accreditation.
+2.A nurse
+practitioner or clinical nurse specialist An advanced practice registered nursing
+program that is accredited by an agency recognized by the board. END_STATUTE
+Sec.13.Section
+32-1663, Arizona Revised Statutes, is amended to read:
+START_STATUTE32-1663.Disciplinary action
+A.If an applicant
+for licensure or certification commits an act of unprofessional conduct, the
+board, after an investigation, may deny the application or take other
+disciplinary action.
+B.In its denial order, the board shall immediately
+invalidate any temporary license or certificate issued to the applicant.
+C.Any person aggrieved by an order of the board
+issued under the authority granted by subsection A of this section may request
+an administrative hearing pursuant to title 41, chapter 6, article 10.
+D.If the board finds, after affording an
+opportunity to request an administrative hearing pursuant to title 41, chapter
+6, article 10, that a person who holds a license or certificate issued pursuant
+to this chapter has committed an act of unprofessional conduct, it may take
+disciplinary action.
+E.If the board finds after giving the person an
+opportunity to request an administrative hearing pursuant to title 41, chapter
+6, article 10 that a nurse who practices in this state and is licensed by
+another jurisdiction pursuant to section 321668 committed an act of
+unprofessional conduct, the board may limit, suspend or revoke the privilege of
+that nurse to practice in this state.
+F.If the board determines pursuant to an
+investigation that reasonable grounds exist to discipline a person pursuant to
+subsection D or E of this section, the board may serve on the licensee or
+certificate holder a written notice that states:
+1.That the board has sufficient evidence that, if not
+rebutted or explained, will justify the board in taking disciplinary actions
+allowed by this chapter.
+2.The nature of the allegations asserted and that
+cites the specific statutes or rules violated.
+3.That unless the licensee or certificate holder submits
+a written request for a hearing within thirty days after service of the notice
+by certified mail, the board may consider the allegations admitted and may take
+any disciplinary action allowed pursuant to this chapter without conducting a
+hearing.
+G.If the Arizona
+state board of nursing acts to modify any registered nurse practitioner's prescription writing
+advanced practice registered nurse's
+prescription-writing privileges, it shall immediately notify the Arizona state board of pharmacy
+of the modification. END_STATUTE
+Sec.14.Section 32-1666, Arizona Revised
+Statutes, as amended by Laws 2015, chapter 262, section 19, is amended to read:
+START_STATUTE32-1666.Unlawful acts
+A.It is unlawful for a person who is not licensed
+or certified under this chapter to:
+1.Practice or offer to practice as a registered or
+practical nurse,registered nurse
+practitioner or clinical nurse specialist or advanced practice registered nurse in this
+state.
+2.Represent or use any title, abbreviation,
+letters, figures, sign, card or device to indicate that the person or any other
+person is a registered nurse, graduate nurse, professional nurse, nurse practitioner, clinical nurse specialist, advanced practice registered nurse,
+practical nurse, licensed nursing assistant or certified nursing assistant.
+3.Represent or use any title, abbreviation,
+letters, sign, card or device to indicate that the person or any other person
+is licensed or certified
+pursuant to this chapter.
+B.It is unlawful for a person to operate a training
+or educational program to prepare students for licensure or certification under
+this chapter unless it has been approved under this chapter. END_STATUTE
+Sec.15.Section 32-1921, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-1921.Exempted acts; exemption from registration fees;
+definition
+A.This chapter does not prevent:
+1.The prescription prescribing and dispensing of
+drugs or prescription medications by a
+registered nurse practitioner an advanced practice registered nurse
+pursuant to rules adopted by the Arizona
+state board of nursing in consultation with the Arizona medical
+board, the board of osteopathic examiners in medicine and surgery and the board
+of pharmacy.
+2.The sale of nonprescription drugs that are sold
+at retail in original packages by a person holding a permit issued by the board
+under this chapter.
+3.The sale of drugs at wholesale by a wholesaler or
+manufacturer that holds the required permit issued by the board to a person who
+holds the required permit issued under this chapter.
+4.The manufacturing of drugs by a person who is not
+a pharmacist and who holds the required permit issued by the board under this
+chapter.
+5.The following health professionals from
+dispensing or personally administering drugs or devices to a patient for a
+condition being treated by the health professional:
+(a)A doctor of medicine licensed pursuant to
+chapter 13 of this title.
+(b)An osteopathic physician licensed pursuant to
+chapter 17 of this title.
+(c)A homeopathic physician licensed pursuant to
+chapter 29 of this title.
+(d)A podiatrist licensed pursuant to chapter 7 of
+this title.
+(e)A dentist licensed pursuant to chapter 11 of
+this title.
+(f)A doctor of naturopathic medicine who is
+authorized to prescribe natural substances, drugs or devices and who is
+licensed pursuant to chapter 14 of this title.
+(g)An optometrist who is licensed pursuant to
+chapter 16 of this title and who is certified for topical or oral
+pharmaceutical agents.
+6.A veterinarian licensed pursuant to chapter 21 of
+this title from dispensing or administering drugs to an animal or from
+dispensing or administering devices to an animal being treated by the
+veterinarian.
+7.The use of any pesticide chemical, soil or plant
+nutrient or other agricultural chemical that is a color additive solely because
+of its effect in aiding, retarding or otherwise affecting directly or
+indirectly the growth or other natural physiological process of produce of the
+soil and thereby affecting its color whether before or after harvest.
+8.A licensed practical or registered nurse employed
+by a person licensed pursuant to chapter 7, 11, 13, 14, 17 or 29 of this title
+from assisting in the delivery of drugs and devices to patients, in accordance
+with chapter 7, 11, 13, 14, 17 or 29 of this title.
+9.The use of any mechanical device or vending machine
+in connection with the sale of any nonprescription drug, including proprietary
+and patent medicine. The board may adopt rules to prescribe conditions under
+which nonprescription drugs may be dispensed pursuant to this paragraph.
+B.A person who is licensed pursuant to chapter 7,
+11, 13, 14, 17 or 29 of this title and who employs a licensed practical or
+registered nurse who in the course of employment assists in the delivery of
+drugs and devices is responsible for the dispensing process.
+C.Pursuant to a prescription order written by a
+physician for the physician's patients and dispensed by a licensed pharmacist,
+a physical therapist licensed pursuant to chapter 19 of this title, an
+occupational therapist licensed pursuant to chapter 34 of this title or an
+athletic trainer licensed pursuant to chapter 41 of this title may procure,
+store and administer nonscheduled legend and topical antiinflammatories
+and topical anesthetics for use in phonophoresis and iontophoresis procedures
+and within the scope of practice of physical or occupational therapy or
+athletic training.
+D.A public health facility operated by this state
+or a county and a qualifying community health center may dispense medication or
+devices to patients at no cost without providing a written prescription if the
+public health facility or the qualifying community health center meets all
+storage, labeling, safety and record keeping rules adopted by the board of
+pharmacy.
+E.A person who is licensed pursuant to chapter 7,
+11, 13, 14, 17 or 29 of this title, who is practicing at a public health
+facility or a qualifying community health center and who is involved in the
+dispensing of medication or devices only at a facility or center, whether for a
+charge or at no cost, shall register to dispense with the appropriate licensing
+board but is exempt from paying registration fees.
+F.For the purposes of this section,
+"qualifying community health center" means a primary care clinic that
+is recognized as nonprofit under section 501(c)(3) of the United States
+internal revenue code and whose board of directors includes patients of the
+center and residents of the center's service area. END_STATUTE
+Sec.16.Current nursing certificate holders; licensure; renewal;
+Arizona state board of nursing membership
+A.A nurse practitioner, certified nurse midwife,
+clinical nurse specialist or certified registered nurse anesthetist who is
+currently certified but has not passed a national certification exam or who has
+not completed a graduate-level education program may receive or renew a license
+if:
+1.The nurse practitioner or certified nurse midwife
+received certification from the Arizona state board of nursing before January
+1, 2005 or was certified or licensed in that role before January 1, 2001 in any
+United States jurisdiction and has continuously maintained that licensure or
+certification.
+2.The clinical nurse specialist or certified
+registered nurse anesthetist received certification from the Arizona state board
+of nursing before July 1, 2017 or was certified or licensed in that role before
+July 1, 2017 in any United States jurisdiction and has continuously maintained
+that licensure or certification.
+B.A nurse practitioner or certified nurse midwife
+who has not passed a national certification examination may renew prescribing
+privileges if the prescribing privileges were granted before July 1, 2017.
+C.A nurse practitioner or clinical nurse specialist
+who holds a current certificate issued by the Arizona state board of nursing
+and who is a member of the board may continue to serve on the board for the
+remainder of the person's term notwithstanding the requirement that the
+advanced practice registered nurse member of the board be licensed for at least
+three years preceding appointment to the board.
+Sec.17.Arizona state board of nursing; rulemaking exemption;
+consultation
+A.For the purposes of implementing this act, the
+Arizona state board of nursing is exempt from the rulemaking requirements of
+title 41, chapter 6, Arizona Revised Statutes, until July 1, 2017, except that
+the board shall provide public notice and an opportunity for public comment on
+proposed rules at least sixty days before the rules are amended or adopted.
+B.For purposes of
+the consultation required by section 321921, Arizona Revised Statutes,
+as amended by this act, the Arizona state board of nursing shall provide to the
+Arizona state board of pharmacy, the Arizona medical board and the Arizona
+board of osteopathic examiners in medicine and surgery a draft of the proposed
+rules at least sixty days before any noticed opportunity for public comment
+under subsection A of this section.
+Sec.18.Conforming legislation
+The legislative council staff shall prepare proposed legislation
+conforming the Arizona Revised Statutes to the provisions of this act for
+consideration in the fiftythird legislature, first regular session.
+Sec.19.Effective date
+This act is effective from and after June 30, 2017.
+

@@ -1,0 +1,422 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: county treasurer; warrants; electronic
+  transfers
+
+
+
+
+
+
+
+State of Arizona
+Senate
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+SB 1348
+
+
+
+
+
+
+
+
+
+Introduced by
+Senators
+  Burges: Lesko
+
+
+
+
+
+AN ACT
+
+Amending sections
+11634, 11635, 11636 and 11637, Arizona Revised
+Statutes; repealing section 11638, Arizona Revised Statutes; amending
+sections 11640, 11645 and 35323, Arizona Revised Statutes;
+relating to claims and warrants.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 11-634, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE11-634.Payment of warrants, substitute checks and electronic
+funds transfers; definitions 
+A.When
+If the board of
+supervisors, the county superintendent of schools or a special district
+presents a warrant, or substitute check or electronic funds transfer for
+payment, the county treasurer shall pay it and make a charge against the appropriate
+account. An electronic image of the original warrant or an electronic record of the electronic funds transfer provided
+by or made available by the servicing bank in a format approved by the county
+treasurer shall be is deemed properly presented.
+B.For the purposes of this section: ,
+
+1."Substitute
+check" and has the same meaning prescribed in section 9249.
+2."Warrant"
+have has the same meanings meaning prescribed in section 9249 and includes a record from which an electronic funds
+transfer may be made. END_STATUTE
+Sec.2.Section 11-635, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE11-635.Warrants, substitute checks and electronic funds transfers
+unpaid for lack of monies; interest; definitions 
+A.If a revolving line of credit has not been
+obtained for a political subdivision or if the revolving line of credit has
+been expended, the treasurer shall write
+or stamp on the face of the warrant or substitute check "not paid for lack
+of funds" and the date of presentation, and from that time until it is
+paid, the warrant or substitute check shall bear no more than ten per cent
+interest per year spent
+and if there are insufficient monies in the issuer's account, the county
+treasurer may invest in the warrant, substitute check or electronic funds
+transfer prescribed in section 35323, subsectionA, paragraph 7.
+B.The county
+treasurer shall keep a register of warrants and substitute checks
+and a record of electronic funds
+transfers presented for payment.
+C.If the
+county treasurer does not invest in the presented warrant, substitute check or
+electronic funds transfer, the county treasurer shall notify the servicing bank
+that the warrant or substitute check will not be paid for lack of monies and
+from that time until there are sufficient monies to pay the original warrant,
+the original warrant may not bear more than ten percent interest per year.
+C.D.For the purposes
+of this section: ,
+1."Substitute
+check" and has the same meaning prescribed in section 9249.
+2."Warrant"
+have has the same meanings meaning prescribed in section 9249 and includes a record from which an electronic funds
+transfer may be made. END_STATUTE
+Sec.3.Section 11-636, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE11-636.Effect on interest after notice of readiness to pay unpaid
+warrants; notice requirements
+A.When
+If there is are sufficient
+money monies in the treasury to pay the warrants that have been returned and are drawing
+interest, the county treasurer
+shall give notice thereof by publication in some a newspaper
+published in the county,
+or by posting written
+notice posted at the court house courthouse door, or
+on the county's website stating that he the
+county treasurer is ready to pay the warrants.From
+the first publication or posting of the notice the warrants shall cease to draw interest.
+B.In the notice published in a newspaper, the county treasurer shall not
+publish the warrants in detail, but shall give notice only that only county warrants presented for payment prior to such a before the date, as stated in the notice, are payable.When If
+only part of the warrants presented on the same day are payable,
+the county treasurer
+shall designate the payable warrants in the notice. END_STATUTE
+Sec.4.Section 11-637, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE11-637.Effect of priority of presentment on preference of payment
+Warrants are entitled to preference of payment from money monies applicable to the warrants according to
+priority of presentment.The
+treasurer, upon receipt of money not otherwise appropriated, shall set it apart
+or so much thereof as is necessary for payment of the warrants.END_STATUTE
+Sec.5.Repeal
+Section 11-638,
+Arizona Revised Statutes, is repealed.
+Sec.6.Section 11-640, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE11-640.Record of interest paid
+When If the county treasurer pays a warrant on which
+interest is due, he the treasurer shall record the
+amount of interest paid in the register
+or call warrant list. The amount of such the
+interest shall be entered on his the
+account separate from the principal. END_STATUTE
+Sec.7.Section 11-645, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE11-645.Warrants, substitute checks and electronic funds transfers
+unpaid for lack of monies; interest; notice; reissued warrants; definitions
+A.Notwithstanding sections 11635, and 11636 and 11638, this section applies to each
+county treasurer of a county in this state that has a population of two million
+or more persons.
+B.If a revolving line of credit has not been
+obtained for a political subdivision or if the revolving line of credit has
+been expended spent and if there are
+insufficient funds monies in the issuer's account,
+the county treasurer shall write or stamp on the face of the
+may invest in the warrant, substitute
+check or electronic funds transfer prescribed in section 35323,
+subsection A, paragraph 7.If the county treasurer does not invest
+in the presented warrant,
+or substitute check "not or electronic funds transfer, the county treasurer shall
+notify the servicing bank that the warrant or substitute check will not be paid
+for lack of funds" and the date of
+presentation, monies and
+from that time until it is paid
+there are sufficient monies to pay the
+original warrant, the original
+warrant or substitute check
+shall may not bear
+no more than ten per cent percent interest per year. If a physical
+warrant is not presented to the county treasurer
+but the county treasurer
+receives an electronic notice that the warrant was issued, the treasurer shall
+notify the servicing bank that the warrant will not be paid for lack of funds monies, and from that time until there are
+sufficient funds monies to pay the original
+warrant, the original amount of the warrant shall may
+not bear no
+more than ten per cent percent interest per year. 
+C.The county
+treasurer shall keep a register of warrants and substitute checks
+presented for payment and a record of
+electronic funds transfers.
+D.When
+If there is are sufficient
+money monies in the treasury to pay the warrants
+drawing interest and registered pursuant to this section, the county treasurer shall notify the issuing
+entity of the availability of the monies.The monies shall be placed
+in a clearing fund or other appropriate fund that is agreed on by the county treasurer and district.
+The issuing entity shall issue new warrants, which shall that include the original principal amount and
+any accrued interest, and notify the county
+treasurer of the warrant numbers, amounts and payees.
+E.When
+If only part of the
+warrants presented on the same day are payable, the county treasurer shall designate the payable
+warrants and notify the issuing entity of the warrants to be paid and the
+warrants to be registered.
+F.A warrant that is reissued pursuant to this
+section shall be processed pursuant to section 11644.
+G.For the purposes of this section: ,
+
+1."Substitute
+check" and has the same meaning prescribed in section 9249.
+2."Warrant"
+have has the same meanings meaning prescribed in section 9249 and includes a record from which an electronic funds
+transfer may be made. END_STATUTE
+Sec.8.Section 35-323, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE35-323.Investing public monies; bidding;
+security and other requirements
+A.The treasurer shall invest and reinvest public
+monies in securities and deposits with a maximum maturity of five
+years.All public monies shall be invested in eligible
+investments.Eligible investments are:
+1.Certificates of deposit in eligible depositories.
+2.Deposits in one or more federally insured banks
+or savings and loan associations placed in accordance with the procedures
+prescribed in section 35323.01.
+3.Interest bearing savings accounts in banks and
+savings and loan institutions doing business in this state whose accounts are
+insured by federal deposit insurance for their industry, but only if deposits
+in excess of the insured amount are secured by the eligible depository to the
+same extent and in the same manner as required under this article.
+4.Repurchase agreements with a maximum maturity of
+one hundred eighty days.
+5.The pooled investment funds established by the
+state treasurer pursuant to section 35326.
+6.Obligations issued or guaranteed by the United
+States or any of the senior debt of its agencies, sponsored agencies,
+corporations, sponsored corporations or instrumentalities.
+7.Bonds, notes or other evidences of indebtedness
+of this state or any of its counties, incorporated cities or towns, school
+districts or special taxing districts, including registered warrants, substitute checks and electronic
+funds transfers that shall bear
+interest pursuant to section 11635.
+8.Bonds, notes or evidences of indebtedness of any
+county, municipal district, municipal utility or special taxing district of any
+state that are payable from revenues, earnings or a special tax specifically
+pledged for the payment of the principal and interest on the obligations, and
+for the payment of which a lawful sinking fund or reserve fund has been
+established and is being maintained, but only if no default in payment on
+principal or interest on the obligations to be purchased has occurred within
+five years of the date of investment, or, if such obligations were issued less
+than five years before the date of investment, no default in payment of
+principal or interest has occurred on the obligations to be purchased nor any
+other obligations of the issuer within five years of the investment.
+9.Bonds, notes or evidences of indebtedness issued
+by any county improvement district or municipal improvement district of any
+state to finance local improvements authorized by law, if the principal and
+interest of the obligations are payable from assessments on real property
+within the improvement district.An investment shall not be made if:
+(a)The face value of all such obligations, and
+similar obligations outstanding, exceeds fifty percent of the market value of
+the real property, and if improvements on which the bonds or the assessments
+for the payment of principal and interest on the bonds are liens inferior only
+to the liens for general ad valorem taxes.
+(b)A default in payment of principal or interest on
+the obligations to be purchased has occurred within five years of the date of
+investment, or, if the obligations were issued less than five years before the
+date of investment, a default in the payment of principal or interest has
+occurred on the obligations to be purchased or on any other obligation of the
+issuer within five years of the investment.
+10.Commercial paper of prime quality that is rated
+within the top two ratings by a nationally recognized rating agency. All
+commercial paper must be issued by corporations organized and doing business in
+the United States.
+11.Bonds, debentures, notes or other evidences of
+indebtedness that are denominated in United States dollars and that carry at a
+minimum an "A" or better rating, at the time of purchase, from at
+least two nationally recognized rating agencies.
+12.Negotiable or brokered certificates of deposit
+issued by a nationally or state chartered bank or savings and loan association.
+13.Securities of or any other interests in any openend
+or closedend management type investment company or investment trust,
+including exchange traded funds whose underlying investments are invested in
+securities allowed by state law, registered under the investment company act of
+1940 (54 Stat. 789; 15 United States Code sections 80a1 through 80a64),
+as amended.
+B.Certificates of deposit shall be purchased from
+the eligible depository bidding the highest permissible rate of
+interest.No monies over one hundred thousand dollars may be awarded
+at any interest rate less than one hundred three percent of the equivalent bond
+yield of the offer side of United States treasury bills having a similar
+term.If the eligible depository offering to pay the highest rate of
+interest has bid only for a portion of the monies to be awarded, the remainder
+of the monies shall be awarded to eligible depositories bidding the next
+highest rates of interest.
+C.An eligible depository is not eligible to receive
+total aggregate deposits from this state and all its subdivisions in an amount
+exceeding twice its capital structure as outlined in the last call of condition
+of the superintendent of financial institutions.
+D.If two or more eligible depositories submit bids
+of an identical rate of interest for all or any portion of the monies to be
+deposited, the award of the deposit of the monies shall be made to the eligible
+depository among those submitting identical bids having, at the time of the bid
+opening, the lowest ratio of total public deposits in relation to its capital
+structure.
+E.Each bid submitted, and not withdrawn prior to
+the time specified, constitutes an irrevocable offer to pay interest as
+specified in the bid on the deposit, or portion bid for, and the award of a
+deposit in accordance with this section obligates the depository to accept the
+deposit and pay interest as specified in the bid pursuant to which the deposit
+is awarded.
+F.The treasurer shall maintain a record of all bids
+received and shall make available to the board of deposit at its next regularly
+scheduled meeting a correct list showing the bidders, the bids received and the
+amount awarded. These records shall be available to the public and shall be
+kept in the possession of the treasurer for not less than two years from the
+date of the report.
+G.Any eligible depository, before receiving a deposit
+in excess of the insured amount under this article, shall deliver collateral
+for the purposes of this subsection equal to at least one hundred two percent
+of the deposit.The collateral shall be any of the following:
+1.A bond executed by a surety company that is
+approved by the treasury department of the United States and authorized to do
+business in this state.The bond shall be approved as to form by the
+legal advisor of the treasurer.
+2.Securities or instruments of the following
+character:
+(a)United States government or agency obligations.
+(b)State, county, school district and other
+district municipal bonds.
+3.The safekeeping receipt of a federal reserve bank
+or any bank located in a reserve city, or any bank authorized to do business in
+this state, whose combined capital, surplus and outstanding capital notes and
+debentures on the date of the safekeeping receipt are ten million dollars or
+more, evidencing the deposit therein of any securities or instruments described
+in this section.A safekeeping receipt shall not qualify as
+security, if issued by a bank to secure its own public deposits, unless issued
+directly through its trust department.The safekeeping receipt shall
+show upon on its face that it is issued for the account
+of the treasurer and shall be delivered to the treasurer.The
+safekeeping receipt may provide for the substitution of securities or
+instruments which that qualify under this section
+with the affirmative act of the treasurer.
+4.Letters of credit issued by a federal home loan
+bank if:
+(a)The letter of credit has been delivered pursuant
+to this section or chapter 10, article 1 of this title to the statewide
+collateral pool administrator.
+(b)The letter of credit meets the required
+conditions of:
+(i)Being irrevocable.
+(ii)Being issued, presentable and payable at a
+federal home loan bank in United States dollars. Presentation may be made by
+the beneficiary submitting the original letter of credit, including any
+amendments, and the demand in writing, by overnight delivery.
+(iii)If the letter of credit is for purposes of
+chapter 10, article 1 of this title, containing a statement that identifies the
+statewide collateral pool administrator as the beneficiary.
+(iv)Containing an issue date and a date of expiration.
+(c)For the purposes of chapter 10, article 1 of
+this title, the eligible depository, if notified by the statewide collateral
+pool administrator, is not allowed to use new letters of credit issued by a
+federal home loan bank if that federal home loan bank fails to pay a draw
+request as provided for in the letters of credit or fails to properly complete
+a confirmation of such letters of credit.
+H.The securities,
+instruments or safekeeping receipt for the securities and instruments shall be
+accepted at market value if not above par, and, if at any time their market
+value becomes less than the deposit liability to that treasurer, additional
+securities or instruments required to guarantee deposits shall be deposited
+immediately with the treasurer who made the deposit and deposited by the
+eligible depository in which the deposit was made.
+I.The condition of the surety bond, or the deposit
+of securities, instruments or a safekeeping receipt, must be such that the
+eligible depository will promptly pay to the parties entitled public monies in
+its custody, upon on lawful demand, and will,
+when required by law, pay the monies to the treasurer making the deposit.
+J.Notwithstanding the requirements of this section,
+any institution qualifying as an eligible depository may accept deposits of
+public monies to the total then authorized insurance of accounts, insured by
+federal deposit insurance, without depositing a surety bond or securities in
+lieu of the surety bond.
+K.An eligible depository shall report monthly to
+the treasurer the total deposits of that treasurer and the par value and the
+market value of any pledged collateral securing those deposits.
+L.When a security or instrument pledged as
+collateral matures or is called for redemption, the cash received for the
+security or instrument shall be held in place of the security until the
+depository has obtained a written release or provided substitute securities or
+instruments.
+M.The surety bond, securities, instruments or
+safekeeping receipt of an eligible depository shall be deposited with the
+treasurer making the deposit, and the treasurer shall be the custodian of the
+bond, securities, instruments or safekeeping receipt.The treasurer
+may then deposit with the depository public monies then in the treasurer's
+possession in accordance with this article, but not in an amount in excess of
+the surety bond, securities, instruments or safekeeping receipt deposited,
+except for federal deposit insurance.
+N.The following restrictions on investments are
+applicable:
+1.An investment of public operating fund monies
+shall not be invested for a maturity of longer than five years.
+2.The board of deposit may order the treasurer to
+sell any of the securities, and any order shall specifically describe the
+securities and fix the date upon
+on which they are to be
+sold.Securities so ordered to be sold shall be sold for cash by the
+treasurer on the date fixed in the order, at the then current market
+price.The treasurer and the members of the board are not
+accountable for any loss occasioned by sales of securities at prices lower than
+their cost.Any loss or expense shall be charged against earnings
+received from investment of public funds.
+3.Investments shall
+not be made in companies identified pursuant to section 35392,
+subsection A, paragraph 1.
+O.If the total
+amount of subdivision monies available for deposit at any time is less than the
+maximum coverage amount of the federal deposit insurance corporation, the
+subdivision board of deposit shall award the deposit of the funds to an
+eligible depository in accordance with an ordinance or resolution of the
+governing body of the subdivision. Deposits of less than the maximum coverage
+amount of the federal deposit insurance corporation are not subject to the
+requirements of this chapter. END_STATUTE
+

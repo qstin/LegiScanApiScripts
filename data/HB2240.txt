@@ -1,0 +1,261 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: workers' compensation; modifications
+
+
+
+
+
+
+
+State of Arizona
+House of Representatives
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+HB 2240
+
+
+
+
+
+
+
+
+
+Introduced by
+Representative
+  Fann
+
+
+
+
+
+AN ACT
+
+Amending section
+23941, Arizona Revised Statutes; AMending title 23, chapter 6, article
+3, Arizona Revised Statutes, by adding sections 23941.02 and 23954;
+amending section 23-1070.01, Arizona Revised Statutes; relating to workers'
+compensation.
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 23-941, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE23-941.Hearing rights and procedure
+A.Subject to the
+provisions of section 23947, any interested party may file
+a request for a hearing concerning a claim.
+B.A request for a hearing shall be made in writing,
+be signed by or on behalf
+of the interested party and including his
+include the interested party's address,
+stating state that a hearing is desired, and be filed with the commission.
+C.The commission shall refer the request for the
+hearing to the administrative law judge division for determination as
+expeditiously as possible.The presiding administrative law judge
+may dismiss a request for hearing when
+if it appears to his the presiding administrative law judge's satisfaction
+that the disputed issue or issues have been resolved by the
+parties.Any interested party who objects to such dismissal may
+request a review pursuant to section 23943.
+D.At least twenty days' prior notice of the time
+and place of the hearing shall be given to all parties in interest by mail at
+their last known address.In the case of a hearing concerning
+suspension of benefits, pursuant to section 231026, 231027 or 231071,
+only ten days' prior notice need be given is required.Hearings
+shall be held in the county where the workman resided at the time of the injury
+or such other another place selected by the
+administrative law judge.
+E.A record of all proceedings at the hearing shall
+be made but need not be transcribed unless a party applies to the court of
+appeals for a writ of certiorari pursuant to section 23951.The
+record of the proceedings if not transcribed, shall be kept for at least two
+years but may be destroyed after such
+that time if a
+transcription is not requested.
+F.Except as otherwise provided in this section and
+rules or of procedure established by the commission,
+the administrative law judge is not bound by common law or statutory rules of
+evidence or by technical or formal rules of procedure and may conduct the
+hearing in any manner that will achieve substantial justice.
+G.Any party shall be entitled to issuance and
+service of subpoenas under the provisions
+of section 23921.Any party or his the
+party's representative may serve such subpoenas.
+H.Any interested party or his the
+interested party's authorized agent shall be entitled to inspect
+any claims file of the commission, provided that such authorization is filed in
+writing with the commission.
+I.Any interested party is entitled to one change
+of administrative law judge as a matter of right.To exercise the
+right to a change of administrative law judge, the interested party shall file
+a notice of change of administrative law judge. The notice of change of
+administrative law judge shall:
+1.Be signed by the interested party or the
+interested party's authorized agent.
+2.State the name of the administrative law judge
+to be changed.
+3.Certify that the interested party or the
+interested party's authorized agent has timely filed the notice of change of
+administrative law judge. A notice of change of administrative law judge as a
+matter of right is timely if filed not more than thirty days after the date of
+the notice of hearing or not more than thirty days after a new administrative
+law judge is assigned to the claim if another interested party or the
+interested party's authorized agent has filed a notice of change of
+administrative law judge as a matter of right.
+4.Certify
+that the interested party or the interested party's authorized agent has not
+previously been granted a change of administrative law judge as a matter of
+right for the claim.
+I.J.Within thirty days after the date of notice of hearing
+Any interested party to a hearing before the commission or the interested party's authorized agent may
+file an affidavit for change of administrative law judge for cause against any hearing officer of the commission hearing such matters or
+commencing to hear such matter, setting a presiding administrative law judge that sets forth
+any of the grounds as provided in subsection J K
+of this section. , and The chief administrative law judge shall
+immediately transfer the matter to another officer of the commission who shall preside
+therein.Not more than one change of administrative law judge shall
+be granted to any one party. administrative law judge. An affidavit for change of
+administrative law judge for cause shall be filed within the time frames
+provided in subsection I of this section.
+J.K.Grounds which that may be alleged as provided in subsection I J of this section for change of administrative
+law judge for cause are:
+1.That the administrative law judge has been
+engaged as counsel in the hearing prior
+to before appointment
+as administrative law judge.
+2.That the administrative law judge is otherwise
+interested in the hearing.
+3.That the administrative law judge is of kin or
+otherwise related to a party to the hearing.
+4.That the administrative law judge is a material
+witness in the hearing.
+5.That the party filing the affidavit has cause to
+believe and does believe that on account of the bias, prejudice, or interest of the administrative law
+judge he the administrative law judge cannot obtain a
+fair and impartial hearing.
+L.For the purposes of subsections I and J of
+this section, the employer and the employer's insurance carrier are considered
+a single party unless the employer's and the employer's insurance company's
+interests are in conflict.
+K.M.After final
+disposition of the proceedings in which they are used, exhibits marked for
+identification or introduced as evidence at hearings or proceedings which that cannot be readily copied, photocopied,
+mechanically reproduced or otherwise preserved as a document for inclusion in
+the record of the proceedings may be disposed of in the following manner:
+1.By written notice, the attorneys of record, or if
+none, the parties, shall be notified that the counsel or the party introducing such the exhibit may claim it at the industrial
+commission within sixty days.
+2.After sixty days following notification, any such exhibit remaining in the
+custody of the industrial commission shall be disposed of as state surplus
+property pursuant to the direction of the department of administration, surplus property division. A
+written description of any such
+the exhibit shall be
+included in the record to preserve its
+the exhibit's identity. END_STATUTE
+Sec.2.Title 23, chapter 6, article 3, Arizona
+Revised Statutes, is amended by adding sections 23-941.02 and 23-954, to read:
+START_STATUTE23-941.02.Vexatious litigants; designation; definitions
+A.In a workers'
+compensation case before the commission, on the motion of a party, the chief
+administrative law judge or an administrative law judge designated by the chief
+administrative law judge may designate a pro se litigant a vexatious litigant.
+The pro se litigant shall respond within thirty days after the motion.
+The chief administrative law judge, or administrative law judge if designated
+by the chief administrative law judge, shall issue an order within thirty days
+after the pro se litigant's response is received or the time for response has
+elapsed.
+B.A pro se
+litigant who is designated a vexatious litigant may not file a new request for
+hearing, pleading, motion or other document without prior leave of the
+administrative law judge. A designation of vexatious litigant is suspended
+during the period in which the litigant is represented by legal counsel.
+C.A pro se
+litigant is a vexatious litigant if the commission finds the pro se litigant
+engaged in vexatious conduct.
+D.For the
+purposes of this section:
+1."Vexatious
+conduct" includes any of the following:
+(a)Repeated
+filing of requests for hearing, pleadings, motions or other documents solely or
+primarily for the purpose of harassment.
+(b)Unreasonably
+expanding or delaying commission proceedings. 
+(c)Bringing
+or defending claims without substantial justification. 
+(d)Engaging
+in abuse of discovery or conduct in discovery that has resulted in the
+imposition of sanctions against the pro se litigant. 
+(e)A
+pattern of making unreasonable, repetitive and excessive requests for
+information. 
+(f)Repeated
+filing of documents or requests for relief that have been the subject of
+previous rulings by the commission in the same claim.
+2."Without
+substantial justification" has the same meaning prescribed in section 12349.
+END_STATUTE
+START_STATUTE23-954.Payment of interest on awards
+Interest on the payment
+of benefits shall be paid at a rate of interest at the lesser of ten percent
+per annum or a rate per annum that is equal to one percent plus the prime rate
+as published by the board of governors of the federal reserve system in
+statistical release h.15 or any publication that may supersede it on the date
+benefits are paid. Interest shall be paid only in the following
+instances:
+1.On an
+award entered by the commission or by notice of claim status awarding permanent
+partial disability benefits pursuant to section 23-1044, subsection B or C or
+permanent total disability benefits pursuant to section 23-1045, subsection B
+or C, if benefits are not paid within ten days after the date the award or
+notice becomes final.
+2.On a
+claim for dependent benefits, if the claim is denied and subsequently accepted
+or found compensable by award of the commission, from the date the claim for
+benefits was filed. 
+Sec.3.Section 23-1070.01, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE23-1070.01.Request for early hearing; stipulation; action of
+commission
+A.If a request for hearing filed in connection with
+a change of physician under section 231070 alleges, by affidavit, that
+immediate and irreparable injury, loss or damage will result if such the
+hearing is not held prior
+to before the
+times otherwise prescribed by article 3 of this chapter or if all interested
+parties, in person or by counsel, stipulate in such the
+request for hearing that such
+the hearing should be
+held prior to before the times otherwise prescribed
+by article 3 of this chapter, the commission shall:
+1.Immediately issue a notice to all parties setting
+a hearing date not more than fifteen days later.
+2.Require that the administrative law judge, who
+shall not be subject to the notice or affidavit
+for change prescribed by section 23941, subsection I or J, determine the matter and make an award,
+if any, within five days after completion of the hearing.
+B.All other procedures prescribed for subsequent
+actions with regard to such
+the hearing or award
+shall be as otherwise prescribed by law. END_STATUTE
+

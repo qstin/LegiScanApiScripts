@@ -1,0 +1,228 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: insurance; identity theft group policies
+
+
+
+
+
+
+
+State of Arizona
+House of Representatives
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+HB 2238
+
+
+
+
+
+
+
+
+
+Introduced by
+Representative
+  Fann
+
+
+
+
+
+AN ACT
+
+aMENDING title
+20, chapter 6, Arizona Revised Statutes, by adding article 18; relating to
+identity theft.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Title 20, chapter 6, Arizona Revised
+Statutes, is amended by adding article 18, to read:
+ARTICLE 18.IDENTITY THEFT GROUP INSURANCE
+POLICIES
+START_STATUTE20-1694.Definitions
+In this article, unless
+the context otherwise requires:
+1."Account
+group member" means a person who either:
+(a)Has a credit card account or debit card account that is
+issued by a sponsor or has agreed with the sponsor to pay obligations arising
+from the use of a credit card or debit card issued to another person.
+(b)May access by check an account maintained by the sponsor.
+2."Authorized
+user" means a group member or any other person designated by the group
+member as an authorized user of the account group member's payment medium.
+3."Conditional
+renewal" means a renewal that is conditioned on change of limits, change
+in type of coverage, reduction or elimination of coverage, increased
+deductibles or addition of exclusions or increased premiums in excess of ten
+percent, except for premium increases that are generated as a result of
+increased exposure units or as a result of experience rating, loss rating,
+retrospective rating or audit.
+4."Employer"
+includes subsidiaries or affiliates of the employer.
+5."Sponsor"
+means any of the following:
+(a)A commercial creditor that issues a credit card or debit
+card to its account group members.
+(b)A commercial creditor that maintains an account that may be
+accessed by check by the commercial creditor's account group members.
+(c)The trustee or trustees of a trust established or
+participated in by one or more commercial creditors for the benefit of the
+commercial creditor's account group members.
+6."Stolen
+identity event" includes the theft, accidental release, publication or
+misappropriation of information related to an individual's personal
+identification or social security number or other method of identifying the
+individual that has resulted in or could reasonably result in the wrongful use
+of the information.
+END_STATUTE
+START_STATUTE20-1694.01.Identity theft group insurance; eligible groups
+A.An
+insurer may issue or deliver an identity theft group insurance policy in this
+state only in accordance with this article.The policy shall cover
+losses and expenses incurred because of a stolen identity event.
+B.An
+insurer may issue an identity theft group insurance policy to any of the
+following:
+1.An
+employer, or the trustee or trustees of a fund established by an employer,
+where the policy insures the employees of the employer and the employer or
+trustee is the policyholder.
+2.A labor
+union, or the trustee or trustees of a fund established by a labor union, where
+the policy insures the members of the labor union and the labor union or
+trustee is the policyholder.
+3.A trustee
+of a trust established or participated in by two or more employers or labor
+unions or by one or more employers and one or more labor unions, where the
+policy insures the employees of the employers and the members of the labor
+unions and the trustee is the policyholder.
+4.A
+sponsor, where the policy insures account group members.
+5.An
+association, or the trustee or trustees of a fund established, created or
+maintained for the benefit of one or more associations, where all the eligible
+members of the association or associations have the same profession, trade or
+occupation and the association or associations have been organized and
+maintained in good faith for purposes principally other than for obtaining
+insurance and have been in active existence for at least two
+years.The policy insures the members of the associations and the
+Association or trustee is the policyholder.
+6.A
+business that sells services or products that are designed to prevent or to
+minimize the effects of stolen identity events, where the policy insures the
+persons who purchase the services or products and the business is the
+policyholder.
+7.Any other
+business or association that has in its possession individuals' personal
+identification information, where the policy insures the individuals whose
+information the business or association possesses.
+8.Any other
+entity that the director determines by rule that the members are engaged in a
+common enterprise or have an economic or social affinity or relationship and
+that the issuance of the policy would not be contrary to the best interests of
+the public.
+C.The
+groups listed in subsection B of this section shall consist only of natural
+persons and may include a member of the group member's immediate family or
+household or, where the group policyholder is a sponsor, an authorized user.
+D.An
+insurer shall treat all eligible groups of the same class in a like manner.
+Except for the group listed in subsection B, paragraph 6 of this section, a
+group member may not be required to purchase any product or service to be
+eligible for the coverage. END_STATUTE
+START_STATUTE20-1694.02.Identity theft group insurance policy; premiums;
+cancellation; requirements
+A.The group
+policyholder may pay the premium for an identity theft group insurance policy
+from monies contributed wholly by the group policyholder, wholly by the group
+members or jointly by the group policyholder and the group members, except that
+the group policyholder shall pay the premium for the group policy specified in
+section 201694.01, subsection B, paragraph 7.
+B.The
+following requirements apply to the cancellation, nonrenewal or conditional
+renewal of coverage under an identity theft GROUP insurance policy:
+1.The
+policy shall be issued or renewed for a oneyear policy period unless the
+policy provides for a longer policy period.
+2.Except as
+provided in paragraph 3 of this subsection, an insurer may cancel the policy or
+any certificate issued under the policy only if cancellation is based on one or
+more of the following reasons:
+(a)Nonpayment of premium if the notice of cancellation informs
+the insured of the amount due.
+(b)Conviction of a criminal offense arising out of acts
+increasing the hazard insured against.
+(c)Discovery of fraud or material misrepresentation in
+obtaining the policy or in the presentation of a claim under the policy.
+(d)After the policy is issued or after the last renewal date,
+discovery of an act or omission or a violation of any policy condition that
+substantially and materially increases the hazard insured against and that
+occurred subsequent to the inception of the current policy period.
+(e)Material change in the nature or extent of the risk that
+occurred after the issuance or last annual renewal anniversary date of the
+policy that causes the risk of loss to be substantially and materially
+increased beyond what was contemplated at the time the policy was issued or
+last renewed.
+(f)A determination by the director that continuation of the
+present premium volume of the insurer would jeopardize that insurer's solvency
+or be hazardous to the interests of the policyholders of the insurer, its
+creditors or the public.
+3.An
+individual group member's coverage under this article terminates on termination
+of the member's employment by or other affiliation with the group policyholder
+that constitutes membership in the group.
+4.An act or
+omission by a group member does not constitute the basis for cancellation of the
+group policy.
+5.An
+insurer's cancellation, nonrenewal or conditional renewal of a group policy or
+any certificate issued under the policy shall set forth the specific reasons
+for cancellation, nonrenewal or conditional renewal and does not become effective
+until at least fortyfive days, or twenty days if based on nonpayment of
+premium, after the insurer mails or delivers written notice of the
+cancellation, nonrenewal or conditional renewal to the group policyholder at
+the mailing address shown in the policy and to affected certificate holders at
+each certificate holder's last known mailing address. If authorized by the
+insurer, the group policyholder may mail or deliver the notice to the
+certificate holder on behalf of the insurer.
+C.A group
+policyholder may cancel the group policy for any reason on thirty days' written
+notice to the insurer and each affected group member. A group policyholder is
+not required to give notice to a group member if substantially similar coverage
+has been obtained from another insurer without a lapse of coverage.
+D.If a
+group member sustains an identity theft loss before the effective date of the
+cancellation, nonrenewal or conditional renewal of a group policy or the
+cancellation, nonrenewal, conditional renewal or termination of a certificate,
+whether initiated by the insurer, group policyholder or group member, the loss
+shall remain covered as provided under the policy notwithstanding the
+cancellation, nonrenewal, conditional renewal or termination. END_STATUTE
+Sec.2.Rulemaking; department of insurance; exemption
+The director of the department of insurance shall adopt rules
+necessary to implement this act. For the purposes of this act, the department
+of insurance is exempt from the rulemaking requirements of title 41, chapter 6,
+Arizona Revised Statutes, for one year after the effective date of this act.
+

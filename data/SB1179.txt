@@ -1,0 +1,77 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: technical correction;
+  unemployment compensation withholding
+
+
+
+
+
+
+
+State of Arizona
+Senate
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+SB 1179
+
+
+
+
+
+
+
+
+
+Introduced by
+Senator
+  Lesko
+
+
+
+
+
+AN ACT
+
+amending section
+43-407, Arizona Revised Statutes; relating to withholding by employer.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 43-407, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE43-407.Extension of withholding to unemployment compensation
+payments
+A.For the purposes of this title, any payment of
+unemployment compensation to an individual who has made an election to have
+state income tax withheld as specified in section 23-792, subsection A,
+paragraph 4, shall be
+treated as a payment of wages by an employer to an employee for a payroll
+period.The amount withheld at the time of payment shall be ten per
+cent of federal income tax deducted and withheld.
+B.An election that unemployment compensation
+payments be subject to withholding under this section shall be made by the
+payee in writing to the person making unemployment compensation payments and
+shall be accompanied by a form as prescribed by the department.A
+request to terminate withholding may be submitted at any time by the payee and
+shall be in writing to the payor.END_STATUTE
+

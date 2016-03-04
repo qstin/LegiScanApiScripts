@@ -1,0 +1,212 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: child protection registry; prohibited
+  communications
+
+
+
+
+
+
+
+State of Arizona
+House of Representatives
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+HB 2458
+
+
+
+
+
+
+
+
+
+Introduced by
+Representatives
+  Brophy McGee, Cardenas, Carter, Senator Driggs: Representatives Cobb, Olson,
+  Senator Barto
+
+
+
+
+
+AN ACT
+
+amending title
+44, Arizona Revised Statutes, by adding chapter 36; relating to child
+protection.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Title 44, Arizona Revised Statutes,
+is amended by adding chapter 36, to read:
+CHAPTER 36
+CHILD PROTECTION REGISTRY
+ARTICLE 1.GENERAL PROVISIONS
+START_STATUTE44-7851.Definitions
+In this chapter, unless
+the context otherwise requires:
+1."Contact
+point" means an electronic identification to which a communication may be
+sent, including an e-mail address or, subject to section 44-7852, any of the
+following:
+(a)An instant message identity.
+(b)A mobile or other telephone number.
+(c)a fax number.
+(d)An electronic address that is defined as a contact point by
+secretary of state rule.
+2."Registry"
+means the child protection registry established in section 44-7852. END_STATUTE
+START_STATUTE44-7852.Child protection registry; secretary of state
+A.The
+secretary of state shall:
+1.Establish
+and maintain a child protection registry to compile and secure a list of
+Contact points that the secretary of state receives pursuant to this section.
+The secretary of state may contract with a third party to establish the
+registry.
+2.Implement
+the registry with respect to Instant message identities and Mobile or other telephone
+numbers.
+3.Promote
+the registry on the secretary of state's public website.
+4.Adopt
+rules pursuant to title 41, chapter 6 to implement and administer this chapter.
+B.A person
+may register a contact point with the secretary of state if any of the
+following applies:
+1.The
+contact point belongs to a minor.
+2.A minor
+has access to the contact point.
+3.The
+contact point is used in a household in which a minor is present.
+C.A school
+or other institution that primarily serves minors may register its domain name
+with the secretary of state.
+D.A person
+who desires to send a communication described in section 44-7853, subsection D
+to a contact point or domain name shall:
+1.Use a
+mechanism established by the secretary of state.
+2.Pay a fee
+in an amount to be determined by the secretary of state.
+E.The
+secretary of state may implement a program to offer discounted compliance fees
+to senders who meet enhanced security conditions that are established and
+verified by the secretary of state, the third party registry provider or a
+designee.
+F.The
+contents of the registry and any complaint filed about a sender who violates
+this chapter are not subject to public disclosure. END_STATUTE
+START_STATUTE44-7853.Prohibited communications; exception
+A.A person
+may not send, cause to be sent or conspire with a third party to send a
+communication to a contact point or domain name that has been registered for
+more than thirty calendar days with the secretary of state under section
+44-7852 if the communication either:
+1.Has the
+primary purpose of advertising or promoting a product or service that a minor
+is prohibited by law from purchasing.
+2.Contains
+or has the primary purpose of advertising or promoting material that is harmful
+to minors as defined in section 13-3501.
+B.The
+consent of a minor is not a defense to a violation of this section.
+C.An
+internet service provider does not violate this section for solely transmitting
+a message across the network of the internet service provider.
+D.Notwithstanding
+subsection A of this section, a person may send a communication to a contact
+point or domain name if, before sending the communication, the person sending
+the communication receives consent from an adult who controls the contact point
+or domain name. A person who proposes to send a communication under this
+subsection shall:
+1.Verify
+the age of the adult who controls the contact point or domain name by inspecting
+the adult's government-issued identification card in a face-to-face
+transaction.
+2.Obtain a
+written record that indicates the adult's consent and that is signed by the
+adult.
+3.Include
+in each communication both of the following:
+(a)A notice that the adult may rescind the consent.
+(b)Information that allows the adult to opt out of receiving
+future communications.
+4.Notify
+the secretary of state that the person intends to send communications under
+this subsection. END_STATUTE
+START_STATUTE44-7854.Violation; classification
+A.A violation of Section 44-7853 is:
+1.A
+class 2 misdemeanor for a first violation with respect to a contact point
+registered with the secretary of state under section 44-7852, subsection B.
+2.A
+class 1 misdemeanor:
+(a)For a second or
+subsequent violation with respect to a contact point registered with the
+secretary of state under section 44-7852, subsection B.
+(b)For each violation
+with respect to a domain name registered with the secretary of state under
+section 44-7852, Subsection C.
+3.A class 2 felony if the person either:
+(a)Uses
+information obtained from the secretary of state under this chapter to violate
+Section 44-7853.
+(b)Improperly:
+(i)Obtains contact points from the registry.
+(ii)Attempts to obtain contact points from the registry.
+(iii)Uses or transfers to a third party to use information from
+the registry to send a solicitation.
+B.A
+criminal conviction under this section does not relieve a person from civil
+liability in an action under section 44-7855.
+C.Each
+communication sent in violation of section 44-7853 is a separate offense under
+this section. END_STATUTE
+START_STATUTE44-7855.Civil actions
+A.For a
+violation of section 44-7853, an action may be brought by either:
+1.A user of
+a contact point or domain name that is registered with the secretary of state
+under section 44-7852.
+2.A legal
+guardian of a user described in paragraph 1 of this subsection.
+B.In each
+action under subsection A of this section:
+1.A person
+may recover the greater of actual damages or one thousand dollars for each
+communication sent in violation of section 44-7853.
+2.The
+prevailing party shall be awarded costs and reasonable attorney fees. END_STATUTE
+START_STATUTE44-7856.Defenses
+It is a defense to an
+action brought under this chapter that a person reasonably relied on the
+mechanism established by the secretary of state under section 44-7852 and took
+reasonable measures to comply with this chapter. END_STATUTE
+Sec.2.Short title
+This act may be cited as the "Child Protection Registry
+Act".
+

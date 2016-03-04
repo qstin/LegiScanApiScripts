@@ -1,0 +1,676 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: medical radiologic technology
+
+
+
+
+
+
+
+State of Arizona
+Senate
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+SB 1096
+
+
+
+
+
+
+
+
+
+Introduced by
+Senator
+  Barto
+
+
+
+
+
+AN ACT
+
+Amending sections
+30672, 322801, 322803, 322804, 322812, 322815,
+322816, 322817, 322824 and 322841, Arizona Revised
+Statutes; relating to medical radiologic technology.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 30-672, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE30-672.Licensing and registration of sources of radiation;
+exemptions
+A.The agency by rule shall provide for general or
+specific licensing of byproduct, source, special nuclear materials or
+devices or equipment utilizing such materials.The rules shall
+provide for amendment, suspension or revocation of the licenses.The
+agency shall require from the applicant satisfactory evidence that the applicant
+is using methods and techniques which
+that are demonstrated to
+be safe and that the applicant is familiar with the rules adopted by the agency
+under section 30654, subsection B, paragraph 5 relative to uniform
+radiation standards, total occupational radiation exposure norms, labels, signs
+and symbols, storage, waste disposal and shipment of radioactive
+materials.The agency may require that before the agency issues a
+license the employees or other personnel of an applicant who may deal with
+sources of radiation receive a course of instruction approved by the agency
+concerning agency rules.The agency shall require that the
+applicant's proposed equipment and facilities be adequate to protect health and
+safety and that his the applicant's proposed
+administrative controls over the use of the sources of radiation requested be
+adequate to protect health and safety.
+B.The agency may require registration or licensing
+of other sources of radiation if it has been determined necessary to protect
+public health or safety.
+C.The agency may exempt certain sources of
+radiation or kinds of uses or users from the licensing or registration
+requirements set forth in this section when it finds that the exemption of such
+sources of radiation or kinds of uses or users will not constitute a
+significant risk to the health and safety of the public.
+D.The agency shall not require persons licensed in
+this state to practice as a dentist, chiropodist or veterinarian or licensed in
+this state to practice medicine, surgery, osteopathy, chiropractic or naturopathy naturopathic medicine to obtain any other
+license for the use of an a diagnostic xray
+machine, but these persons are governed by their own licensing acts.
+E.Persons licensed by the federal communications
+commission with respect to the activities for which they are licensed by that
+commission are exempted from this chapter.
+F.Rules adopted pursuant to this chapter may
+provide for recognition of other state or federal licenses as the agency deems
+desirable, subject to such registration requirements as the agency prescribes.
+G.Any licenses issued by the agency shall state the
+nature, use and extent of use of the source of radiation.If at any
+time subsequent to the issuance of a license,
+the licensee desires any change in the nature, use or extent, the
+licensee shall seek an amendment or a new license under this section.
+H.The agency shall prescribe by rule requirements
+for financial security as a condition for licensure under this
+article.The agency shall deposit all amounts posted, paid or
+forfeited as financial security into the radiation regulatory and perpetual
+care fund under section 30694.
+I.Persons applying for licensure shall provide
+notice to the city or town where the applicant proposes to operate as part of
+the application process.
+J.Any facility which that
+provides diagnostic or screening mammography examinations by or
+under the direction of a person exempted from further licensure under
+subsection D of this section shall obtain certification by the
+agency.The agency shall prescribe by rule the requirements of
+certification in order to assure
+ensure the accuracy and
+safety of diagnostic and screening mammography. END_STATUTE
+Sec.2.Section 32-2801, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-2801.Definitions
+In this chapter, unless the context otherwise requires:
+1."Agency" means the radiation regulatory
+agency established under by section 30652.
+2."Board" means the medical radiologic
+technology board of examiners.
+3."Bone
+densitometry technologist" means a person who applies ionizing radiation
+to a person's hips, spine or extremities through the use of a bone densitometry
+machine.
+3.4."Certificate"
+means a certificate that is granted
+and issued by the board.
+4.5."Certified
+technologist" means a person holding a certificate that is granted and issued by the board.
+6."Computed
+tomography technologist" means a person who applies ionizing radiation to
+a human using a computed tomography machine for diagnostic purposes.
+5.7."Direction"
+means responsibility for and control of the application of ionizing radiation
+to human beings for diagnostic or therapeutic purposes.
+6.8."Ionizing
+radiation" means gamma rays and xrays, alpha and beta particles,
+high speed electrons, neutrons, protons and other nuclear particles or rays.
+7.9."Leg"
+means that part of the lower limb between the knee and the foot.
+8.10."Licensed
+practitioner" means a person who
+is licensed or otherwise authorized by law to practice medicine,
+dentistry, osteopathy, podiatry, chiropractic or naturopathic medicine in this
+state.
+11."mammographic
+technologist" MEANS A PERSON WHO APPLIES IONIZING RADIATION TO THE BREASTS
+OF A HUMAN BEING FOR DIAGNOSTIC PURPOSES.
+12."Nuclear
+medicine technologist" means a person who uses radiopharmaceutical agents
+on humans for diagnostic or therapeutic purposes as set forth in rules ADOPTED
+pursuant to section 322815.
+9.13. "Practical
+technologist in podiatry" means a person holding a practical technologist
+in podiatry certificate THAT IS granted
+and issued by the board.
+10.14."Practical
+technologist in podiatry certificate" means a certificate THAT IS issued to a person, other than a
+licensed practitioner, who applies ionizing radiation to the foot and leg for
+diagnostic purposes while under the specific direction of a licensed
+practitioner.
+11.15."Practical
+technologist in radiology" means a person holding a practical technologist
+in radiology certificate THAT IS granted
+and issued by the board.
+12.16."Practical
+technologist in radiology certificate" means a certificate THAT IS issued to a person, other than a
+licensed practitioner, who applies ionizing radiation to specific parts of the
+human body for diagnostic purposes while under the specific direction of a
+licensed practitioner.
+17."RADIATION
+THERAPY TECHNOLOGIST" MEANS A PERSON WHO USES RADIATION ON HUMANS FOR
+THERAPEUTIC PURPOSES.
+13.18."Radiologic
+technologist" means a person who holds a certificate THAT IS issued by the board AND that allows that person to apply ionizing
+radiation to individuals at the direction of a licensed practitioner for
+general diagnostic or therapeutic purposes.
+14.19."Radiologic
+technology" means the science and art of applying ionizing radiation to
+human beings for general diagnostic or therapeutic purposes.
+15.20."Radiologic
+technology certificate" means a certificate THAT IS issued in radiologic technology to a
+person with at least twentyfour months of fulltime study or its
+equivalent through an approved program and who has successfully completed an
+examination by a national certifying body.
+16.21."Radiologist"
+means a licensed practitioner of medicine or osteopathy who has undertaken a
+course of training which THAT meets the requirements for
+admission to the examination of the American board of radiology or the American
+osteopathic board of radiology.
+17.22."Radiologist
+assistant" means a person who holds a certificate pursuant to section
+32-2819 AND who performs independent
+advanced procedures in medical imaging and interventional radiology under the
+guidance, directions, supervision and discretion of a licensed practitioner of
+medicine or osteopathy specializing in radiology as set forth in section 322819
+and the rules adopted pursuant to that section.
+18.23."Unethical
+professional conduct" means the following acts, whether occurring in this
+state or elsewhere:
+(a)THE intentional
+betrayal of a professional confidence or intentional violation of a privileged
+communication except as required by law.This subdivision does not
+prevent members of the board from the exchange of information with the
+radiologic licensing and disciplinary boards of other states, territories or
+districts of the United States or foreign countries.
+(b)THE use
+of controlled substances as defined in section 362501, narcotic drugs,
+dangerous drugs or marijuana as defined in section 133401 or hypnotic
+drugs, derivatives or any compounds, mixtures or preparations that may be used
+for producing hypnotic effects or the use
+of alcohol to the extent that it affects the ability of the certificate or
+permit holder to practice his profession.
+(c)Using drugs for other than accepted therapeutic purposes.
+(d)Gross malpractice.
+(e)Acting or assuming to act as a member of the
+board if this is not true.
+(f)Procuring or attempting to procure a certificate
+or license by fraud or misrepresentation.
+(g)Having professional connection with or lending
+one's name to an illegal practitioner of radiologic technology or any other
+health profession.
+(h)Offering, undertaking or agreeing to correct,
+cure or treat a condition, disease, injury, ailment or infirmity by a secret
+means, method, device or instrumentality.
+(i)Refusing to divulge to the board, on reasonable
+notice and demand, the means, method, device or instrumentality used in the
+treatment of a condition, disease, injury, ailment or
+infirmity.This subdivision shall not apply to communication between
+a technologist or permit holder and a patient with reference to a disease,
+injury, ailment or infirmity, or as to any knowledge obtained by personal
+examination of the patient.
+(j)Giving or receiving, or aiding or abetting the
+giving or receiving, of rebates, either directly or indirectly.
+(k)Knowingly making any false or fraudulent
+statement, written or oral, in connection with the practice of radiologic
+technology.
+(l)Refusal, revocation or suspension of a
+certificate or license by any other state, territory, district or country for
+reasons that relate to the person's ability to safely and skillfully practice
+radiologic technology or to any act of unprofessional conduct.
+(m)Any conduct or practice which that
+does or would constitute a danger to the health of the patient or
+the public.
+(n)Obtaining a fee by fraud or misrepresentation or
+willfully wilfully or intentionally filing a fraudulent
+claim with a third party for services rendered or to be rendered to a patient.
+(o)Employing uncertified persons to perform or
+aiding and abetting uncertified persons in the performance of work which that can be done legally only by certified
+persons.
+(p)Violating or attempting to violate, directly or
+indirectly, or assisting or abetting the violation of or conspiring to violate the provisions of this chapter or
+a rule adopted by the board.
+19.24."Unlimited
+practical technologist in radiology" means a person holding an unlimited
+practical technologist in radiology certificate that is granted and issued by the board.
+20.25."Unlimited
+practical technologist in radiology certificate" means a certificate that was issued to a person in
+1977 or 1978, other than a licensed practitioner, who applies ionizing
+radiation to the human body for diagnostic purposes while under the specific
+direction of a licensed practitioner. END_STATUTE
+Sec.3.Section 32-2803, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-2803.Radiation regulation agency; rules
+A.The director of the radiation regulatory agency may, after consultation and with
+the approval of the board and after notice and public hearing, may adopt rules as may be needed to carry out
+the purposes of this chapter.The rules shall include, but not be
+limited to:
+1.Minimum standards of training and experience for
+persons to be certified pursuant to this chapter and procedures for examining
+applicants for certification.
+2.Provisions identifying the types of applications
+of ionizing radiation for a practical
+technologist in podiatry, practical technologist in radiology, and
+practical technologist in bone
+densitometry, radiologic technologist, radiation therapy technologist, mammographic technologist,
+nuclear medicine technologist, bone densitometry technologist, computed
+tomography technologist, radiologist assistant, physician assistant and any new
+radiologic modality technologist and those minimum standards of
+education and training to be met by each type of applicant.
+B.Rules adopted pursuant to subsection A, paragraph
+2 of this section
+establishing minimum standards of education and training to be met by practical
+technologists technologist in podiatry
+applicants shall be approved or proposed by a joint committee on education,
+training and examination comprised
+composed of an equal
+number of representatives from the medical
+radiologic technology board of examiners and the state board of podiatry
+examiners.The medical
+radiologic technology board of examiners shall determine the total
+membership of the committee, and the medical
+radiologic technology board of examiners and the state board of podiatry examiners shall
+appoint their respective representatives.
+C.The medical
+radiologic technology board of examiners may propose to the agency
+standards as may be appropriate for carrying out the purposes of this
+chapter.In the case of proposing to the agency standards governing
+practical technologists in podiatry,
+the medical radiologic technology
+board of examiners shall
+consult with the state
+board of podiatry examiners. END_STATUTE
+Sec.4.Section 32-2804, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-2804.School approval; standards; considerations
+A.The board may approve a school of radiologic
+technology as maintaining a satisfactory standard if its course of study:
+1.Is for a period of not less than twentyfour
+months of fulltime study or its equivalent and is accredited by the
+committee on allied health accreditation or meets or exceeds the standards of
+this chapter.
+2.Includes not less than four hundred hours of
+classroom work, including
+radiation protection, xray physics, radiographic techniques, processing
+techniques, nursing procedures, anatomy and physiology, radiographic
+positioning, radiation therapy and professional ethics.
+3.Includes not less than one thousand eight hundred
+hours devoted to clinical experience.
+4.Includes demonstrations, discussions, seminars
+and supervised practice.
+5.Includes not less than eighty hours of regularly
+scheduled supervised film critiques.
+B.An approved school of radiologic technology may
+be operated by a medical or educational institution or other public or private
+agency or institution and, for the purpose of providing the requisite clinical
+experience, shall be affiliated with one or more hospitals that, in the opinion
+of the board, are likely to provide this experience.
+C.In approving a school of radiologic technology,
+the board shall consider the standards adopted by appropriate professional
+organizations, including the joint review committee on education in radiologic
+technology, the American medical
+association, the American osteopathic association, the American
+college of radiology and the American osteopathic college of radiology, and may accept the certification of a school
+of radiologic technology or the accreditation of a hospital to provide
+requisite clinical experience, if the board finds that certification or
+accreditation was granted on the basis of standards that will afford the same
+protection to the public as the standards provided by this chapter. END_STATUTE
+Sec.5.Section 32-2812, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-2812.Applications for certificate; qualifications; fee;
+exceptions
+A.An applicant for a certificate shall submit an
+application for certification or an application for examination for
+certification, accompanied by a nonrefundable fee of sixty
+dollars.The application for certification fee may be prorated
+quarterly over the certification period. An applicant who has practiced
+radiography without certification shall pay a prorated fee retroactively to the
+earliest date of uncertified practice. The fee for a replacement certificate
+is ten dollars.The application for examination fee is seventy
+dollars and shall not be prorated. An application shall be verified by oath or
+affirmation and shall contain information that the applicant:
+1.Is at least eighteen years of age.
+2.Is of good moral character.
+3.Has successfully completed or obtained:
+(a) In the case of an application for radiologic technologist, radiation therapy technologist or nuclear
+medicine technologist certification, a fouryear course of study in a secondary school
+approved by the board or an equivalent board approved course of study in
+addition to a course of study at a school of radiologic
+technology that is approved
+by the board or an outofstate
+school of radiologic technology that is approved by the joint review committee
+on education in radiologic technology, the American registry of radiologic
+technologists or the nuclear medicine technology certification board.
+(b)In the case of an application for practical technologist in
+podiatry certification, practical
+technologist in bone densitometry certification and practical
+technologist in radiology certification, high school or its equivalent as
+determined by the medical radiologic
+technology board of
+examiners with the advice of the state board of education, and
+satisfactorily meets the basic requisites determined by the medical radiologic technology board of examiners pursuant to
+section 322803.
+(c)In the case of an application for radiologist assistant
+certification, a baccalaureate degree or postbaccalaureate certificate from an
+advanced academic program that encompasses a nationally recognized radiologist
+assistant curriculum that includes a radiologist-directed clinical
+preceptorship. An applicant for certification before April 1, 2009 is not
+required to have a baccalaureate degree or postbaccalaureate certificate, but
+must have completed an advanced academic program that encompasses a nationally
+recognized radiologist assistant curriculum that includes a
+radiologist-directed clinical preceptorship.
+B.If the application is in proper form and it
+appears that the applicant meets the eligibility requirements, the applicant
+shall be notified of the time and place of the next examination.
+C.The board may accept, in lieu of its own
+examination, a valid
+certificate issued on the basis of an examination by a certificategranting
+body recognized by the American medical
+association or the American osteopathic association, board or a certificate,
+registration or license issued by another state if that state's standards for
+certification, registration or licensure are satisfactory to the board.
+D.The board may deny a certificate to an applicant
+who has committed an act or engaged in conduct in any jurisdiction that
+resulted in a disciplinary action against the applicant or that would
+constitute grounds for disciplinary action under this chapter.
+E.The board or chairman of the board may designate
+a representative to approve or deny applications for certification. END_STATUTE
+Sec.6.Section
+32-2815, Arizona Revised Statutes, is amended to read:
+START_STATUTE32-2815.Additional board duties; bone densitometry certification;
+nuclear medicine; continuing education
+A.The board shall adopt rules regarding the
+certification of practical technologists in bone densitometry to allow the
+certificate holder to apply ionizing radiation to a person's extremities
+through the use of a bone densitometry machine. The rules shall prescribe:
+1.The minimum education and training qualifications
+for certification.The qualifications prescribed by the board shall
+allow a person who does not meet the education and training requirements of a
+radiologic technologist or a practical technologist in radiology to obtain a
+certificate as a practical technologist in bone densitometry.
+2.The application and renewal fees.
+3.The definition of a practical technologist in
+bone densitometry.
+B.Subsection A of this section does not prohibit a radiologic
+technologist or a practical technologist in radiology from operating a bone densitometry machine.
+C.Beginning
+on January 1, 2004, A person who wishes to practice as a nuclear
+medicine technologist must apply to the board for certification as prescribed
+by the board by rule. The board shall adopt rules to establish minimum
+educational and training requirements for nuclear medicine
+technologists.For the
+purposes of this subsection, "nuclear medicine technologist" means a
+person who uses radiopharmaceutical agents on humans for diagnostic or
+therapeutic purposes.
+D.The board shall adopt rules to prescribe the
+following minimum continuing education requirements for the renewal of the
+following certificates:
+1.Practical technologist in podiatry, two hours
+every two years.
+2.Practical technologist in radiology, six hours
+every two years.
+3.Practical technologist in bone densitometry, one hour two hours every two years.
+4.Unlimited practical technologist in radiology,
+twentyfour hours every two years.
+5.Nuclear medicine technologist, twentyfour
+hours every two years.
+6.Radiologist
+assistant, fifty hours every two years.
+7.Radiologic
+technologist, twentyfour hours every two years.
+8.Radiation
+therapy technologist, twentyfour hours every two years.
+E.Beginning
+on August 1, 2004, The board may require an applicant for renewal
+to document compliance with the appropriate continuing education requirements
+of subsection D of this section.
+END_STATUTE
+Sec.7.Section
+32-2816, Arizona Revised Statutes, is amended to read:
+START_STATUTE32-2816.Certificates; terms; registration; renewal; cancellation;
+waiver
+A.Except as provided in section 32-4301, if a
+certificate holder's last name begins with a letter that falls between A
+through M, the certificate expires on the last day of the certificate holder's birthday birth month in every even numbered evennumbered year.All other
+certificates expire on the last day of
+the certificate holder's birthday birth month in every odd numbered oddnumbered year.The board
+shall notify a certificate holder thirty days before the expiration date of the
+certificate.
+B.The medical
+radiologic technology board of examiners may renew a certificate for two
+years on payment of a renewal fee in an amount established by the board
+pursuant to section 322803 and submission of a renewal application
+containing information the board requires to show that the applicant for
+renewal is a technologist in good standing. The applicant for renewal shall
+also present evidence satisfactory to the medical radiologic technology board of examiners of having
+completed twentyfour hours of
+the required continuing
+education in radiologic technology within the preceding two years. If a
+radiologic technologist is certified by the American registry of radiologic
+technologists or nuclear medicine
+technology certification board, that person must satisfy the
+continuing education requirements of this subsection by providing the medical radiologic technology board
+of examiners with
+evidence of the technologist's good standing and current certification with
+that registry. 
+C.A certificate holder who fails to renew the
+certificate on or before the certificate
+holder's birthday
+certificate's expiration as prescribed in subsection A of this
+section shall pay a penalty fee of fifty dollars for late renewal.
+D.A certificate holder who does not renew a
+certificate within thirty days after the certificate expires and who continues
+the active practice of radiologic technology without adequate cause
+satisfactory to the board is subject to censure, reprimand or denial of right
+to renew the certificate pursuant to section 322821.
+E.On the request of a certificate holder in good
+standing, the board shall cancel a certificate.
+F.The board shall waive the renewal fee if a
+certificate holder submits an affidavit to the board stating that the
+certificate holder is retired from the practice of radiologic technology or
+wishes to be placed on inactive status.A retired or inactive
+technologist who practices is subject to the same penalties imposed pursuant to
+this chapter on a person who practices radiologic technology without a
+certificate.
+G.The board may reinstate a technologist on retired
+or inactive status on payment of the renewal fee pursuant to subsection B of this
+section. END_STATUTE
+Sec.8.Section 32-2817, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-2817.Use of title; display of certificate or permit
+A.A person holding a certificate may use the title
+"certified radiologic
+technologist,", "certified nuclear medicine
+technologist", "certified radiation therapy technologist",
+"certified computed tomography technologist", "certified
+mammographic technologist", "certified radiologist assistant",
+"certified practical
+technologist in podiatry",
+"certified practical technologist in bone densitometry"
+or "certified practical
+technologist in radiology",
+as applicable.No other person shall be entitled to use such titles
+or title or letters after such person's name that indicates or implies that
+such person is a certified technologist or to represent himself the
+person in any way, whether orally or in writing, expressly or by
+implication, as being so certified.
+B.Every technologist or special permit holder shall
+display a certificate or permit at the technologist's or permit holder's place
+of employment. END_STATUTE
+Sec.9.Section 32-2824, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-2824.Inspections; investigations
+A.The board or its duly authorized representatives
+may enter during scheduled work hours on private or public property for the purpose
+of:
+1.Assuring
+ensuring that only board certified boardcertified individuals or
+individuals exempt from board certification are operating ionizing radiation
+machines.
+2.Determining whether a certified individual is
+practicing beyond the scope of his
+the person's certificate.
+3.Determining whether a certified individual has
+violated the provisions of this chapter.
+4.Auditing ionizing radiation logbooks.
+B.The board may enter areas under the jurisdiction
+of the federal government only with its permission.
+C.The board
+on its own motion, or the executive director if delegated by the board, may
+investigate any evidence that appears to show the existence of any of the
+causes or grounds for disciplinary action as provided in section 322821,
+subsection A. The board may investigate any complaint that alleges the
+existence of any of the causes or grounds for disciplinary action as provided
+in section 322821, subsection A. END_STATUTE
+Sec.10.Section 32-2841, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-2841.Mammographic technologists; certification; computed
+tomography certification; renewal
+A.A person who wishes to perform diagnostic or
+screening mammography as defined in section 30651 shall obtain a
+mammographic technologist certificate from the board.A person who wishes to perform computed
+tomography shall obtain a computed tomography technologist certificate from the
+board.The board shall issue a certificate to an
+applicant who:
+1.Pays a prorated
+twenty dollar application fee.
+2.Holds a current radiologic technologist technology certificate issued by the board.
+3.For a
+mammographic certification, completes the training and education requirements of
+subsection B of this section and passes
+an examination as prescribed in subsection D of this section.
+4.For a
+computed tomography technologist certification, provides documentation of two
+years of experience in computed tomography and completion of twelve hours of
+computed tomography specific education or passes an examination
+as prescribed in subsection C D of this section.
+B.To satisfy the education requirements of
+subsection A of this section, an applicant for certification shall complete forty hours of didactic
+instruction and at least one hundred sixty hours of clinical instruction taught
+by a facility accredited by the American college of radiology or licensed by
+this state.Courses shall be taught by instructors who have
+completed at least four hundred mammograms in the previous year. Clinical
+instruction shall be competency based and positions that cannot be tested on
+patients shall be tested through simulations.Didactic and clinical
+instruction shall include the following:
+1.The anatomy
+and physiology of the breast.
+2.Classification
+of breast tissue.
+3.Epidemiology
+of the breast.
+4.Methods to
+detect breast cancer.
+5.Sources of
+information regarding breast cancer.
+6.The
+influence of technical factors.
+7.Positioning
+of the breast.
+8.Film and
+image evaluation and critique.
+9.Radiation
+biology and radiation protection.
+10.Quality
+assurance methods.
+11.The
+physics of mammography.
+shall meet the initial training and education requirements of the mammography
+quality standards act regulations for quality standards of mammographic
+technologists, 21 Code of Federal Regulations section 900.12.
+C.The board shall issue a student
+mammography permit to a person who is in training and meets the requirement of
+subsection A, paragraph 2 of this section if the applicant also provides the
+board with verification of employment and the name of the radiologist who
+agrees to be responsible for the applicant's supervision and training. A
+student mammography permit is valid for one year from the date it is issued and
+may be renewed one time for an additional six months. If the holder completes
+all of the requirements of subsection A of this section within the permitted
+period, the board shall issue a mammographic technologist certificate. The
+mammographic technologist certificate shall be renewed as prescribed under
+subsection E of this section.
+C.D.To
+satisfy the examination requirements of this section an applicant shall pass an
+examination in mammography or computed tomography
+administered by either
+the board or, by the American registry of radiologic
+technologists in lieu of
+its own examination, the board may accept a certificate issued on the basis of
+an examination by a certificategranting body recognized by the board.Examinations administered by the board shall
+use the same grading standards established by the American registry of
+radiologic technologists examination.
+D.e.Except
+as provided in section 32-4301, a certificate issued under this section is
+valid for two years.If a certificate holder's last name begins with
+a letter that falls between A through M, the certificate expires on the last day of the certificate
+holder's birthday birth month in every evennumbered
+year. All other certificates expire on the last day of the certificate holder's birthday birth month in every oddnumbered
+year. The board shall notify a certificate holder thirty days before the
+expiration date of the certificate. An applicant for renewal of this a
+mammographic technologist certificate shall present evidence satisfactory to the board of having
+completed eight hours of continuing education in mammography within the
+preceding two years meet
+the continuing education requirements of the mammography quality standards act
+regulations for quality standards of mammographic technologists, 21 Code of
+Federal Regulations section 900.12. If a radiologic technologist
+is certified by the American registry of radiologic technologists, that person
+must satisfy the continuing education requirements of this subsection by
+providing the board with evidence of the technologist's good standing and
+current certification with that registry. The applicant shall also pay a twenty
+dollar renewal fee to the board.
+E.f.The board shall prorate fees for:
+1.A certificate renewed before August 22, 2002.
+2.a
+new certificate for the remaining full calendar months of the respective group
+to which the certificate is assigned.
+F.The board
+shall issue a temporary certificate to a person who meets the requirements of
+subsection A, paragraphs 1, 2 and 3 of this section if that person also
+provides the board with verification of employment and the name of the
+radiologist who agrees to be responsible for the applicant's supervision and
+training.A temporary certificate is valid for thirty days from the
+date it is issued and may be renewed one time for an additional six months. If
+the holder completes all of the requirements of subsection A of this section
+within that time, the board shall issue a regular certificate. This certificate
+is valid for two years from the date the board issued the temporary certificate
+and shall be renewed as prescribed under subsection D of this section.
+G.A person or facility that employs a person
+certified under this section shall report any suspected violations of section
+322821 to the board. The board shall investigate the complaint and act
+as prescribed under section 322821.If in the course of its
+investigation the board determines that a person regulated by another regulatory
+agency of this state may have violated that agency's laws, the board shall
+report the violation to the other agency for disciplinary action. END_STATUTE
+

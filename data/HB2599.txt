@@ -1,0 +1,143 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: AHCCCS; provider participation;
+  exclusions
+
+
+
+
+
+
+
+State of Arizona
+House of Representatives
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+HB 2599
+
+
+
+
+
+
+
+
+
+Introduced by
+Representative
+  Olson
+
+
+
+
+
+AN ACT
+
+Amending title
+36, chapter 29, article 1, Arizona Revised Statutes, by adding section
+36-2930.02; relating to the Arizona health care cost containment system.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Title 36, chapter 29, article 1,
+Arizona Revised Statutes, is amended by adding section 36-2930.02, to read:
+START_STATUTE36-2930.02.Provider participation; grounds for exclusion
+A.The administration shall exclude a
+provider from participation in the system and shall terminate the provider's
+agreement with the administration pursuant to federal law on the occurrence of
+any of the following:
+1.The
+provider's conviction for a system-related crime.
+2.The
+provider's conviction related to patient abuse or neglect.
+3.The
+provider's felony conviction for health care fraud.
+4.The
+provider's felony conviction relating to controlled substances.
+5.The
+provider's termination for cause by the administration under the children's
+health insurance program or under title XVIII of the social security act.
+B.The
+administration may exclude, in its sole discretion, a provider from
+participation in the system pursuant to federal law and may terminate the
+provider's agreement with the administration if the provider has done any of
+the following:
+1.Submitted
+a claim for payment to the administration for excessive charges over the
+allowable reimbursements for such charges.
+2.Submitted
+a claim for payment to the administration for medically unnecessary services or
+services that failed to meet professionally recognized standards of health
+care.
+3.Submitted
+a claim for payment to the administration that the provider knew or should have
+known was fraudulent.
+4.Accepted
+a payment kickback or engaged in another activity that is prohibited under
+federal law.
+5.Submitted
+a claim for a provider that is controlled by a sanctioned provider.
+6.Failed
+to disclose required information, supply requested information or supply
+payment information to the administration.
+7.Made
+a false statement or misrepresentation of material fact.
+8.Failed
+to ensure that services or items are provided economically and only when and to
+the extent that is medically necessary.
+9.Failed
+to ensure that a service or item was of a quality that meets professionally
+recognized standards of health care and was supported by evidence of medical
+necessity and quality.
+10.been
+found liable for the neglect of a patient that results in death or injury.
+11.Engaged
+in the unlawful disposal of medical waste in violation of federal, state or
+local law.
+12.Submitted
+a claim for a procedure performed in association with an abortion in violation
+of federal or state law.
+13.Failed
+to segregate taxpayer dollars from abortions, including the use of taxpayer
+dollars for any overhead expenses attributable to abortions.
+14.Failed
+to comply with federal or state law requiring mandatory reporting of sexual
+abuse, sexual assault, child or sex trafficking or statutory rape.
+C.the
+delineation of grounds for exclusion pursuant to subsections A and B of this
+section does not exclude any other basis for exclusion pursuant to state law or
+policy as determined by the administration.
+D.The
+administration shall suspend payments under this article to any provider that
+is the subject of a credible allegation of fraud and against whom an
+investigation is pending under the system unless the administration finds that
+good cause exists not to suspend the payments. END_STATUTE
+Sec.2.Short title
+This act shall be known as the "Taxpayer Protection and
+Medicaid Integrity Act".
+Sec.3.Severability
+If a provision of this act or its application to any person or
+circumstance is held invalid, the invalidity does not affect other provisions
+or applications of the act that can be given effect without the invalid
+provision or application, and to this end the provisions of this act are
+severable.
+

@@ -1,0 +1,244 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: early ballots; verification; cure
+
+
+
+
+
+
+
+State of Arizona
+Senate
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+SB 1081
+
+
+
+
+
+
+
+
+
+Introduced by
+Senators
+  Quezada, Farley, Hobbs; Representatives Clark, Espinoza, Velasquez: Senator
+  Contreras
+
+
+
+
+
+AN ACT
+
+amending sections
+16-552 and 16-584, Arizona Revised Statutes; relating to conduct of elections.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 16-552, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE16-552.Early ballots; processing; challenges
+A.In a jurisdiction that uses punch card ballots,
+the early election board, immediately upon on receipt of the early
+ballots, shall, as provided
+by this section, shall cast
+separately for each precinct the early ballots which
+that have been received.In a jurisdiction that uses
+optical scan ballots, the officer in charge of elections may use the procedure
+prescribed by this section or may request approval from the secretary of state
+for a different method for processing early ballots.The request
+shall be made in writing at least ninety days before the election for which the
+procedure is intended to be used. After the election official has confirmed
+with the secretary of state that all election equipment passes the logic and
+accuracy test, the election official may begin to count early ballots. No
+early ballot results may be released except as prescribed by section 16551.
+B.The early election board shall check the voter's
+affidavit on the envelope containing the early ballot. If it is found to be
+sufficient, the vote shall be allowed. If the affidavit is insufficient, the vote shall not be allowed the county recorder or other officer in
+charge of elections shall provide for a method of notifying the early ballot
+voter at no cost to the voter that there is a defect in the voter's ballot
+materials that will result in the rejection of the voter's ballot from being counted
+and that the voter may attempt to cure the defect in the voting materials
+within the ten days immediately following the election.The county
+recorder or other officer in charge of elections shall permit the voter to cure
+those defects that result from incomplete or incorrect information, shall
+tabulate the ballot as otherwise provided by law and shall further notify the
+voter whether the voter's ballot was verified and counted and, if not counted,
+the reason for not counting the ballot.The method of notification
+shall include reasonable restrictions that are designed to limit transmittal of
+the information only to the voter.END_STATUTE
+C.The county chairman of each political party
+represented on the ballot may,
+by written appointment addressed to the early election board, may designate party representatives and
+alternates to act as early ballot challengers for the party.No
+party may have more than the number of such representatives or alternates which that were mutually agreed upon on
+by each political party to be present at one time.If
+such agreement cannot be reached, the number of representatives shall be
+limited to one for each political party.
+D.An early ballot may be challenged on any grounds
+set forth in section 16591.All challenges shall be made in
+writing with a brief statement of the grounds prior to
+before the early ballot being is placed in the ballot
+box.A record of all challenges and resulting proceedings shall be
+kept in substantially the same manner as provided in section 16594.If
+an early ballot is challenged, it shall be set aside and retained in the
+possession of the early election board or other officer in charge of early
+ballot processing until a time that the early election board sets for
+determination of the challenge, subject to the procedure in subsection E of
+this section, at which time the earlyelection board shall hear the
+grounds for the challenge and shall decide what disposition shall be made of
+the early ballot by majority vote.If the early ballot is not
+allowed, it shall be handled pursuant to subsection G of this section.
+E.Within twentyfour hours of receipt of a
+challenge, the early election board or other officer in charge of early ballot
+processing shall mail, by first class mail, a notice of the challenge including
+a copy of the written challenge, and also including the time and place at which
+the voter may appear to defend the challenge, to the voter at the mailing
+address shown on the request for an early ballot or, if none was provided, to
+the mailing address shown on the registration rolls. Notice shall also be
+mailed to the challenger at the address listed on the written challenge and
+provided to the county chairman of each political party represented on the
+ballot.The board shall meet to determine the challenge at the time
+specified by the notice but, in any event, not earlier than ninetysix
+hours after the notice is mailed, or fortyeight hours if the notifying
+party chooses to deliver the notice by overnight or hand delivery, and not
+later than 5:00 p.m. on the Monday following the election.The board
+shall provide the voter with an informal opportunity to make, or to submit,
+brief statements regarding the challenge.The board may decline to
+permit comments, either in person or in writing, by anyone other than the
+voter, the challenger and the party representatives.The burden of
+proof is on the challenger to show why the voter should not be permitted to
+vote.The fact that the voter fails to appear shall not be deemed to
+be an admission of the validity of the challenge.The early election
+board or other officer in charge of early ballot processing is not required to
+provide the notices described in this subsection if the written challenge fails
+to set forth at least one of the grounds listed in section 16591 as a
+basis for the challenge.In that event, the challenge will be
+summarily rejected at the meeting of the board. Except for election contests
+pursuant to section 16672, the board's decision is final and may not be
+appealed.
+F.If the vote is allowed, the board shall open the
+envelope containing the ballot in such a manner that the affidavit thereon is
+not destroyed, take out the ballot without unfolding it or permitting it to be
+opened or examined and show by the records of the election that the elector has
+voted.
+G.If the vote is not allowed, the affidavit
+envelope containing the early ballot shall not be opened and the board shall
+mark across the face of such envelope the grounds for rejection.The
+affidavit envelope and its contents shall then be deposited with the opened
+affidavit envelopes and shall be preserved with official returns.If
+the voter does not enter an appearance, the board shall send the voter a notice
+stating whether theearly ballot was disallowed and, if disallowed,
+providing the grounds for the determination.The notice shall be
+mailed by first class mail to the voter's mailing address as shown on the
+registration rolls within three days after the board's determination.
+H.Party representatives and alternates may be
+appointed as provided in subsection C of this section to be present and to
+challenge the verification of questioned ballots pursuant to section 16584
+on any grounds permitted by this section.Questioned ballots which that are challenged shall be presented to the
+early election board for decision under the provisions of this section. END_STATUTE
+Sec.2.Section 16-584, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE16-584.Qualified elector not on precinct register; recorder's
+certificate; verified ballot; procedure
+A.A qualified elector whose name is not on the
+precinct register and who presents a certificate from the county recorder
+showing that the elector is entitled by law to vote in the precinct shall be
+entered on the signature roster on the blank following the last printed name
+and shall be given the next consecutive register number, and the qualified
+elector shall sign in the space provided.
+B.A qualified elector whose name is not on the
+precinct register, upon on presentation of
+identification verifying the identity of the elector that includes the voter's
+given name and surname and the complete residence address that is verified by
+the election board to be in the precinctor on signing an affirmation that
+states that the elector is a registered voter in that jurisdiction and is
+eligible to vote in that jurisdiction, shall be allowed to vote a provisional
+ballot.
+C.If a voter has moved to a new address within the
+county and has not notified the county recorder of the change of address before
+the date of an election, the voter shall be permitted to correct the voting
+records for purposes of voting in future elections at the appropriate polling
+place for the voter's new address.The voter shall be permitted to
+vote a provisional ballot. The voter shall present a form of identification
+that includes the voter's given name and surname and the voter's complete
+residence address. The residence address must be within the precinct in which
+the voter is attempting to vote, and the voter shall affirm in writing that the
+voter is registered in that jurisdiction and is eligible to vote in that jurisdiction.
+D.On completion of the ballot, the election
+official shall remove the ballot stub, shall place the ballot in a provisional
+ballot envelope and shall deposit the envelope in the ballot
+box.Within ten calendar days after a general election that includes
+an election for a federal office and within five business days after any other
+election or no later than the time at which challenged early voting ballots are
+resolved, the signature shall be compared to the precinct signature roster of
+the former precinct where the voter was registered.If the voter's
+name is not signed on the roster and if there is no indication that the voter
+voted an early ballot, the provisional ballot envelope shall be opened and the
+ballot shall be counted.If there is information showing the person
+did vote, the provisional ballot shall remain unopened and shall not be
+counted.When provisional ballots are confirmed for counting, the
+county recorder shall use the information supplied on the provisional ballot
+envelope to correct the address record of the voter.
+E.When a voter is allowed to vote a provisional
+ballot, the elector's name shall be entered on a separate signature roster page
+at the end of the signature roster. Voters' names shall be numbered
+consecutively beginning with the number V1.The elector shall
+sign in the space provided. The ballot stub shall be removed and the ballot
+shall be placed in a separate envelope, the outside of which shall contain the
+precinct name or number, a sworn or attested statement of the elector that the
+elector resides in the precinct, is eligible to vote in the election and has
+not previously voted in the election, the signature of the elector and the
+voter registration number of the elector, if available. The ballot shall be verified
+for proper registration of the elector by the county recorder before being
+counted.The verification shall be made by the county recorder
+within ten calendar days after a general election that includes an election for
+a federal office and within five business days following any other election,
+and the voter receipt card, notification or identification card, if any, from
+the county recorder used therefor, if valid, shall be returned to the elector
+within a reasonable time thereafter.Verified ballots shall be
+counted by depositing the ballot in the ballot box and showing on the records
+of the election that the elector has voted.If registration is not
+verified the ballot shall remain unopened and shall be retained in the same
+manner as voted ballots.
+F.For any person who votes a provisional ballot,
+the county recorder or other officer in charge of elections shall provide for a
+method of notifying the provisional ballot voter at no cost to the voter if there is a defect in the voter's
+provisional ballot materials that will result in the rejection of the
+provisional ballot from being counted and that the voter may attempt to cure
+the defect in the provisional ballot materials within the ten days immediately
+following the election.The county recorder or other officer in
+charge of elections shall permit the voter to cure those defects that result
+from incomplete or incorrect information, shall tabulate the ballot as
+otherwise provided by law and shall further notify the voter whether
+the voter's ballot was verified and counted and, if not counted, the reason for
+not counting the ballot. The
+notification may be in the form of notice by mail to the voter, establishment
+of a toll free telephone number, internet access or other similar method to
+allow the voter to have access to this information.The
+method of notification shall provide include reasonable
+restrictions that are designed to limit transmittal of the information only to
+the voter.END_STATUTE
+

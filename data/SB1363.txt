@@ -1,0 +1,270 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: insurance coverage; telemedicine
+
+
+
+
+
+
+
+State of Arizona
+Senate
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+SB 1363
+
+
+
+
+
+
+
+
+
+Introduced by
+Senator
+  Griffin; Representatives Barton, Stevens, Thorpe: Senator Shooter;
+  Representatives Gray, Livingston
+
+
+
+
+
+AN ACT
+
+Amending sections
+20841.09, 201057.13, 201376.05 and 201406.05,
+Arizona Revised Statutes; relating to telemedicine.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 20-841.09, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE20-841.09.Telemedicine; coverage of health care services;
+definitions
+A.All contracts issued, delivered or renewed on or
+after January July1, 2015
+2017 must provide coverage for health care services that are
+provided through telemedicine if the health care service would be covered were
+it provided through inperson consultation between the subscriber and a
+health care provider and provided to a subscriber receiving the service in arural region of this
+state.The contract may limit the coverage to those health care
+providers who are members of the corporation's provider network. 
+B.This section does not prevent a corporation from
+imposing deductibles, copayment or coinsurance requirements for a health care
+service provided through telemedicine if the deductible, copayment or
+coinsurance does not exceed the deductible, copayment or coinsurance applicable
+to an inperson consultation for the same health care service.
+C.Services provided through telemedicine or
+resulting from a telemedicine consultation shall comply with Arizona licensure
+requirements, accreditation standards and any practice guidelines of a national
+association of medical professionals promoting access to medical care for
+consumers via telecommunications technology or other qualified medical
+professional societies to ensure quality of care.
+D.This section does not apply to limited benefit
+coverage as defined in section 201137.
+E.For the purposes of this section:
+1."Health care services" means services
+provided for the following conditions or in the following settings:
+(a)Trauma.
+(b)Burn.
+(c)Cardiology.
+(d)Infectious diseases.
+(e)Mental health disorders.
+(f)Neurologic diseases including strokes.
+(g)Dermatology.
+2."Rural
+region" means either:
+(a)An area
+that is located in a county with a population of less than nine hundred
+thousand persons.
+(b)A city or
+town that is located in a county with a population of nine hundred thousand
+persons or more and whose nearest boundary is more than thirty miles from the
+boundary of a city that has a population of five hundred thousand persons or
+more.
+3.2."Telemedicine":
+(a)Means the interactive use of audio, video or
+other electronic media for the purpose of diagnosis, consultation or treatment.
+(b)Does not include the sole use of an audioonly
+telephone, a videoonly system, a facsimile machine, instant messages or
+electronic mail. END_STATUTE
+Sec.2.Section 20-1057.13, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE20-1057.13.Telemedicine; coverage of health care services;
+definitions
+A.An evidence of coverage issued, delivered or
+renewed by a health care services organization on or after January July
+1, 2015 2017 must provide coverage for health care
+services that are provided through telemedicine if the health care service
+would be covered were it provided through inperson consultation between
+the enrollee and a health care provider and provided to an enrollee receiving
+the service in a rural region of
+this state.The evidence of coverage may limit the coverage to those
+health care providers who are members of the health care services
+organization's provider network.
+B.This section does not prevent a health care
+services organization from imposing deductibles, copayment or coinsurance
+requirements for a health care service provided through telemedicine if the
+deductible, copayment or coinsurance does not exceed the deductible, copayment
+or coinsurance applicable to an inperson consultation for the same
+health care service.
+C.Services provided through telemedicine or
+resulting from a telemedicine consultation shall comply with Arizona licensure
+requirements, accreditation standards and any practice guidelines of a national
+association of medical professionals promoting access to medical care for
+consumers via telecommunications technology or other qualified medical
+professional societies to ensure quality of care.
+D.This section does not apply to limited benefit
+coverage as defined in section 201137.
+E.For the purposes of this section:
+1."Health care services" means services
+provided for the following conditions or in the following settings:
+(a)Trauma.
+(b)Burn.
+(c)Cardiology.
+(d)Infectious diseases.
+(e)Mental health disorders.
+(f)Neurologic diseases including strokes.
+(g)Dermatology.
+2."Rural
+region" means either:
+(a)An area
+that is located in a county with a population of less than nine hundred
+thousand persons.
+(b)A city or
+town that is located in a county with a population of nine hundred thousand
+persons or more and whose nearest boundary is more than thirty miles from the
+boundary of a city that has a population of five hundred thousand persons or
+more.
+3.2."Telemedicine":
+(a)Means the
+interactive use of audio, video or other electronic media for the purpose of
+diagnosis, consultation or treatment.
+(b)Does not include the sole use of an audioonly
+telephone, a videoonly system, a facsimile machine, instant messages or
+electronic mail. END_STATUTE
+Sec.3.Section 20-1376.05, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE20-1376.05.Telemedicine; coverage of health care services;
+definitions
+A.All policies issued, delivered or renewed by a
+disability insurer on or after January
+July 1, 2015
+2017 must provide coverage for health care services that are
+provided through telemedicine if the health care service would be covered were
+it provided through inperson consultation between the insured and a
+health care provider and provided to an insured receiving the service in a rural region of this state.
+The policy may limit the coverage to those health care providers who are
+members of the disability insurer's provider network.
+B.This section does not prevent a disability
+insurer from imposing deductibles, copayment or coinsurance requirements for a
+health care service provided through telemedicine if the deductible, copayment
+or coinsurance does not exceed the deductible, copayment or coinsurance
+applicable to an inperson consultation for the same health care service.
+C.Services provided through telemedicine or
+resulting from a telemedicine consultation shall comply with Arizona licensure
+requirements, accreditation standards and any practice guidelines of a national
+association of medical professionals promoting access to medical care for
+consumers via telecommunications technology or other qualified medical
+professional societies to ensure quality of care.
+D.This section does not apply to limited benefit
+coverage as defined in section 201137.
+E.For the purposes of this section:
+1."Health care services" means services
+provided for the following conditions or in the following settings:
+(a)Trauma.
+(b)Burn.
+(c)Cardiology.
+(d)Infectious diseases.
+(e)Mental health disorders.
+(f)Neurologic diseases including strokes.
+(g)Dermatology.
+2."Rural
+region" means either:
+(a)An area
+that is located in a county with a population of less than nine hundred
+thousand persons.
+(b)A city or town that is located in a county
+with a population of nine hundred thousand persons or more and whose nearest
+boundary is more than thirty miles from the boundary of a city that has a
+population of five hundred thousand persons or more.
+3.2."Telemedicine":
+(a)Means the interactive use of audio, video or other
+electronic media for the purpose of diagnosis, consultation or treatment.
+(b)Does not include the sole use of an audioonly
+telephone, a videoonly system, a facsimile machine, instant messages or
+electronic mail. END_STATUTE
+Sec.4.Section 20-1406.05, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE20-1406.05.Telemedicine; coverage of health care services;
+definitions
+A.All policies issued, delivered or renewed by a
+group disability insurer or a blanket disability insurer on or after January July 1, 2015 2017 must provide coverage for
+health care services that are provided through telemedicine if the health care
+service would be covered were it provided through inperson consultation
+between the insured and a health care provider and provided to an insured
+receiving the service in a rural region
+of this state.The policy may limit the coverage to
+those health care providers who are members of the insurer's provider network.
+B.This section does not prevent a group or blanket
+disability insurer from imposing deductibles, copayment or coinsurance
+requirements for a health care service provided through telemedicine if the
+deductible, copayment or coinsurance does not exceed the deductible, copayment
+or coinsurance applicable to an inperson consultation for the same
+health care service.
+C.Services provided through telemedicine or
+resulting from a telemedicine consultation shall comply with Arizona licensure
+requirements, accreditation standards and any practice guidelines of a national
+association of medical professionals promoting access to medical care for
+consumers via telecommunications technology or other qualified medical
+professional societies to ensure quality of care.
+D.This section does not apply to limited benefit
+coverage as defined in section 201137.
+E.For the purposes of this section:
+1."Health care services" means services
+provided for the following conditions or in the following settings:
+(a)Trauma.
+(b)Burn.
+(c)Cardiology.
+(d)Infectious diseases.
+(e)Mental health disorders.
+(f)Neurologic diseases including strokes.
+(g)Dermatology.
+2."Rural region" means either:
+(a)An area that is located in a county with a population
+of less than nine hundred thousand persons.
+(b)A city or
+town that is located in a county with a population of nine hundred thousand
+persons or more and whose nearest boundary is more than thirty miles from the
+boundary of a city that has a population of five hundred thousand persons or
+more.
+3.2."Telemedicine":
+(a)Means the interactive use of audio, video or
+other electronic media for the purpose of diagnosis, consultation or treatment.
+(b)Does not include the sole use of an audioonly
+telephone, a videoonly system, a facsimile machine, instant messages or
+electronic mail. END_STATUTE
+Sec.5.Effective date
+This act is effective from and after June 30, 2017.
+

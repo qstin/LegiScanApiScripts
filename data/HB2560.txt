@@ -1,0 +1,1796 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: conforming changes; real estate
+  appraisal
+
+
+
+
+
+
+
+State of Arizona
+House of Representatives
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+HB 2560
+
+
+
+
+
+
+
+
+
+Introduced by
+Representatives
+  Brophy McGee: Weninger
+
+
+
+
+
+AN ACT
+
+amending sections
+6-101, 32-3601 and 32-3605, Arizona Revised Statutes; repealing section
+32-3606, Arizona Revised Statutes; amending section 323607, Arizona
+Revised Statutes; repealing section 32-3608, Arizona Revised Statutes; amending
+sections 32-3609, 32-3610, 32-3611, 32-3613, 32-3614, 323614.01,
+32-3614.02, 32-3615, 32-3617, 32-3618, 32-3619, 32-3620, 32-3621, 32-3622,
+32-3625, 32-3626, 32-3627, 32-3628, 32-3631, 32-3632, 32-3635, 323637,
+32-3638, 32-3639, 32-3651, 32-3652, 32-3653, 32-3654, 32-3655, 323662,
+32-3664, 32-3666, 32-3667, 32-3668, 32-3669, 32-3671, 32-3672, 323677,
+32-3678, 32-3679, 32-3680, 32-4301, 41-619.51, 41-1092, 41-1758 and 41-3024.03,
+Arizona Revised Statutes; appropriating monies; relating to real estate
+appraisal.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 6-101, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE6-101.Definitions
+In this title, unless the context otherwise requires:
+1."Automated teller machine" means an
+automated device that is established by a bank, savings and loan association or
+credit union and that facilitates customerbank communications
+activities, including taking deposits and disbursing cash drawn against a
+customer's deposit account or a customer's preapproved loan account, at a
+location separate from the home office or a branch.
+2."Bank" means a corporation that holds a
+banking permit issued pursuant to chapter 2 of this title.
+3."Banking office" means any place of
+business of the bank at which deposits are received, checks are paid or money
+is loaned but does not include the premises used for computer operations,
+proofing, record keeping, accounting, storage, maintenance or other
+administrative or service functions.
+4."Branch" means any banking office other
+than the principal banking office.
+5."Department" means the department of
+financial institutions.
+6."Enterprise" means any person under the
+jurisdiction of the department other than a financial institution.
+7."Federal deposit insurance corporation"
+includes any successor to the corporation or other agency or instrumentality of
+the United States which that undertakes to discharge
+the purposes of the corporation.
+8."Financial institution" means banks,
+trust companies, savings and loan associations, credit unions, consumer
+lenders, international banking facilities and financial institution holding
+companies under the jurisdiction of the department.
+9."Home state" means the state that has
+granted the bank its charter, permit or license to operate.
+10."Host state" means the state in which
+a financial institution is doing business and not the state that has granted
+the bank its charter, permit or license to operate.
+11."Instate financial institution"
+means a state or federal bank, savings bank, savings and loan association or
+holding company with its home office located in this state.
+12."International banking facility" means
+a facility that is represented
+by a set of asset and liability accounts segregated on the books and records of
+a commercial bank, the principal office of which is located in this state, and which that is incorporated and doing business under
+the laws of the United States or of this state, a United States branch or
+agency of a foreign bank, an edge corporation organized under section 25(a) of
+the federal reserve act (12 United States Code sections 611 through 631) or an
+agreement corporation having an agreement or undertaking with the board of governors
+of the federal reserve system under section 25 of the federal reserve act (12
+United States Code sections 601 through 604(a)) that includes only
+international banking facility time deposits and international banking facility
+extensions of credit as defined in 12 Code of Federal Regulations part 204.
+13."National credit union administration"
+includes any successor to the organization or other agency or instrumentality
+of the United States which that undertakes to discharge
+the purposes of the organization.
+14."Outofstate bank" means
+a bank, savings bank or savings and loan association that is approved by the
+superintendent pursuant to section 6322 and that has a charter, a permit
+or any other license to operate that is issued by a state other than this
+state.
+15."Outofstate financial
+institution" means a state or federal bank, savings bank, savings and loan
+association or holding company with its home office in a state other than this
+state.
+16."Superintendent" means the
+superintendent of financial institutions.
+17."Title" includes this title, title 32,
+chapter chapters 9 and 36 and title 44, chapter 2.1. END_STATUTE
+Sec.2.Section 32-3601, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-3601.Definitions
+In this chapter, unless the context otherwise requires:
+1."Appraisal" or "real estate
+appraisal" means a statement that is independently and impartially
+prepared by an individual setting forth an opinion as to the market value of
+real property as of a specific date and supported by the presentation and
+analysis of relevant market information.
+2."Appraisal assignment" means an
+engagement for which a real estate appraiser is employed or retained to act, or
+would be perceived by third parties or the public in acting, as a disinterested
+third party in rendering an unbiased analysis, opinion or conclusion relating
+to the nature, quality, value or utility of specified interests in or aspects
+of identified real estate.
+3."Appraisal foundation" means the
+appraisal foundation incorporated as an Illinois notforprofit
+corporation on November 30, 1987.
+4."Appraisal report" means any
+communication, written or oral, of an appraisal.
+5."Appraisal review" means the act of
+reviewing or the report that follows a review of an appraisal assignment or
+appraisal report in which a real estate appraiser forms an opinion as to the
+adequacy and appropriateness of the report being reviewed.
+6."Appraisal standards board" means the
+appraisal standards board appointed by the board of trustees of the appraisal
+foundation to develop, interpret and amend the uniform standards of
+professional appraisal practice.
+7."Appraisal subcommittee" means the subcommittee
+of the federal financial institutions examination council created pursuant to
+12 United States Code section 3310 and chapter 34A, as amended.
+8."Appraiser qualifications board" means
+the appraiser qualifications board that is appointed by the board of trustees
+of the appraisal foundation to establish the minimum education, experience and
+examination requirements for real estate appraisers.
+9."Complex one to four residential units"
+means property that is atypical for the marketplace.Atypical factors
+may include architectural style, age of improvements, size of improvements,
+size of lot, neighborhood land use, potential environmental hazard liability,
+leasehold interests, limited readily available comparable sales data or other
+unusual factors.
+10."Course approval" means the act of the
+superintendent reviewing course materials to form an opinion as to the adequacy
+and appropriateness of the course for licensing pursuant to section 323613,
+certification pursuant to section 323614 and continuing education as
+prescribed in section 323625 in accordance with the appraiser
+qualifications board and this chapter.
+11."Department"
+means the department of financial institutions.
+11.12."Federal
+financial institutions examination council" means that agency of the
+federal government created pursuant to 12 United States Code chapters 34 and
+34A, as amended.
+12.13."Federally
+related transaction" means any real estate related financial transaction
+that a federal financial institution's regulatory agency or the resolution
+trust corporation engages in, contracts for or regulates and that requires an
+appraisal.
+13.14."Property
+tax agent" means an individual who is designated by a person or is an
+employee of an entity designated as an agent pursuant to section 4216001,
+who acts on behalf of a person who owns, controls or possesses property valued
+by a county assessor and who receives a fee for the analysis of any matter
+relating to the review of the valuation of the person's property before the
+assessor. Property tax agent does not include a person who is admitted to
+practice law in this state, an employee of the person owning, controlling or
+possessing the property or an employee of an entity designated pursuant to
+section 4216001, if the employee is performing a secretarial, clerical
+or administrative support function.
+14.15."Real
+estate" means an identified parcel or tract of land, including
+improvements, if any.
+15.16."Real
+estate related financial transaction" means any transaction involving the
+sale of, lease of, purchase of, investment in or exchange of real property,
+including interests in property or the financing of property, the refinancing
+of real property or interests in real property and the use of real property or
+interests in property as security for a loan or investment, including mortgagebacked securities.
+16.17."Real
+property" means one or more defined interests, benefits and rights
+inherent in the ownership of real estate.
+17.18."Registered
+trainee appraiser" means a person who meets both of the following
+requirements:
+(a)Is registered with the superintendent and meets
+the appraiser qualifications board's qualifications for trainee appraisers to
+perform appraisal services only under the direct supervision of a certified
+appraiser who has met the minimum criteria to be a supervisory appraiser.
+(b)Accepts assignments only from the registered
+trainee appraiser's supervisory appraiser.
+18.19."Review
+appraiser" means a person who engages in the activity of reviewing and
+evaluating the appraisal work of others from the perspective of an appraiser,
+generally for compensation as a separate skill.This includes the
+function of reviewing an appraisal report or a file memorandum setting forth
+the results of the review process.
+19.20."Standards
+of professional appraisal practice" means the uniform standards of
+professional appraisal practice adopted by the superintendent.
+20.21."State
+licensed or state certified appraiser" means a person who develops and
+communicates appraisals and who holds a current, valid license or certificate
+issued under this chapter.
+21.22."Superintendent"
+means the superintendent of financial institutions.
+22.23."Supervisory
+appraiser" means a state certified appraiser who has a supervisory
+appraiser designation and who:
+(a)Has been in good standing for the last three
+years in the jurisdiction in which the registered trainee appraiser practices.
+(b)Has not been disciplined in a manner that
+affects the supervisory appraiser's eligibility to engage in appraisal practice
+in any jurisdiction in the last three years.
+(c)Directly supervises registered trainee
+appraisers by doing the following:
+(i)Accepting
+responsibility for an appraisal by signing and certifying that the appraisal complies
+with the uniform standards of professional appraisal practice.
+(ii)Reviewing and signing all registered trainee
+appraiser reports.
+(iii)Personally inspecting each appraised property
+with the registered trainee appraiser.
+23.24."Value"
+means the monetary relationship between properties and those who buy, sell or
+use those properties. END_STATUTE
+Sec.3.Section 32-3605, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-3605.Superintendent; duties; powers; immunity
+A.The superintendent shall adopt rules in aid or in
+furtherance of this chapter.
+B.The superintendent
+shall:
+1.In prescribing
+standards of professional appraisal practice, adopt standards that at a minimum
+are equal to the standards prescribed by the appraisal standards board.
+2.In prescribing criteria for certification, adopt
+criteria that at a minimum are equal to the minimum criteria for certification
+adopted by the appraiser qualifications board.
+3.In prescribing criteria for licensing and
+registration, adopt criteria that at a minimum are equal to the minimum
+criteria for licensing and registration adopted by the appraiser qualifications
+board.
+4.Further define by rule with respect to state
+licensed or state certified appraisers appropriate and reasonable educational
+experience, appraisal experience and equivalent experience that meets the
+statutory requirement of this chapter.
+5.Adopt the national examination as approved by the
+appraiser qualifications board for state certified appraisers.
+6.Adopt the national examination as approved by the
+appraiser qualifications board for state licensed appraisers.
+7.Establish administrative procedures for:
+(a)Processing applications for
+licenses and certificates.
+(b)Approving or
+disapproving applications for registration, licensure and certification. and 
+(c)Issuing licenses
+and certificates, including registration certificates.
+8.Define by rule, with respect to state licensed
+and certified appraisers, the continuing education requirements for the renewal
+of licenses or certificates that satisfy the statutory requirements provided in
+this chapter.
+9.Periodically review the requirements for the
+development and communication of appraisals provided in this chapter and adopt
+rules explaining and interpreting the requirements.
+10.Define and explain by rule each stage and step
+associated with the administrative procedures for the disciplinary process
+pursuant to this chapter, including:
+(a)Prescribing minimum criteria for accepting a
+complaint against a registered trainee appraiser or a licensed or certified
+appraiser. The superintendent may not consider a complaint for administrative
+action if the complaint either:
+(i)Relates to an appraisal that was completed more
+than five years before the complaint was submitted to the superintendent or
+more than two years after final disposition of any judicial proceeding in which
+the appraisal was an issue, whichever period of time is greater.
+(ii)Is filed against a person who is a staff person
+of the department of financial institutions and the person is a licensed or
+certified appraiser and the complaint is against the person's license or
+certificate and relates to the person's performance of duties.This
+item does not apply to a contract investigator who is under contract with the
+department for the performance of an appraisal review as defined by the uniform
+standards of professional appraisal practice. This item does not remove the
+requirement that the staff person is
+be subject to the ethics
+rules section of the uniform standards of professional appraisal practice.
+(b)Defining the process and procedures used in
+investigating the allegations of the complaint.The superintendent
+shall consolidate complaints that are filed within a six-month period of time
+if the complaints are against the same appraiser, relate to the same appraisal
+and property and are filed by an entity that is subject to the mandatory
+reporting provisions of the DoddFrank Wall Street reform and consumer
+protection act (P.L.111203; 124 Stat. 1376). Complaints that are
+consolidated pursuant to this subdivision must be considered and adjudicated as
+one complaint.
+(c)Defining the process and procedures used in
+hearings on the complaint, including a description of the rights of the
+superintendent and any person who is alleged to have committed the violation.
+(d)Establishing criteria to be used in determining
+the appropriate actions for violations.
+11.Communicate information that is useful to the
+public and appraisers relating to actions for violations.
+12.Issue decrees of censure, fix periods and terms
+of probation and suspend and revoke licenses and certificates pursuant to the
+disciplinary proceedings provided for in section 323631.
+13.At least monthly transmit to the appraisal
+subcommittee a roster listing individuals who have received a state certificate
+or license in accordance with this chapter.
+14.Report on the disposition of any matter referred
+by the appraisal subcommittee or any other federal agency or instrumentality or
+federally recognized entity reporting any action of a state licensed or state
+certified appraiser that is contrary to this chapter.
+15.Make a determination and finding if there exists
+a scarcity of state certified or state licensed appraisers to perform
+appraisals in connection with federally related transactions in this state and
+issue resident temporary licenses and certificates pursuant to section 323626.
+16.Transmit the national registry fee collected
+pursuant to section 323607 to the appraisal subcommittee.
+17.Establish the fees in accordance with section 323607.
+18.Receive
+applications for state licenses and certificates.
+19.Maintain
+a registry of the names and addresses of people who are registered, licensed or
+certified under this chapter.
+20.Retain
+records and all application materials submitted to the superintendent.
+21.Publish
+on the department's website a current list of supervisory appraisers and
+registered trainee appraisers.
+18.22.Perform
+such other functions and duties as may be necessary to carry out this chapter.
+C.The superintendent may accept and spend federal
+monies and grants, gifts, contributions and devises from any public or private
+source to assist in carrying out the purposes of this chapter. These monies do
+not revert to the state general fund at the end of the fiscal year.
+D.The board superintendent may impose a
+civil penalty pursuant to section 323632. END_STATUTE
+Sec.4.Repeal
+Section 32-3606,
+Arizona Revised Statutes, is repealed.
+Sec.5.Section 32-3607, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-3607.Fees; use of credit cards
+A.The board superintendent shall charge
+and collect fees that are sufficient to fund the activities necessary to carry
+out this chapter.These include:
+1.An application fee for licensure or certification
+of not more than four hundred dollars.
+2.An application fee for a resident temporary
+license or certificate of not more than four hundred dollars.
+3.An examination fee in an amount to be determined
+by the board superintendent.
+4.A fee for renewal of a license, certificate or
+resident temporary license or certificate of not more than four hundred twentyfive
+dollars.
+5.A delinquent renewal fee in addition to the
+renewal fee of not more than twentyfive dollars.
+6.A twoyear national registry fee of not to exceed
+the actual cost of twice the current annual national registry fee.
+7.A nonresident temporary licensure or
+certification fee of not more than one hundred fifty dollars.
+8.A course approval fee of not more than five
+hundred dollars.
+9.An application fee to be a registered trainee
+appraiser in an amount to be determined by the board
+superintendent.
+B.If the appraisal subcommittee raises the national
+registry fee during the second year of a biennial license or certificate, state
+licensed and state certified appraisers shall pay the additional national
+registry fee on demand by the board superintendent.Failure
+to pay the additional fee within thirty days of notice by the board
+superintendent subjects the license or certificate holder to a
+penalty of twice the amount owed but not to exceed twenty
+dollars.The board superintendent shall not renew
+a license or certificate until all outstanding obligations of the license or
+certificate holder are paid.
+C.Pursuant to section 35142, subsection I J, the board superintendent may accept a
+credit card or debit card for the payment of fees established by this
+section.The board superintendent may impose a
+convenience fee for payment made pursuant to this subsection in an amount to be
+determined by the board superintendent. END_STATUTE
+Sec.6.Repeal; transfer of monies
+A.Section 32-3608,
+Arizona Revised Statutes, is repealed.
+B.All unexpended and unencumbered monies remaining
+in the board of appraisal fund established by section 32-3608, Arizona Revised
+Statutes, as repealed by subsection A of this section, are transferred to the
+state general fund on the effective date of this section.
+Sec.7.Section 32-3609, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-3609.Confidential records
+Except as otherwise provided by law, the following records are
+confidential:
+1.Questions contained in any examination
+administered by or for the board superintendent or in any
+examination submitted to the board superintendent for course
+approval.
+2.Questions asked and the answers of individual
+examinees, except that the board superintendent shall provide
+the grades of each examinee for public inspection and copying.
+3.Appraisal reports or appraisal reviews and
+supporting documentation deemed confidential under the uniform standards of
+professional appraisal practice edition adopted by the board
+superintendent.
+4.All documents associated with a complaint until the complaint is resolved as prescribed by section 6129.
+END_STATUTE
+Sec.8.Section 32-3610, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-3610.Uniform standards of professional appraisal practice;
+state standards; exception
+The uniform standards of professional appraisal practice as
+published by the appraisal standards board are the standards for the appraisal
+practice in this state unless the board superintendent objects. END_STATUTE
+Sec.9.Section 32-3611, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-3611.Registration, licensure and certification process
+A.Applications for original registration, licensure
+or certification, renewals and examinations shall be made in writing to the executive director superintendent on forms approved by the board superintendent.
+B.Appropriate fees, as fixed by the board
+superintendent pursuant to section 323607, shall accompany
+all applications for original registration, licensure or certification, renewal
+and examination.
+C.At the time of filing an application for
+registration, licensure or certification, each applicant shall sign a pledge to
+comply with the standards set forth in this chapter and shall state that the
+applicant understands the types of misconduct for which disciplinary
+proceedings may be initiated against a registered trainee appraiser or a state
+licensed or state certified appraiser, as set forth in this chapter.
+D.Except as otherwise provided in this chapter, the
+executive director superintendent shall require
+such other proof and request such documents, through the application or
+otherwise, as the board superintendent deems necessary
+for the interests of the public and to verify the honesty, truthfulness,
+reputation and competency of the applicant and shall require that the applicant
+for registration, licensure or certification:
+1.Be at least eighteen years of age and a citizen
+of the United States or a qualified alien as defined in 8 United States Code
+section 1641.
+2.Not have had a license or certificate denied
+pursuant to this chapter within one year immediately preceding the application.
+3.Not have had a license or certificate revoked
+pursuant to this chapter within five years immediately preceding the
+application.
+4.State whether or not the applicant has ever been
+convicted in a court of competent jurisdiction in this or any other state of a
+felony or of forgery, theft, extortion or conspiracy to defraud or any other
+crime involving dishonesty or moral turpitude.
+E.Applications for registration, licensure or
+certification by persons who are charged or under indictment for fraud
+involving appraisal of real property may be denied pending final disposition of
+the charge or indictment. On final disposition, the board
+superintendent shall review the proceedings and act on the
+application. END_STATUTE
+Sec.10.Section 32-3613, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-3613.Application and qualification requirements for issuance of
+license
+A.An application for licensing and examination
+shall be made on forms as prescribed by the board
+superintendent and be accompanied
+by the required fees.
+B.Those
+Persons filing for licensing shall meet the minimum criteria for licensing
+established by the board superintendent under section
+323605, subsection B, paragraph 3.
+C.No
+A person may not be a state licensed
+appraiser unless the person has achieved a passing grade on the national
+examination approved by the appraiser qualifications board. END_STATUTE
+Sec.11.Section 32-3614, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-3614.Application and qualification requirements for
+certification
+A.An application for certification and examination
+shall be made on forms prescribed by the board superintendent and be accompanied by the required
+fees.
+B.Those
+Persons filing for certification shall meet the minimum criteria for
+certification established by the board superintendent under section
+323605, subsection B, paragraph 2 and section 323615.
+C.No A person
+may not be a state
+certified real estate appraiser unless the person has achieved a passing grade
+on the national examination approved by the appraiser qualifications board.
+D.Persons presenting
+evidence showing successful completion of the requirements of this section
+shall be recognized as having met the qualifications as a state certified real
+estate appraiser. END_STATUTE
+Sec.12.Section 32-3614.01, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-3614.01.Application for registered trainee appraiser certificates
+An application for a registered trainee appraiser certificate
+shall be made on a form prescribed by the board superintendent
+and be accompanied by the
+fees prescribed by section 323607. An applicant must complete education
+requirements as outlined by the appraiser qualifications board.The
+applicant must submit proof that the applicant has successfully passed the
+required courses that are specifically oriented to the requirements and
+responsibilities of supervisory appraisers and trainee appraisers and that
+comply with the specifications established by the appraiser qualifications
+board. END_STATUTE
+Sec.13.Section 32-3614.02, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-3614.02.Application for supervisory appraiser designation
+An application for a supervisory appraiser designation shall be
+made on a form prescribed by the board superintendent. The applicant
+must submit proof of successful completion of a course that is specifically
+oriented to the requirements and responsibilities of supervisory appraisers and
+trainee appraisers and that complies with the specifications established by the
+appraiser qualifications board. END_STATUTE
+Sec.14.Section 32-3615, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-3615.Experience requirement for licensure or certification
+A.Each applicant for licensure or certification
+shall have experience that was acquired within ten years immediately preceding
+the filing of the application for licensure or certification.
+B.Each applicant for licensure or certification
+shall furnish under oath a detailed listing of the real estate or other appraisal
+reports, review reports or filed memoranda for each year for which experience
+is claimed by the applicant.On request, the applicant shall make
+available to the board superintendent for examination
+copies of appraisal reports which
+that the applicant has
+prepared in the course of the applicant's appraisal experience. END_STATUTE
+Sec.15.Section 32-3617, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-3617.Nonresident temporary licensure or certification
+A.Every applicant for nonresident temporary
+licensure or certification under this chapter who is not a resident of this
+state shall submit, with the application for nonresident temporary licensure or
+certification, an irrevocable consent that service of process on the applicant
+may be made by delivery of the process to the secretary of state if, in an
+action against the applicant in a court of this state arising out of the
+applicant's activities as a nonresident temporary state licensed or state
+certified appraiser, the plaintiff cannot effect, in the exercise of due
+diligence, personal service on the applicant.
+B.A nonresident of this state who has complied with
+subsection A of this section may obtain a nonresident temporary license or
+certificate as a nonresident temporary state licensed or state certified
+appraiser by conforming to all of the requirements of this chapter relating to
+state licensed or state certified appraisers.
+C.A nonresident of this state who is licensed or
+certified in another state is entitled to nonresident temporary licensure or
+certification from by the board
+superintendent, which shall
+be is valid
+until the completion of each appraisal assignment but not for a period of more
+than one year from the date of issuance, if:
+1.The nonresident appraiser's business in this
+state is of a temporary nature.
+2.The nonresident appraiser applies with the board superintendent on forms prepared prescribed by the board superintendent.
+3.The nonresident appraiser pays the nonresident
+temporary licensure or certification fee required by the board
+superintendent.
+D.The board superintendent shall adopt
+rules in furtherance of this section to avoid the abuse of the temporary practice
+rights in this state. END_STATUTE
+Sec.16.Section 32-3618, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-3618.Reciprocity
+Reciprocity shall be granted to an appraiser if all of the
+following conditions apply:
+1.The appraiser holds a credential from a state
+that is in compliance with 12 United States Code sections 3310, 3332, 3333,
+3335, 3338, 3339, 3341, 3342, 3345, 3346, 3347, 3348, 3350, 3351, 3353, 3354
+and 3355.
+2.The credential requirements for the state
+described in paragraph 1 of this section meet or exceed those of this state.
+3.The appraiser has completed an application for
+licensure or certification on a form as prescribed by the board
+superintendent and submitted the fees prescribed pursuant to
+section 323607. END_STATUTE
+Sec.17.Section 32-3619, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-3619.Renewal of license or certificate; fees 
+A.Except as otherwise provided in this section and
+in section 324301, to renew a registration certificate as a registered
+trainee appraiser or a license or certificate as a state licensed or state
+certified appraiser, the holder of a current, valid license or certificate
+shall make an application apply with and pay the
+prescribed fee to the board superintendent not earlier
+than ninety days nor later than thirty days before the expiration date of the license or
+certificate then held expires. With the application
+for renewal, the registered trainee appraiser or the state licensed or state
+certified appraiser shall present evidence in the form prescribed by the board superintendent of having completed the
+continuing education requirements for renewal specified in section 323625.
+
+B.The board superintendent may accept a
+renewal application after the expiration date and within ninety days of the
+date of expiration but shall assess a delinquent renewal fee in addition to the
+renewal fee.
+C.An appraiser or registered trainee appraiser who
+fails to seek renewal within the time period specified in subsection A or B of
+this section must reapply for licensure or certification and meet all of the
+requirements of this chapter.
+D.An appraiser or registered trainee appraiser
+shall not engage in, advertise or purport to engage in real estate appraisal
+activity in this state after a license or certificate has expired and before
+the renewal of the expired license or certificate except as provided in section
+411092.11.END_STATUTE
+Sec.18.Section 32-3620, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-3620.Basis for denial of a license or certificate
+A.The board superintendent may deny the
+initial issuance or renewal of a license or certificate as a registered trainee
+appraiser, a supervisory appraiser or a state licensed or state certified
+appraiser to an applicant who has been convicted of a felony or on any of the
+grounds prescribed in this chapter.
+B.To assist in determining whether grounds exist to
+deny the initial issuance or renewal of a license or certificate to an
+applicant, the board superintendent shall require
+the applicant to obtain apply for a valid fingerprint
+clearance card issued pursuant to section 411758.03.
+C.A person who is denied the issuance of a license
+or certificate may request, and if requested shall receive, a hearing in
+accordance with title 41, chapter 6, article 10. END_STATUTE
+Sec.19.Section 32-3621, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-3621.Addresses; telephone numbers; e-mail addresses;
+notification of change
+A.Each registered trainee appraiser or state
+licensed or state certified appraiser shall advise the board
+superintendent of the address of the person's principal place of
+business and all other addresses at which the person is currently engaged in
+the business of preparing real property appraisal reports.
+B.Every registered trainee appraiser or state
+licensed or state certified appraiser shall notify the board
+superintendent of the person's current residence
+address.Residence addresses on file with the board
+superintendent are exempt from disclosure as public records.
+C.Every registered trainee appraiser or state
+licensed or state certified appraiser shall provide the person's email
+address if one exists and a daytime telephone number to the board
+superintendent.
+D.If a registered trainee appraiser or a state
+licensed or state certified appraiser changes the person's place of business or
+residence, email address or daytime telephone number, the person shall
+give the board superintendent written
+notification of the change within ten days after the change. END_STATUTE
+Sec.20.Section 32-3622, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-3622.Licenses and certificates
+A.A license or certificate issued under this
+chapter shall be signed on behalf of the board superintendent and shall bear
+the license or certificate number assigned by the board
+superintendent.
+B.Each state licensed or state certified appraiser
+shall place the appraiser's license or certificate number adjacent to or
+immediately below the title "state licensed appraiser" or "state
+certified appraiser",
+and the number shall be included in an appraisal report or in a contract or
+other instrument used by the license or certificate holder in conducting
+appraisal activities. END_STATUTE
+Sec.21.Section 32-3625, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-3625.Continuing education
+A.As a prerequisite to renewal of a license or
+certificate, a state registered trainee appraiser or a licensed or state
+certified appraiser shall present evidence satisfactory to the board
+superintendent of having met the continuing education
+requirements of either subsection B or C of this section.
+B.The basic continuing education requirement for
+renewal of a license or certificate is the completion by the applicant, during
+the immediately preceding term of the license or certificate, of courses or
+seminars that are approved by the board superintendent.
+C.An applicant for reregistering, relicensing or
+recertification may satisfy all or part of the continuing education
+requirements by presenting evidence of the following, which shall be approved
+by the board superintendent:
+1.Completion of an education program of study
+determined by the board superintendent to be equivalent,
+for continuing education purposes, to courses approved by the board
+superintendent pursuant to subsection B of this section.
+2.Participation
+other than as a student in educational processes and programs that are approved
+by the board superintendent and that relate to appropriate
+appraisal theory, practices or techniques, including teaching, program
+development and preparation of textbooks, monographs, articles and other
+instructional materials, not to exceed fifty per cent percent of an applicant's continuing education requirements
+and not for the same course in consecutive renewal periods.
+D.The board superintendent shall adopt
+rules to assure ensure that persons renewing their licenses or certificates
+a person who renews the person's
+license or certificate as a
+state licensed or state certified appraisers follow appraiser follows practices and techniques
+that provide a high degree of service and protection to those members of the public with whom they deal the person deals in the professional relationship
+under the authority of the license or certificate. The rules shall include the
+following:
+1.Policies and procedures for obtaining board the superintendent's approval of courses and
+instruction pursuant to subsection B of this section.
+2.Standards, policies and procedures to be applied
+by the board superintendent in evaluating an applicant's
+claims of equivalency in accordance with subsectionC of this section.
+3.Standards, monitoring methods and systems for
+recording attendance to be employed by course sponsors as a prerequisite to board the superintendent's approval of courses for
+credit.
+E.In adopting rules pursuant to subsection D,
+paragraph 1 of this section, the board superintendent shall give
+consideration to courses of instruction, seminars and other appropriate
+appraisal educational courses or programs previously or hereafter developed by
+or under the auspices of professional appraisal organizations and utilized used by those associations for purposes of
+designation, or
+indicating compliance with the continuing education requirements of such
+organizations.No
+A person who offers these
+courses may not discriminate
+in the opportunity to participate in these courses on the basis of membership
+or nonmembership in an appraisal organization.
+F.No
+An amendment or repeal of
+a rule adopted by the board superintendent pursuant to
+this section may operate to
+not deprive a state
+registered trainee appraiser or a state licensed or state certified appraiser
+of credit toward renewal of a license or certificate for any course of
+instruction either completed by
+that the applicant either completed or enrolled in
+by the applicant before the
+amendment or repeal of the rule that would have qualified for continuing
+education credit under the rule
+as it the rule existed before the repeal or
+amendment.
+G.A license or certificate as a state registered
+trainee appraiser or a state licensed or state certified appraiser that has
+been suspended as a result of disciplinary action by the board
+superintendent shall not be reinstated unless the applicant
+presents evidence of completion of the continuing education required by this
+chapter.
+H.A license or certificate that has been revoked by
+the board superintendent shall not be reinstated unless
+the applicant successfully completes the appropriate requirements of the
+appraisal qualifications board, including education and passage of the current
+national examination. END_STATUTE
+Sec.22.Section 32-3626, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-3626.Scarcity determination; resident temporary licenses and
+certificates; exemption
+A.No later than November 1 of each year, the board superintendent shall determine and make a
+finding whether there is a scarcity of state certified or state licensed
+appraisers in an area within the state to perform appraisals in federally
+related transactions.
+B.In determining whether a scarcity exists, the board superintendent shall follow procedures in
+accordance with the provisions governing scarcity in 12 United States Code
+section 3348 and regulations adopted pursuant to that section as of September
+30, 1992.
+C.If the board superintendent makes a finding
+of scarcity, within fifteen days after the finding, the board
+superintendent shall apply to the appropriate federal agency for
+a temporary waiver of the state certification or licensing requirements.
+D.If a waiver request has been approved by the
+federal agency authorized to issue waivers, the board
+superintendent may thereafter
+issue resident temporary licenses or certificates to applicants consistent with
+the reduction in application requirements of this chapter for licenses and
+certificates as authorized by the waiver. A resident temporary license or
+certificate shall be is subject to all provisions of
+this chapter that are not
+inconsistent with the provisions of the waiver.
+E.A person obtaining a resident temporary license
+or certificate under this section is
+required to shall comply
+with all of the provisions
+of this chapter except for those provisions
+of this chapter for which a temporary waiver has been approved
+and shall indicate on all appraisals performed by the person that the appraisal
+is not an appraisal done by
+a state certified or state licensed appraiser and that the person performing the appraisal is a
+resident temporary license or certificate holder. A person holding a resident
+temporary license or certificate may perform appraisals only in areas within
+the state where it has been determined by
+the board superintendent has determined that a scarcity
+exists.
+F.The board superintendent is exempt from
+title 41, chapter 6, article 10 in making the determination and finding of scarcity and in issuing
+resident temporary licenses and certificates in accordance with the waiver in under subsection D of this section and section
+323605, subsection B, paragraph 14 15. END_STATUTE
+Sec.23.Section 32-3627, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-3627.Inactive license or certificate status; reactivation
+application; renewal application and fee; continuing education
+A.Any license or certificate holder may request
+that the license or certificate be placed on inactive status by filing with the
+board superintendent an application that includes
+all of the following:
+1.The license or certificate holder's name.
+2.The license or certificate number.
+3.A request for inactive status.
+B.The period a license or certificate is on
+inactive status under this section may not exceed two years.
+C.A license or certificate holder who is on
+inactive status shall not do either of the following:
+1.Represent that the license or certificate holder
+is an active appraiser licensed or certified in this state.
+2.Perform real estate appraisals or appraisal
+reviews on real estate in this state.
+D.A license or certificate holder who is on inactive status under this section
+must file with the board superintendent an application
+for reactivation of the license or certificate before resuming real estate
+appraisal activity.
+E.To return to active status, an the inactive
+license or certificate holder shall do both of the following:
+1.File with the board
+superintendent an application for reactivation of the license or
+certificate.
+2.Provide evidence of completion of the required
+continuing education that the license or certificate holder would have been
+required to meet during the period when the license or certificate holder's
+license or certificate was on inactive status.
+F.If the holder of an inactive license or
+certificate under this section does not file an application for reactivation
+within a two year twoyear period, that
+person must reapply for licensure or certification pursuant to the requirements
+of this chapter.
+G.A license or certificate holder who is on
+inactive status pursuant to this section remains on inactive status until the board superintendent approves the application for
+reactivation of the license or certificate.
+H.The board superintendent may take
+disciplinary or remedial action against a license or certificate holder who is
+on inactive status pursuant to this section.
+I.A license or certificate holder who places the
+holder's license or certificate on inactive status must pay the renewal fee and
+complete an application for renewal as prescribed in section 323619. A The license or certificate holder on inactive
+status is not required to provide evidence of completion of the continuing
+education requirements until the application for reactivation is filed pursuant
+to subsection E of this section. END_STATUTE
+Sec.24.Section 32-3628, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-3628.Inactive license or certificate status during military
+duty; reactivation application; renewal application and fee; continuing
+education
+A.A license or certificate holder who is ordered to
+active military duty with the United States armed forces may request that the
+license or certificate be placed on inactive status by filing with the board superintendent an application that includes
+all of the following:
+1.The license or certificate holder's name.
+2.The license or certificate number.
+3.The date that the active military duty begins.
+4.A request for inactive status.
+B.The license or certificate is deemed to be on
+inactive status while the license or certificate holder is on active military
+duty, but the period of inactive status may not exceed three years.
+C.A license or certificate holder who is on
+inactive status pursuant to this section shall not do either of the following:
+1.Represent that the holder is an active appraiser
+licensed or certified in this state.
+2.Perform real estate appraisals or appraisal
+reviews on real estate in this state.
+D.A license or certificate holder who is on inactive status must file with the board superintendent an application for
+reactivation of the license or certificate within one hundred eighty days after
+returning home from active military duty.
+E.If the holder of an inactive license or
+certificate timely files an application for reactivation of the license or
+certificate, the license or certificate is returned to active status on the board's superintendent's approval of the application
+for reactivation.The time
+period for completion of license
+or certificate holder shall complete the continuing education
+requirements that the license or
+certificate holder would otherwise have been required to meet during the period when
+the license or certificate was on inactive status is extended for a period not to exceed within ninety days after the person's return from active
+military duty.The license or certificate holder must submit proof
+of completion of any continuing education requirements to the board
+superintendent no later than one hundred twenty days after
+completion.
+F.If the holder of an inactive license or
+certificate under this section does not make
+a timely application
+apply for reactivation as
+required by subsection D of this section, the holder must reapply for licensure
+or certification meeting all of the requirements of this chapter.
+G.A license or certificate holder who is on
+inactive status pursuant to this section remains on inactive status until the board superintendent approves the application for
+reactivation of the license or certificate.
+H.The holder of an inactive license or certificate
+applying for reactivation of the license or certificate under this section
+shall include with the application for reactivation a copy of the documentation
+from the armed forces showing the period of time that the holder of the
+inactive license or certificate was on active military duty.
+I.Any license or certificate holder who places the
+holder's license or certificate on inactive status under this section must pay
+the renewal fee prescribed in section 323607 and complete an application
+for renewal pursuant to section 323619. A license or certificate holder
+on inactive status pursuant to this section who files an application for
+reactivation is required to
+shall provide evidence of
+completion of the continuing education requirements pursuant to subsection E of
+this section.
+J.For the purposes of this section, active military
+duty does not include service persons performing weekend drill and annual
+training. END_STATUTE
+Sec.25.Section 32-3631, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-3631.Disciplinary proceedings
+A.The rights of an applicant or holder under a
+license or certificate as a registered trainee appraiser or a state licensed or
+state certified appraiser may be revoked or suspended, or the holder of the
+license or certificate may otherwise be disciplined, including being placed on
+probation as prescribed by rule, in accordance with this chapter on any of the
+grounds set forth in this section. The board superintendent may investigate
+the actions of a registered trainee appraiser or a state licensed or state
+certified appraiser in this state or in any other state and may revoke or
+suspend the rights of a license or certificate holder or otherwise discipline a
+registered trainee appraiser or a state licensed or state certified appraiser
+for any of the following acts or omissions:
+1.Procuring or attempting to procure a license or
+certificate pursuant to this chapter by knowingly making a false statement,
+submitting false information, refusing to provide complete information in
+response to a question in an application for a license or certificate or
+committing any form of fraud or misrepresentation.
+2.Failing to meet the minimum qualifications
+established by this chapter.
+3.Paying or offering to pay money or other
+considerations other than as provided by this chapter to any member or employee
+of the board department to procure a license or
+certificate under this chapter.
+4.A conviction Being convicted, including a conviction based on a plea of
+guilty, of a crime that is substantially related to the qualifications,
+functions and duties of a person developing appraisals and communicating
+appraisals to others, or a conviction for
+being convicted of any
+felony or any crime involving moral turpitude.
+5.Committing
+an act or omission involving dishonesty, fraud or
+misrepresentation with the intent to substantially benefit the license or
+certificate holder or another person or with the intent to substantially injure
+another person.
+6.Violation
+of Violating any
+of the standards of the development or communication of appraisals as provided
+in this chapter.
+7.Negligence
+or incompetence by the Being
+negligent or incompetent as a state licensed or state certified
+appraiser in developing an appraisal, in preparing an appraisal report or in
+communicating an appraisal.
+8.Wilfully disregarding or violating any of the provisions of this chapter
+or a board an order or the rules of the board rule of the superintendent for the
+administration and enforcement of this chapter.
+9.Accepting an appraisal assignment if the
+employment itself is contingent on the appraiser reporting a predetermined
+estimate, analysis or opinion or if the fee to be paid is contingent on the
+opinion, conclusion or value reached or on the consequences resulting from the
+appraisal assignment.
+10.Violating the confidential nature of any records
+to which the registered trainee appraiser or the state licensed or state
+certified appraiser gains access through employment or engagement as a
+registered trainee appraiser or an appraiser.
+11.Entry of
+Having a final civil
+judgment entered against
+the person on grounds of fraud, misrepresentation or deceit in the making of
+any appraisal.
+B.In a disciplinary proceeding based on a civil
+judgment, a registered trainee appraiser or state licensed or state certified
+appraiser shall be afforded an
+opportunity to may present
+matters in mitigation and extenuation.
+C.The board
+superintendent may issue
+subpoenas for the attendance of witnesses and the production of books, records,
+documents and other evidence necessary and relevant to an investigation or
+hearing.
+D.The lapsing or suspension of a license or
+certificate by operation of law or by an
+order or decision of the board superintendent or a court of
+law, or the voluntary surrender of a license or certificate by a license or
+certificate holder, shall not deprive the board superintendent
+of jurisdiction to do any
+either of the following
+within twenty-four months after the expiration of the license or
+certificate pursuant to section 323616:
+1.Proceed with any investigation of or action or
+disciplinary proceeding against the license or certificate holder.
+2.Render a decision suspending or revoking the
+license or certificate or denying the renewal or right of renewal of the
+license or certificate. END_STATUTE
+Sec.26.Section
+32-3632, Arizona Revised Statutes, is amended to read:
+START_STATUTE32-3632.Hearing and judicial review; civil penalties; costs and
+fees; appeal
+A.The hearing on the charges shall be at a time and
+place prescribed by the board superintendent and shall be in
+accordance with title 41, chapter 6, article 10.
+B.If the board superintendent determines that
+a state licensed or state certified appraiser is in violation of this chapter, it the superintendent shall prepare a finding of
+fact and take disciplinary or remedial action and may impose a civil penalty
+not to exceed three thousand dollars per complaint filed with the board superintendent pursuant to this chapter. All
+civil penalties collected pursuant to this subsection shall be deposited,
+pursuant to sections 35146 and 35147, in the state general fund.
+C.If a case proceeds to a formal hearing before
+either the board superintendent or the office of administrative hearings
+an administrative law judge, both
+of the following apply:
+1.If the board department sustains its burden
+of proof and prevails on the merits of the case, the board
+department may collect from the respondent applicant, registered
+trainee appraiser, appraiser or property tax agent the board's
+department's costs and expenses associated with the formal hearing,
+including reasonable attorney fees, expert testimony and preparation fees,
+investigative costs and expenses and costs incurred relating to the office of
+administrative hearings and court reporters. All monies collected pursuant to
+this paragraph shall be deposited,
+pursuant to sections 35146 and 35147, in the board of appraisal
+fund established by section 323608. Notwithstanding section 35143.01,
+these monies may be spent without legislative appropriation.
+2.If the board department does not sustain
+its burden of proof and the respondent applicant, registered trainee appraiser,
+appraiser or property tax agent prevails on the merits of the case, the
+respondent applicant, registered trainee appraiser, appraiser or property tax
+agent may collect from the board department fees and other
+costs associated with the formal hearing.
+D.Except as provided in section 411092.08,
+subsection H, any final decision or order of the board
+superintendent may be appealed to the superior court pursuant to
+title 12, chapter 7, article 6. END_STATUTE
+Sec.27.Section 32-3635, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-3635.Standards of practice; unprofessional conduct
+A.A registered trainee appraiser or a state
+licensed or state certified appraiser shall comply with the standards of
+professional appraisal practice adopted by the board
+superintendent.
+B.An appraisal or appraisal report shall not be
+issued by a real estate appraiser unless it meets the appraisal standards
+established by this chapter and rules adopted pursuant to this chapter.
+C.An appraisal review report shall clearly indicate
+the nature of the review process undertaken and shall separate the review
+function from any other functions.
+D.All federally related appraisals shall be in
+writing.
+E.Failure to pay board-imposed the fees and expenses authorized by section
+323632, subsection C is unprofessional conduct as defined by uniform standards
+of professional appraisal practice. END_STATUTE
+Sec.28.Section 32-3637, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-3637.Retention of records; definition
+A.A state licensed or state certified appraiser
+shall retain a work file for at least five years after preparation of the work
+file or at least two years after final disposition of any judicial proceeding
+in which the appraiser provided testimony related to the work file, whichever
+period of time is greater.
+B.A state licensed or state certified appraiser
+shall do either of the following:
+1.Have custody of the appraiser's work file.
+2.Make appropriate work file retention, access and
+retrieval arrangements with the party having custody of the work file.
+C.The board superintendent may inspect all
+records required to be maintained under this chapter by the state licensed or
+state certified appraiser on reasonable notice to the appraiser.
+D.For the purposes of this section, "work
+file" includes documentation that is necessary to support an appraiser's
+analyses, opinions and conclusions and that demonstrates compliance with the
+uniform standards of professional appraisal practice. END_STATUTE
+Sec.29.Section 32-3638, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-3638.Violation; classification
+Any person who performs a real estate appraisal or appraisal
+review, who is not licensed or certified under this chapter and who knowingly
+assumes or uses any title, designation or abbreviation likely to create the
+impression of licensure or certification by this state or any person who knowingly
+provides false or fraudulent information to the board
+superintendent is guilty of a class 1 misdemeanor. END_STATUTE
+Sec.30.Section 32-3639, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-3639.Damages; injunctive relief
+If the board superintendent has a
+reasonable basis to believe, after investigation, that any person is violating
+any provision of this chapter, the board superintendent may bring an
+action in superior court for appropriate injunctive or other equitable relief,
+damages sustained and taxable costs and reasonable attorney fees. END_STATUTE
+Sec.31.Section 32-3651, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-3651.Definitions
+In this article, unless the context otherwise requires:
+1."Analysis" means the review of a
+property valuation or legal classification established by a county assessor in
+the representation of a person in appealing the property valuation or legal classification to the
+county assessor.
+2."Appraisal" means the development of
+real or personal property value
+valuation or legal
+classification opinions or conclusions.
+3."Board"
+means the state board of appraisal.
+4.3."Property
+tax agent" means an individual who is designated by a person or is an
+employee of an entity designated as an agent pursuant to section 4216001,
+who acts on behalf of a person who owns, controls or possesses property valued
+by a county assessor or the department of revenue and who receives a fee for
+the analysis of any matter relating to the review of the valuation or legal
+classification of the person's property before the assessor, the county or
+state board of equalization or the department of revenue.Property
+tax agent does not include a person who is admitted to practice law in this
+state, an employee of the person owning, controlling or possessing the property
+or an employee of an entity designated pursuant to section 4216001, if
+such employee is performing a secretarial, clerical or administrative support
+function. END_STATUTE
+Sec.32.Section 32-3652, Arizona Revised Statutes,
+is amended to read:
+START_STATUTE32-3652.Registration; renewal; fees
+A.An individual who wishes to act as a property tax
+agent shall apply for registration by submitting to the board
+superintendent a completed application form prescribed by the board superintendent with the initial registration
+fee.The applicant shall also file with the board
+superintendent an affidavit stating whether the applicant has
+been convicted of a felony or any misdemeanor involving dishonesty or moral
+turpitude in this or any other state within the last ten years.The board superintendent may review the affidavit and
+issue or deny the registration based on its findings.
+B.Except as provided in section 32-4301,
+registration is valid for two years.An individual may renew a
+registration by submitting to the board superintendent a renewal form
+prescribed by the board superintendent with the
+renewal fee on or before the date the registration expires.
+C.An appraiser WHO IS licensed or certified pursuant to this
+chapter may register and renew registration as a property tax agent without
+paying the fee prescribed by this section.
+D.The board superintendent shall issue a
+certificate of registration to an individual, if the individual complies with this
+section and the individual
+is not prohibited from registering pursuant to section 323654.
+E.A person shall not act as a property tax agent if
+the person is not registered pursuant to this section.
+F.The board superintendent shall collect
+from each individual a fee of:
+1.Two hundred dollars for an initial registration.
+2.One hundred dollars for a renewal.
+3.Five dollars for a duplicate registration
+certificate.
+G.The board
+shall deposit, pursuant to sections 35146 and 35147, monies
+collected pursuant to subsection F of this section in the board of appraisal
+fund. END_STATUTE
+Sec.33.Section 32-3653, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-3653.Property tax agent conduct
+A property tax agent:
+1.Shall not knowingly misrepresent any information
+or act in a fraudulent manner.
+2.Shall not prepare documents or provide evidence
+in a property valuation or legal classification appeal unless the agent is
+authorized by the property owner to do so and any required agency authorization
+form has been filed.
+3.Shall not knowingly submit false or erroneous
+information in a property valuation or legal classification appeal.
+4.Shall use appraisal standards and methods that
+are adopted by the board superintendent when the agent
+submits appraisal information in a property valuation or legal classification
+appeal. END_STATUTE
+Sec.34.Section 32-3654, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-3654.Disciplinary actions
+A.On the complaint of any person or on its the superintendent's own motion, the board superintendent shall investigate any
+suspected violation of this article by a property tax agent. If the board superintendent finds a violation, it the
+superintendent may issue a letter of concern.
+B.If the board superintendent finds that the
+property tax agent committed any of the following violations, it the
+superintendent shall revoke or suspend the agent's registration:
+1.Secured registration by fraud or deceit.
+2.Committed an act or is responsible for an
+omission involving fraud or knowing misrepresentation with the intent to obtain
+a benefit.
+3.Knowingly violated section 323653.
+C.The board superintendent shall:
+1.Suspend the agent's registration for not less
+than six months on the first finding of a violation pursuant to subsection B of
+this section.
+2.Suspend the agent's registration for not less
+than twelve months on the second finding of a violation pursuant to subsection
+B of this section.
+3.Revoke the agent's registration on a third or
+subsequent finding of a violation pursuant to subsection B of this section.
+D.The board superintendent shall not
+impose discipline until the agent has been provided an opportunity for a
+hearing before the board superintendent pursuant to
+title 41, chapter 6, article 10. The board superintendent shall notify
+the agent of the charges and the date and time of the hearing. The notice may
+be personally served or sent by certified mail to the agent's last known
+address.Except as provided in section 411092.08, subsection
+H, the final decision of the board superintendent is subject to
+judicial review pursuant to title 12, chapter 7, article 6.
+E.The board superintendent shall not renew
+an agent's registration during the time the registration is suspended or
+revoked. END_STATUTE
+Sec.35.Section 32-3655, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-3655.Rules
+The board superintendent may adopt rules
+for the purpose of administering this article. END_STATUTE
+Sec.36.Section 32-3662, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-3662.Registration
+A.A person shall not directly or indirectly engage
+or attempt to engage in business as an appraisal management company, directly
+or indirectly perform or attempt to perform appraisal management services or
+advertise or hold itself out as engaging in or conducting business as an
+appraisal management company without first obtaining a registration issued by
+the board superintendent pursuant to this article,
+regardless of the entity's use of appraisal management company, mortgage
+technology company or any other name.
+B.A person who wishes to be registered as an
+appraisal management company in this state must file a written application with
+the board superintendent on a form prepared and
+furnished by the board superintendent and pay a fee
+in an amount to be determined by the board superintendent. The
+registration required by subsection A of
+this section shall include:
+1.The name, residence address, business address and
+telephone number of the applicant and the location of each principal office and
+branch office at which the appraisal management company will conduct business
+in this state.
+2.The name under which the applicant will conduct
+business as an appraisal management company.
+3.The name, residence address, business address and
+telephone number of each person who will have an interest in the appraisal
+management company as a principal, partner, officer, director or trustee,
+specifying the capacity and title of each person.
+4.If the person seeking registration is a
+corporation that is not domiciled in this state, the name and contact information
+for the company's agent for service of process in this state.
+5.A certification that the person seeking
+registration has a system and process in place to verify that a person being
+added to the appraiser panel for the appraisal management company's appraisal
+management services in this state holds a license or certification in good
+standing in this state.
+6.A certification that the person seeking
+registration has a system in place to review the work of all independent
+appraisers that are performing real property appraisal services for the
+appraisal management company on a periodic basis to confirm that the real
+property appraisal services are being conducted in accordance with uniform
+standards of professional appraisal practice.
+7.A certification that the person maintains a
+detailed record of each service request that it receives and the independent
+appraiser that performs the real property appraisal services for the appraisal
+management company.
+8.A certification that the person seeking registration
+has a system in place to train those who select individual appraisers for real
+property appraisal services
+in this state, to
+ensure that the selectors have appropriate training in placing appraisal
+assignments.
+9.An irrevocable consent to service of process.
+10.Any other information required by the board superintendent deemed reasonable in scope and
+content and necessary for the implementation and administration of this
+chapter. END_STATUTE
+Sec.37.Section 32-3664, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-3664.Registration forms
+An applicant for initial and renewal registration as an
+appraisal management company shall submit to the board
+superintendent an application on a form prescribed by the board superintendent. END_STATUTE
+Sec.38.Section 32-3666, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-3666.Consent to service of process
+Each entity applying for registration as an appraisal
+management company shall complete and execute an irrevocable consent to service
+of process form as prescribed by the board superintendent. END_STATUTE
+Sec.39.Section 32-3667, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-3667.Fee; bond
+A.The board superintendent shall establish
+the fee for appraisal management company registration by rule.
+B.The appraisal management company is required to shall show proof of a surety bond of at least
+twenty thousand dollars but not more than fifty thousand dollars. END_STATUTE
+Sec.40.Section 32-3668, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-3668.Owner requirements
+A.An appraisal management company applying for
+registration may not be owned by a person or have any principal of the company
+who has had any financial, real estate or mortgage lending industry license or
+certificate refused, denied, canceled, revoked or voluntarily surrendered in
+this state or in any other state. This requirement may be waived by appeal and
+at the discretion of the board superintendent.
+B.Each person that owns, is an officer of or has a
+financial interest in an appraisal management company in this state shall:
+1.Be of good moral character.
+2.Obtain a valid fingerprint clearance card issued
+pursuant to section 411758.03.
+3.Certify to the board
+superintendent that the person has never had any financial, real
+estate or mortgage lending industry license or certificate refused, denied,
+canceled, revoked or voluntarily surrendered in this state or in any other
+state. This requirement may be waived by appeal and at the discretion of the board superintendent. END_STATUTE
+Sec.41.Section 32-3669, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-3669.Controlling person
+A.Each appraisal management company applying to the
+board superintendent for registration in this state
+shall designate one controlling person that
+who will be the main
+contact for all communication between the board superintendent
+and the appraisal management company.
+B.To serve as a controlling person of an appraisal
+management company, a person shall:
+1.Certify to the board
+superintendent that the person has never had any financial, real
+estate or mortgage lending industry license or certificate issued by this
+state, or any other state, refused, denied, canceled, revoked or voluntarily
+surrendered. This requirement may be waived by appeal and at the discretion of
+the board superintendent.
+2.Be of good moral character.
+3.Obtain a valid fingerprint clearance card issued
+pursuant to section 411758.03. END_STATUTE
+Sec.42.Section 32-3671, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-3671.Agreements with independent appraisers; limitations
+An appraisal management company registered in this state
+pursuant to this article may not enter into contracts or agreements with an
+independent appraiser for the performance of real property appraisal services
+in this state unless that person is licensed or certified in good standing with
+the board superintendent. END_STATUTE
+Sec.43.Section 32-3672, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-3672.Certification on registration renewal
+A.Each
+appraisal management company seeking to
+be registered registration
+renewal in this state shall certify to the board on renewal superintendent on a form prescribed by the board superintendent all of the following:
+1.That
+the appraisal management company has a system and process in place to verify
+that a person being added to the appraiser panel of the appraisal management
+company holds a license or certificate in good standing in this state pursuant
+to the board superintendent.
+B.2.Each appraisal management company seeking to be registered in
+this state shall certify to the board on renewal That it the appraisal management company has a system
+in place to review the quality of appraisals of all independent appraisers that
+are performing real property appraisal services for the appraisal management
+company on a periodic basis to confirm that the real property appraisal
+services are being conducted in accordance with uniform standards of
+professional appraisal practice.
+C.3.Each appraisal management company seeking to be registered
+shall certify to the board on renewal That it the
+appraisal management company maintains a detailed record of each
+service request that it receives and the name of the independent appraiser that
+performs the real property appraisal services for the appraisal management
+company. An The appraisal management
+company shall maintain a detailed record for the same time period that an
+appraiser is required to maintain an appraisal record for the same real
+property appraisal activity. 
+D.4.Each appraisal management company seeking to be registered
+shall certify to the board on renewal That it the
+appraisal management company has a system in place to train those
+who select individual appraisers for real property appraisal services in this
+state, to ensure that
+the selectors have appropriate training in placing appraisal assignments. END_STATUTE
+Sec.44.Section 32-3677, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-3677.Adjudication of disputes
+A.Except within the first sixty days after an
+independent appraiser is first added to the appraiser panel of an appraisal
+management company, an appraisal management company shall not remove an
+appraiser from its appraiser panel, or otherwise refuse to assign requests for
+real property appraisal services to an independent appraiser, without notifying
+the appraiser in writing of the reasons for the appraiser being removed from
+the appraiser panel of the appraisal management company.
+B.An independent appraiser that is removed from the
+appraiser panel of an appraisal management company for alleged illegal conduct,
+a violation of the
+uniform standards of professional appraisal practice or a violation of state licensing standards may
+file a complaint with the board superintendent for a review of
+the decision of the appraisal management company, except that in no case shall the board
+superintendent may not make any determination regarding the
+nature of the business relationship between the appraiser and the appraisal
+management company that is unrelated to the actions specified in subsection A of this section.
+C.If an independent appraiser files a complaint
+against an appraisal management company pursuant to subsection B of this section, the board superintendent shall adjudicate the complaint
+within a reasonable time.
+D.If,
+after an opportunity for
+a hearing and review, the board superintendent determines that
+an independent appraiser did not commit a violation of law, a violation of the
+uniform standards of professional appraisal practice or a violation of state
+licensing standards, the board superintendent shall order
+that the appraiser be added to the appraiser panel of the appraisal management
+company that was the subject of the complaint without prejudice.The
+board superintendent shall furnish the appraisal
+management company with all written documentation and investigation records
+that support the board's superintendent's findings. END_STATUTE
+Sec.45.Section 32-3678, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-3678.Censure, suspension or revocation; civil penalty
+The board superintendent may censure an
+appraisal management company, conditionally or unconditionally suspend or
+revoke any registration issued under this article or impose civil penalties not
+to exceed fifteen thousand dollars per violation if, in the opinion of the board superintendent, an appraisal management
+company is attempting to perform, has performed or has attempted to perform any
+of the following acts:
+1.Committing any act in violation of this article.
+2.Violating any rule adopted by the board
+superintendent in the interest of the public and consistent with
+this article.
+3.Knowingly making or causing to be made to the board superintendent any false representation of
+material fact.
+4.Suppressing or withholding from the board superintendent any information that the applicant appraisal management company possesses and
+that, if submitted by the applicant appraisal management company,
+would have rendered the applicant
+appraisal management company ineligible
+to be registered pursuant to rules adopted by the board
+superintendent.
+5.Violating the federal financial institutions
+reform, recovery and enforcement act of 1989 (P.L. 101-73; 103 Stat. 183). END_STATUTE
+Sec.46.Section 32-3679, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-3679.Disciplinary hearings
+A.The board superintendent may conduct
+disciplinary proceedings in accordance with title 41, chapter 6, article 10.
+B.Before censuring any registrant, or suspending or
+revoking any registration, the board superintendent shall notify
+the registrant in writing of any charges made at least fortyfive days
+before the date set for the hearing and shall afford the registrant an
+opportunity to be heard in person or by counsel.
+C.The written notice shall be satisfied by personal
+service on the controlling person of the registrant or the registrant's agent
+for service of process in this state or by sending the notice by certified mail
+to the controlling person of the registrant to the registrant's address on file
+with the board superintendent.
+D.The hearing shall be at a time and place
+prescribed by the board superintendent. Any
+reasonable request for a delay of a hearing shall not exceed ninety days.
+E.The board superintendent may make
+findings of fact and shall deliver or mail the findings to the registrant
+charged with a violation of this article. END_STATUTE
+Sec.47.Section 32-3680, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-3680.Rulemaking authority
+The board superintendent shall adopt
+rules that are reasonably necessary to implement, administer and enforce this
+article, including rules for obtaining copies of appraisals and other documents
+necessary to audit compliance with this article and rules requiring a surety
+bond to be posted with each application. END_STATUTE
+Sec.48.Section 32-4301, Arizona Revised Statutes,
+is amended to read:
+START_STATUTE32-4301.License, certificate or registration expiration; military
+active duty; one hundred eighty day extension
+A.Except as otherwise provided in this section, a
+license, certificate or registration that
+is issued pursuant to this title to any member of the Arizona
+national guard or the United States armed forces reserves shall not expire
+while the member is serving on federal active duty and shall be extended one
+hundred eighty days after the member returns from federal active duty, provided
+that the member, or the legal representative of the member, notifies the
+license, certificate or registration issuing authority of the federal active
+duty status of the member.A license, certificate or registration
+issued pursuant to this title to any member serving in the regular component of
+the United States armed forces shall be extended one hundred eighty days from
+the date of expiration, provided that the member, or the legal representative
+of the member, notifies the license, certificate or registration issuing
+authority of the federal active duty status of the member.
+B.A license, certificate or registration issued
+pursuant to this title to any member of the Arizona national guard, the United
+States armed forces reserves or the regular component of the United States
+armed forces shall not expire and shall be extended one hundred eighty days
+from the date the military member is able to perform activities necessary under
+the license, certificate or registration if the member both:
+1.Is released from active duty service.
+2.Suffers an injury as a result of active duty
+service that temporarily prevents the member from being able to perform
+activities necessary under the license, certificate or registration.
+C.If the license, certificate or registration is
+renewed during the applicable extended time period after the member returns
+from federal active duty, the member is responsible only for normal fees and
+activities relating to renewal of the license, certificate or registration and
+shall not be charged any additional costs such as late fees or delinquency
+fees.
+D.The member, or the legal representative of the
+member, shall present to the authority issuing the license, certificate or
+registration a copy of the member's official military orders, a redacted
+military identification card or a written verification from the member's
+commanding officer before the end of the applicable extended time period in
+order to qualify for the extension.
+E.This section does not apply to licenses issued
+pursuant to chapter 10 of this title if a person other than the person who is a
+member of the Arizona national guard, the United States armed forces reserves
+or the regular component of the United States armed forces as described in
+subsection A of this section is
+authorized to renew the license.
+F.A license or certificate issued pursuant to
+chapter 36 of this title to any member of the Arizona national guard, the
+United States armed forces reserves or the regular component of the United
+States armed forces shall be placed in active status for ninety days after the
+member returns from federal active duty, provided that the member, or the legal
+representative of the member, notifies the state board of appraisal department of financial institutions of the
+federal active duty status of the member. END_STATUTE
+Sec.49.Section 41-619.51, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE41-619.51.Definitions
+In this article, unless the context otherwise requires:
+1."Agency" means the supreme court, the
+department of economic security, the department of child safety, the department
+of education, the department of health services, the department of juvenile
+corrections, the department of emergency and military affairs, the department
+of transportation, the state real estate department, the state board of appraisal department of financial institutions, the
+Arizona game and fish department,
+or the board of examiners
+of nursing care institution administrators and assisted living facility
+managers or the state board of dental
+examiners.
+2."Board"
+means the board of fingerprinting.
+3."Central
+registry exception" means notification to the department of economic
+security, the department of child safety or the department of health services,
+as appropriate, pursuant to section 41619.57 that the person is not
+disqualified because of a central registry check conducted pursuant to section
+8804.
+4."Expedited review" means an
+examination, in accordance with board rule, of the documents an applicant
+submits by the board or its hearing officer without the applicant being
+present.
+5."Good cause exception" means the
+issuance of a fingerprint clearance card to an employee pursuant to section 41619.55.
+6."Person" means a person who is required
+to be fingerprinted pursuant to this article or who is subject to a central
+registry check and any of the following:
+(a)Section 8105.
+(b)Section 8322.
+(c)Section 8463.
+(d)Section 8509.
+(e)Section 8802.
+(f)Section 8804.
+(g)Section 15183.
+(h)Section 15503.
+(i)Section 15512.
+(j)Section 15534.
+(k)Section 15763.01.
+(l)Section 15782.02.
+(m)Section 151330.
+(n)Section 151881.
+(o)Section 17215.
+(p)Section 283413.
+(q)Section 321232.
+(r)SEction
+32-1284.
+(s)Section 32-1297.01.
+(r)(t)Section
+322108.01.
+(s)(u)Section
+322123.
+(t)(v)Section
+322371.
+(u)(w)Section
+322372.
+(v)(x)Section
+323620.
+(w)(y)Section
+323668.
+(x)(z)Section
+323669.
+(y)(aa)Section
+36207.
+(z)(bb)Section
+36411.
+(aa)(cc)Section
+36425.03.
+(bb)(dd)Section
+36446.04.
+(cc)(ee)Section
+36594.01.
+(dd)(ff)Section
+36594.02.
+(ee)(gg)Section
+36882.
+(ff)(hh)Section
+36883.02.
+(gg)(ii)Section
+36897.01.
+(hh)(jj)Section
+36897.03.
+(ii)(kk)Section
+363008.
+(jj)(ll)Section
+41619.53.
+(kk)(mm)Section
+411964.
+(ll)(nn)Section
+411967.01.
+(mm)(oo)Section
+411968.
+(nn)(pp)Section
+411969.
+(oo)(qq)Section
+412814.
+(pp)(rr)Section
+46141, subsection A.
+(qq)(ss)Section
+46321. END_STATUTE
+Sec.50.Section 41-1092, Arizona Revised Statutes,
+is amended to read:
+START_STATUTE41-1092.Definitions
+In this article, unless the context otherwise requires:
+1."Administrative law judge" means an
+individual or an agency head, board or commission that sits as an
+administrative law judge, that conducts administrative hearings in a contested
+case or an appealable agency action and that makes decisions regarding the
+contested case or appealable agency action.
+2."Administrative law judge decision"
+means the findings of fact, conclusions of law and recommendations or decisions
+issued by an administrative law judge.
+3."Appealable agency action" means an
+action that determines the legal rights, duties or privileges of a party and
+that is not a contested case.Appealable agency actions do not
+include interim orders by selfsupporting regulatory boards, rules,
+orders, standards or statements of policy of general application issued by an
+administrative agency to implement, interpret or make specific the legislation
+enforced or administered by it or clarifications of interpretation, nor does it
+mean or include rules concerning the internal management of the agency that do
+not affect private rights or interests. For the purposes of this paragraph,
+administrative hearing does not include a public hearing held for the purpose
+of receiving public comment on a proposed agency action.
+4."Director" means the director of the
+office of administrative hearings.
+5."Final administrative decision" means a
+decision by an agency that is subject to judicial review pursuant to title 12,
+chapter 7, article 6.
+6."Office" means the office of
+administrative hearings.
+7."Selfsupporting regulatory
+board" means any one of the following:
+(a)The Arizona state board of accountancy.
+(b)The state
+board of appraisal.
+(c)(b)The board of barbers.
+(d)(c)The board of behavioral health
+examiners.
+(e)(d)The Arizona state boxing and
+mixed martial arts commission.
+(f)(e)The state board of chiropractic
+examiners.
+(g)(f)The board of cosmetology.
+(h)(g)The state board of dental
+examiners.
+(i)(h)The state board of funeral
+directors and embalmers.
+(j)(i)The Arizona game and fish
+commission.
+(k)(j)The board of homeopathic and
+integrated medicine examiners.
+(l)(k)The Arizona medical board.
+(m)(l)The naturopathic physicians
+medical board.
+(n)(m)The state board of nursing.
+(o)(n)The board of examiners of nursing
+care institution administrators and adult care home managers.
+(p)(o)The board of occupational therapy
+examiners.
+(q)(p)The state board of dispensing
+opticians.
+(r)(q)The state board of optometry.
+(s)(r)The Arizona board of osteopathic
+examiners in medicine and surgery.
+(t)(s)The Arizona peace officer
+standards and training board.
+(u)(t)The Arizona state board of
+pharmacy.
+(v)(u)The board of physical therapy.
+(w)(v)The state board of podiatry
+examiners.
+(x)(w)The state board for private
+postsecondary education.
+(y)(x)The state board of psychologist
+examiners.
+(z)(y)The board of respiratory care
+examiners.
+(aa)(z)The office of pest management.
+(bb)(aa)The state board of technical
+registration.
+(cc)(bb)The Arizona state veterinary
+medical examining board.
+(dd)(cc)The acupuncture board of examiners.
+(ee)(dd)The Arizona regulatory board of
+physician assistants.
+(ff)(ee)The board of athletic training.
+(gg)(ff)The board of massage therapy. END_STATUTE
+Sec.51.Section 41-1758, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE41-1758.Definitions
+In this article, unless the context
+otherwise requires:
+1."Agency"
+means the supreme court, the department of economic security, the department of
+child safety, the department of education, the department of health services,
+the department of juvenile corrections, the department of emergency and
+military affairs, the department of transportation, the state real estate
+department, the state board of appraisal department of financial institutions,
+the board of fingerprinting, the Arizona game and fish department, or the board of examiners of nursing care
+institution administrators and assisted living facility managers or the state board of dental examiners.
+2."Division"
+means the fingerprinting division in the department of public safety.
+3."Electronic or
+internet-based fingerprinting services" means a secure system for
+digitizing applicant fingerprints and transmitting the applicant data and
+fingerprints of a person or entity submitting fingerprints to the department of
+public safety for any authorized purpose under this title. For the purposes of
+this paragraph, "secure system" means a system that complies with the
+information technology security policy approved by the department of public
+safety.
+4."Good cause
+exception" means the issuance of a fingerprint clearance card to an
+applicant pursuant to section 41619.55.
+5."Person"
+means a person who is required to be fingerprinted pursuant to any of the
+following:
+(a)Section 8105.
+(b)Section 8322.
+(c)Section 8463.
+(d)Section 8509.
+(e)Section 8802.
+(f)Section 15183.
+(g)Section 15503.
+(h)Section 15512.
+(i)Section 15534.
+(j)Section 15763.01.
+(k)Section 15782.02.
+(l)Section 151330.
+(m)Section 151881.
+(n)Section
+17215.
+(o)Section 28-3413.
+(p)Section 321232.
+(q)Section
+32-1284.
+(r)Section 32-1297.01.
+(q)(s)Section 322108.01.
+(r)(t)Section 322123.
+(s)(u)Section 322371.
+(t)(v)Section 322372.
+(u)(w)Section 323620.
+(v)(x)Section 323668.
+(w)(y)Section 323669.
+(x)(z)Section 36207.
+(y)(aa)Section 36411.
+(z)(bb)Section 36425.03.
+(aa)(cc)Section 36446.04.
+(bb)(dd)Section 36594.01.
+(cc)(ee)Section 36594.02.
+(dd)(ff)Section 36882.
+(ee)(gg)Section 36883.02.
+(ff)(hh)Section 36897.01.
+(gg)(ii)Section 36897.03.
+(hh)(jj)Section 363008.
+(ii)(kk)Section 41619.52.
+(jj)(ll)Section 41619.53.
+(kk)(mm)Section 411964.
+(ll)(nn)Section 411967.01.
+(mm)(oo)Section 411968.
+(nn)(pp)Section 411969.
+(oo)(qq)Section 412814.
+(pp)(rr)Section 46141,
+subsection A.
+(qq)(ss)Section 46321.
+6."Vulnerable
+adult" has the same meaning prescribed in section 133623. END_STATUTE
+Sec.52.Section 41-3024.03, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE41-3024.03.Department of financial institutions;
+termination July 1, 2024
+A.The department of financial institutions
+terminates on July 1, 2024.
+B.Title 6 is
+and Title 32, chapter 36 are repealed
+on January 1, 2025. END_STATUTE
+

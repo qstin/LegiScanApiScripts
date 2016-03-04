@@ -1,0 +1,267 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: biological products; prescription orders
+
+
+
+
+
+
+
+State of Arizona
+House of Representatives
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+HB 2310
+
+
+
+
+
+
+
+
+
+Introduced by
+Representatives
+  Cobb, Coleman, Senators Meza, Yee: Representatives Borrelli, Boyer, Brophy
+  McGee, Carter, Clark, Finchem, Friese, Lawrence, Meyer, Shope, Weninger,
+  Senators Begay, Dial, Hobbs, Shooter
+
+
+
+
+
+AN ACT
+
+Amending sections
+23908 and 321963.01, Arizona Revised Statutes; relating to
+biological products.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 23-908, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE23-908.Injury reports by employer and physician; schedule of
+fees; violation; classification
+A.Every employer that is affected by this chapter,
+and every physician who attends an injured employee of such employer, shall
+file with the commission and the employer's insurance carrier from time to time
+a full and complete report of every known injury to the employee arising out of
+or in the course of employment and resulting in loss of life or injury. Such a
+report shall be furnished to the commission and the insurance carrier at times and
+in the form and detail the commission prescribes, and the report shall make
+special answers to all questions required by the commission under its rules.
+B.The commission shall fix a schedule of fees to be
+charged by physicians, physical therapists or occupational therapists attending
+injured employees and, subject to subsection C of this section, for
+prescription medicines required to treat an injured employee under this
+chapter.The commission shall annually review the schedule of fees.
+C.If a schedule of fees for prescription medicines
+adopted pursuant to subsection B of this section includes provisions regarding
+the use of generic equivalent drugs or
+interchangeable biological products, those provisions shall
+comply with section 321963.01, subsections A, B and C D through J
+L. If the commission considers the adoption of fee schedule
+provisions that involve specific prices, values or reimbursements for
+prescription drugs, the commission shall base the adoption on studies or
+practices that are validated and accepted in the industry, including the
+applicability of formulas that use average wholesale price, plus a dispensing
+fee, and that have been made publicly available for at least one hundred eighty
+days before any hearing conducted by the commission.
+D.Notwithstanding section 122235,
+information obtained by any physician or surgeon examining or treating an
+injured person shall not be considered a privileged communication, if that
+information is requested by interested parties for a proper understanding of
+the case and a determination of the rights involved.Hospital
+records of an employee concerning an industrial claim shall not be considered
+privileged if requested by an interested party in order to determine the rights
+involved.Medical information from any source pertaining to
+conditions unrelated to the pending industrial claim shall remain privileged.
+E.When an accident occurs to an employee, the
+employee shall forthwith report the accident and the injury resulting therefrom
+to the employer, and any physician employed by the injured employee shall
+forthwith report the accident and the injury resulting therefrom to the
+employer, the insurance carrier and the commission.
+F.When an accident occurs to an employee, the
+employer may designate in writing a physician chosen by the employer, who shall
+be permitted by the employee, or any person in charge of the employee, to make
+one examination of the injured employee in order to ascertain the character and
+extent of the injury occasioned by the accident. The physician so chosen shall
+forthwith report to the employer, the insurance carrier and the commission the
+character and extent of the injury as ascertained
+by him the physician
+ascertains.If the accident is not reported by the
+employee or his the employee's physician
+forthwith, as required, or if the injured employee or those in charge of him the employee refuse to permit the employer's
+physician to make the examination, and the injured employee is a party to the
+refusal, no compensation shall be paid for the injury claimed to have resulted
+from the accident.The commission may relieve the injured person or his that person's dependents from the loss or
+forfeiture of compensation if it believes after investigation that the
+circumstances attending the failure on the part of the employee or his physician to report the
+accident and injury are such as to have excused them.
+G.Within ten days after receiving notice of an
+accident, the employer shall inform the insurance carrier and the commission on
+such forms and in such manner as may be prescribed by the commission.
+H.Immediately on notice to the employer of an
+accident resulting in an injury to an employee, the employer shall provide the
+employee with the name and address of the employer's insurance carrier, the
+policy number and the expiration date.
+I.Any person failing or refusing to comply with
+this section is guilty of a petty offense. END_STATUTE
+Sec.2.Section 32-1963.01, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-1963.01.Substitution for prescription drugs or biological
+products; requirements; label; definitions
+A.If a medical practitioner prescribes a brand name
+drug and does not indicate an intent to prevent substitution as prescribed in
+subsection D E of this section, a
+pharmacist may fill the prescription with a generic equivalent drug.
+B.A
+pharmacist may substitute a biological product for a prescribed biological
+product only if all of the following conditions are met:
+1.The
+United States food and drug administration has determined the substituted
+product to be an interchangeable biological product.
+2.The
+prescribing physician does not designate in writing or electronically that
+substitution is prohibited in a manner pursuant to subsection E of this
+section.
+3.The
+pharmacy informs the patient or person presenting the prescription of the
+substitution pursuant to subsection C of this section.
+4.Within
+five business days after dispensing a biological product, the dispensing
+pharmacist or the pharmacist's designee makes an entry of the specific product
+provided to the patient, including the name of the product and the
+manufacturer. The communication shall be conveyed by making an entry that is
+electronically accessible to the prescriber through an interoperable electronic
+medical records system, an electronic prescribing technology, a pharmacy
+benefit management system, or a pharmacy record.Entry into an electronic
+records system as described in this paragraph is presumed to provide notice to
+the prescriber. Otherwise, the pharmacist shall communicate the biological
+product dispensed to the prescriber using fax, telephone, electronic
+transmission or other prevailing means, except that communication is not
+required if one of the following applies:
+(a)There is no interchangeable
+biological product approved by the United States food and drug administration
+for the product prescribed.
+(b)A refill prescription is not
+changed from the product dispensed on the prior filling of the prescription.
+5.The
+pharmacy retains a record of the biological product dispensed pursuant to
+section 321964, subsection A.
+B.C.Any
+pharmacy personnel shall notify the person presenting the prescription of the
+amount of the price difference between the brand name drug or biological product prescribed and the
+generic equivalent drug or
+interchangeable biological product, if both of the following
+apply:
+1.The medical practitioner does not indicate an
+intent to prevent substitution with a generic equivalent drug or interchangeable biological product.
+2.The transaction is not subject to third-party
+reimbursement.
+C.D.The
+pharmacist shall place on the container the name of the drug or biological product dispensed followed by
+the words "generic equivalent for" or "interchangeable biological product for"
+followed by the brand or trade name of the product that is being replaced by
+the generic equivalent drug or
+interchangeable biological product.The pharmacist
+shall include the brand or trade name on the container or label of any contact
+lenses dispensed pursuant to this chapter.
+D.E.A
+prescription generated in this state must be dispensed as written only if the
+prescriber writes or clearly displays "DAW", "dispense as
+written", "do not substitute",
+or "medically necessary" or any statement by the
+prescriber that clearly indicates an intent to prevent substitution on the face
+of the prescription form.A prescription from out of state or from
+agencies of the United States government must be dispensed as written only if
+the prescriber writes or clearly displays "do not substitute",
+"dispense as written" or "medically necessary" or any
+statement by the prescriber that clearly indicates an intent to prevent
+substitution on the face of the prescription form.
+E.F.This
+section applies to all prescriptions, including those presented by or on behalf
+of persons receiving state or federal assistance payments.
+F.G.An
+employer or agent of an employer of a pharmacist shall not require the
+pharmacist to dispense any specific generic equivalent drug or interchangeable biological product or to substitute any specific
+generic equivalent drug or
+interchangeable biological product for a brand name drug or biological product against
+the professional judgment of the pharmacist or the order of the prescriber.
+G.H.The
+liability of a pharmacist in substituting according to this section shall be is no greater than that which is incurred in the filling of a
+generically written prescription. This subsection does not limit or diminish
+the responsibility for the strength, purity or quality of drugs provided in
+section 321963. The failure of a prescriber to specify that no
+substitution is authorized does not constitute evidence of negligence.
+H.I.A
+pharmacist may not make a substitution pursuant to this section unless the
+manufacturer or distributor of the generic equivalent drug or interchangeable biological product has
+shown that:
+1.All products dispensed have an expiration date on
+the original package.
+2.The manufacturer or distributor maintains recall
+and return capabilities for unsafe or defective drugs or biological products.
+J.The board
+shall maintain on its public website a link to the current list of each
+biological product determined by the United States food and drug administration
+to be an interchangeable biological product.
+I.K.The
+labeling and oral notification requirements of this section do not apply to
+pharmacies serving patients in a health care institution as defined in section
+36401. However, in order for this exemption to apply to hospitals, the
+hospital must have a formulary to which all medical practitioners of that
+hospital have agreed and that is available for inspection by the board.
+J.L.For
+the purposes of this section:
+1."Biological
+product" has the same meaning prescribed in 42 United States Code section
+262.
+1.2."Brand
+name drug" means a drug with a proprietary name assigned to it by the
+manufacturer or distributor.
+2.3."Formulary"
+means a list of medicinal drugs.
+3.4."Generic
+equivalent" or "generically equivalent" means a drug that has an
+identical amount of the same active chemical ingredients in the same dosage
+form, that meets applicable standards of strength, quality and purity according
+to the United States pharmacopeia or other nationally recognized compendium and
+that, if administered in the same amounts, will provide comparable therapeutic
+effects. Generic equivalent or generically equivalent does not include a drug
+that is listed by the federal united states food and drug
+administration as having unresolved bioequivalence concerns according to the
+administration's most recent publication of approved drug products with
+therapeutic equivalence evaluations.
+5."Interchangeable biological product"
+means a biological product that either:
+(a)The
+United States food and drug administration has licensed and determined meets
+the safety standards for determining interchangeability pursuant to 42 United
+States Code section 262(k)(4).
+(b)Is determined to be
+therapeutically equivalent as set forth in the latest edition of the supplement
+to the United States food and drug administration's approved drug products with
+therapeutic equivalence evaluations. END_STATUTE
+

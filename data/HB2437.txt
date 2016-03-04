@@ -1,0 +1,254 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: department of education; technology;
+  reports
+
+
+
+
+
+
+
+State of Arizona
+House of Representatives
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+HB 2437
+
+
+
+
+
+
+
+
+
+Introduced by
+Representative
+  Stevens
+
+
+
+
+
+AN ACT
+
+amending sections
+15249 and 15249.01, Arizona Revised Statutes; relating to the
+department of education.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 15-249, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE15-249.Department of education; education learning and
+accountability system; reports; reviews
+A.Subject to the appropriation of state monies, or the receipt of federal monies, private
+donations or grants from any lawful public or private source for this purpose,
+the department of education, in coordination with the data governance
+commission established by section 15249.01, shall develop and implement
+the education learning and accountability system to collect, compile, maintain
+and report student level data for students attending public educational
+institutions that provide instruction to pupils in preschool programs,
+kindergarten programs, grades one through twelve and postsecondary educational
+programs in this state. 
+B.The education learning and accountability system
+shall:
+1.Maintain longitudinal, student level data,
+including student demographic, grade level, assessment, teacher assignment and
+other data required to meet state and federal reporting requirements.
+2.Incorporate the student accountability
+information system prescribed in chapter 9, article 8 of this title.
+3.Be accessible through commonly used internet web
+browsers to carry out the data collection, compilation and reporting duties
+prescribed in this title.
+C.The department of education may contract with a
+third party to carry out the purposes of this section.
+D.The department of education, in coordination with
+the data governance commission, shall develop a detailed plan to develop and
+implement the education learning and accountability system.
+E.The department of education shall present the
+plan developed pursuant to subsection D of this section to the state board of
+education for review and approval. The department of education shall continue
+to provide quarterly
+reports to the state board of education, or
+on request, for review and approval of
+the state board of education, on the development and
+implementation of the education learning and accountability system. All
+reports provided shall include progress and
+expenditures to date, timelines and cost estimates for completion.
+F.Any contract awarded pursuant to subsection C of
+this section shall allow the superintendent of public instruction to renew the
+contracts for two subsequent periods of not more than three years each and
+shall prescribe the circumstances under which the superintendent of public
+instruction may terminate the contracts. The contracts shall allow this state
+to cancel any contract at any time after the first year of operation, without
+penalty to this state, on ninety days' written notice and shall require the
+contractor to be in compliance at all times with state and federal law.
+G.Any contract awarded pursuant to subsection C of
+this section may provide for annual contract price or cost adjustments, except
+that any adjustments may be made only once each year effective on the
+anniversary of the contract's effective date. Any adjustment made pursuant to
+the terms of the contract must be applied to the total payments made to the
+contractor for the previous contract year and shall not exceed the percentage
+change in the average consumer price index as published by the United States
+department of labor, bureau of labor statistics between that figure for the
+latest calendar year and the next previous calendar year. Any price or cost
+adjustments that are different than those authorized in this subsection may be
+made only if the legislature specifically authorizes the adjustments and
+appropriates monies for that purpose, if required.
+H.The superintendent of public instruction shall
+not award a contract pursuant to this section unless:
+1.The superintendent of public instruction receives
+an acceptable proposal pursuant to any request for proposals. For the purposes
+of this paragraph, "acceptable proposal" means a proposal that
+substantially meets all of the requirements or conditions prescribed in this
+section and in the request for proposals.
+2.The proposal offers a level and quality of
+services that equal or exceed the services that would be provided by this
+state.
+3.The contractor provides audited financial
+statements for the previous five years, or for each year that the contractor
+has been in operation if fewer than five years, and provides other financial
+information as requested.
+I.The sovereign immunity of this state does not
+apply to any contractor who is a party to any contract pursuant to this
+section. The contractor or any agent of the contractor may not plead the
+defense of sovereign immunity in any action arising out of the performance of
+the contract.
+J.The terms of any contract pursuant to this
+section are subject to review by the joint legislative budget committee before
+placement of any advertisement that solicits a response to a request for
+proposals. Any proposed modification or amendment to the contract is subject
+to prior review by the joint legislative budget committee.
+K.During the first year of operation under a
+contract executed pursuant to this section, the contracting entity shall submit
+monthly reports to the department of education as prescribed by the
+department. After the first year of operation under the contract, the
+contracting entity shall submit quarterly reports to the department as
+prescribed by the department.
+L.At the end of the second year of a contract
+executed pursuant to this section, an independent evaluator selected by the
+superintendent of public instruction shall conduct and complete a performance
+review to determine if the contracting entity has met the goals specified in
+the contract. The independent evaluator shall submit a report of the
+independent evaluator's findings to the governor, the president of the senate
+and the speaker of the house of representatives on or before May 1, and shall
+provide a copy of this report to the secretary of state. END_STATUTE
+Sec.2.Section 15-249.01, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE15-249.01.Data governance commission; membership; terms; duties;
+commission termination
+A.The data governance commission is established in
+the department of education consisting of:
+1.The chief technology managers, or the managers'
+designees, of each of the universities under the jurisdiction of the Arizona
+board of regents.
+2.The chief technology manager, or the manager's
+designee, of a community college district located in a county with a population
+of eight hundred thousand persons or more who has expertise in technology and
+who is appointed by the governor.
+3.The chief technology manager, or the manager's
+designee, of a community college district located in a county with a population
+of less than eight hundred thousand persons who has expertise in technology and
+who is appointed by the governor.
+4.The chief executive officer of the Arizona early
+childhood development and health board or the chief executive officer's
+designee.
+5.An officer or employee of a school district
+located in a county with a population of eight hundred thousand persons or more
+who has expertise in technology and who is appointed by the governor.
+6.An officer or employee of a school district
+located in a county with a population of less than eight hundred thousand
+persons who has expertise in technology and who is appointed by the governor.
+7.An officer or employee of a charter school
+located in a county with a population of eight hundred thousand persons or more
+who has expertise in technology and who is appointed by the president of the
+senate.
+8.An officer or employee of a charter school
+located in a county with a population of less than eight hundred thousand
+persons who has expertise in technology and who is appointed by the speaker of
+the house of representatives.
+9.Two representatives of the business community,
+one of whom is appointed by the president of the senate and one of whom is
+appointed by the speaker of the house of representatives.
+10.The director of the department of administration
+or the director's designee.
+11.The superintendent of public instruction or the
+superintendent's designee.
+B.The initial appointed members shall assign
+themselves by lot to terms of two, three and four years in
+office.All subsequent appointed members of the commission shall
+serve fouryear terms. The chairperson shall notify the governor, the
+speaker of the house of representatives and the president of the senate on
+appointments of these terms.Members of the commission shall elect a
+chairperson from among the members of the commission. Members of the
+commission shall not receive compensation. The department of education shall
+provide adequate staff support for the commission.
+C.The commission shall identify, examine and
+evaluate the needs of public institutions that provide instruction to pupils in
+preschool programs, kindergarten programs, grades one through twelve and
+postsecondary programs in Arizona and shall:
+1.Establish
+guidelines related to the following:
+(a)Managed data
+access.
+(b)Technology.
+(c)Privacy and security.
+(d)Adequacy of training.
+(e)Adequacy of data model implementation.
+(f)Prioritization of funding opportunities.
+(g)Resolution of data conflicts.
+(h)The form and format of data elements that are
+required for state and federal reporting and interagency data sharing.
+2.Provide
+recommendations on technology spending.
+3.2.Provide analyses
+and recommendations of the following:
+(a)The control of data confidentiality and data
+security for stored data and data in transmission.
+(b)Access privileges and access management.
+(c)Data audit management, including data quality
+metrics, sanctions and incentives for data quality improvement.
+(d)Data standards for stored data and data in
+transmission, including rules for definition, format, source, provenance,
+element level and contextual integrity.
+(e)Documentation standards for data elements and
+systems components.
+(f)Data archival and retrieval management systems,
+including change control and change tracking.
+(g)Publication of standard and ad hoc reports for
+state and local level use on student achievement.
+(h)Publication of implementation timelines and
+progress.
+4.3.Ensure that the
+guidelines and recommendations adopted pursuant to this subsection reduce
+duplication and administrative requirements for public schools, postsecondary
+institutions and public agencies.
+5.4.Submit an annual
+report on or before December 1 regarding the commission's activities to the
+governor, the speaker of the house of representatives and the president of the
+senate.The data governance commission shall provide copies of this
+report to the secretary of state.
+D.The commission established by this section ends
+on July 1, 2020 pursuant to section 413103. END_STATUTE
+

@@ -1,0 +1,240 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: mental health services; information
+  disclosure
+
+
+
+
+
+
+
+State of Arizona
+Senate
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+SB 1442
+
+
+
+
+
+
+
+
+
+Introduced by
+Senator
+  Barto
+
+
+
+
+
+AN ACT
+
+Amending section
+36509, Arizona Revised Statutes; relating to mental health services.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 36-509, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE36-509.Confidential records; immunity
+A.A health care entity must keep records and
+information contained in records confidential and not as public records, except
+as provided in this section.Records and information contained in
+records may only be disclosed to:
+1.Physicians and providers of health, mental health
+or social and welfare services involved in caring for, treating or
+rehabilitating the patient.
+2.Individuals to whom the patient or the patient's
+health care decision maker has given authorization to have information
+disclosed.
+3.Persons authorized by a court order.
+4.Persons doing research only if the activity is
+conducted pursuant to applicable federal or state laws and regulations
+governing research.
+5.The state department of corrections in cases in
+which prisoners confined to the state prison are patients in the state hospital
+on authorized transfers either by voluntary admission or by order of the court.
+6.Governmental or law enforcement agencies if
+necessary to:
+(a)Secure the return of a patient who is on
+unauthorized absence from any agency where the patient was undergoing
+evaluation and treatment.
+(b)Report a crime on the premises.
+(c)Avert a serious and imminent threat to an
+individual or the public.
+7.Persons, including family members, actively participating friends or others involved in the patient's
+care, treatment or supervision.A health care provider may only release information relating
+to the patient's diagnosis, prognosis, need for hospitalization, anticipated
+length of stay, discharge plan, medication, medication side effects and shortterm
+and longterm treatment goals.A health care provider may make
+this release only after the treating professional or that person's designee
+interviews the patient or the patient's health care decision maker and the
+patient or the patient's health care decision maker does not object, unless
+federal or state law permits the disclosure.If the patient does not
+have the opportunity to object to the disclosure because of incapacity or an
+emergency circumstance and the patient's health care decision maker is not
+available to object to the release, the health care provider in the exercise of
+professional judgment may determine if the disclosure is in the best interests
+of the patient and, if so, may release the information authorized pursuant to
+this paragraph.A decision to release or withhold information is
+subject to review pursuant to section 36517.01.The health
+care provider must record the name of any person to whom any information is
+given under this paragraph. A release of information under this paragraph must meet the requirements
+prescribed in subsection B of this section and does not include information
+related to substance abuse treatment records or psychotherapy notes.
+8.A state agency that licenses health professionals
+pursuant to title 32, chapter 13, 15, 17, 19.1 or 33 and that requires these
+records in the course of investigating complaints of professional negligence,
+incompetence or lack of clinical judgment.
+9.A state or federal agency that licenses health
+care providers.
+10.A governmental agency or a competent
+professional, as defined in section 363701, in order to comply with
+chapter 37 of this title.
+11.Human rights committees established pursuant to
+title 41, chapter35. Any information released pursuant to this paragraph
+shall comply with the requirements of section 413804 and applicable
+federal law and shall be released without personally identifiable information
+unless the personally identifiable information is required for the official
+purposes of the human rights committee.Case information received by
+a human rights committee shall be maintained as confidential.For
+the purposes of this paragraph, "personally identifiable information"
+includes a person's name, address, date of birth, social security number,
+tribal enrollment number, telephone or telefacsimile number, driver license
+number, places of employment, school identification number and military
+identification number or any other distinguishing characteristic that tends to
+identify a particular person.
+12.A patient or the patient's health care decision
+maker pursuant to section 36507.
+13.The department of public safety or another law
+enforcement agency by the court to comply with the requirements of section 36540,
+subsections O and P.
+14.A third
+party thirdparty
+payor or the payor's contractor as permitted by the health insurance
+portability and accountability act privacy standards, 45 Code of Federal
+Regulations part 160 and part 164, subpart E.
+15.A private entity that accredits the health care
+provider and with whom the health care provider has an agreement requiring the
+agency to protect the confidentiality of patient information.
+16.The legal representative of a health care entity
+in possession of the record for the purpose of securing legal advice.
+17.A person or entity as otherwise required by
+state or federal law.
+18.A person or entity as permitted by the federal
+regulations on alcohol and drug abuse treatment (42 Code of Federal Regulations
+part 2).
+19.A person or entity to conduct utilization
+review, peer review and quality assurance pursuant to section 36441, 36445,
+362402 or 362917.
+20.A person maintaining health statistics for
+public health purposes as authorized by law.
+21.A grand jury as directed by subpoena.
+22.A person or entity that provides services to the
+patient's health care provider, as defined in section 122291, and with
+whom the health care provider has a business associate agreement that requires
+the person or entity to protect the confidentiality of patient information as
+required by the health insurance portability and accountability act privacy
+standards, 45 Code of Federal Regulations part 164, subpart E.
+B.The
+requirements for the release of information by a health care provider or health
+care entity pursuant to subsection A, paragraph 7 of this section are as
+follows:
+1.If it is
+determined that the patient is capable of agreeing to the sharing of the
+information and if, after the health care provider discusses the requested
+release with the patient, the patient consents, the information shall be
+released.
+2.If the
+patient is determined to be capable of agreeing but is unable to communicate
+consent, or if the patient has been given the opportunity to object and does
+not express an objection, the treating health care provider, based on
+professional judgment, may infer from the circumstances that the patient does
+not object to the disclosure and shall record the circumstances relied on to
+make this inference in the patient's medical record.
+3.If the
+patient has a health care decision maker who provides documentation of that
+person's authority to act as a health care decision maker, the health care
+provider or health care entity may rely on the consent of the health care
+decision maker. The health care provider or health care entity may rely on the
+documentation provided by the health care decision maker unless there is a
+reason to believe the authority is not valid or has been revoked.
+4.If the
+patient is not present or if the opportunity to agree or object to the use or
+disclosure of information cannot practicably be provided because of the
+patient's incapacity or an emergency circumstance, the health care provider or
+health care entity may release the information requested if the provider or
+entity determines that the release of the requested information is in the best
+interest of the patient and, if so, shall disclose only the protected
+information that is directly relevant to the persons involvement with the
+patient's health care.In determining whether the release of
+information is in the best interest of the patient, the health care provider or
+health care entity shall consider both of the following:
+(a)The patient's medical and
+treatment history, including the patient's history of compliance or
+noncompliance with an established treatment plan based on information in the
+patient's medical records and on reliable and relevant information received
+from the patient's family members, friends or others involved in the patient's
+care, treatment and supervision. If a family member, friend or caregiver is
+available, the health care provider or health care entity, if possible, shall
+include any information offered by the family, friend or caregiver before
+providing treatment. 
+(b)Whether the information is
+necessary or, based on professional judgment, would be useful in assisting the
+patient in complying with the care, treatment or supervision prescribed in the
+patient's treatment plan.
+5.The
+information shall be released if permitted or required by federal or state law.
+6.A health
+care provider or health care entity shall keep a record of the name and contact
+information of any person to whom any patient information is released.
+7.A health
+care provider or health care entity shall inform any individual, including the
+patient, who is affected by the decision to release or withhold information of
+the right to have the decision reviewed pursuant to section 36517.01.
+B.C.Information
+and records obtained in the course of evaluation, examination or treatment and
+submitted in any court proceeding pursuant to this chapter or title 14, chapter
+5 are confidential and are not public records unless the hearing requirements
+of this chapter or title 14, chapter 5 require a different procedure.
+Information and records that are obtained pursuant to this section and
+submitted in a court proceeding pursuant to title 14, chapter 5 and that are
+not clearly identified by the parties as confidential and segregated from
+nonconfidential information and records are considered public records. 
+C.d.Notwithstanding
+subsections A, and B and C of this section, the legal
+representative of a patient who is the subject of a proceeding conducted
+pursuant to this chapter and title 14, chapter 5 has access to the patient's
+information and records in the possession of a health care entity or filed with
+the court.
+D.E.A
+health care entity that acts in good faith under this article is not liable for
+damages in any civil action for the disclosure of records or payment records
+that is made pursuant to this article or as otherwise provided by
+law.The health care entity is presumed to have acted in good
+faith.This presumption may be rebutted by clear and convincing
+evidence. END_STATUTE
+

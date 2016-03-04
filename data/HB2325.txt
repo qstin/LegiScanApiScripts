@@ -1,0 +1,330 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: environment; water quality amendments
+
+
+
+
+
+
+
+State of Arizona
+House of Representatives
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+HB 2325
+
+
+
+
+
+
+
+
+
+Introduced by
+Representatives
+  Pratt: Bowers, Shope
+
+
+
+
+
+AN ACT
+
+amending sections
+49-210, 49-352, 49-353 and 49-361, Arizona Revised Statutes; relating to water
+quality control.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 49-210, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE49-210.Water quality fee fund; appropriation; exemption; monies
+held in trust
+A.The water quality fee fund is established
+consisting of monies appropriated by the legislature and fees received pursuant
+to sections 49104, 49203, 49241, 49-241.02, 49242, 49255.01, 49332, and 49-352,
+49353 and 49-361.
+The director shall administer the fund.
+B.Monies in the fund are subject to annual
+legislative appropriation to the department for water quality programs. Monies
+in the fund are exempt from the provisions of section 35190 relating to
+lapsing of appropriations.
+C.On notice from the director, the state treasurer
+shall invest and divest monies in the fund as provided by section 35313,
+and monies earned from investment shall be credited to the fund.
+D.Monies in the water quality fee fund shall be
+used for the following purposes:
+1.The issuance of aquifer protection permits
+pursuant to section 49241.
+2.The aquifer protection permit registration fee
+procedures pursuant to section 49242.
+3.Dry well registration fee procedures pursuant to
+section 49332.
+4.Technical review fee procedures pursuant to
+section 49353.
+5.Inspection fee procedures pursuant to section 49104,
+subsection C.
+6.The issuance of permits under the Arizona
+pollutant discharge elimination system program pursuant to section 49-255.01.
+7.Operator
+certification pursuant to sections 49-352 and 49-361.
+E.Any fee, assessment or other levy that is authorized
+by law or administrative rule and that is collected and deposited in the water
+quality fee fund shall be held in trust. The monies in the fund may be used
+only for the purposes prescribed by statute and shall not be appropriated or
+transferred by the legislature to fund the general operations of this state or
+to otherwise meet the obligations of the general fund of this state. This
+subsection does not apply to any taxes or other levies that are imposed
+pursuant to title 42 or 43. END_STATUTE
+Sec.2.Section 49-352, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE49-352.Classifying systems and certifying personnel; limitation
+A.The department shall establish and enforce rules
+for the classification of systems for potable water and certifying operating
+personnel according to the skill, knowledge and experience necessary within the
+classification.The rules shall also provide that operating personnel
+may be certified on the basis of training and supervision at the place of
+employment.The department may assess and collect reasonable
+certification fees to reimburse the cost of certification services, which shall
+be deposited in the state general
+water quality fee fund established by section 49-210.Such
+rules apply to all public water systems involved in the collection, storage,
+treatment or distribution of potable water.The rules do not apply
+to systems that are not public water systems, including irrigation, industrial or similar
+systems where the water is used for nonpotable purposes.
+B.For the purposes of this article:
+1.A public water system is a water system that:
+(a)Provides water for human consumption through
+pipes or other constructed conveyances.
+(b)Has at least fifteen service connections or
+regularly serves an average of at least twentyfive persons daily for at
+least sixty days a year.
+2.A public water system as described in paragraph
+1, subdivisions (a) and (b) of this subsection
+includes any collection, treatment, storage and distribution
+facilities that are under the control of the operator of a public water system
+and that are used primarily in connection with the system and any collection or
+pretreatment storage facilities that are not under the control of the operator
+of a public water system and that are used primarily in connection with a
+public water system.
+3.A service connection does not include a
+connection to a system that delivers water by a constructed conveyance other
+than a pipe, if any of the following applies:
+(a)The water is used exclusively for purposes other
+than residential uses consisting of drinking, cooking or bathing or other
+similar uses.
+(b)The department determines that alternative water
+is provided for residential or similar uses for drinking and cooking and that
+the water achieves a level of public health protection that is equivalent to
+the applicable national primary drinking water regulations.
+(c)The department determines that the water that is
+provided for residential or similar uses for drinking, cooking and bathing is
+centrally treated or is treated at the point of entry by the water provider, a
+passthrough entity or the user to achieve the level of public health
+protection that is equivalent to the applicable national primary drinking water
+regulations.
+4.An irrigation district in existence before May
+18, 1994 and that provides primarily agricultural service through a piped water
+system with only incidental residential or similar use is not a public water
+system if the system or the residential or other similar users of the system
+comply with paragraph 3, subdivision (b) or (c) of this subsection.
+5.Persons who receive water through connections
+that are not service connections pursuant to paragraph 3 of this subsection are not included in the
+computation of the number of persons prescribed by paragraph 1, subdivision (b)
+of this subsection.END_STATUTE
+Sec.3.Section
+49-353, Arizona Revised Statutes, is amended to read:
+START_STATUTE49-353.Duties of director; rules; prohibited lead use
+A.The director
+shall:
+1.Exercise general supervision over all matters
+related to water quality control of public water systems throughout this state.
+2.Prescribe rules regarding the production,
+treatment, distribution and testing of potable water by public water systems,
+except that such rules shall not apply to irrigation, industrial or similar
+systems where the water is used for nonpotable purposes.The rules
+shall comply with at least the following:
+(a)The requirements established by the United
+States environmental protection agency for state primary enforcement
+responsibility of the safe drinking water act, including the requirements of 40
+Code of Federal Regulations parts 141 and 142.
+(b)Require that the plans and specifications for
+all public water systems, including water treatment plants, distribution
+systems, distribution system extensions, water treatment methods and devices
+and all appurtenances and devices for sale to be used in water supplies and
+public water systems be submitted with a fee for review to the
+department.The department, in establishing fees authorized by this
+section, shall comply with title 41, chapter 6.The department shall
+not set a fee at more than the department's cost of providing the service for
+which the fee is charged. State agencies are exempt from all fees imposed
+pursuant to this section.Monies collected from the fees shall be
+deposited in the water quality fee fund established by section 49210.The
+director may require that plans and specifications for public water systems
+include programs to meet future needs for drinking water and to supply
+specified minimum quantities of drinking water.The director shall:
+(i)Require that a new public water system
+demonstrate that the system possesses adequate managerial and financial
+capacity to operate in compliance with this article and the rules adopted
+pursuant to this article.
+(ii)Accept adequate findings of other public
+authorities regarding the adequate managerial and financial capacity of a
+public water system to operate in compliance with this article and the rules
+adopted pursuant to this article.
+(c)Provide that no public water system, including a
+water treatment plant, distribution system, distribution system extension,
+water treatment method or device, appurtenance and device used in water
+supplies or public water systems be constructed, reconstructed, installed or
+initiated before compliance with the standards and rules has been demonstrated
+by approval of the plans and specifications by the department.The
+rules shall prescribe minimum standards for the bacteriological, physical and
+chemical quality of water distributed through public water
+systems.The director of environmental quality may consult with the
+director of the department of health services in developing these standards.
+(d)Provide for a simplified administrative
+procedure for approving structural revisions, additions, extensions or
+modifications to existing small public water systems for potable water serving
+a population of three thousand three hundred or fewer persons.
+(e)Exempt from the plan review requirements of this
+paragraph, including any requirements for approval to construct or approval of
+construction, any structural revisions, additions, extensions or modifications
+to public water systems which are in compliance with the department's rules
+applicable to those systems or which are making satisfactory progress towards
+compliance under a schedule approved by the department if either of the
+following conditions is satisfied:
+(i)The revision, addition, extension or
+modification has a project cost of twelve thousand five hundred dollars or
+less.
+(ii)The revision, addition, extension or
+modification is made to a water line which is not for a subdivision requiring
+plat approval by a city, town or county, and has a project cost of more than
+twelve thousand five hundred dollars but less than fifty thousand dollars, the
+design of which is sealed by a professional engineer registered in this state
+and the construction of which is reviewed for conformance with the design by a
+professional engineer.
+(f)Require a notice of compliance with the
+conditions for exemption upon the completion of any revisions, additions,
+extensions or modifications completed in accordance with subdivision (e) of
+this paragraph.
+(g)Provide for the submission of samples at stated
+intervals.
+(h)Provide for inspection and certification of such
+water supplies.
+(i)Provide for the abatement as public nuisances of
+any premises, equipment, process or device, or public water system that does
+not comply with the minimum standards and rules.
+(j)Provide for records regarding water quality to
+be kept by owners and operators of the public water systems and that reports
+regarding water quality be filed with the department.
+(k)Provide for appropriate actions to be taken if a
+water supply does not meet the standards established by the department.
+(l)Require a public water system to implement a
+specified program to control contamination from backflow, backsiphonage or
+cross connection.All such programs shall be consistent with title
+41, chapter 16.
+(m)Require that public water systems identify and
+provide notice to persons that may be affected by lead contamination of their
+drinking water where such contamination results from either or both of the
+following:
+(i)The lead content in the construction materials
+of the public water distribution system.
+(ii)Corrosivity of the water supply sufficient to
+cause leaching of lead.
+(n)Provide for relief from water testing and
+monitoring requirements for public water systems qualifying under the federal
+safe drinking water act (P.L.
+93523; 88 Stat. 1660 1661; P.L. 95190; 91
+Stat. 1393; P.L. 104182; 110 Stat. 1613), as amended in 1996.
+3.Develop and implement strategies to assist public
+water systems in acquiring and maintaining the technical, managerial and
+financial capacity to operate in compliance with this article and the rules
+adopted pursuant to this article.Assistance may be provided based
+on the needs of the water system.
+B.Pipes,
+and pipe fittings and plumbing fittings and fixtures
+having a lead content in excess of eight
+per cent a weighted
+average of one-quarter of one percent lead when used with respect to the wetted
+surfaces and solders and flux having a lead content in excess of
+twotenths of one per cent percent shall not be used in
+the installation or repair of public water systems or of any plumbing in
+residential or nonresidential facilities providing water for human consumption which are connected to public water systems. The weighted average lead content of a
+pipe, pipe fitting or plumbing fitting or fixture shall be calculated as
+follows:
+1.For each
+wetted component, the percentage of lead in the component shall be MULTIPLIED
+by the ratio of the wetted surface area of that component to the total wetted
+surface area of the entire product to arrive at the weighted percentage of lead
+of the component.
+2.The
+weighted percentage of lead of each wetted component shall be added together,
+and the sum of these weighted percentages shall constitute the weighted average
+lead content of the product.
+3.The lead
+content of the material used to produce a wetted component shall be used to
+determine compliance with this subsection.
+4.For lead
+content of materials that are provided as a range, the maximum content of that
+range shall be used.
+C.This Subsection b of this section shall does
+not apply to:
+1.Leaded
+joints necessary for the repair of cast iron pipes.
+2.pipes,
+pipe fittings and plumbing fittings and fixtures, including backflow
+preventers, that are used exclusively for nonpotable water services such as
+manufacturing, industrial processing, irrigation, outdoor watering or any other
+uses where the water is not anticipated to be used for human consumption.
+3.toilets,
+bidets, urinals, fill valves, flushometer valves, tub fillers, shower valves or
+service saddles or water distribution main gate valves that are two inches in
+diameter or larger.
+C.D.Notwithstanding
+subsection A, paragraph 2, subdivision (c) of this section, a public water
+system may construct, reconstruct, install, extend or initiate a water supply
+system, water treatment plant, distribution system, water treatment method or
+device, or appurtenance that is used in water supply or in a public water
+system when the system is out of compliance with standards and rules adopted
+pursuant to this article only if the construction is necessary to correct the
+system's noncompliance.
+D.E.The provisions of This section and the rules adopted pursuant to
+this section apply to public water systems as described by section 49352,
+subsection B.END_STATUTE
+Sec.4.Section 49-361, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE49-361.Sewage treatment plants; operator certification
+The department shall adopt and enforce rules to classify sewage
+collection systems and treatment plants and to certify operating personnel
+according to the skill, knowledge and experience necessary within the
+classification.The rules shall provide that operating personnel may
+be certified on the basis of training and supervision at the place of
+employment.The department may assess and collect reasonable
+certification fees to reimburse the cost of certification services, and the
+fees shall be deposited, pursuant to sections 35146 and 35147, in
+the state general water quality fee fund established by section 49-210.The
+rules apply to all sewage treatment plants that receive and treat wastes from
+common collection sewers and industrial plants but do not apply to septic
+tanks, to devices that serve a single home or to industrial treatment devices
+that are used to perform or allow recycling or impounding wastes within the
+boundaries of the industry's property.END_STATUTE
+

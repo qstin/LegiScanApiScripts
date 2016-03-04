@@ -26,7 +26,11 @@ def getBillId():
             bill_num = bill.get("bill").get("bill_number")
         except AttributeError:
             bill_num = "bill" + str(num)
-        doc_id = bill.get("bill").get("texts")[0].get("doc_id")
+        try:
+            doc_id = bill.get("bill").get("texts")[0].get("doc_id")
+        except AttributeError:
+            pass
+
         #append the doc_id to the API call and convert results to unicode string
         searchId = urlopen('https://api.legiscan.com/?key=2d28553a502d7fed3b68863b2f592f19&op=getBillText&id='+str(doc_id)).read().decode()
 
@@ -48,11 +52,11 @@ def getBillId():
         bsObj2.style.decompose()
 
         #strip white space, encode in ascii and remove non-printing characters
-        htmlText = str(bsObj2.getText()
+        htmlText = str(bsObj2.getText())
 
         #print each instance of htmlText to a unique file
         f = open("data/" + str(bill_num) + ".txt", "wb")
-        f.write(htmlText.encode("ascii", error="ignore")
+        f.write(htmlText.encode("ascii", errors="ignore"))
         f.close()
         ++num
 

@@ -1,0 +1,845 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: retirement plans; elected officials;
+  opt-out
+
+
+
+
+
+
+
+State of Arizona
+Senate
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+SB 1206
+
+
+
+
+
+
+
+
+
+Introduced by
+Senators
+  Worsley, Begay, Driggs: Allen S, Donahue, Farnsworth D, Miranda, Shooter
+
+
+
+
+
+AN ACT
+
+Amending sections
+38727, 38801, 38804, 38810, 38831 and 38833,
+Arizona Revised Statutes; relating to state retirement systems.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 38-727, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE38-727.Eligibility; options
+A.The following provisions apply to all employees
+hired on or after the effective date:
+1.All employees and officers of this state and all
+officers and employees of political subdivisions establishing a retirement plan
+administered by the board pursuant to this article are subject to this article,
+except that membership is not mandatory:
+(a)On the part of any employee who is eligible and
+who elects to participate in the optional retirement programs established by
+the Arizona board of regents pursuant to the authority conferred by section 151628
+or by a community college district board pursuant to authority conferred by
+section 151451.
+(b)For a state elected official who is subject to
+term limits, who is initially elected
+or appointed before January 1, 2014, who is eligible for participation in ASRS
+because the state elected official has
+continuously elected not
+to participate in the elected officials' retirement plan as specified in section 38804, subsection K and as
+provided in section 38804, subsection A and who elects has
+continuously elected not to participate in ASRS as provided in
+paragraph 7 of this subsection.
+(c)On the part of any employee or officer who is
+eligible to participate and who participates in the elected officials'
+retirement plan pursuant to article 3 of this chapter, the elected officials'
+defined contribution retirement system pursuant to article 3.1 of this chapter,
+the public safety personnel retirement system pursuant to article 4 of this
+chapter or the corrections officer retirement plan pursuant to article 6 of
+this chapter.
+2.All employees and officers of political
+subdivisions whose compensation is provided wholly or in part from state monies
+and who are declared to be state employees and officers by the legislature for
+retirement purposes are subject, on legislative enactment, to this article and
+are members of ASRS.
+3.Any member whose service terminates other than by
+death or withdrawal from membership is deemed to be a member of ASRS until the
+member's death benefit is paid.
+4.Employees and officers shall not become members
+of ASRS and, if they are members immediately before becoming employed as
+provided by this section, shall have their membership status suspended while
+they are employed by state departments paying the salaries of their officers
+and employees wholly or in part from monies received from sources other than
+appropriations from the state general fund for the period or periods payment of
+the employer contributions is not made by or on behalf of the departments.
+5.Notwithstanding other provisions of this section,
+a temporary employee of the legislature whose projected term of employment is
+for not more than six months is ineligible for membership in
+ASRS.If the employment continues beyond six successive months, the
+employee may elect to either:
+(a)Receive credit for service for the first six months
+of employment and establish membership in ASRS as of the beginning of the
+current term of employment if, within fortyfive days after the first six
+months of employment, both the employer and the employee contribute to ASRS the
+amount that would have been required to be contributed to ASRS during the first
+six months of employment as if the employee had been a member of ASRS during
+those six months.
+(b)Establish membership in ASRS as of the day
+following the completion of six months of employment.
+6.A person who is employed in postgraduate training
+in an approved medical residency training program of an employer or a
+postdoctoral scholar who is employed by a university under the jurisdiction of
+the Arizona board of regents is ineligible for membership in ASRS.
+7.A state elected official who is subject to term
+limits, who is initially elected
+or appointed before January 1, 2014 and who is eligible for participation in
+ASRS because the state elected official has
+continuously elected not to participate in the elected officials'
+retirement plan as specified in section
+38804, subsection K and as provided in section 38804,
+subsection A may elect not to participate in ASRS.The election not
+to participate is specific for that term of office.The state elected
+official who is subject to term limits shall make the election in writing and
+file the election with ASRS within thirty days after the elected official's
+retirement plan mails the notice to the state elected official of the state
+elected official's eligibility to participate in ASRS.The election
+is effective on the first day of the state elected official's eligibility. If
+a state elected official who is subject to term limits fails to make an
+election as provided in this paragraph, the state elected official is deemed to
+have elected to participate in ASRS.The election not to participate
+in ASRS is irrevocable and constitutes a waiver of all benefits provided by
+ASRS for the state elected official's entire term, except for any benefits
+accrued by the state elected official in ASRS for periods of participation
+before being elected to an office subject to term limits or any benefits
+expressly provided by law.
+8.A person may elect not to participate in ASRS if
+the person becomes employed by an employer after the person has attained at
+least sixtyfive years of age, is not an active member, inactive member,
+retired member or receiving benefits pursuant to article 2.1 of this chapter
+and does not have any credited service or prior service in ASRS.The
+employee shall make the election not to participate in writing and file the
+election with ASRS within thirty days after employment.The election
+not to participate is irrevocable for the remainder of the person's employment
+for which the person made the election and constitutes a waiver of all benefits
+provided by the Arizona state retirement system. The period the person works
+is not eligible for purchase under section 38743 or 38744.
+9.The following are ineligible for membership in
+ASRS:
+(a)A person who performs services in a hospital,
+home or other institution as an inmate or patient at the hospital, home or
+other institution.
+(b)A person who performs agricultural labor
+services, as defined in section 210 of the social security act.
+(c)A person who is a nonresident alien temporarily
+residing in the United States and who holds an F1, J1, M1
+or Q1 visa when services are performed.
+(d)A person who performs services for a school,
+college or university in this state at which the person is enrolled as a
+student, as defined by the employing institution. The employing institution
+shall maintain an appeal process for a person who disagrees with the employing
+institution's determination that the person is a student and not eligible for
+membership in ASRS.
+(e)A person who performs services under a program
+designed to relieve the person from unemployment.
+B.The following elected officials are subject to
+this article if the member's employer is an employer under article 3 of this
+chapter:
+1.A state elected official who is subject to term
+limits, who is elected or appointed on or before December 31, 2013 and who is
+an active, an inactive or a retired member of ASRS or a member of ASRS with a
+disability because the state elected official had previously elected not to
+participate in the elected officials' retirement plan as provided in section 38804,
+subsection A.
+2.An elected official, as defined in section 38831,
+who is an active, an inactive or a retired member of ASRS or a member of ASRS
+with a disability, if the elected official's employer is a participating
+employer under this article. END_STATUTE
+Sec.2.Section 38-801, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE38-801.Definitions
+In this article, unless the context otherwise requires:
+1."Accumulated contributions" means the
+sum of all member contributions deducted from the member's salary pursuant to
+section 38810, subsection A plus the amount transferred to the fund on
+behalf of the member plus the amount deposited in the fund pursuant to section
+38816.
+2."Actuarial equivalent" means equality
+in present value of the aggregate amounts expected to be received under two
+different forms of payment, based on mortality and interest assumptions adopted
+by the board.
+3."Alternate payee" means the spouse or
+former spouse of a participant as designated in a domestic relations order.
+4."Alternate payee's portion" means
+benefits that are payable to an alternate payee pursuant to a plan approved
+domestic relations order.
+5."Average yearly salary" means the
+result obtained by dividing the total salary paid to an employee during a
+considered period by the number of years, including fractional years, in which
+the salary was received.The considered period shall be:
+(a)For an elected official who becomes a member of
+the plan before January 1, 2012, the three consecutive years within the last
+ten completed years of credited service as an elected official that yield the
+highest average.If a member does not have three consecutive years
+of credited service as an elected official, the considered period is the
+member's last consecutive period of employment with a plan employer immediately
+before retirement.
+(b)For an elected official who becomes a member of
+the plan on or after January 1, 2012, the five consecutive years within the
+last ten completed years of credited service as an elected official that yield
+the highest average.If a member does not have five consecutive
+years of credited service as an elected official, the considered period is the
+member's last consecutive period of employment with a plan employer immediately
+before retirement.
+6."Board" means the board of trustees of
+the system.
+7."Credited service" means the number of
+whole and fractional years of a member's service as an elected official after
+the elected official's effective date of participation for which member and
+employer contributions are on deposit with the fund, plus credited service
+transferred to the plan from another retirement system or plan for public
+employees of this state, plus service as an elected official before the elected
+official's effective date of participation that is being funded pursuant to a
+joinder agreement pursuant to section 38815 or service that was redeemed
+pursuant to section 38816.Credited service does not include
+periods of service for which an active member is uncompensated by the employer
+and for which no contributions to the plan are made.
+8."Cure period" means the ninety-day
+period in which a participant or alternate payee may submit an amended domestic
+relations order and request a determination, calculated from the time the plan
+issues a determination finding that a previously submitted domestic relations
+order did not qualify as a plan approved domestic relations order.
+9."Determination" means a written
+document that indicates to a participant and alternate payee whether a domestic
+relations order qualifies as a plan approved domestic relations order.
+10."Determination period" means the
+ninety-day period in which the plan must review a domestic relations order that
+is submitted by a participant or alternate payee to determine whether the
+domestic relations order qualifies as a plan approved domestic relations order,
+calculated from the time the plan mails a notice of receipt to the participant
+and alternate payee.
+11."Direct rollover" means a payment by
+the plan to an eligible retirement plan that is specified by the distributee.
+12."Distributee" means a member, a
+member's surviving spouse or a member's spouse or former spouse who is the
+alternate payee under a plan approved domestic relations order.
+13."Domestic relations order" means an
+order of a court of this state that is made pursuant to the domestic relations
+laws of this state and that creates or recognizes the existence of an alternate
+payee's right to, or assigns to an alternate payee the right to, receive a
+portion of the benefits payable to a participant.
+14."Effective date of participation"
+means August 7, 1985, except with respect to employers and their elected
+officials whose contributions to the plan commence after that date, in which
+case the effective date of their participation in the plan is specified in the
+applicable joinder agreement.
+15."Elected official" means:
+(a)Every elected official of this state who was a
+member of the plan on December 31, 2013.
+(b)Every elected official of each county of this
+state who was a member of the plan on December 31, 2013.
+(c)Every justice of the supreme court, every judge
+of the court of appeals, every judge of the superior court and every fulltime
+superior court commissioner, except fulltime superior court
+commissioners who failed to make a timely election of membership under the
+judges' retirement plan, repealed on August 7, 1985, who was a member of the
+plan on December 31, 2013.
+(d)The administrator of the board if the
+administrator is a natural person but only if the administrator is employed by
+the board before January 1, 2012.
+(e)Each elected official of an incorporated city or
+town whose employer has executed a proper joinder agreement for coverage of its
+elected officials and who was a member of the plan on December 31, 2013.
+(f)a state elected official who is
+subject to term limits, who is initially elected or appointed before january 1,
+2014, who has continuously elected not to participate in the plan pursuant to
+section 38804, subsection A and in the arizona state retirement system
+pursuant to section 38727, subsection A since initially being elected as
+a state elected official who is subject to term limits and who is subsequently
+elected or appointed as a state elected official who is subject to term limits
+on or after January 1, 2014.
+16."Eligible child" means an unmarried
+child of a deceased active or retired member who meets one of the following
+qualifications:
+(a)Is under eighteen years of age.
+(b)Is at least eighteen years of age and under
+twentythree years of age only during any period that the child is a fulltime
+student.
+(c)Is under a disability that began before the
+child attained twentythree years of age and remains a dependent of the
+surviving spouse or guardian.
+17."Eligible retirement plan" means any
+of the following that accepts a distributee's eligible rollover distribution:
+(a)An individual retirement account described in
+section 408(a) of the internal revenue code.
+(b)An individual retirement annuity described in
+section 408(b) of the internal revenue code.
+(c)An annuity plan described in section 403(a) of
+the internal revenue code.
+(d)A qualified trust described in section 401(a) of
+the internal revenue code.
+(e)An annuity contract described in section 403(b)
+of the internal revenue code.
+(f)An eligible deferred compensation plan described
+in section 457(b) of the internal revenue code that is maintained by a state, a
+political subdivision of a state or any agency or instrumentality of a state or
+a political subdivision of a state and that agrees to separately account for
+amounts transferred into the eligible deferred compensation plan from this
+plan.
+18."Eligible rollover distribution" means
+a payment to a distributee, but does not include any of the following:
+(a)Any distribution that is one of a series of
+substantially equal periodic payments made not less frequently than annually
+for the life or life expectancy of the member or the joint lives or joint life
+expectancies of the member and the member's beneficiary or for a specified period
+of ten years or more.
+(b)Any distribution to the extent the distribution
+is required under section 401(a)(9) of the internal revenue code.
+(c)The portion of any distribution that is not
+includable in gross income.
+(d)Any distribution made to satisfy the
+requirements of section 415 of the internal revenue code.
+(e)Hardship distributions.
+(f)Similar items designated by the commissioner of
+the United States internal revenue service in revenue rulings, notices and
+other guidance published in the internal revenue bulletin.
+19."Employer" means a department, agency
+or political subdivision of this state that makes employer contributions to the
+plan pursuant to section 38810 on behalf of an elected official who
+participates in the plan.
+20."Fund" means the elected officials'
+retirement plan fund.
+21."Notice of receipt" means a written
+document that is issued by the plan to a participant and alternate payee and
+that states that the plan has received a domestic relations order and a request
+for a determination that the domestic relations order is a plan approved
+domestic relations order.
+22."Participant" means a member who is
+subject to a domestic relations order.
+23."Participant's portion" means benefits
+that are payable to a participant pursuant to a plan approved domestic
+relations order.
+24."Pension" means a series of monthly
+payments to a person who is entitled to receive benefits under the plan.
+25."Personal representative" means the
+personal representative of a deceased alternate payee.
+26."Physician" means a physician who is
+licensed pursuant to title 32, chapter 13 or 17.
+27."Plan" means the elected officials'
+retirement plan.
+28."Plan approved domestic relations
+order" means a domestic relations order that the plan approves as meeting
+all the requirements for a plan approved domestic relations order as otherwise
+prescribed in this article.
+29."Plan year" or "fiscal year"
+means the period beginning on July 1 of any year and ending on June 30 of the
+next succeeding year.
+30."Retired member" means a person who is
+being paid a pension based on the person's credited service as a member of the
+plan.
+31."Segregated funds" means the amount of
+benefits that would currently be payable to an alternate payee pursuant to a
+domestic relations order under review by the plan, or a domestic relations
+order submitted to the plan that failed to qualify as a plan approved domestic
+relations order, if the domestic relations order were determined to be a plan
+approved domestic relations order.
+32."System" means the public safety
+personnel retirement system. END_STATUTE
+Sec.3.Section 38-804, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE38-804.Membership; termination; definition
+A.Except as otherwise provided in this section, all
+elected officials are members of the plan, except that a state elected official
+who is subject to term limits may elect not to participate in the
+plan.The state elected official who is subject to term limits shall
+make the election in writing and file the election with the board within thirty
+days after the state elected official assumes office. The election is
+effective on the first day of the state elected official's eligibility for that
+term of office.The election not to participate is specific for that
+term of office.If a state elected official who is subject to term
+limits fails to make an election as provided in this subsection, the state
+elected official is deemed to have elected to participate in the plan. The
+election not to participate in the plan is irrevocable and constitutes a waiver
+of all benefits provided by the plan for the state elected official's entire
+term, except for any benefits accrued by the state elected official in the plan
+for periods of participation before being elected to an office subject to term
+limits or any benefits expressly provided by law.The state elected
+official who elects not to participate in the plan shall participate in the
+Arizona state retirement system unless the state elected official makes an
+irrevocable election not to participate in the Arizona state retirement system
+as provided in section 38727.
+B.All elected officials who are members of the plan
+on December 31, 2013 may remain members of the plan under the terms and
+limitations of this article.
+C.If a member who becomes a member of the plan
+before January 1, 2012 ceases to hold office for any reason other than death or
+retirement, within twenty days after filing a completed application with the
+board, the member is entitled to receive the following amounts, less any
+benefit payments the member has received and any amount the member may owe to
+the plan:
+1.If the member has less than five years of credited
+service with the plan, the member may withdraw the member's accumulated
+contributions from the plan.
+2.If the member has five or more years of credited
+service with the plan, the member may withdraw the member's accumulated
+contributions plus an amount equal to the amount determined as follows:
+(a)5.0 to 5.9 years of credited service, twentyfive
+percent of all member contributions deducted from the member's salary pursuant
+to section 38810, subsection A.
+(b)6.0 to 6.9 years of credited service, forty
+percent of all member contributions deducted from the member's salary pursuant
+to section 38810, subsection A.
+(c)7.0 to 7.9 years of credited service, fiftyfive
+percent of all member contributions deducted from the member's salary pursuant
+to section 38810, subsection A.
+(d)8.0 to 8.9 years of credited service, seventy
+percent of all member contributions deducted from the member's salary pursuant
+to section 38810, subsection A.
+(e)9.0 to 9.9 years of credited service, eightyfive
+percent of all member contributions deducted from the member's salary pursuant
+to section 38810, subsection A.
+(f)10.0 or more years of credited service, one
+hundred percent of all member contributions deducted from the member's salary
+pursuant to section 38810, subsection A.
+D.If a member has more than ten years of credited
+service with the plan, leaves the monies prescribed in subsection C of this
+section on account with the plan for more than thirty days after termination of
+employment and after that time period requests a refund of those monies, the
+member is entitled to receive the amount prescribed in subsection B C of this section plus interest at a rate
+determined by the board for each year computed from and after the member's
+termination of employment.
+E.If an elected official who becomes a member of
+the plan on or after January 1, 2012 ceases to hold office for any reason other
+than death or retirement, within twenty days after filing a completed
+application with the board, the member may withdraw the member's accumulated
+contributions from the plan and shall be paid the member's accumulated
+contributions plus interest at a rate determined by the board as of the date of
+termination, less any benefit payments the member has received and any amount
+the member may owe to the plan.
+F.If the amount prescribed in subsection C, D or E
+of this section includes monies that are an eligible rollover distribution and
+the member elects to have the distribution paid directly to an eligible
+retirement plan or individual retirement account or annuity and specifies the
+eligible retirement plan or individual retirement account or annuity to which
+the distribution is to be paid, the distribution shall be made in the form of a
+direct trusteetotrustee transfer to the specified eligible
+retirement plan. The distribution shall be made in the form and at the time
+prescribed by the board. A member who receives the amount prescribed in
+subsection C, D or E of this section from the plan or who elects a transfer
+pursuant to this subsection forfeits the member's credited service, and all
+rights to benefits under the plan and membership in the plan terminate.
+G.For distributions occurring from and after
+December 31, 2007, a member or a member's beneficiary, including a nonspouse
+designated beneficiary to the extent permitted under subsection H of this
+section, may roll over an eligible rollover distribution as defined in section
+402(c)(4) of the internal revenue code to a roth individual retirement account,
+if, for distributions occurring before January 1, 2010, the member or the
+member's beneficiary satisfies the requirements for making a roth individual
+retirement account contribution under section 408A(c)(3)(B) of the internal
+revenue code, as in effect on the date of the rollover. Any amount rolled over
+to a roth individual retirement account is included in the gross income of the
+member or the member's beneficiary to the extent the amounts would have been
+included in gross income if not rolled over as required under section 408A(d)(3)(A)
+of the internal revenue code.For the purposes of this subsection,
+the administrator is not responsible for ensuring the member or the member's
+beneficiary is eligible to make a rollover to a roth individual retirement
+account.
+H.For distributions made from and after December
+31, 2009, a nonspouse designated beneficiary as defined in section 401(a)(9)(E)
+of the internal revenue code may elect to directly rollover an eligible
+rollover distribution to an individual retirement account under section 408(a)
+of the internal revenue code or an individual retirement annuity under section
+408(b) of the internal revenue code that is established on behalf of the
+designated beneficiary and that will be treated as an inherited individual
+retirement plan pursuant to section 402(c)(11) of the internal revenue
+code.In order to be able to roll over the distribution, the
+distribution otherwise must satisfy the definition of an eligible rollover
+distribution as defined in section 402(c)(4) of the internal revenue code. In
+applying this subsection, a nonspouse rollover is not subject to the direct
+rollover requirements under section 401(a)(31) of the internal revenue code,
+the rollover notice requirements under section 402(f) of the internal revenue
+code or the mandatory withholding requirements under section 3405(c) of the
+internal revenue code.
+I.For plan years occurring before January 1, 2007,
+the period for providing the rollover notice as required under section 402(f)
+of the internal revenue code is no less than thirty days and no more than
+ninety days before the date of distribution and, for plan years beginning from
+and after December 31, 2006, the period for providing the rollover notice as
+required under section 402(f) of the internal revenue code is no less than
+thirty days and no more than one hundred eighty days before the date of
+distribution.
+J.In no case shall more than twelve months of
+credited service be credited on account of all service rendered by a member in
+any one year.
+K.Except as
+otherwise provided in this subsection, if an elected official who
+has terminated the member's membership in the plan pursuant to subsection C A of this section is subsequently elected,
+appointed or hired on or after January 1, 2014, the elected official is not
+eligible to become a member of the plan but is subject to article 3.1 of this
+chapter. If a state elected official
+who is subject to term limits, who is initially elected or appointed before
+january 1, 2014 and who has continuously elected not to participate in the plan
+pursuant to subsection A of this section and in the arizona state retirement
+system pursuant to section 38727, subsection A since initially being
+elected as a state elected official who is subject to term limits is
+subsequently elected or appointed as a state elected official who is subject to
+term limits on or after January 1, 2014, the state elected official is eligible
+to become a member of the plan or may elect not to participate in the plan
+pursuant to subsection A of this section. if the state elected official
+becomes a member of the plan, credited service only accrues from the date of
+the member's most recent eligibility as a state elected official.
+L.Notwithstanding subsection K of this section relating to an elected official who has
+terminated the member's membership in the plan, if an elected
+official files a written election form with the board within ninety days after
+the day of the member's reemployment as an elected official and repays the
+amount previously withdrawn pursuant to subsection C or D of this section
+within one year after the date of the member's reemployment as an elected
+official, with interest on that amount at the rate of nine per cent
+percent for each year, compounded each year from the date of
+withdrawal to the date of repayment, credited service shall be restored.
+Credited service shall not be restored until complete repayment is made to the
+fund.
+M.Except as
+provided in subsection K of this section, an elected official who
+is elected, appointed or hired on or after January 1, 2014 and who was not a
+member of the plan on December 31, 2013 is not eligible to become a member of
+the plan but is subject to article 3.1 of this chapter.
+N.If a retired member subsequently becomes an
+elected official, contributions shall not be made by the retired member and
+credited service shall not accrue while the retired member is holding office.
+O.In addition to subsection N of this section, if a
+retired member subsequently becomes, by reason of election or reelection, an
+elected official of the same office from which the member retired within a time
+period following the member's retirement that is less than one full term for
+that office, the member shall not receive a pension. If the elected official
+ceases to hold the same office, the elected official is entitled to receive the
+same pension the elected official was receiving when the elected official's
+pension was discontinued pursuant to this subsection. Nothing in this
+subsection prohibits a retired judge called by the supreme court to active
+duties of a judge pursuant to section 38813 from receiving retirement
+benefits. END_STATUTE
+Sec.4.Section 38-810, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE38-810.Contributions; appropriations
+A.Each member shall contribute to the fund an
+amount equal to the amount prescribed in subsection G of this
+section.Contributions of members shall be made by payroll deductions.Every
+member is deemed to consent to these deductions. Payment of a member's
+compensation, less these payroll deductions, constitutes a full and complete
+discharge and satisfaction of all claims and demands by the member relating to
+remuneration for the member's services rendered during the period covered by
+the payment, except with respect to the benefits provided under the plan. A
+member may not, under any circumstance, borrow from, take a loan against or
+remove contributions from the member's account before the termination of
+membership in the plan or the receipt of a pension.
+B.The board's office shall
+be credited monthly with monies collected pursuant to section 12119.01,
+subsection B, paragraph 2, section 12120.31, subsection D, paragraph 2,
+section 12284.03, subsection A, paragraph 6, section 22281,
+subsection C, paragraph 3 and section 41178. The monies credited to the
+fund pursuant to this subsection shall be deposited in the fund on a monthly
+basis, and there shall be a complete accounting of the determination of these
+monies deposited in the fund.
+C.Beginning on January 1, 2014 through June 30,
+2044, except as otherwise provided in
+this subsection, each employer shall make level per cent
+percent compensation contributions of twentythree and onehalf
+per cent percent of the compensation of all employees
+of the employer who are either members under this article, article 3.1 of this
+chapter or article 2 of this chapter pursuant to section 38727,
+subsection B to meet the normal cost plus an amount to amortize the unfunded
+accrued liability and the employer's contribution under the elected officials'
+defined contribution retirement system established pursuant to article 3.1 of
+this chapter and the employer's contribution under article 2 of this chapter
+for members eligible pursuant to section 38727, subsection B. If a member has elected not to accept the
+employer's contribution pursuant to section 38833, the employer is not
+required to contribute that percent of compensation for that member. The
+employer also shall pay the amount required by section 38-797.05 for members
+under article 2 of this chapter who are eligible pursuant to section 38727,
+subsection B and the amount required by article 3.2 of this chapter for members
+under article 3.1 of this chapter. The monies deposited in the fund pursuant
+to subsection B of this section shall be used to supplement the contributions
+required of all employers under the plan.The employer level per cent percent compensation contribution that is
+paid pursuant to this subsection, less the amount contributed by the employer
+pursuant to section 38833 and section 38737 for members eligible
+pursuant to section 38727, subsection B, shall not be used to pay for an
+increase in benefits that is otherwise payable to members but shall be used to
+meet the normal cost plus an amount to amortize the unfunded accrued liability.
+D.Beginning July 1, 2044, as determined by
+actuarial valuations performed by the plan's actuary, each employer shall make
+level per cent percent compensation
+contributions sufficient under the actuarial valuation to meet both the normal
+cost plus the actuarially determined amount required to amortize the unfunded
+accrued liability over a rolling period of at least twenty and not more than
+thirty years that is established by the board taking into account the
+recommendation of the plan's actuary, except that the employer contribution
+rate shall not be less than ten per cent percent of
+salary.The monies deposited in the fund pursuant to subsection B of
+this section shall be used to supplement the contributions required of all
+employers under the plan.The minimum employer contribution that is
+paid and that is in excess of the normal cost plus the actuarially determined amount
+required to amortize the unfunded accrued liability as calculated pursuant to
+this subsection shall be used to reduce future employer contribution increases
+and shall not be used to pay for an increase in benefits that are otherwise
+payable to members. The board shall separately account for these monies in the
+fund.After the close of any fiscal year, if the plan's actuary
+determines that the actuarial valuation of the fund contains excess valuation
+assets and is more than one hundred per
+cent percent
+funded, the board shall account for fifty per cent percent
+of the excess valuation assets in a stabilization reserve account. After the
+close of any fiscal year, if the plan's actuary determines that the actuarial
+valuation of the fund has a valuation asset deficiency and an unfunded
+actuarial accrued liability, the board shall use any valuation assets in the
+stabilization reserve account, to the extent available, to limit the decline in
+the fund's funding ratio to not more than two per cent
+percent.
+E.The department of administration and the
+treasurer of each county and participating city and town shall transfer to the
+board the contributions provided for in subsections A, C and D of this section
+within ten working days after each payroll date.The state, county
+treasurers and clerks of the superior court shall transfer the monies credited
+under subsection B of this section to the board on or before the fifteenth day
+of each calendar month that follows the month in which the court fees were
+collected.Contributions and monies credited under subsection B of
+this section and transferred after these dates shall include a penalty equal to
+ten per cent percent a year, compounded annually, for each
+day that the contributions or monies credited under subsection B of this
+section are late.Delinquent payments due under this subsection,
+together with interest charges as provided in this subsection and court costs,
+may be recovered by action in a court of competent jurisdiction against the
+person or persons responsible for the payments or, at the request of the board,
+may be deducted from any other monies, including excise revenue taxes, payable
+to a political subdivision by any department or agency of this
+state.If requested by the board, the state, county treasurers or
+clerks of the superior court shall transfer the monies credited under
+subsection B of this section, in an amount determined by the board, directly to
+the qualified governmental excess benefit arrangement established pursuant to
+section 38803.01.
+F.The employer shall pay the member contributions
+required of members on account of compensation earned after August 7,
+1985.The paid contributions shall be treated as employer
+contributions for the purpose of determining tax treatment under the United
+States internal revenue code.The effective date of the employer
+payment shall not be before the date the retirement plan has received
+notification from the United States internal revenue service that pursuant to
+section 414(h) of the United States internal revenue code the member
+contributions paid will not be included in gross income for income tax purposes
+until the paid contributions are distributed by refund or pension
+payments.The employer shall pay the member contributions from
+monies established and available in the retirement deduction account, which
+monies would otherwise have been designated as member contributions and paid to
+the retirement plan. Member contributions paid pursuant to this subsection
+shall be treated for all other purposes, in the same manner and to the same
+extent, as member contributions made before August 7, 1985.
+G.The amount contributed by a member pursuant to
+subsection A of this section is:
+1.Through June 30, 2011, seven per cent
+percent of the member's gross salary.
+2.For fiscal year 20112012, ten per cent percent of the member's gross salary.
+3.For fiscal year 20122013, eleven and onehalf
+per cent percent of the member's gross salary.
+4.For fiscal year 20132014 and each fiscal
+year thereafter, thirteen per cent percent of the member's gross
+salary.
+H.For fiscal year 20112012 and each fiscal
+year thereafter, the amount of the member's contribution that exceeds seven per cent percent of the member's compensation shall
+not be used to reduce the employer's contributions that are calculated pursuant
+to subsection C of this section.
+I.In fiscal years 20132014 through 20422043,
+the sum of $5,000,000 is appropriated in each fiscal year from the state
+general fund to the elected officials' retirement plan fund to supplement the
+normal cost plus an amount to amortize the unfunded accrued liability pursuant
+to subsection C of this section. Monies appropriated pursuant to this
+subsection shall not be used to pay for an increase in benefits that is
+otherwise payable to members and shall only be used as specified in this
+subsection. Monies appropriated pursuant to this subsection are exempt from
+the provisions of section 35190 relating to lapsing of appropriations. END_STATUTE
+Sec.5.Section 38-831, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE38-831.Definitions
+In this article, unless the context otherwise requires:
+1."Annuity account" means an account that
+is established for each member to record the deposit of member contributions,
+employer contributions and interest, dividends or other accumulations credited
+on behalf of the member.
+2."Board" means the board of trustees of
+the public safety personnel retirement system established by section 38848.
+3."Defined contribution system" means the
+elected officials' defined contribution retirement system established pursuant
+to this article.
+4."Elected official":
+(a)Means:
+(a) (i)Every elected official of this
+state who was elected or appointed on or after January 1, 2014 and who was not
+an active, an inactive,a disabled
+or a retired member of the plan or a
+member of the plan with a disability on December 31, 2013.
+(b) (ii)Every elected official of each county
+of this state who was elected or appointed on or after January 1, 2014 and who
+was not an active, an inactive, a
+disabled or a retired member of the plan or a member of the plan with a disability on
+December 31, 2013.
+(c) (iii)Every justice of the supreme
+court who was appointed on or after January 1, 2014 and who was not an active,
+an inactive, a disabled or
+a retired member of the plan or a
+member of the plan with a disability on December 31, 2013.
+(d) (iv)Every judge of the court of
+appeals who was appointed on or after January 1, 2014 and who was not an
+active, an inactive, a disabled
+or a retired member of the plan or a
+member of the plan with a disability on December 31, 2013.
+(e) (v)Every judge of the superior court
+who was elected or appointed on or after January 1, 2014 and who was not an
+active, an inactive, a disabled
+or a retired member of the plan or a
+member of the plan with a disability on December 31,2013.
+(f) (vi)Every fulltime superior
+court commissioner, except fulltime superior court commissioners who
+failed to make a timely election of membership under the judges' retirement
+plan, repealed on August 7, 1985, who was hired on or after January 1, 2014 and
+who was not an active, an inactive,a
+disabled or a retired member of the plan or a member of the plan with a disability on
+December 31, 2013.
+(g) (vii)Each elected official of an
+incorporated city or town whose employer has executed a proper joinder
+agreement with the plan for coverage of its elected officials, who was elected
+or appointed on or after January 1, 2014 and who was not an active, an inactive, a disabled or a retired member
+of the plan or a member of the plan
+with a disability on December 31, 2013.
+(b)Does not include a state elected
+official who is subject to term limits, who is not an active, an inactive or a retired member
+of the plan or a member of the
+plan with a disability because the state elected official has continuously
+elected not to participate in the plan pursuant to section 38804,
+subsection A and in the arizona state retirement system pursuant to section 38727,
+subsection A since initially being elected before January 1, 2014 as a state
+elected official who is subject to term limits and who is subsequently elected
+or appointed as a state elected official who is subject to term limits on or
+after January 1, 2014.
+5."Employer" means a department or
+political subdivision of this state that makes employer contributions to the
+defined contribution system on behalf of a member.
+6."Employer contribution" means an amount
+deposited by an employer, from the employer's own monies, in the member's
+annuity account on a periodic basis coinciding with the member's regular pay
+period.
+7."Member" means an elected official
+under the defined contribution system.
+8."Plan" means the elected officials'
+retirement plan established by article 3 of this chapter. END_STATUTE
+Sec.6.Section 38-833, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE38-833.Member and employer contributions; disability
+A.Beginning January 1, 2014, the defined
+contribution system is the retirement program for elected officials, unless the
+elected official is described in section 38727, subsection
+B.Elected officials shall be enrolled in the defined contribution
+plan established by the board pursuant to this article.
+B.Each elected official who is a member of the
+defined contribution system shall contribute eight per cent
+percent of the member's gross compensation by salary reduction
+that shall be deposited in the member's annuity account. Each member shall
+also contribute to the elected officials' defined contribution retirement
+system disability program pursuant to article 3.2 of this chapter.
+C.Although designated as employee contributions,
+all member contributions made to the defined contribution system shall be
+picked up and paid by the employer in lieu of contributions by the
+employee.The contributions picked up by an employer may be made
+through a reduction in the member's compensation. A member participating in
+the defined contribution system does not have the option of choosing to receive
+the contributed amounts directly instead of the employer paying the amounts to
+the defined contribution system.All member contributions that are
+picked up by the employer as provided in this subsection shall be treated as
+employer contributions under section 414(h) of the internal revenue code, shall
+be excluded from members' gross income for federal and state income tax
+purposes and are includable in the gross income of the members or the members'
+beneficiaries only in the taxable year in which they are distributed.
+D.Each employer shall annually make a contribution:
+1.Equal
+to six per cent percent of each member's gross
+compensation. The pro rata share of this amount shall be paid on each date that
+a member contribution is made and shall be credited to the member's annuity
+account. A member who is a state
+elected official and who is subject to term limits may elect not to accept the
+employer's contribution to the member's annuity account that is required by
+this subsection. The
+state elected official who is subject to term limits shall make the election as
+provided in this paragraph in writing and file the election with the board
+within thirty days after the state elected official assumes office. The
+election is effective on the first day of the state elected official's
+eligibility for that term of office.The election not to accept the
+employer's contribution to the state elected official's annuity account is
+specific for that term of office.If a state elected official who is
+subject to term limits fails to make an election as provided in this paragraph,
+the state elected official is deemed to have elected to accept the employer's
+contribution to the state elected official's annuity account. The election not
+to accept the employer's contribution to the state elected official's annuity
+account is irrevocable and constitutes a waiver of the employer's contribution
+to the state elected official's annuity account for the state elected
+official's entire term.
+2.Each employer shall also contribute
+To the elected officials' defined contribution retirement system disability
+program pursuant to article 3.2 of this chapter.
+E.Member and employer contributions and earnings on
+those contributions are immediately vested.A member may receive
+benefits pursuant to article 3.2 of this chapter if the member develops a total
+disability.
+F.At the election of a state elected official as described in
+section 38831, paragraph 4, subdivision (b),
+the board shall distribute the balance of the state elected official's annuity
+account to the state elected official or the official's beneficiary.END_STATUTE
+Sec.7.Refund of employer contribution; election
+A state elected official who was subject to term limits, who
+was enrolled in the elected officials' defined contribution retirement system
+established pursuant to title 38, chapter 5, article 3.1, Arizona Revised
+Statutes, because the state elected official was not an active, an inactive or
+a retired member of the elected officials' retirement plan or a member of the
+elected officials' retirement plan with a disability and who had continuously
+elected not to participate in the elected officials' retirement plan pursuant
+to section 38-804, subsection A, Arizona Revised Statutes, and in the Arizona
+state retirement system pursuant to section 38727, subsection A, Arizona
+Revised Statutes, since initially being elected before January 1, 2014 as a
+state elected official who is subject to term limits may elect to return the
+employer's contributions and the earnings on those contributions that were deposited,
+pursuant to section 38833, Arizona Revised Statutes, in the state
+elected official's annuity account. The election under this section shall be
+made within one hundred eighty days after the effective date of this section or
+the employer's contributions and the earnings on those contributions will
+remain in the state elected official's annuity account until distribution.
+Sec.8.Retroactivity
+Sections 38727, 38801, 38804 and 38831,
+Arizona Revised Statutes, as amended by this act, apply retroactively to from
+and after September 12, 2013.
+

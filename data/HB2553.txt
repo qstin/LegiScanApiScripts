@@ -1,0 +1,273 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: insurance; risk retention groups
+
+
+
+
+
+
+
+State of Arizona
+House of Representatives
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+HB 2553
+
+
+
+
+
+
+
+
+
+Introduced by
+Representative
+  Fann
+
+
+
+
+
+AN ACT
+
+Amending section
+202402, Arizona Revised Statutes; relating to risk retention groups.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 20-2402, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE20-2402.Risk retention groups chartered and licensed in this
+state; definitions
+A.A risk retention group, pursuant to this title,
+shall be chartered and licensed to write only liability insurance pursuant to
+this chapter and, except as provided in this chapter, must comply with this
+title with respect to insurers which that are chartered and
+licensed in this state and with section 202403.Before it may
+offer insurance in any state, each risk retention group shall also submit for
+approval to the director of the
+department of insurance a plan of operation or a feasibility
+study and revisions of the plan or study if the group intends to offer any
+additional lines of liability insurance.The group shall not offer
+any additional kinds of liability insurance in this state or in any other state
+until a revision of the plan or study is approved by the director of the department of insurance.
+B.Immediately on receipt of an application for a
+charter, this state shall provide summary information concerning the filing to
+the national association of insurance commissioners, including the name of the
+risk retention group, the identity of the initial members of the group, the
+identity of those individuals who organized the group or who will provide
+administrative services or otherwise influence or control the activities of the
+group, the amount and nature of initial capitalization, the coverages to be
+afforded and the states in which the group intends to operate.
+C.A risk retention group that is
+licensed in this state shall comply with all of the following:
+1.The
+board of directors of the risk retention group shall have a majority of
+independent board directors. If the risk retention group is a reciprocal risk
+retention group, the attorney-in-fact shall be required to adhere to the same
+standards regarding independence of operation and governance as imposed on the
+risk retention group's board of directors or subscribers' advisory committee,
+or both, under these standards, and, to the extent permissible under this
+state's laws, service providers of a reciprocal risk retention group shall
+contract with the risk retention group and not the attorney-in-fact.
+2.A
+board director does not qualify as independent unless the board of directors
+affirmatively determines that the board director has no material relationship
+with the risk retention group. Each risk retention group shall disclose these
+determinations to its domestic regulator, at least annually. Any person that is
+a direct or indirect owner of or subscriber in the risk retention group or is
+an officer, board director or employee, or all three, of an owner and insured,
+as contemplated by 15 United States code section 3901(a)(4)(E)(ii), is considered to be independent,
+unless some other position of that officer, board director or employee
+constitutes a material relationship.
+3.The
+term of any material service provider contract with the risk retention group
+may not exceed five years. Any contract or its renewal shall require the
+approval of the majority of the risk retention group's independent board
+directors. The risk retention group's board of directors shall have the right
+to terminate any service provider, audit or actuarial contracts at any time for
+cause after providing adequate notice as defined in the contract. The service
+provider contract is deemed material if the amount to be paid for that contract
+is greater than or equal to five percent of the risk retention group's annual
+gross written premium or two percent of its surplus, whichever is
+greater.A service provider contract that is a material relationship
+may not be entered into unless the risk retention group has notified the
+director of the department of insurance in writing of its intention to enter
+into the transaction at least thirty days before and the director of the
+department of insurance has not disapproved the transaction within that period.
+4.The
+board of directors of a risk retention group shall adopt a written policy in
+the plan of operation as approved by the board that requires the board of
+directors to do all of the following:
+(a)Ensure that all owners
+or insureds, or both, of the risk retention group receive evidence of ownership
+interest.
+(b)Develop a set of
+governance standards applicable to the risk retention group.
+(c)Oversee the evaluation
+of the risk retention group's management, including the performance of the
+captive manager, managing general underwriter or other parties responsible for
+underwriting, determination of rates, collection of premium, adjusting or
+settling claims or the preparation of financial statements.
+(d)Review and approve the
+amount to be paid for all material service providers.
+(e)Review and approve, at
+least annually, all of the following:
+(i)The risk retention
+group's goals and objectives relevant to the compensation of officers and
+service providers.
+(ii)The officers' and
+service providers' performance in light of those goals and objectives.
+(iii)The continued
+engagement of the officers and material service providers.
+5.Each
+risk retention group shall have an audit committee composed of at least three
+independent board members. A nonindependent board member may participate in
+the activities of the audit committee, if invited by the members, but cannot be
+a member of that committee. The audit committee shall have a written charter
+that defines the committee's purpose, which, at a minimum, shall be to do all
+of the following:
+(a)Assist in board
+oversight of the integrity of the financial statements, the compliance with
+legal and regulatory requirements and the qualifications, independence and
+performance of the independent auditor and actuary.
+(b)Discuss the annual
+audited financial statements and quarterly financial statements with
+management.
+(c)Discuss the annual
+audited financial statements with its independent auditor and, if advisable,
+discuss its quarterly financial statements with its independent auditor.
+(d)Discuss policies with
+respect to risk assessment and risk management.
+(e)Meet separately and periodically,
+either directly or through a designated representative of the committee, with
+management and independent auditors.
+(f)Review with the
+independent auditor any audit problems or difficulties and management's
+response.
+(g)Set clear hiring policies
+of the risk retention group as to the hiring of employees or former employees
+of the independent auditor.
+(h)Require the external
+auditor to rotate the lead or coordinating audit partner having primary
+responsibility for the risk retention group's audit as well as the audit
+partner responsible for reviewing that audit, so that neither individual
+performs audit services for more than five consecutive fiscal years.
+(i)Report regularly to
+the board of directors.
+6.The
+director of the department of insurance may waive the requirement to establish
+an audit committee pursuant to paragraph 5 of this subsection if the risk
+retention group demonstrates to the director that doing so is impracticable and
+the risk retention group's board of directors is otherwise able to fulfill the
+requirements of the audit committee as set forth in this section.
+7.The
+board of directors shall adopt and disclose governance standards by making the
+information available through electronic means, such as posting the information
+on the risk retention group's website, or other means, and providing that
+information to members and insureds on request. The information shall include
+all of the following:
+(a)A process by which the
+board directors are elected by the owners or insureds, or both.
+(b)Board director
+qualification standards.
+(c)Board director
+responsibilities.
+(d)Board director access
+to management and, as necessary and appropriate, independent advisers.
+(e)Board director
+compensation.
+(f)Board Director orientation
+and continuing education.
+(g)The policies and
+procedures that are followed for management succession.
+(h) The policies and procedures that
+are followed for the annual performance evaluation of the board.
+8.The
+board of directors shall adopt and disclose a code of business conduct and
+ethics for board directors, officers and employees and promptly disclose to the
+board of directors any waivers of the code for board directors or executive
+officers, including all of the following topics:
+(a)Conflicts of interest.
+(b)Matters covered under
+the corporate opportunity doctrine under the state of domicile.
+(c)Confidentiality.
+(d)Fair dealing.
+(e)Protection and proper
+use of risk retention group assets.
+(f)Compliance with all
+applicable laws, rules and regulations.
+(g)Requiring the
+reporting of any illegal or unethical behavior that affects the operation of
+the risk retention group.
+9.The
+captive manager, president or chief executive officer of the risk retention
+group shall promptly notify the domestic regulator, in writing, if either
+becomes aware of any material noncompliance with any of the risk retention
+group's governance standards.
+D.For
+the purposes of this section:
+1."Board
+director" means a natural person designated in the articles of the risk
+retention group, or designated, elected or appointed by any other manner, name
+or title to act as a board director.
+2."Board
+of directors" or "board" means the governing body of the risk
+retention group elected by the shareholders or members to establish policy,
+elect or appoint officers and committees and make other governing decisions.
+3."Material
+relationship" means a person's relationship with the risk retention group,
+including any of the following:
+(a)The receipt in any one
+twelve-month period of compensation or payment of any other item of value by
+that person, a member of that person's immediate family or any business with
+which that person is affiliated from the risk retention group or a consultant
+or service provider to the risk retention group that is greater than or equal
+to five percent of the risk retention group's gross written premium for that
+twelve-month period or two percent of its surplus, whichever is greater, as
+measured at the end of any fiscal quarter falling in a twelve-month period.
+The person or immediate family member of that person is not independent until
+one year after the person's compensation from the risk retention group falls
+below the threshold.
+(b)A relationship with an
+auditor in which a board director or an immediate family member of a board
+director who is affiliated with, or employed in, a professional capacity by a
+present or former internal or external auditor of the risk retention group is
+not independent until one year after the end of the affiliation, employment or
+auditing relationship.
+(c)A relationship with a
+related entity in which a board director or immediate family member of a board
+director who is employed as an executive officer of another company where any
+of the risk retention group's present executives serve on that other company's
+board of directors is not independent until one year after the end of that
+service or the employment relationship.
+4."Service
+providers" includes captive managers, auditors, accountants, actuaries,
+investment advisers, attorneys and managing general underwriters or any other
+party responsible for underwriting, determination of rates, collection of
+premium, adjusting and settling claims or the preparation of financial
+statements. For the purposes of this paragraph, attorney does not include
+defense counsel retained by the risk retention group to defend claims, unless
+the amount of fees paid to those attorneys create a material relationship.END_STATUTE
+

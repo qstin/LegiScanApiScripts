@@ -1,0 +1,331 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: state highway construction; tax credits
+
+
+
+
+
+
+
+State of Arizona
+Senate
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+SB 1493
+
+
+
+
+
+
+
+
+
+Introduced by
+Senator
+  Worsley: Representative Gray
+
+
+
+
+
+AN ACT
+
+Amending title
+28, chapter 22, article 1, Arizona Revised Statutes, by adding section
+28-7704.02; amending section 43-222, Arizona Revised Statutes; amending title
+43, chapter 10, article 5, Arizona Revised Statutes, by adding section 43-1075;
+amending title 43, chapter 11, article 6, Arizona Revised Statutes, by adding
+section 43-1163; relating to income tax credits.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Title 28, chapter 22, article 1,
+Arizona Revised Statutes, is amended by adding section 28-7704.02, to read:
+START_STATUTE28-7704.02.State highway construction tax credits; rules
+A.The state
+highway construction tax credit is established. The department shall administer
+the credit as provided by this section and use the sale of the credits to
+finance the construction, reconstruction and renovation of eligible facilities
+in this state.The department shall prescribe the criteria and
+procedures for receiving and evaluating applications and identifying eligible
+facilities that are suitable for financing pursuant to this section.
+B.Each year
+the department shall:
+1.Adopt and
+publish a list of eligible facility projects that best meet the prescribed
+criteria within the dollar limit of the credits prescribed for that year
+pursuant to subsection D of this section.
+2.Announce
+dates and conduct public bidding procedures for the sale of the credits for
+each eligible facility project.The credits shall be sold by
+competitive public sale or through an online bidding process in which the
+department receives bids electronically over the internet in a real-time,
+competitive bidding event.The credits shall be awarded to the
+highest and best qualified bidder but may not be sold for less than __ percent
+of face value.The department shall issue a credit certificate to
+the successful bidder that includes:
+(a)The full
+amount of the credit and the amount of each annual installment.
+(b)A
+distinguishing name of the credit, including the eligible facility, date of the
+bid and name of the successful bidder.
+C.State
+highway construction tax credits that are awarded through the bidding process:
+1.Shall be
+allocated to the winning bidder in ten consecutive equal annual installments, beginning
+when the project is completed and placed in service and subject to the faithful
+performance of the construction, reconstruction or renovation contract and
+continuing maintenance of the eligible facility project by the winning bidder
+during the entire term of the credit.On the failure of performance
+or noncompliance under the terms of any agreement during the term of the
+credit, the tax credit is subject to recapture as provided by section 43-1075
+or 43-1163, as applicable.
+2.Are
+transferrable, subject only to the requirement of notifying the department of
+transportation and the department of revenue of any transfer, and may be
+applied against the state income tax liability of the winning bidder, any
+partner or member of the winning bidder or any transferee from the winning
+bidder, as provided by section 43-1075 or 43-1163, as applicable.
+D.The
+annual amount of state highway construction tax credits that may be awarded
+under this section each year shall be prescribed by the legislature as part of
+the annual state budget.
+E.An
+eligible facility project performed under this section is considered to be a
+public-private partnership for all purposes of this chapter.
+F.The
+department of transportation, with the cooperation of the department of revenue,
+shall adopt rules and publish and prescribe forms and procedures as necessary
+to effectuate the purposes of this section. END_STATUTE
+Sec.2.Section 43-222, Arizona Revised Statutes, is amended to read:
+START_STATUTE43-222.Income tax credit review schedule
+The joint legislative income tax credit review committee shall
+review the following income tax credits:
+1.For years ending in 0 and 5, sections 431079.01,
+431087, 431088, 43-1089.04, 431167.01 and 431175.
+2.For years ending in 1 and 6, sections 431074.02,
+43-1075, 431083,
+431083.02, 431085.01, 43-1163,
+431164.02, 43-1164.03 and 431183.
+3.For years ending in 2 and 7, sections 431073,
+431079, 431080, 431085, 431086, 431089, 431089.01,
+431089.02, 43-1089.03, 431090, 431164, 431167, 431169,
+431176 and 431181.
+4.For years ending in 3 and 8, sections 431074.01,
+431081, 431168, 431170 and 431178.
+5.For years ending in 4 and 9, sections 431076,
+431076.01, 431081.01, 431083.01, 431083.04, 431084,
+431162, 431162.01, 431164.01, 431164.05, 431170.01
+and 43-1184 and, beginning in 2019, sections 431083.03 and 431164.04.
+END_STATUTE
+Sec.3.Title 43, chapter 10, article 5,
+Arizona Revised Statutes, is amended by adding section 43-1075, to read:
+START_STATUTE43-1075.State highway construction tax credit
+A.A credit
+is allowed against the taxes imposed by this title for taxpayers who
+participate in financing the construction, reconstruction or renovation of
+eligible transportation facilities pursuant to section 287704.02.The
+department of transportation shall determine the amount of the credit, which
+shall be allocated in ten consecutive equal taxable year installments, as shown
+on the credit certificate issued to the successful bidder under section 287704.02,
+subsection B, paragraph 2.
+B.On notice
+to the department of revenue, joint participants in the successful bidding
+entity, including corporate members as participants, may allocate the credit
+among themselves on any basis without regard to their proportional interest in
+the bidding entity. The total of the allocated credits allowed all such
+participants may not exceed the amount of the credit issued by the department
+of transportation.
+C.All or
+part of any unclaimed amount of any installment of a credit under this section
+may be sold or otherwise transferred under the following conditions:
+1.A single
+sale or transfer may involve one or more transferees, and a transferee may in
+turn resell or transfer the credit subject to the same conditions of this
+subsection. A transferee may be a corporation, in which case the transferred
+credit becomes subject to section 43-1163.
+2.Both the
+transferor and transferee must submit a written notice of the sale or transfer
+to the department of revenue within thirty days after the sale or transfer.
+The transferee's notice shall include a processing fee equal to one percent of
+the transferee's tax credit balance or two hundred dollars, whichever is less.
+The notice shall include:
+(a)The name
+of the credit assigned by the department of transportation.
+(b)The name
+and tax identification number of both the transferor and transferee.
+(c)The date
+of the sale or transfer.
+(d)The
+amount of the sold or transferred credit and any balance of allocated credit
+installments.
+(e)The
+transferor's tax credit balance before the sale or transfer and any remaining
+balance after the sale or transfer.
+(f)The
+amount of consideration paid by the transferee to the transferor.
+(g)Any
+other information required by rule.
+3.A sale or
+transfer of the credit does not extend the time in which the credit can be
+used. The carryforward period of time under subsection D of this section for a
+credit that is sold or transferred begins on the date the credit is sold or
+transferred.
+4.If the
+department determines that a transferor was not qualified or was disqualified
+from using the credit at the time of the sale or transfer, the department shall
+either disallow the credit claimed by the transferee or recapture the credit
+from the transferee as provided by this section. the transferee's recourse is
+against the transferor.
+5.in the
+case of any failure to comply with this subsection, the department shall
+disallow the tax credit until the taxpayer is in full compliance.
+D.If the
+allowable tax credit installment for a taxable year exceeds the taxes otherwise
+due under this title on the claimant's income, or if there are no taxes due
+under this title, the taxpayer may carry the amount of the claim not used to
+offset the taxes under this title forward for not more than five consecutive
+taxable years' income tax liability.
+E.Qualification
+for a credit under this section by any taxpayer, including any transferee and
+previous transferor of a credit under subsection C of this section, is subject
+to the faithful performance of the construction, reconstruction or renovation
+contract and continuing maintenance of the eligible facility by the winning
+bidder during the entire term of the credit. On the failure of performance or
+noncompliance under the terms of any agreement during the term of the credit,
+the tax credit is subject to recapture from all taxpayers who claimed a credit
+under this section during the term of the credit, and those taxpayers are
+disqualified from further credits under this section in subsequent taxable
+years. The recapture is calculated by increasing the amount of taxes imposed
+in the year following the year of termination or revocation by the full amount
+of all credits previously allowed the taxpayer under this section. If the
+failure of performance or noncompliance under the terms of any agreement with
+the department of transportation was beyond the taxpayer's control, the
+taxpayer's recourse is against the malfeasant party.
+F.The
+department of revenue shall maintain annual data on the total amount of monies
+credited pursuant to this section and shall provide this information to the
+department of transportation on request.
+G.The
+department of revenue, with the cooperation of the department of
+transportation, shall adopt rules and publish and prescribe forms and
+procedures as necessary to effectuate the purposes of this section. END_STATUTE
+Sec.4.Title 43, chapter 11, article 6,
+Arizona Revised Statutes, is amended by adding section 43-1163, to read:
+START_STATUTE43-1163.State highway construction tax credit
+A.A credit
+is allowed against the taxes imposed by this title for taxpayers who
+participate in financing the construction, reconstruction or renovation of
+eligible transportation facilities pursuant to section 287704.02.The
+department of transportation shall determine the amount of the credit, which
+shall be allocated in ten consecutive equal taxable year installments, as shown
+on the credit certificate issued to the successful bidder under section 287704.02,
+subsection B, paragraph 2.
+B.On notice
+to the department of revenue, joint participants in the successful bidding
+entity, including individuals as participants, may allocate the credit among
+themselves on any basis without regard to their proportional interest in the
+bidding entity. The total of the allocated credits allowed all such
+participants may not exceed the amount of the credit issued by the department
+of transportation.
+C.All or
+part of any unclaimed amount of any installment of a credit under this section
+may be sold or otherwise transferred under the following conditions:
+1.A single
+sale or transfer may involve one or more transferees, and a transferee may in
+turn resell or transfer the credit subject to the same conditions of this
+subsection. A transferee may be a taxpayer subject to individual income tax,
+in which case the transferred credit becomes subject to section 43-1075.
+2.Both the
+transferor and transferee must submit a written notice of the sale or transfer to
+the department of revenue within thirty days after the sale or transfer. The
+transferee's notice shall include a processing fee equal to one percent of the
+transferee's tax credit balance or two hundred dollars, whichever is less. The
+notice shall include:
+(a)The name
+of the credit assigned by the department of transportation.
+(b)The name
+and tax identification number of both the transferor and transferee.
+(c)The date
+of the sale or transfer.
+(d)The
+amount of the sold or transferred credit and any balance of allocated credit
+installments.
+(e)The
+transferor's tax credit balance before the sale or transfer and any remaining
+balance after the sale or transfer.
+(f)The
+amount of consideration paid by the transferee to the transferor.
+(g)Any other
+information required by rule.
+3.A sale or
+transfer of the credit does not extend the time in which the credit can be
+used. The carryforward period of time under subsection D of this section for a
+credit that is sold or transferred begins on the date the credit is sold or
+transferred.
+4.If the
+department determines that a transferor was not qualified or was disqualified
+from using the credit at the time of the sale or transfer, the department shall
+either disallow the credit claimed by the transferee or recapture the credit
+from the transferee as provided by this section. the transferee's recourse is
+against the transferor.
+5.in the
+case of any failure to comply with this subsection, the department shall
+disallow the tax credit until the taxpayer is in full compliance.
+D.If the
+allowable tax credit installment for a taxable year exceeds the taxes otherwise
+due under this title on the claimant's income, or if there are no taxes due
+under this title, the taxpayer may carry the amount of the claim not used to
+offset the taxes under this title forward for not more than five consecutive
+taxable years' income tax liability.
+E.Qualification
+for a credit under this section by any taxpayer, including any transferee and
+previous transferor of a credit under subsection C of this section, is subject
+to the faithful performance of the construction, reconstruction or renovation
+contract and continuing maintenance of the eligible facility by the winning
+bidder during the entire term of the credit. On the failure of performance or
+noncompliance under the terms of any agreement during the term of the credit,
+the tax credit is subject to recapture from all taxpayers who claimed a credit
+under this section during the term of the credit, and those taxpayers are disqualified
+from further credits under this section in subsequent taxable years. The
+recapture is calculated by increasing the amount of taxes imposed in the year
+following the year of termination or revocation by the full amount of all
+credits previously allowed the taxpayer under this section. If the failure of
+performance or noncompliance under the terms of any agreement with the
+department of transportation was beyond the taxpayer's control, the taxpayer's
+recourse is against the malfeasant party.
+F.The
+department of revenue shall maintain annual data on the total amount of monies
+credited pursuant to this section and shall provide this information to the
+department of transportation on request.
+G.The
+department of revenue, with the cooperation of the department of
+transportation, shall adopt rules and publish and prescribe forms and
+procedures as necessary to effectuate the purposes of this section. END_STATUTE
+Sec.5.Purpose
+Pursuant to section 43-223, Arizona Revised Statutes, the
+legislature enacts sections 43-1075 and 43-1163, Arizona Revised Statutes, as
+added by this act, to attract private equity capital invested for
+transportation infrastructure projects in this state.
+

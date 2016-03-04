@@ -1,0 +1,360 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: photo radar prohibition
+
+
+
+
+
+
+
+State of Arizona
+Senate
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+SCR 1010
+
+
+
+
+
+
+
+
+
+Introduced by
+Senators
+  Smith, Lesko: Begay, Burges, Farnsworth D, Griffin, McGuire, Yee;
+  Representatives Finchem, Kern, Mesnard
+
+
+
+
+
+A CONCURRENT RESOLUTION
+
+enacting and
+ordering the submission to the people of a measure relating to photo
+enforcement systems.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it resolved by the Senate of the State of Arizona, the House
+of Representatives concurring:
+1.Under the power of the referendum, as vested in
+the Legislature, the following measure, relating to photo enforcement systems,
+is enacted to become valid as a law if approved by the voters and on
+proclamation of the Governor:
+an act
+amending sections 28601,
+28627 and 281201, arizona revised statutes; repealing sections 281202,
+281203, 281204, 281205 and 281206, Arizona Revised
+Statutes; amending title 28, chapter 3, article 21, Arizona Revised Statutes,
+by adding a new section 281202; repealing section 281602, Arizona
+Revised Statutes; relating to photo enforcement.
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 28-601, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-601.Definitions
+In this chapter, unless the context otherwise requires:
+1."Commercial motor vehicle" means a
+motor vehicle or combination of vehicles that is designed, used or maintained
+to transport passengers or property in the furtherance of a commercial
+enterprise, that is a commercial motor vehicle as defined in section 285201
+and that is not exempt from gross weight fees as prescribed in section 285432,
+subsection B.
+2."Controlled access highway" means a
+highway, street or roadway to or from which owners or occupants of abutting
+lands and other persons have no legal right of access except at such points
+only and in the manner determined by the public authority that has jurisdiction
+over the highway, street or roadway.
+3."Crosswalk" means:
+(a)That part of a roadway at an intersection
+included within the prolongations or connections of the lateral lines of the
+sidewalks on opposite sides of the highway measured from the curbs or, in
+absence of curbs, from the edges of the traversable roadway.
+(b)Any portion of a roadway at an intersection or
+elsewhere that is distinctly indicated for pedestrian crossing by lines or
+other markings on the surface.
+4."Escort vehicle" means a vehicle that
+is required pursuant to rules adopted by the department to escort motor
+vehicles or combinations of vehicles that require issuance of a permit pursuant
+to article 18 or 19 of this chapter for operation on the highways of this
+state.
+5."Explosives" means any chemical compound,
+mixture or device that is commonly used or intended for the purpose of
+producing an explosion and that is defined in 49 Code of Federal Regulations
+part 173.
+6."Flammable liquid" means any liquid
+that has a flash point of less than one hundred degrees Fahrenheit and that is
+defined in 49 Code of Federal Regulations section 173.120.
+7."Gross weight" means the weight of a
+vehicle without a load plus the weight of any load on the vehicle.
+8."Intersection" means the area
+embraced within the prolongation or connection of the lateral curb lines, or if
+none, the lateral boundary lines of the roadways of two highways that join one
+another at, or approximately at, right angles, or the area within which
+vehicles traveling on different highways joining at any other angle may come in
+conflict.If a highway includes two roadways thirty or more feet
+apart, each crossing of each roadway of the divided highway by an intersecting
+highway is a separate intersection.If the intersecting highway also
+includes two roadways thirty or more feet apart, each crossing of two roadways
+of the highways is a separate intersection.
+9."License" means any license,
+temporary instruction permit or temporary license issued under the laws of this
+state or any other state that pertain to the licensing of persons to operate
+motor vehicles.
+10."Low emission and energy efficient
+vehicle" means a vehicle that has been certified by the United States
+environmental protection agency administrator in accordance with 23 United
+States Code section 166 or that is part of a federally approved pilot program.
+11."Motorized wheelchair" means any
+selfpropelled wheelchair that is used by a person for mobility.
+12."Official traffic control device"
+means any sign, signal, marking or device that is not inconsistent with this
+chapter and that is placed or erected by authority of a public body or official
+having jurisdiction for the purpose of regulating, warning or guiding traffic.
+13."Park", if prohibited, means the
+standing of a vehicle, whether occupied or not, otherwise than temporarily for
+the purpose of and while actually engaged in loading or unloading.
+14."Photo
+enforcement system" means a device substantially consisting of a radar
+unit or sensor linked to a camera or other recording device that produces one
+or more photographs, microphotographs, videotapes or digital or other recorded
+images of a vehicle's license plate for the purpose of identifying violators of
+articles 3 and 6 of this chapter.
+15.14."Pneumatic
+tire" means a tire in which compressed air is designed to support the
+load.
+16.15."Pole
+trailer" means a vehicle that is all of the following:
+(a)Without motive power.
+(b)Designed to be drawn by another vehicle and
+attached to the towing vehicle by means of a reach or pole or by being boomed
+or otherwise secured to the towing vehicle.
+(c)Used ordinarily for transporting long or
+irregularly shaped loads such as poles, pipes or structural members capable
+generally of sustaining themselves as beams between the supporting connections.
+17.16."Police
+officer" means an officer authorized to direct or regulate traffic or make
+arrests for violations of traffic rules or other offenses.
+18.17."Private
+road or driveway" means a way or place that is in private ownership and
+that is used for vehicular travel by the owner and those persons who have
+express or implied permission from the owner but not by other persons.
+19.18."Railroad"
+means a carrier of persons or property on cars operated on stationary rails.
+20.19."Railroad
+sign or signal" means a sign, signal or device erected by authority of a
+public body or official or by a railroad and intended to give notice of the
+presence of railroad tracks or the approach of a railroad train.
+21.20."Railroad
+train" means a steam engine or any electric or other motor that is with or
+without cars coupled to the steam engine or electric or other motor and that is
+operated on rails.
+22.21."Roadway"
+means that portion of a highway that is improved, designed or ordinarily used
+for vehicular travel, exclusive of the berm or shoulder. If a highway includes
+two or more separate roadways, roadway refers to any such roadway separately
+but not to all such roadways collectively.
+23.22."Safety
+zone" means the area or space that is both:
+(a)Officially set apart within a roadway for the
+exclusive use of pedestrians.
+(b)Protected or either marked or indicated by
+adequate signs as to be plainly visible at all times while set apart as a
+safety zone.
+24.23."Sidewalk"
+means that portion of a street that is between the curb lines or the lateral
+lines of a roadway and the adjacent property lines and that is intended for the
+use of pedestrians.
+25.24."Stop",
+if required, means complete cessation from movement.
+26.25."Stop,
+stopping or standing", if prohibited, means any stopping or standing of an
+occupied or unoccupied vehicle, except when necessary to avoid conflict with
+other traffic or in compliance with directions of a police officer or traffic
+control sign or signal.
+27.26."Through
+highway" means a highway or portion of a highway at the entrances to which
+vehicular traffic from intersecting highways is required by law to stop before
+entering or crossing and when stop signs are erected as provided in this
+chapter.
+28.27."Traffic"
+means pedestrians, ridden or herded animals, vehicles and other conveyances
+either singly or together while using a highway for purposes of travel.
+29.28."Traffic
+control signal" means a device, whether manually, electrically or mechanically
+operated, by which traffic is alternately directed to stop and to proceed.
+30.29."Truck"
+means a motor vehicle that is designed, used or maintained primarily for the
+transportation of property. END_STATUTE
+Sec.2.Section 28-627, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-627.Powers of local authorities
+A.This chapter and chapters 4 and 5 of this title
+do not prohibit a local authority, with respect to streets and highways under
+its jurisdiction and within the reasonable exercise of the police power, from:
+1.Regulating the standing or parking of vehicles.
+2.Regulating traffic by means of police officers,
+traffic control signals or volunteer posse organization members authorized by
+the sheriff under section 11441 for the purpose of directing traffic
+only.
+3.Regulating or prohibiting processions or
+assemblages on the highways.
+4.Designating particular highways as oneway
+highways and requiring that all vehicles on oneway highways be moved in
+one specific direction.
+5.Regulating the speed of vehicles in public
+parks.
+6.Designating any highway as a through highway
+and requiring that all vehicles stop before entering or crossing the highway or
+designating any intersection as a stop intersection and requiring all vehicles
+to stop at one or more entrances to the intersection.
+7.Restricting the use of highways as authorized
+in section 281106.
+8.Regulating the operation of bicycles and
+requiring the registration and licensing of bicycles, including the requirement
+of a registration fee.
+9.Regulating or prohibiting the turning of
+vehicles or specified types of vehicles at intersections.
+10.Altering the prima facie speed limits as
+authorized by this chapter.
+11.Designating routes over streets and highways
+for vehicles not exceeding one hundred two inches in width, exclusive of safety
+equipment.
+12.Adopting other traffic regulations that are
+specifically authorized by this chapter or chapter 4 or 5 of this title.
+13.Designating routes on certain streets and
+highways for the purpose of allowing offhighway vehicle operators to
+gain access to or from a designated offhighway recreation facility as
+defined in section 281171, offhighway vehicle trail as defined in
+section 281171 or offhighway vehicle special event as defined in
+section 281171.
+B.A local authority shall not erect or maintain a
+stop sign or traffic control signal at any location that requires the traffic on
+any state highway to stop before entering or crossing any intersecting highway
+unless approval in writing has first been obtained from the director.
+C.An ordinance or regulation enacted under
+subsection A, paragraph 4, 5, 6, 7, 9 or 10 of this section is not effective
+until signs giving notice of the local traffic regulations are posted on or at
+the entrances to the highway or part of the highway affected as is most
+appropriate.
+D.The definition of motor vehicle prescribed in
+section 28101 does not prevent a local authority from adopting
+ordinances that regulate or prohibit the operation of motorized skateboards,
+except that a local authority shall not adopt an ordinance that requires
+registration and licensing of motorized skateboards.For the purposes
+of this subsection, "motorized skateboard" means a selfpropelled
+device that has a motor, a deck on which a person may ride and at least two
+tandem wheels in contact with the ground.
+E.In addition to the appointment of peace
+officers, a local authority may provide by ordinance for the appointment of:
+1.Unarmed police aides or municipally approved
+private contractors who are employed or contracted by the police department and
+who are empowered to commence an action or proceeding before a court or judge
+for a violation of the local authority's ordinances regulating the standing or
+parking of vehicles. A municipally approved private contractor shall not
+include a relative of an employee or of an elected official of the
+municipality. The authority of the unarmed police aide or municipally approved
+private contractor as authorized in this section is limited to the enforcement
+of the ordinances of local authorities regulating the standing or parking of
+vehicles. Pursuant to rules established by the supreme court, an unarmed
+police aide appointed pursuant to this paragraph may serve any process
+originating out of a municipal court in the municipality in which the unarmed
+police aide is employed. Service of process under this paragraph shall only be
+made during the hours the municipal court is open for the transaction of
+business and only on court premises.This paragraph does not grant
+to unarmed police aides or municipally approved private contractors other
+powers or benefits to which peace officers of this state are entitled.
+2.Traffic investigators who may:
+(a)Investigate traffic accidents within the
+jurisdiction of the local authority.
+(b)Commence an action or proceeding before a
+court or judge for any violation of a state statute or local ordinance relating
+to traffic, if the violation is related to a traffic accident within the
+jurisdiction of the local authority.
+(c)Pursuant to rules established by the supreme
+court, serve any process originating out of a municipal court in the
+municipality in which the traffic investigator is employed. Service of process
+under paragraph 1 of this subsection shall only be made during the hours the
+municipal court is open for the transaction of business and only on court
+premises.
+F.A traffic investigator appointed pursuant to
+this section shall:
+1.Be unarmed at all times during the course of
+the traffic investigator's duties.
+2.Be an employee of the appointing local
+authority.
+3.File written reports as required pursuant to
+section 28667.
+G.Notwithstanding
+subsection E of this section, an unarmed police aide, a municipally approved
+private contractor or a traffic investigator shall not serve any process
+resulting from a citation issued for a violation of article 3 or 6 of this
+chapter or of a city or town ordinance for excessive speed or failure to obey a
+traffic control device that is obtained using a photo enforcement system.
+H.G.This
+section does not grant other powers or benefits to traffic investigators to
+which peace officers of this state are entitled.
+I.H.Pursuant
+to section 281092, a local authority shall provide reasonable access to
+and from terminals and service facilities on highways under its jurisdiction.END_STATUTE
+Sec.3.Section 28-1201, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-1201.Definition of photo enforcement system
+In this article, unless the context otherwise requires,
+"photo enforcement system" has the same
+meaning prescribed in section 28601 means a device substantially consisting of a radar unit or sensor
+linked to a camera or other recording device that produces one or more
+photographs, microphotographs, videotapes or digital or other recorded images of
+a vehicle's license plate for the purpose of identifying violators of article 3
+or 6 of this chapter or of a city or town ordinance for excessive speed or
+failure to obey a traffic control device.END_STATUTE
+Sec.4.Repeal
+Sections 28-1202,
+28-1203, 28-1204, 28-1205 and 281206, Arizona Revised
+Statutes, are repealed.
+Sec.5.Title 28, chapter 3, article 21,
+Arizona Revised Statutes, is amended by adding a new section 28-1202, to read:
+START_STATUTE28-1202.Photo enforcement system; prohibition
+A photo enforcement
+system shall not be used by a local authority or any agency of this state to
+identify violators of article 3 or 6 of this chapter or of a city or town
+ordinance for excessive speed or failure to obey a traffic control device. END_STATUTE
+Sec.6.Repeal
+Section 28-1602,
+Arizona Revised Statutes, is repealed.
+Sec.7.Legislative intent
+Pursuant to section 41-1107, Arizona Revised Statutes, it is
+the legislature's intent to:
+1.Keep the enforcement of the laws in this state
+in the hands of trained law enforcement officers who are authorized by the
+people of this state to enforce the laws.
+2.Protect the citizens of this state from the
+abuses that accompany the outsourcing of law enforcement to private, for-profit
+entities.
+3.Ensure that the purpose of law enforcement
+remains to serve and protect and not to generate revenue for governments.
+2.The Secretary of State shall submit this
+proposition to the voters at the next general election as provided by article
+IV, part 1, section 1, Constitution of Arizona.
+

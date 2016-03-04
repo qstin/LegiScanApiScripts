@@ -1,0 +1,549 @@
+
+
+
+
+PREFILED DEC 15 2015
+
+
+
+REFERENCE TITLE: water and energy improvement districts
+
+
+
+
+
+
+
+State of Arizona
+Senate
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+SB 1016
+
+
+
+
+
+
+
+
+
+Introduced by
+Senators
+  Sherwood: Quezada
+
+
+
+
+
+AN ACT
+
+amending section
+48-572, Arizona Revised Statutes; amending title 48, chapter 4, Arizona Revised
+Statutes, by adding article 7; relating to special taxing districts.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section
+48-572, Arizona Revised Statutes, is amended to read:
+START_STATUTE48-572.Purposes for which public improvements may be undertaken;
+powers incidental to public improvements
+A.When If
+the public interest or convenience requires, the governing body of a
+municipality may:
+1.Order the whole or
+any portion, either in length or width, of one or more of the streets of the
+municipality graded or regraded, paved or repaved, or otherwise improved or
+reimproved.
+2.Order the
+construction, reconstruction or repair of any tunnel, subway, viaduct or
+conduit in, on, under or over any street, or land of the municipality or any
+land on, under or over which the municipality may have an easement or
+right-of-way therefor.
+3.Order the
+construction or reconstruction of sidewalks, crosswalks, curbs, gutters,
+culverts, bridges, tunnels, siphons, manholes, steps, parkings and parkways and
+also pipes, hydrants and appliances for fire protection.
+4.Order construction,
+reconstruction or acquisition of sewers, ditches, drains, conduits, pipelines
+and channels for sanitary and drainage purposes, or either or both thereof,
+with outlets, cesspools, manholes, catch basins, flush tanks, septic tanks,
+connecting sewers, ditches, drains, conduits, channels and other appurtenances
+in, under, over or through any street, or any land of the municipality or any
+right-of-way granted or obtained for such purpose, either within or without the
+limits of the municipality.
+5.Order construction, reconstruction
+or acquisition of waterworks, ditches, canals, channels, conduits, pipelines
+and siphons, together with the necessary or usual appurtenances for carrying
+storm water or water from irrigation ditches, watercourses, streams or springs
+into, through or out of the municipality, in, under, over or through any
+street, or any land of the municipality or any right-of-way granted or obtained
+for such purpose, either within or without the limits of the municipality.
+6.Order construction,
+reconstruction or acquisition of breakwater levees or walls, docks, wharves,
+marinas, boat harbors and related facilities.
+7.Order construction,
+reconstruction or acquisition of lighting plants and poles, wires, conduits,
+lamps, standards and other appliances for the purpose of lighting and
+beautifying the streets improved.
+8.Order the whole or
+any portion of any offstreet parking area and entrances thereto of the
+municipality graded or regraded, paved or repaved, or otherwise improved or
+reimproved, order lighting plants and poles, wires, conduits, lamps, standards,
+and other appliances for the purpose of lighting, landscaping and beautifying
+the streets or off-street parking areas and entrances thereto to be improved
+and order construction on such land of parking structures that may have any
+portion at, above or below grade.If in connection with any lot or
+parcel within a proposed assessment district adequate off-street parking
+facilities have been provided, such lot or parcel shall be excluded from the
+assessment district and shall not be assessed for such improvements if within
+the time and in the manner provided in section 48579, subsection C the
+owner or owners file a written objection to the extent of the assessment
+district.For the purposes
+of this paragraph in cities having a zoning code or ordinance, unless the
+off-street parking facilities provided meet or exceed the requirements of the
+zoning code or ordinance for a lot or parcel of that size in that zone, then
+such offstreet parking facilities shall not be deemed
+adequate.In cities not having a zoning code or ordinance, the
+facilities provided shall not be deemed adequate unless parking space for one
+motor vehicle is provided for each three hundred square feet of floor space in
+the building served by such offstreet parking site.If any
+lot or parcel within a proposed assessment district organized for improvements
+provided for in this paragraph is zoned and used exclusively for single family
+residential purposes, such lot or parcel shall be excluded from the assessment
+district and shall not be assessed for such improvements if within the time and
+in the manner provided in section 48579, subsection C the owner or
+owners file a written objection to the extent of the assessment district.
+9.Order the
+construction or reconstruction of any work incidental to or connected with the
+improvements set forth in this subsection.
+10.Pursuant to
+section 48622, and notwithstanding any other law, construct, acquire or
+improve a wastewater treatment facility, drinking waterfacility or
+nonpoint source project with monies borrowed from or financial assistance
+including forgivable principal provided by the water infrastructure finance
+authority of Arizona.
+11.Pursuant to article 7 of this chapter,
+provide for the use of energy or water efficient systems or devices.
+B.In addition to all
+powers specifically granted by or reasonably inferred under the provisions of this article, cities and towns,
+acting through their governing bodies, may:
+1.Join with other cities
+or towns or any improvement district or sanitary district or the state, or any
+of its departments or agencies, the federal government or any of its
+departments, agencies or instrumentalities, in the construction, operation or
+maintenance of improvements authorized by this section.
+2.Join with any other
+city, town, improvement district or sanitary district in improving streets
+running upon on or along the boundaries of the city or town
+and levy assessments or issue bonds for the proportionate part of the city or
+town of the cost of the improvement.
+3.Accept from the
+state, or federal government, or any agency, department or instrumentality of
+either, grants for or in aid of the construction of any of the improvements
+provided by this article, and enter into contracts with the state, the federal
+government, or any agency, department or instrumentality of either or both, for
+the construction or supervision of construction by the state, the federal
+government or any agency, department or instrumentality of either or both of
+any such improvements, in accordance with the plans, specifications, rules and
+regulations of the state, the federal government, or any agency, department or
+instrumentality of either or both, but reserving to the city or town the right to
+assess against the property benefited by the improvement, and located within
+the city or town, that portion of the cost of the improvement which does not
+qualify for aid under the state or federal grant. END_STATUTE
+Sec. 2.Title 48,
+chapter 4, Arizona Revised Statutes, is amended by adding article 7, to read:
+ARTICLE
+7.WATER AND ENERGY IMPROVEMENT DISTRICTS
+START_STATUTE48-751.Definitions 
+In this article, unless the context otherwise requires:
+1."District" means a water and energy
+improvement district that is established and designated under this article.
+2."Governing body" means the body that by law
+is constituted as the legislative department of the local government.
+3."Local government" means a city, town or
+county.
+4."Program" means a program that is
+established under this article.
+5."Qualified improvement" means an improvement
+that is affixed to qualified real property and that is intended to make the
+property more energy or water efficient or independent, including a product,
+device or interacting group of products or devices on the customer's side of a
+utility meter that use energy technology to generate electricity, provide
+thermal energy or regulate temperature.
+6."Qualified project" means the installation
+or modification of a qualified improvement.
+7."Qualified real property" means privately
+owned commercial or industrial real property or residential real property with
+five or more dwelling units. END_STATUTE
+START_STATUTE48-752.Establishment of program; financing
+A.The governing body of a local government may determine
+that it is convenient and advantageous to establish a program under this
+article.
+B.An authorized official of the local government that
+establishes a program may enter into a written contract with a record owner of
+qualified real property in a district that is designated under this article to
+impose an assessment to repay the owner's financing of a qualified project on
+the owner's property. A third party or, if authorized by the program, the
+local government may provide the financing to be repaid through assessments.
+C.If the program provides for third-party financing, the
+authorized official of the local government who enters into a written contract
+with a property owner under subsection B of this section must also enter into a
+written contract with the party that provides the financing for a qualified
+project under the program in order to service the debt through assessments.
+D.If the program provides for local government
+financing, the written contract prescribed by subsection B of this section must
+be a contract to finance the qualified project through assessments.
+E.The financing for which assessments are imposed may
+include any of the following:
+1.The cost of materials and labor necessary for the
+installation or modification of a qualified improvement.
+2.Permit fees.
+3.Inspection fees.
+4.Lender fees.
+5.Program application and administrative fees.
+6.Project development and engineering fees.
+7.Third-party review fees, including fees for
+verification reviews, prescribed by section 48-757.
+8.Any other fees or costs that may be incurred by the
+property owner incident to the installation, modification or improvement on a
+specific or pro rata basis, as determined by the local government. END_STATUTE
+START_STATUTE48-753.Designation of district
+A.The governing body of a local government may determine
+that it is convenient and advantageous to designate an area within the local
+government's jurisdiction as a district within which authorized local
+government officials and record owners of qualified real property may enter
+into written contracts to impose assessments to repay the financing by owners
+of qualified projects on the owners' property and, if authorized by the local
+government program, finance the qualified project. Only those record owners of
+qualified real property that is located within the jurisdictional boundaries of
+the local government for which the program has been formed who have entered
+into voluntary written agreements pursuant to this article may be included
+within the district and are subject to an assessment under this article.
+B.An area that is designated as a district by the
+governing body of a local government under this section shall be composed of
+any qualified real property that is located within the jurisdictional
+boundaries of the local government and that from time to time is subject to a
+voluntary written agreement between the district and the record owner of the
+qualified real property pursuant to this article. The district may include
+noncontiguous real property if it is wholly within the jurisdictional
+boundaries of the local government. END_STATUTE
+START_STATUTE48-754.Procedure for establishment of program; amendment of
+program
+A.To establish a program under this article, the
+governing body of a local government shall take the following actions in the
+following order:
+1.Adopt a resolution of intent that includes all of the
+following:
+(a)A finding that, if appropriate,
+financing qualified projects through contractual assessments is a valid public
+purpose.
+(b)A statement that the local
+government intends to make contractual assessments to repay financing for
+qualified projects available to property owners.
+(c)A description of the types of
+qualified projects that may be subject to contractual assessments.
+(d)A description of the boundaries of
+the district.
+(e)A description of any proposed
+arrangements for third-party financing to be available or any local government
+financing to be provided for qualified projects.
+(f)A description of local government
+debt servicing procedures if third-party financing will be provided and if
+assessments will be collected to service a third-party debt.
+(g)A reference to the report on the
+proposed program that is prepared according to section 48-755 and a statement
+that identifies the location where the report is available for public
+inspection.
+(h)A statement of the time and place for
+a public hearing on the proposed program.
+(i)A statement that identifies the
+appropriate local official and the appropriate assessor for the purposes of
+consultation regarding collecting the proposed contractual assessments by way
+of property taxes that are imposed on the assessed property.
+2.Hold a public hearing at which the public may comment
+on the proposed program, including the report that is required by section
+48-755.
+3.Adopt a resolution that establishes the program and
+the terms of the program, including each item that is included in the report
+under section 48-755 and a description of each aspect of the program that may
+be amended only after another public hearing is held.The resolution
+may incorporate the report or the amended version of the report, as
+appropriate, by reference.
+B.The governing body of a local government may amend a
+program by resolution.
+C.On proper formation of a district, a local government
+may:
+1.Hire and set the compensation of a program
+administrator and program staff.
+2.Contract for professional services that are necessary
+to administer a program.
+3.Impose fees to offset the costs of administering a
+program. The fees that are authorized by this paragraph may be assessed as:
+(a)A program application fee that the
+property owner who requests to participate in the program pays.
+(b)A component of the interest rate on
+the assessment in the written contract between the local government and the
+property owner.
+(c)A combination of subdivisions (a) and (b) of this paragraph. END_STATUTE
+START_STATUTE48-755.Report regarding assessment; demonstration of financial
+ability
+A.The report for a proposed program required by section 48-754
+must include:
+1.A map that shows the boundaries of the proposed
+district.
+2.A form contract between the local government and the
+property owner that specifies the terms of both of the following:
+(a)The assessment under the program.
+(b)The financing that a third party or
+the local government, as appropriate, provides.
+3.If the proposed program provides for third-party
+financing, a form contract between the local government and the third party
+regarding the servicing of the debt through assessments.
+4.A description of types of qualified projects that are
+eligible for contractual assessments.
+5.A statement that identifies a local government
+official who is authorized to enter into written contracts on behalf of the
+local government.
+6.A plan for ensuring sufficient capital for third-party
+financing and, if appropriate, raising capital for local government financing
+for qualified projects.
+7.If bonds will be issued to provide capital to finance
+qualified projects as part of the program as provided by section 48-764, all of
+the following:
+(a)A maximum aggregate annual dollar
+amount for financing through contractual assessments to be provided by the
+local government under the program.
+(b)A method for ranking requests from
+property owners for financing through contractual assessments in priority order
+if requests appear likely to exceed the authorization amount. 
+(c)A method for determining the
+interest rate and period during which contracting owners would pay an
+assessment and the maximum amount of an assessment.
+8.A method for ensuring that the period of the
+contractual assessment does not exceed the useful life of the qualified project
+that is the basis for the assessment.
+9.A description of the application process and
+eligibility requirements for financing qualified projects to be repaid through
+contractual assessments under the program.
+10.A method as prescribed by subsection B
+of this section for ensuring that property owners who request to participate in
+the program demonstrate the financial ability to fulfill financial obligations
+to be repaid through contractual assessments.
+11.A statement that explains the manner
+in which property will be assessed and assessments will be collected.
+12.A statement that explains the lender
+notice requirement provided by section 48-756.
+13.A statement that explains the review
+requirement provided by section 48-757.
+14.A description of marketing and
+participant education services to be provided for the program.
+15.A description of quality assurance and
+antifraud measures to be instituted for the program.
+16.The procedures for collecting the
+proposed contractual assessments.
+B.The method for ensuring a demonstration of financial
+ability under subsection A of this section must be based on appropriate
+underwriting factors, including:
+1.Providing for verification of all of the following:
+(a)That the property owner who
+requests to participate under the program is all of the following:
+(i)The legal owner of the qualified
+real property to be benefited.
+(ii)Current on mortgage and property
+tax payments.
+(iii)Not insolvent or in bankruptcy
+proceedings.
+(b)That the title of the qualified
+real property to be benefited is not in dispute.
+2.Requiring an appropriate ratio of the amount of the
+assessment to the assessed value of the property.
+C.The local government shall make the report available
+for public inspection at both of the following:
+1.The local government's website.
+2.The office of the official who is designated to enter
+into written contracts on behalf of the local government under the program. END_STATUTE
+START_STATUTE48-756.Notice to mortgage holder required for participation
+Before a local government may enter into a written contract with a
+record owner of qualified real property to impose an assessment to repay the
+financing of a qualified project under this article, both of the following must
+occur:
+1.The holder of any mortgage or deed of trust on the
+property must be given written notice of the owner's intention to participate
+in a program under this article on or before the thirtieth day before the date
+the written contract for assessment between the owner and the local government is
+executed.
+2.A written consent from the holder of the mortgage or
+deed of trust on the property must be obtained. END_STATUTE
+START_STATUTE48-757.Review required
+A.A program that is established under this article must
+require a review of water or energy baseline conditions and a review of the
+projected water or energy savings for each proposed qualified project.
+B.After a qualified project is completed, the local government
+shall obtain verification that the qualified project was properly completed and
+is operating as intended.
+C.An independent third party shall conduct the baseline
+water or energy review or verification review under this section. END_STATUTE
+START_STATUTE48-758.Direct acquisition by owner
+The proposed arrangements for financing a qualified project may
+authorize the property owner to purchase directly the related equipment and
+materials for the installation or modification of a qualified improvement and
+contract directly, including through lease, power purchase agreement or other
+service contract, for the installation or modification of a qualified
+improvement. END_STATUTE
+START_STATUTE48-759.Recording of notice of contractual assessment required
+A.A local government that authorizes financing through
+contractual assessments under this article shall record a written notice of
+each contractual assessment in the real property records of the county in which
+the property is located.
+B.The notice prescribed by this section must contain all
+of the following:
+1.The amount of the assessment.
+2.The legal description of the property.
+3.The name of each property owner.
+4.A reference to the statutory assessment lien provided
+under this article. END_STATUTE
+START_STATUTE48-760.Exercise of powers
+The governing body of a local government that establishes a program
+as prescribed by section 48-754 may exercise the powers that are granted under
+this article. END_STATUTE
+START_STATUTE48-761.Authorized assessments
+A.An assessment under this article may be imposed to
+repay the financing of qualified projects on qualified real property that is
+located in a district designated under this article.
+B.An assessment under this article may not be imposed to
+repay the financing of:
+1.Facilities for undeveloped lots or lots that are
+undergoing development at the time of the assessment.
+2.The purchase or installation of products or devices
+that are not permanently affixed to real property.
+C.An assessment may be imposed under this article only
+if there is a written contract regarding the assessment with the record owner
+of the qualified real property to be assessed. END_STATUTE
+START_STATUTE48-762.Lien; enforcement; delinquency
+A.A contractual assessment under this article and any
+interest or penalties on the assessment:
+1.Is a first and prior lien against the real property on
+which the assessment is imposed from the date on which the notice of
+contractual assessment is recorded as provided by section 48-759 and until the
+assessment, interest or penalty is paid.
+2.Has the same priority status as a lien for any other
+ad valorem tax.
+B.The lien that arises pursuant to this section runs
+with the land, and that portion of the assessment under the assessment contract
+that has not yet become due is not eliminated by foreclosure of a property tax
+lien.
+C.The assessment lien may be enforced by the local
+government in the same manner that a property tax lien against real property
+may be enforced by the local government.
+D.Delinquent installments of the assessments incur
+interest and penalties in the same manner as delinquent property taxes.
+E.A local government may recover costs and expenses,
+including attorney fees, in a suit to collect a delinquent installment of an
+assessment in the same manner as in a suit to collect a delinquent property
+tax. END_STATUTE
+START_STATUTE48-763.Collection of assessments
+The governing body of a local government may contract with the
+governing body of another jurisdiction or district, including the county
+assessor of the county in which the district is to be located, to perform the
+duties of the local government relating to the collection of assessments that
+the local government imposes under this article. END_STATUTE
+START_STATUTE48-764.Bonds or notes; security; public purpose
+A.A local government may issue bonds or notes to finance
+qualified projects through contractual assessments under this article.
+B.Bonds or notes that are issued under this section may
+not be general obligations of the local government.The bonds or
+notes must be secured by one or more of the following as provided by the
+governing body of the local government in the resolution or ordinance that
+approves the bonds or notes:
+1.Payments of contractual assessments on benefited
+property in one or more specified districts designated under this article.
+2.Reserves that the local government establishes from
+grants, bonds or net proceeds or other lawfully available funds.
+3.Municipal bond insurance, lines of credit, public or
+private guaranties, standby bond purchase agreements, collateral assignments,
+mortgages or any other available means of providing credit support or
+liquidity.
+4.Any other funds that are lawfully available for
+purposes that are consistent with this article.
+C.A local government pledge of assessments, funds or
+contractual rights in connection with the issuance of bonds or notes by the
+local government under this article is a first lien on the assessments, funds
+or contractual rights that are pledged in favor of the person to whom the
+pledge is given, without further action by the local government. The lien is
+valid and binding against any other person, with or without notice.
+D.Bonds or notes that are issued under this article
+further an essential public and governmental purpose, including:
+1.Improvement of the reliability of the state electrical
+system.
+2.Reduction of energy costs.
+3.Economic stimulation and development.
+4.Enhancement of property values.
+5.Enhancement of employment opportunities.
+6.Reduction in greenhouse gas emissions. END_STATUTE
+START_STATUTE48-765.Joint implementation
+A.Any combination of local governments may agree to
+jointly implement or administer a program under this article.
+B.If two or more local governments implement a program
+jointly, a single public hearing held jointly by the cooperating local
+governments is sufficient to satisfy the requirement of section 48-754,
+subsection A, paragraph 2.
+C.One or more local governments may contract with a
+third party, including another local government, to administer a program. END_STATUTE
+START_STATUTE48-766.Prohibited acts
+A local government that establishes a district under this article
+may not:
+1.Make the issuance of a permit, license or other
+authorization from the local government to a person who owns property in the
+district contingent on the person entering into a written contract to repay the
+financing of a qualified project through contractual assessments under this
+article.
+2.Otherwise compel a person who owns property in the
+district to enter into a written contract to repay the financing of a qualified
+project through contractual assessments under this article. END_STATUTE
+Sec. 3.Legislative intent
+The legislature finds, determines
+and declares that:
+1.The development and
+creation of new jobs and opportunities within the energy and construction
+industries of this state are critically important to the growth of the economy
+in this state in the twenty-first century.
+2.The installation of
+energy efficiency upgrades in homes and buildings within this state will
+continue to play a central and critical role in the future of this state and of
+the nation as a whole and will advance the security, economic well-being and
+public and environmental health of this state, as well as contribute to the
+energy independence of our nation.
+3.The development,
+production and efficient use of renewable energy will continue to play a
+central and critical role in the future of this state and of the nation as a
+whole and will advance the security, economic wellbeing and public and
+environmental health of this state, as well as contribute to the energy
+independence of our nation.
+4.The conservation and
+efficient use of water resources likewise play a central and critical role in
+the future of this state and its individual cities and counties and serve to
+advance the security, economic well-being and public and environmental health
+of this state.
+5.The inclusion of energy efficiency and renewable
+energy production projects and water conservation improvements and water
+resource management improvements for use in improvement districts, and the
+powers conferred under title 48, chapter 4, article 7, Arizona Revised
+Statutes, as added by this act, as well as the expenditures of public monies
+made pursuant to title 48, chapter 4, article 7, Arizona Revised Statutes, as
+added by this act, serve a valid public purpose, and that the enactment of this
+act is expressly declared to be in the public interest.
+

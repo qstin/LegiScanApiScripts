@@ -1,0 +1,291 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: domestic surplus lines insurance; fees
+
+
+
+
+
+
+
+State of Arizona
+House of Representatives
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+HB 2149
+
+
+
+
+
+
+
+
+
+Introduced by
+Representative
+  Fann
+
+
+
+
+
+AN ACT
+
+Amending section
+20401, Arizona Revised Statutes; amending title 20, chapter 2, article
+5, Arizona Revised Statutes, by adding section 20407.01; amending
+sections 20410, 20465 and 20661, Arizona Revised Statutes;
+relating to surplus lines insurance.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 20-401, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE20-401.Definitions
+In this article, unless the context otherwise requires:
+1."Affiliated" means, with respect to an
+insured, any entity that controls, is controlled by or is under common control
+with the insured. For the purposes of this paragraph, "control"
+means either:
+(a)Directly or indirectly acting through one or
+more other persons who own, control or have the power to vote twentyfive
+per cent percent or more of any class of voting
+securities of the other entity.
+(b)Control in any manner over the election of a
+majority of the directors or trustees of the other entity.
+2."Affiliated group" means any group of
+entities that are affiliated.
+3."Clearinghouse" means the mechanism or
+entity established pursuant to a multistate agreement or compact for the
+receipt and distribution of premium taxes and transaction data related to the
+sale of unauthorized insurance.
+4."Diligent effort" means having sought
+insurance for the same risk from at least three insurers authorized in this
+state to write the particular insurance coverage or type, class or kind of insurance.
+5."Domestic
+surplus lines insurer" means an insurer that is domiciled in and
+authorized to transact insurance in this state and that has received approval
+from the department pursuant to section 20407.01 to issue surplus lines
+insurance coverage in this state.
+5.6."Foreign
+decree" means any decree or order in equity of a court located in a
+reciprocal state, including a court of the United States located therein,
+obtained by a qualified party against any insurer incorporated or authorized to
+do business in this state.
+6.7."Home
+state" means one of the following:
+(a)The state in which an insured maintains its
+principal place of business or, in the case of an individual, the individual's
+principal place of residence.
+(b)If one hundred per cent percent of the insured risk is located out of the state
+that would be the insured's home state pursuant to subdivision (a) of this
+paragraph, the state to which the greatest percentage of the insured's taxable
+premium is allocated for the insurance contract in question.
+(c)If more than one insured from an affiliated
+group are named insureds on a single nonadmitted insurance contract, the state
+as determined pursuant to subdivision (a) of this paragraph of the member of
+the affiliated group that has the largest percentage of premium attributed to
+it under the insurance contract.
+7.8."Multistate
+risk" means a risk covered by an unauthorized insurer with insured
+exposures in more than one state.
+8.9."Qualified
+party" means a state regulatory agency acting in its capacity to enforce
+the insurance laws of such that state.
+9.10."Reciprocal
+state" means any state or territory of the United States the laws of which
+give to insurers organized under the laws of this state the same right to
+defend actions as that granted to foreign insurers under the laws of this state
+and the laws of which contain procedures substantially similar to those
+specified in this article for the enforcement of decrees or orders in equity
+issued by courts located in other states or territory of the United States
+against any insurer incorporated or authorized to do business in such that
+state or territory.
+10.11."Singlestate
+risk" means a risk with insured exposures in only one state.
+11.12."Unauthorized
+insurance" or "nonadmitted insurance" means any insurance
+permitted to be placed directly or through a surplus lines broker with an
+insurer who is not licensed to transact insurance in this state. END_STATUTE
+Sec.2.Title 20, chapter 2, article 5, Arizona
+Revised Statutes, is amended by adding section 20-407.01, to read:
+START_STATUTE20-407.01.Designation as a domestic surplus lines insurer;
+requirements; scope of business activity permitted
+A.Notwithstanding
+any other law, a domestic insurer possessing policyholder surplus of at least
+fifteen million dollars, pursuant to a resolution by its board of directors and
+on the written approval of the director, may be designated as a domestic
+surplus lines insurer. A domestic surplus lines insurer shall be considered a
+qualified, unauthorized insurer for purposes of writing surplus lines insurance
+coverage pursuant to the requirements of this article.
+B.A
+domestic surplus lines insurer shall only insure risks in this state procured
+from a surplus lines broker pursuant to the requirements of this article.
+C.Insurance
+written by a domestic surplus lines insurer is subject to the tax on premiums
+required by section 20416 and is exempt from the tax on premiums
+required by chapter 2, article 1 of this title.
+D.A
+domestic surplus lines insurer shall be considered a nonadmitted insurer as
+defined in 15 United States Code section 8206 with respect to surplus lines
+insurance issued in this state.
+E.Surplus
+lines insurance policies issued by a domestic surplus lines insurer in this
+state are not subject to the protection of or other provisions of the Arizona
+property and casualty insurance guaranty fund established by section 20662.
+F.Surplus
+lines insurance policies issued in this state by a domestic surplus lines
+insurer are not subject to and are exempt from all statutory requirements
+relating to insurance rating and rating plans, policy forms, policy
+cancellation and nonrenewal in the same manner and to the same extent as a
+nonadmitted insurer domiciled in another state. END_STATUTE
+Sec.3.Section
+20-410, Arizona Revised Statutes, is amended to read:
+START_STATUTE20-410.Validity of surplus lines insurance; disclosure; policy
+fees
+A.Insurance contracts procured as surplus lines
+coverage are fully valid and enforceable as to all parties and shall be
+recognized in all matters in the same manner as like contracts issued by
+authorized insurers.
+B.Any policy and any evidence of surplus lines
+coverage from that is issued by an
+unauthorized insurer pursuant to this article and that is issued for delivery
+to the insured shall contain a conspicuously stamped or written notice in boldfaced
+type that states one of the following:
+1.If the
+surplus lines policy or evidence of coverage is issued by a nondomestic surplus
+lines insurer:
+Pursuant to Arizona
+Revised Statutes section 20401.01, subsection B, paragraph
+1, Arizona Revised Statutes, this
+policy is issued by an insurer that does not possess a certificate of authority
+from the director of the Arizona Department of Insurance.If the
+insurer that issued this policy becomes insolvent, insureds or claimants will
+not be eligible for insurance guaranty fund protection pursuant to Arizona Revised Statutes title
+20, Arizona Revised Statutes.
+2.If the
+surplus lines policy or evidence of coverage is issued by a domestic surplus
+lines insurer:
+If the insurer that
+issued this policy becomes insolvent, insureds or claimants will not be
+eligible for insurance guaranty fund protection pursuant to title 20, Arizona
+Revised Statutes.
+C.A surplus lines broker may charge and receive a
+fee in addition to the premium for services provided in the transaction of
+surplus lines insurance if before effecting any coverage both of the following
+conditions are met:
+1.The service fees and the specific services for
+which the fees are charged are disclosed to the insured or the insured's
+representative and are agreed to in writing by the insured or the insured's
+representative.
+2.The taxes prescribed in section 20416 are
+paid on any fees charged to the insured.
+D.An
+insurance producer may charge a fee in connection with referring an insured or
+potential insured to a surplus lines broker for the transaction of surplus
+lines insurance if the requirements of subsection C of this section are met. END_STATUTE
+Sec.4.Section 20-465, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE20-465.Fees; deposits; exception
+A.An insurer and insurance producer shall not
+charge or receive any fee or service charge in addition to the premium charged
+for services customarily provided in the transaction of insurance for motor
+vehicle insurance policies that insure six or fewer motor vehicles.
+B.An insurer and insurance producer may charge and
+receive a fee for services not customarily provided in the transaction of
+insurance if the fee is filed with the director and the following conditions
+exist:
+1.The services performed by the insurer or
+insurance producer are in excess of those normally performed for insureds.
+2.The service charge and the specific services for
+which the charge is made are disclosed and agreed to in writing by the insured
+on a form that is approved by the director.
+3.The amount of the service charge is reasonably
+related to the cost of the service performed.
+C.After notice and a hearing, the director shall
+prescribe the services that are customarily provided in the transaction of
+insurance.
+D.If after an examination and a hearing the
+director determines that an insurer or insurance producer has violated subsection
+A of this section, the director may order the insurer or insurance producer to
+refund the fee or that part of the fee that the director determines was
+excessive and may impose civil penalties as set forth in section 20456.The
+insurer or insurance producer shall pay the costs of the examination from
+monies deposited with the director pursuant to section 20159 regardless
+of the findings of the examination.
+E.This section does not prohibit fees, including
+membership fees charged by a reciprocal or mutual insurer, if the fees are
+filed with the director and are included by an insurer in supplemental rate
+information.
+F.This section does not apply to insurers, and insurance producers or surplus lines brokers transacting
+commercial insurance or surplus lines
+insurance pursuant to article 5 of this chapter. For the
+purposes of this subsection, "commercial insurance" means insurance
+that insures against the risks resulting from the responsibilities or
+activities of one or more businesses, including motor vehicle insurance
+policies insuring seven or more motor vehicles. END_STATUTE
+Sec.5.Section 20-661, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE20-661.Definitions
+In this article, unless the context otherwise requires:
+1."Account" means any one of the three
+accounts within the Arizona property and casualty insurance guaranty fund.
+2."Board" means the guaranty fund board.
+3."Covered claim" means an unpaid claim,
+including one for unearned premium, which arises out of and is within the
+coverage of an insurance policy to which this article applies issued by an
+insurer, if such insurer becomes an insolvent insurer after August 27, 1977 and
+the claimant or insured is a resident of this state at the time of the insured
+event or the property from which the claim arises is permanently located in
+this state. Covered claim does not include any amount due any reinsurer,
+insurer, insurance pool or underwriting association as subrogation recoveries
+or otherwise nor shall it include any obligations of the insolvent insurer
+arising out of any reinsurance contracts nor shall it include attorney fees or
+adjustment expenses incurred prior to the determination of insolvency.
+4."Fund" means the Arizona property and
+casualty insurance guaranty fund.
+5."Insolvent insurer" means an insurer
+that is licensed to transact insurance in this state either at the time the
+policy was issued or when the insured event occurred and against whom an order
+of liquidation with a finding of insolvency has been entered after September
+19, 2007 by a court of competent jurisdiction in the insurer's state of
+domicile or by this state pursuant to section 20623, and the order of
+liquidation has not been stayed or been the subject of a writ of supersedeas or
+other comparable order. For purposes of the workers' compensation insurance
+account, an "insolvent
+insurer" shall also include includes any insolvent insurer
+against which an order of liquidation with a finding of insolvency has been
+entered on, before or after the effective date of this section.
+6."Member insurer" means any person who
+writes any kind of insurance, unless such writing is restricted solely to life,
+title, surety, disability, credit, mortgage guaranty or oceanmarine
+insurance, including the exchange of reciprocal or interinsurance
+contracts, and is licensed to transact insurance in this state.
+7."Net direct written premiums" means
+direct gross premiums written in this state on insurance policies to which this
+article applies, less return premiums and dividends paid or credited to
+policyholders on such direct business.Net direct written premiums
+do not include premiums on contracts between insurers or reinsurers or premiums for surplus lines insurance
+coverage issued in this state by a domestic surplus lines insurer pursuant to
+chapter 2, article 5 of this title. END_STATUTE
+

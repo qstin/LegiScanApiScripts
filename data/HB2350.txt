@@ -1,0 +1,393 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: occupational disease; post-traumatic
+  stress disorder
+
+
+
+
+
+
+
+State of Arizona
+House of Representatives
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+HB 2350
+
+
+
+
+
+
+
+
+
+Introduced by
+Representatives
+  Finchem, Cardenas: Bowers, Campbell, Cobb, Larkin, Lawrence, Thorpe
+
+
+
+
+
+AN ACT
+
+Amending sections
+23-901 and 23-901.01, Arizona Revised Statutes; relating to workers'
+compensation.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section
+23-901, Arizona Revised Statutes, is amended to read:
+START_STATUTE23-901.Definitions
+In this
+chapter, unless the context otherwise requires:
+1."Award"
+means the finding or decision of an administrative law judge or the commission
+as to the amount of compensation or benefit due an injured employee or the
+dependents of a deceased employee.
+2."Client"
+means an individual, association, company, firm, partnership, corporation or
+any other legally recognized entity that is subject to this chapter and that
+enters into a professional employer agreement with a professional employer
+organization.
+3."Coemployee"
+means every person employed by an injured employee's employer.
+4."Commission"
+means the industrial commission of Arizona.
+5."Compensation"
+means the compensation and benefits provided by this chapter.
+6."Employee",
+"workman", "worker" and "operative" means:
+(a)Every person in the
+service of the state or a county, city, town, municipal corporation or school
+district, including regular members of lawfully constituted police and fire
+departments of cities and towns, whether by election, appointment or contract
+of hire.
+(b)Every person in the
+service of any employer subject to this chapter, including aliens and minors
+legally or illegally permitted to work for hire, but not including a person
+whose employment is both:
+(i)Casual.
+(ii)Not in the usual
+course of the trade, business or occupation of the employer.
+(c)Lessees of mining
+property and their employees and contractors engaged in the performance of work
+that is a part of the business conducted by the lessor and over which the
+lessor retains supervision or control are within the meaning of this paragraph
+employees of the lessor, and are deemed to be drawing wages as are usually paid
+employees for similar work. The lessor may deduct from the proceeds of ores
+mined by the lessees the premium required by this chapter to be paid for such
+employees.
+(d)Regular members of
+volunteer fire departments organized pursuant to title 48, chapter 5, article
+1, regular firemen of any volunteer fire department, including private fire
+protection service organizations, organized pursuant to title 10, chapters 24
+through 40, volunteer firemen serving as members of a fire department of any
+incorporated city or town or an unincorporated area without pay or without full
+pay and on a parttime basis, and voluntary policemen and volunteer
+firemen serving in any incorporated city, town or unincorporated area without
+pay or without full pay and on a parttime basis, are deemed to be
+employees, but for the purposes of this chapter, the basis for computing wages
+for premium payments and compensation benefits for regular members of volunteer
+fire departments organized pursuant to title 48, chapter 5, article 1, or
+organized pursuant to title 10, chapters 24 through 40, regular members of any
+private fire protection service organization, volunteer firemen and volunteer
+policemen of these departments or organizations shall be the salary equal to
+the beginning salary of the same rank or grade in the fulltime service
+with the city, town, volunteer fire department or private fire protection
+service organization, provided if there is no fulltime equivalent then
+the salary equivalent shall be as determined by resolution of the governing
+body of the city, town or volunteer fire department or corporation.
+(e)Members of the
+department of public safety reserve, organized pursuant to section 411715,
+are deemed to be employees. For the purposes of this chapter, the basis for
+computing wages for premium payments and compensation benefits for a member of
+the department of public safety reserve who is a peace officer shall be the
+salary received by officers of the department of public safety for their first
+month of regular duty as an officer. For members of the department of public
+safety reserve who are not peace officers, the basis for computing premiums and
+compensation benefits is four hundred dollars a month.
+(f)Any person placed in
+onthejob evaluation or in onthejob training under
+the department of economic security's temporary assistance for needy families
+program or vocational rehabilitation program shall be deemed to be an employee
+of the department for the purpose of coverage under the state workers'
+compensation laws only.The basis for computing premium payments and
+compensation benefits shall be two hundred dollars per month. Any person
+receiving vocational rehabilitation services under the department of economic
+security's vocational rehabilitation program whose major evaluation or training
+activity is academic, whether as an enrolled attending student or by
+correspondence, or who is confined to a hospital or penal institution, shall
+not be deemed to be an employee of the department for any purpose.
+(g)Regular members of a
+volunteer sheriff's reserve, which may be established by resolution of the
+county board of supervisors, to assist the sheriff in the performance of the
+sheriff's official duties. A roster of the current members shall monthly be
+certified to the clerk of the board of supervisors by the sheriff and shall not
+exceed the maximum number authorized by the board. Certified members of an
+authorized volunteer sheriff's reserve shall be deemed to be employees of the
+county for the purpose of coverage under the Arizona workers' compensation laws
+and occupational disease disability laws and shall be entitled to receive the
+benefits of these laws for any compensable injuries or disabling conditions that
+arise out of and occur in the course of the performance of duties authorized
+and directed by the sheriff. Compensation benefits and premium payments shall
+be based upon on the salary received by a regular fulltime
+deputy sheriff of the county involved for the first month of regular patrol
+duty as an officer for each certified member of a volunteer sheriff's
+reserve.This subdivision shall not be
+construed to does
+not provide compensation coverage for any member of a sheriff's posse
+who is not a certified member of an authorized volunteer sheriff's reserve
+except as a participant in a search and rescue mission or a search and rescue
+training mission.
+(h)A working member of
+a partnership may be deemed to be an employee entitled to the benefits provided
+by this chapter upon on written acceptance, by
+endorsement, at the discretion of the insurance carrier for the partnership of
+an application for coverage by the working partner.The basis for
+computing premium payments and compensation benefits for the working partner
+shall be an assumed average monthly wage of not less
+than at least six
+hundred dollars nor but not more than the
+maximum wage provided in section 231041 and is subject to the
+discretionary approval of the insurance carrier.Any compensation for
+permanent partial or permanent total disability payable to the partner shall be
+computed on the lesser of the assumed monthly wage agreed to by the insurance
+carrier on the acceptance of the application for coverage or the actual average
+monthly wage received by the partner at the time of injury.
+(i)The sole proprietor
+of a business subject to this chapter may be deemed to be an employee entitled
+to the benefits provided by this chapter on written acceptance, by endorsement,
+at the discretion of the insurance carrier of an application for coverage by
+the sole proprietor.The basis for computing premium payments and
+compensation benefits for the sole proprietor shall be an assumed average
+monthly wage of not less than at least six hundred dollars
+nor but not more than the maximum wage provided by section 231041
+and is subject to the discretionary approval of the insurance
+carrier.Any compensation for permanent partial or permanent total
+disability payable to the sole proprietor shall be computed on the lesser of
+the assumed monthly wage agreed to by the insurance carrier on the acceptance
+of the application for coverage or the actual average monthly wage received by
+the sole proprietor at the time of injury.
+(j)A member of the
+Arizona national guard, Arizona state guard or unorganized militia shall be
+deemed a state employee and entitled to coverage under the Arizona workers'
+compensation law at all times while the member is receiving the payment of the
+member's military salary from the state of Arizona under competent military
+orders or upon on order of the governor. Compensation
+benefits shall be based upon on the monthly military pay
+rate to which the member is entitled at the time of injury, but not less than a salary of at least four hundred dollars
+per month, nor but not more than the maximum provided by the
+workers' compensation law. No Arizona
+compensation benefits shall not
+inure to a member compensable under federal law.
+(k)Certified ambulance
+drivers and attendants who serve without pay or without full pay on a parttime
+basis are deemed to be employees and entitled to the benefits provided by this
+chapter and the basis for computing wages for premium payments and compensation
+benefits for certified ambulance personnel shall be four hundred dollars per
+month.
+(l)Volunteer workers of
+a licensed health care institution may be deemed to be employees and entitled
+to the benefits provided by this chapter upon
+on written acceptance
+by the insurance carrier of an application by the health care institution for
+coverage of such the volunteers.The basis for
+computing wages for premium payments and compensation benefits for volunteers
+shall be four hundred dollars per month.
+(m)Personnel who
+participate in a search or rescue operation or a search or rescue training
+operation that carries a mission identifier assigned by the division of
+emergency management as provided in section 35192.01 and who serve
+without compensation as volunteer state employees. The basis for computation of
+wages for premium purposes and compensation benefits is the total volunteer manhours
+recorded by the division of emergency management in a given quarter multiplied
+by the amount determined by the appropriate risk management formula.
+(n)Personnel who
+participate in emergency management training, exercises or drills that are duly
+enrolled or registered with the division of emergency management or any
+political subdivision as provided in section 26314, subsection C and who
+serve without compensation as volunteer state employees.The basis
+for computation of wages for premium purposes and compensation benefits is the
+total volunteer manhours recorded by the division of emergency
+management or political subdivision during a given training session, exercise
+or drill multiplied by the amount determined by the appropriate risk management
+formula.
+(o)Regular members of
+the Arizona game and fish department reserve, organized pursuant to section 17214.
+The basis for computing wages for premium payments and compensation benefits
+for a member of the reserve is the salary received by game rangers and wildlife
+managers of the Arizona game and fish department for their first month of
+regular duty.
+(p)Every person
+employed pursuant to a professional employer agreement.
+7."General
+order" means an order applied generally throughout the state to all
+persons under jurisdiction of the commission.
+8."Heartrelated
+or perivascular injury, illness or death" means myocardial infarction,
+coronary thrombosis or any other similar sudden, violent or acute process
+involving the heart or perivascular system, or any death resulting therefrom,
+and any weakness, disease or other condition of the heart or perivascular
+system, or any death resulting therefrom.
+9."Insurance
+carrier" means every insurance carrier duly authorized by the director of
+insurance to write workers' compensation or occupational disease compensation
+insurance in the this state of
+Arizona.
+10."Interested
+party" means the employer, the employee, or if the employee is deceased,
+the employee's estate, the surviving spouse or dependents, the commission, the
+insurance carrier or their representative.
+11."Mental
+injury, illness or condition" means any mental, emotional, psychotic or
+neurotic injury, illness or condition.
+12."Order"
+means and includes any rule, direction, requirement, standard, determination or
+decision other than an award or a directive by the commission or an
+administrative law judge relative to any entitlement to compensation benefits,
+or to the amount thereof, and any procedural ruling relative to the processing
+or adjudicating of a compensation matter.
+13."Personal
+injury by accident arising out of and in the course of employment" means
+any of the following:
+(a)Personal injury by
+accident arising out of and in the course of employment.
+(b)An injury caused by
+the wilful act of a third person directed against an employee because of the
+employee's employment, but does not include a disease unless resulting from the
+injury.
+(c)An occupational
+disease or post-traumatic
+stress disorder that is due to causes and conditions characteristic of
+and peculiar to a particular trade, occupation, process or employment, and not
+the ordinary diseases to which the general public is exposed, and subject to
+section 23901.01.
+14."post-traumatic stress disorder" has the
+same meaning prescribed in the most recent edition of the diagnostic and
+statistical manual of mental disorders for the American psychiatric association.
+14.15"Professional
+employer agreement" means a written contract between a client and a
+professional employer organization:
+(a)In which the
+professional employer organization expressly agrees to coemploy all or a
+majority of the employees providing services for the client.In
+determining whether the professional employer organization employs all or a
+majority of the employees of a client, any person employed pursuant to the
+terms of the professional employer agreement after the initial placement of
+client employees on the payroll of the professional employer organization shall
+be included.
+(b)That is intended to
+be ongoing rather than temporary in nature.
+(c)In which employer
+responsibilities for worksite employees, including hiring, firing and
+disciplining, are expressly allocated between the professional employer
+organization and the client in the agreement.
+15.16."Professional
+employer organization" means any person engaged in the business of
+providing professional employer services. Professional employer organization
+does not include a temporary help firm or an employment agency.
+16.17."Professional
+employer services" means the service of entering into coemployment
+relationships under this chapter to which all or a majority of the employees
+providing services to a client or to a division or work unit of a client are
+covered employees.
+17.18."Special
+order" means an order other than a general order.
+18.19."Weakness,
+disease or other condition of the heart or perivascular system" means
+arteriosclerotic heart disease, cerebral vascular disease, peripheral vascular
+disease, cardiovascular disease, angina pectoris, congestive heart trouble,
+coronary insufficiency, ischemia and all other similar weaknesses, diseases and
+conditions, and also previous episodes or instances of myocardial infarction,
+coronary thrombosis or any similar sudden, violent or acute process involving
+the heart or perivascular system.
+19.20."Workers'
+compensation" means workmen's compensation as used in article XVIII,
+section 8, Constitution of Arizona. END_STATUTE
+Sec.2.Section
+23-901.01, Arizona Revised Statutes, is amended to read:
+START_STATUTE23-901.01.Occupational disease; post-traumatic stress disorder
+proximate causation; definitions
+A.The occupational
+diseases as defined by section 23901, paragraph 13, subdivision (c)
+shall be deemed to arise out of the employment only if all of the following six
+requirements exist:
+1.There is a direct
+causal connection between the conditions under which the work is performed and
+the occupational disease.
+2.The disease can be
+seen to have followed as a natural incident of the work as a result of the
+exposure occasioned by the nature of the employment.
+3.The disease can be
+fairly traced to the employment as the proximate cause.
+4.The disease does not
+come from a hazard to which workers would have been equally exposed outside of
+the employment.
+5.The disease is
+incidental to the character of the business and not independent of the relation
+of employer and employee.
+6.The disease after its
+contraction appears to have had its origin in a risk connected with the
+employment, and to have flowed from that source as a natural consequence,
+although it need not have been foreseen or expected.
+B.Notwithstanding
+subsection A of this section and section 231043.01, any disease,
+infirmity or impairment of a firefighter's or peace officer's health that is
+caused by brain, bladder, rectal or colon cancer, lymphoma, leukemia, or aden carcinoma adenocarcinoma
+or mesothelioma of the respiratory tract or post-traumatic stress disorder and that results in
+disability or death is presumed to be an occupational disease as defined in
+section 23901, paragraph 13, subdivision (c) and is deemed to arise out
+of employment. The presumption is granted if all of the following apply:
+1.The firefighter or
+peace officer passed a physical examination before employment and the
+examination did not indicate evidence of cancer or posttraumatic stress disorder.
+2.For claims relating to the cancers
+provided in this subsection, the firefighter or peace officer was
+assigned to hazardous duty for at least five years.
+3.The firefighter or
+peace officer was exposed to a known carcinogen as defined by the international
+agency for research on cancer and informed the department of this exposure, and
+the carcinogen is reasonably related to the cancer or was exposed to an environment that is consistent
+with causing posttraumatic stress disorder.
+C.Subsection B of this
+section applies to former firefighters and peace officers who are sixtyfive
+years of age or younger.
+D.Subsection B of this
+section does not apply to cancers of the respiratory tract if the firefighter
+or peace officer has smoked tobacco products.
+E.For the purposes of
+this section:
+1."Firefighter"
+means a fulltime firefighter who was regularly assigned to hazardous
+duty.
+2."Peace
+officer" means a any fulltime peace police
+officer, highway
+patrol officer, probation officer or corrections officer, in addition to any
+officer who was regularly assigned to hazardous duty as a part of a
+special operations, special weapons and tactics, explosive ordinance disposal
+or hazardous materials response unit. END_STATUTE
+

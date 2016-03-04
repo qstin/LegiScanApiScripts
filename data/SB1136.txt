@@ -1,0 +1,553 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: terminally ill; care choices
+
+
+
+
+
+
+
+State of Arizona
+Senate
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+SB 1136
+
+
+
+
+
+
+
+
+
+Introduced by
+Senators
+  McGuire: Dalessandro, Hobbs; Representative Andrade
+
+
+
+
+
+AN ACT
+
+amending title
+36, Arizona Revised Statutes, by adding chapter 33; Relating to end-of-life
+decisions.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Title 36, Arizona Revised Statutes,
+is amended by adding chapter 33, to read:
+CHAPTER 33
+DEATH WITH DIGNITY
+ARTICLE 1.GENERAL PROVISIONS
+START_STATUTE36-3301Definitions
+In this
+article, unless the context otherwise requires:
+1."Adult"
+means an individual who is eighteen years of age or older.
+2."Attending
+physician" means the physician who has primary responsibility for the care
+of the patient and treatment of the patient's terminal disease.
+3."Capable"
+means that in the opinion of a court or in the opinion of a patient's attending
+physician or consulting physician, psychiatrist or psychologist, the patient
+has the ability to make and communicate health care decisions to health care
+providers, including communication through persons familiar with the patient's
+manner of communicating if those persons are available.
+4."Consulting
+physician" means a physician who is qualified by specialty or experience
+to make a professional diagnosis and prognosis regarding the patient's disease.
+5."Counseling"
+means one or more consultations as necessary between a state licensed
+psychiatrist or psychologist and a patient for the purpose of determining that
+the patient is capable and not suffering from a psychiatric or psychological
+disorder or depression causing impaired judgment.
+6."Department"
+means the department of health services.
+7."Health
+care provider" means a person who is licensed, certified or otherwise
+authorized or permitted by the laws of this state to administer health care or
+dispense medication in the ordinary course of business or practice of a
+profession, and includes a health care facility.
+8."Informed
+decision" means a decision by a qualified patient to request and obtain a
+prescription to end the patient's life in a humane and dignified manner that is
+based on an appreciation of the relevant facts and that is made after being
+fully informed by the attending physician of all of the following:
+(a)The patient's medical
+diagnosis.
+(b)The patient's
+prognosis.
+(c)The potential risks
+associated with taking the medication to be prescribed.
+(d)The probable result of
+taking the medication to be prescribed.
+(e)Feasible alternatives
+to taking the medication, including comfort care, hospice care and pain
+control.
+9."Medically
+confirmed" means the medical opinion of the attending physician has been
+confirmed by a consulting physician who has examined the patient and the
+patient's relevant medical records.
+10."Patient"
+means a person who is under the care of a physician.
+11."Physician"
+means an individual who is licensed pursuant to title 32, chapter 13 or 17.
+12."Qualified
+patient" means a capable adult who is a resident of this state and who has
+satisfied the requirements of this article in order to obtain a prescription
+for medication to end his or her life in a humane and dignified manner.
+13."Terminal
+disease" means an incurable and irreversible disease that has been
+medically confirmed and will produce death, with reasonable medical judgment,
+within six months. END_STATUTE
+START_STATUTE36-3302.Written request for medication; initiation
+A.An adult who is capable, is a
+resident of this state and has been determined by the attending physician and
+consulting physician to be suffering from a terminal disease, and who has
+voluntarily expressed a wish to die, may make a written request for medication
+for the purpose of ending the person's life in a humane and dignified manner in
+accordance with this article.
+B.A
+person does not qualify under this article solely because of age or disability.
+END_STATUTE
+START_STATUTE36-3303.Form of request; witnesses; signatures
+A.A valid request for medication
+under this article shall be in substantially the form described in section 363321,
+be signed and dated by the patient and be witnessed by at least two individuals
+who, in the presence of the patient, attest that to the best of their knowledge
+and belief the patient is capable, is acting voluntarily and is not being
+coerced to sign the request.
+B.One
+of the witnesses shall be a person who is not any of the following:
+1.A
+relative of the patient by blood, marriage or adoption.
+2.At
+the time the request is signed, entitled to any portion of the estate of the
+qualified patient on the patient's death under any will or by operation of law.
+3.An
+owner, operator or employee of a health care facility where the qualified
+patient is receiving medical treatment or is a resident.
+C.The
+patient's attending physician at the time the request is signed may not be a
+witness.
+D.If
+the patient is a patient in a long term care facility at the time the written
+request is made, one of the witnesses shall be an individual who is designated
+by the facility and who has the qualifications specified by the department in
+rule. END_STATUTE
+START_STATUTE36-3304.Attending physician; requirements
+A.The attending physician shall do
+all of the following:
+1.Make
+the initial determination of whether a patient has a terminal disease, is
+capable and has made the request voluntarily.
+2.Request
+that the patient demonstrate residency in this state pursuant to section 363313.
+3.To
+ensure that the patient is making an informed decision, inform the patient of
+all of the following:
+(a)The patient's medical
+diagnosis.
+(b)The patient's
+prognosis.
+(c)The potential risks
+associated with taking the medication to be prescribed.
+(d)The probable result of
+taking the medication to be prescribed.
+(e)Feasible alternatives
+to taking the medication, including comfort care, hospice care and pain
+control.
+4.Refer
+the patient to a consulting physician for medical confirmation of the diagnosis
+and for a determination that the patient is capable and acting voluntarily.
+5.Refer
+the patient for counseling if appropriate pursuant to section 363306.
+6.Recommend
+that the patient notify the patient's next of kin.
+7.Counsel
+the patient about the importance of having another person present when the
+patient takes the medication prescribed pursuant to this article and of not
+taking the medication in a public place.
+8.Inform
+the patient that the patient can rescind the request at any time and in any
+manner and offer the patient an opportunity to rescind at the end of the
+fifteenday waiting period pursuant to section 363309.
+9.Verify,
+immediately before writing the prescription for medication under this article,
+that the patient is making an informed decision.
+10.Fulfill
+the medical record documentation requirements of section 363312.
+11.Ensure
+that all appropriate steps are carried out in accordance with this article
+before writing a prescription for medication to enable a qualified patient to
+end the patient's life in a humane and dignified manner.
+12.Either:
+(a)If the attending
+physician is authorized by state and federal law to dispense the medication,
+dispense medications directly, including ancillary medications intended to
+facilitate the desired effect to minimize the patient's discomfort.
+(b)With the patient's
+written consent, do both of the following:
+(i)Contact a pharmacist
+and inform the pharmacist of the prescription.
+(ii)Deliver the written
+prescription personally or by other means to the pharmacist, who will dispense
+the medications to either the patient, the attending physician or an expressly
+identified agent of the patient.
+B.Notwithstanding
+any other provision of law, the attending physician may sign the patient's
+death certificate. END_STATUTE
+START_STATUTE36-3305.Consulting physician confirmation of diagnosis
+Before a patient is deemed qualified under this
+article, a consulting physician shall examine the patient and the patient's
+relevant medical records, shall confirm in writing the attending physician's
+diagnosis that the patient is suffering from a terminal disease and shall
+verify that the patient is capable, is acting voluntarily and has made an
+informed decision. END_STATUTE
+START_STATUTE36-3306.Counseling referral; prohibition
+If, in the
+opinion of the attending physician or the consulting physician, a patient may
+be suffering from a psychiatric or psychological disorder or depression causing
+impaired judgment, either physician shall refer the patient for counseling.
+Medication to end a patient's life in a humane and dignified manner may not be
+prescribed until the person performing the counseling determines that the
+patient is not suffering from a psychiatric or psychological disorder or
+depression causing impaired judgment. END_STATUTE
+START_STATUTE36-3307.Informed decision
+A person may
+not receive a prescription for medication to end the patient's life in a humane
+and dignified manner unless the person has made an informed decision.
+Immediately before writing a prescription for medication under this article,
+the attending physician shall verify that the patient is making an informed
+decision. END_STATUTE
+START_STATUTE36-3308.Family notification
+The attending
+physician shall recommend that the patient notify the patient's next of kin of
+the patient's request for medication pursuant to this article. A patient who
+declines or is unable to notify next of kin may not have the patient's request
+denied for that reason. END_STATUTE
+START_STATUTE36-3309.Written and oral requests
+In order to
+receive a prescription for medication to end the patient's life in a humane and
+dignified manner, a qualified patient shall have made an oral request and a
+written request, and reiterate the oral request to the patient's attending
+physician at least fifteen days after making the initial oral
+request.At the time the qualified patient makes the second oral
+request, the attending physician shall offer the patient an opportunity to
+rescind the request. END_STATUTE
+START_STATUTE36-3310.Right to rescind request
+A patient may rescind a
+request at any time and in any manner without regard to the patient's mental
+state. A prescription for medication under this article may not be written
+without the attending physician offering the qualified patient an opportunity
+to rescind the request. END_STATUTE
+START_STATUTE36-3311.Waiting periods
+At least
+fifteen days shall elapse between the patient's initial oral request and the
+writing of a prescription under this article.At least fortyeight
+hours shall elapse between the patient's written request and the writing of a
+prescription under this article. END_STATUTE
+START_STATUTE36-3312.Medical records; documentation; requirements
+All of the following shall be documented or filed in
+the patient's medical record:
+1.All
+oral requests by a patient for medication to end the patient's life in a humane
+and dignified manner.
+2.All
+written requests by a patient for medication to end the patient's life in a
+humane and dignified manner.
+3.The
+attending physician's diagnosis and prognosis and determination that the
+patient is capable, is acting voluntarily and has made an informed decision.
+4.The
+consulting physician's diagnosis and prognosis and verification that the
+patient is capable, is acting voluntarily and has made an informed decision.
+5.A
+report of the outcome and determinations made during counseling, if performed.
+6.The
+attending physician's offer to the patient to rescind the patient's request at
+the time of the patient's second oral request pursuant to section 363309.
+7.A
+note by the attending physician indicating that all requirements under this
+article have been met and indicating the steps taken to carry out the request,
+including a notation of the medication prescribed. END_STATUTE
+START_STATUTE36-3313.Residency requirement
+Only requests
+made by residents of this state under this article may be granted. Factors
+demonstrating Arizona residency include any of the following:
+1.Possession
+of an Arizona driver license.
+2.Registration
+to vote in this state.
+3.Evidence
+that the person owns or leases property in this state.
+4.Filing
+of an Arizona state tax return for the most recent tax year. END_STATUTE
+START_STATUTE36-3314.Reporting requirements
+A.The department shall annually
+review a sample of records maintained pursuant to this article.
+B.The
+department shall require any health care provider on dispensing medication pursuant
+to this article to file a copy of the dispensing record with the department.
+C.The
+department shall adopt rules to facilitate the collection of information
+regarding compliance with this article. Except as otherwise required by law,
+the information collected is not a public record and may not be made available
+for inspection by the public.
+D.The
+department shall generate and make available to the public an annual
+statistical report of information collected under of this section. END_STATUTE
+START_STATUTE36-3315.Effect on construction of contracts, wills or agreements
+A.A provision in a contract, will or
+other agreement, whether written or oral, to the extent that the provision
+would affect whether a person may make or rescind a request for medication to
+end the person's life in a humane and dignified manner, is invalid.
+B.An
+obligation owing under any currently existing contract may not be conditioned
+on or affected by the making or rescinding of a request, by a person, for
+medication to end the person's life in a humane and dignified manner. END_STATUTE
+START_STATUTE36-3316.Insurance or annuity policies
+The sale,
+procurement or issuance of any life, health or accident insurance or annuity
+policy or the rate charged for any policy may not be conditioned on or affected
+by the making or rescinding of a request, by a person, for medication to end
+the person's life in a humane and dignified manner.A qualified
+patient's act of ingesting medication to end the patient's life in a humane and
+dignified manner does not have an effect on a life, health or accident
+insurance or annuity policy issued or delivered in this state. END_STATUTE
+START_STATUTE36-3317.Construction of article
+This article does not
+authorize a physician or any other person to end a patient's life by lethal
+injection, mercy killing or active euthanasia. Actions taken in accordance with
+this article do not, for any purpose, constitute suicide, assisted suicide,
+mercy killing or homicide under the law. END_STATUTE
+START_STATUTE36-3318.Immunities; prohibiting a health care provider from
+participation; permissible sanctions; definitions
+A.Except
+as provided in section 363319:
+1.A
+person is not subject to civil or criminal liability or professional
+disciplinary action for participating in good faith compliance with this
+article, including being present when a qualified patient takes the prescribed
+medication to end the patient's life in a humane and dignified manner.
+2.A
+professional organization or association, or health care provider, may not
+subject a person to censure, discipline, suspension, loss of license, loss of
+privileges, loss of membership or any other penalty for participating or
+refusing to participate in good faith compliance with this article.
+3.A
+request by a patient for or provision by an attending physician of medication
+in good faith compliance with this article does not constitute neglect for any
+purpose of law or provide the sole basis for the appointment of a guardian or
+conservator.
+4.A
+health care provider is not under any duty, whether by contract, statute or any
+other legal requirement, to participate in the provision to a qualified patient
+of medication to end the patient's life in a humane and dignified manner. If a
+health care provider is unable or unwilling to carry out a patient's request
+under this article, and the patient transfers the patient's care to a new
+health care provider, the prior health care provider shall transfer, on
+request, a copy of the patient's relevant medical records to the new health
+care provider.
+5.Notwithstanding
+any other provision of law, a health care provider may prohibit another health
+care provider from participating in this article on the premises of the
+prohibiting provider if the prohibiting provider has notified the health care
+provider of the prohibiting provider's policy regarding participating in this
+article. This paragraph does not prevent a health care provider from providing
+health care services to a patient that do not constitute participation in this
+article.
+6.Notwithstanding
+paragraphs 1, 2, 3 and 4 of this subsection, a health care provider may subject
+another health care provider to any of the following sanctions if the sanctioning
+health care provider has notified the sanctioned provider before participation
+in this article that the actions are prohibited:
+(a)Loss of privileges,
+loss of membership or any other sanction provided pursuant to the medical staff
+bylaws, policies and procedures of the sanctioning health care provider if the
+sanctioned provider is a member of the sanctioning health care provider's
+medical staff and participates in this article while on the health care
+facility premises of the sanctioning health care provider, but not including
+the private medical office of a physician or other provider.
+(b)Termination of lease
+or other property contract or other nonmonetary remedies provided by a lease
+contract, not including loss or restriction of medical staff privileges or
+exclusion from a provider panel, if the sanctioned provider participates in
+this article while on the premises of the sanctioning health care provider or
+on property that is owned by or under the direct control of the sanctioning
+health care provider.
+(c)Termination of
+contract or other nonmonetary remedies provided by contract if the sanctioned
+health care provider participates in this article while acting in the course
+and scope of the sanctioned provider's capacity as an employee or independent
+contractor of the sanctioning health care provider. This paragraph does not to
+prevent any of the following:
+(i)A health care provider
+from participating in this article while acting outside the course and scope of
+the provider's capacity as an employee or independent contractor.
+(ii)A patient from
+contracting with the patient's attending physician and consulting physician to
+act outside the course and scope of the provider's capacity as an employee or
+independent contractor of the sanctioning health care provider.
+7.A
+health care provider that imposes sanctions pursuant to paragraph 6 of this
+subsection must follow all due process and other procedures the sanctioning
+health care provider may have that are related to the imposition of sanctions
+on another health care provider.
+8.Action
+taken pursuant to section 363303, 363304, 363305 or 363306
+may not be the sole basis for a report of unprofessional conduct under title
+32, chapter 13 or 17.
+9.This
+article does not allow a lower standard of care for patients in the community
+where the patient is treated or a similar community.
+B.For
+the purposes of this section:
+1."Notify"
+means specifically informing the health care provider in a separate statement
+in writing prior to the provider's participation in this article of the
+sanctioning health care provider's policy about participation in activities
+covered by this article.
+2."Participate
+in this article":
+(a)Means to perform the
+duties of an attending physician pursuant to section 363304 or a
+consulting physician pursuant to section 363305 or the counseling
+function pursuant to section 363306.
+(b)Does not include
+making an initial determination that a patient has a terminal disease and
+informing the patient of the medical prognosis, providing information about
+this article to a patient on the request of the patient or providing a patient,
+on the request of the patient, with a referral to another physician or a
+patient contracting with the patient's attending physician and consulting physician
+to act outside of the course and scope of the provider's capacity as an
+employee or independent contractor of the sanctioning health care provider.
+END_STATUTE
+START_STATUTE36-3319.Violations; classification; liability
+A.A person who without authorization
+of the patient wilfully alters or forges a request for medication or conceals
+or destroys a rescission of that request with the intent or effect of causing
+the patient's death is guilty of a class 2 felony.
+B.A
+person who coerces or exerts undue influence on a patient to request medication
+for the purpose of ending the patient's life, or to destroy a rescission of
+such a request, is guilty of a class 2 felony.
+C.This
+article does not limit further liability for civil damages resulting from other
+negligent conduct or intentional misconduct by any person.
+D.The
+penalties in this article do not preclude criminal penalties applicable under
+other law for conduct that is inconsistent with this article. END_STATUTE
+START_STATUTE36-3320.Claims by governmental entity; costs
+Any
+governmental entity that incurs costs resulting from a person terminating the
+person's life pursuant to this article in a public place has a claim against
+the estate of the person to recover the costs and reasonable attorney fees
+related to enforcing the claim. END_STATUTE
+START_STATUTE36-3321.Form of request
+A request for a medication as authorized by this
+article shall be in substantially the following form:
+REQUEST FOR MEDICATION
+TO END MY LIFE IN A HUMANE
+AND DIGNIFIED MANNER
+I, ________________,
+am an adult of sound mind.
+I am suffering from
+_______, which my attending physician has determined is a terminal disease and
+which has been medically confirmed by a consulting physician.
+I have been fully
+informed of my diagnosis, my prognosis, the nature of medication to be
+prescribed and potential associated risks, the expected result and the feasible
+alternatives, including comfort care, hospice care and pain control.
+I request that my
+attending physician prescribe medication that will end my life in a humane and
+dignified manner.
+INITIAL ONE:
+_____ I have informed
+my family of my decision and taken their opinions into consideration.
+_____ I have decided
+not to inform my family of my decision.
+_____ I have no
+family to inform of my decision.
+I understand that I
+have the right to rescind this request at any time.
+I understand the full
+import of this request and I expect to die when I take the medication to be
+prescribed.I further understand that although most deaths occur
+within three hours, my death may take longer and my physician has counseled me
+about this possibility.
+I make this request
+voluntarily and without reservation, and I accept full moral responsibility for
+my actions.
+Signed:
+____________________
+Dated:
+_____________________
+DECLARATION OF WITNESSES
+We declare that the
+person signing this request:
+1.Is
+personally known to us or has provided proof of identity.
+2.Signed
+this request in our presence.
+3.Appears
+to be of sound mind and to not be under duress, fraud or undue influence.
+4.Is not
+a patient for whom either of us is the attending physician.
+__________ Witness
+1/Date ____________
+__________ Witness
+2/Date ____________
+NOTE: One witness may
+not be a relative (by blood, marriage or adoption) of the person signing this
+request, may not be entitled to any portion of the person's estate on death and
+may not own, operate or be employed at a health care facility where the person
+is a patient or resident.If the patient is an inpatient at a health
+care facility, one of the witnesses shall be an individual designated by the
+facility. END_STATUTE
+
+START_STATUTE36-3322.Violations; classification
+A.A person is guilty of a class 2
+felony who, without authorization of the principal, wilfully alters, forges,
+conceals or destroys an instrument, the reinstatement or revocation of an
+instrument or any other evidence or document reflecting the principal's desires
+and interests, with the intent and effect of causing a withholding or
+withdrawal of lifesustaining procedures or of artificially administered
+nutrition and hydration that hastens the death of the principal.
+B. Except as
+provided in subsection A of this section, a person is guilty of a class 1
+misdemeanor who, without authorization of the principal, wilfully alters,
+forges, conceals or destroys an instrument, the reinstatement or revocation of
+an instrument or any other evidence or document reflecting the principal's
+desires and interests with the intent or effect of affecting a health care
+decision. END_STATUTE
+Sec.2.Severability
+If a provision of this act or its application to any person or
+circumstance is held invalid, the invalidity does not affect other provisions
+or applications of the act that can be given effect without the invalid
+provision or application, and to this end the provisions of this act are
+severable.
+

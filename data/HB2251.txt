@@ -1,0 +1,343 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: commercial motor vehicles
+
+
+
+
+
+
+
+State of Arizona
+House of Representatives
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+HB 2251
+
+
+
+
+
+
+
+
+
+Introduced by
+Representative
+  Gray
+
+
+
+
+
+AN ACT
+
+amending sections
+28-1099, 28-1100, 28-2239, 28-2267 and 28-3312, arizona revised statutes;
+relating to commercial motor vehicles.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 28-1099, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-1099.Single axle load limit; exceptions
+A.The gross weight imposed on the highway by the
+wheels of any one axle of a vehicle shall not exceed twenty thousand pounds,
+except that:
+1.The
+director may issue a special permit pursuant to section 281103 for the
+purpose of moving road machinery that exceeds the maximum weight specified in
+this section from job to job within this state and from job to place of
+servicing and return within this state.
+2.Any
+over-the-road bus may exceed the maximum single axle weight limit but shall not
+exceed twenty-four thousand pounds. For the purposes of this paragraph, "Over-the-road bus" means
+a bus characterized by an elevated passenger deck located over a baggage
+compartment.
+B.This section shall
+does not be construed to
+limit in any manner the power of the director and a local authority to issue a
+special permit pursuant to section 281103. 
+C.For the purposes of this article, the gross
+weight imposed on the highway by the wheels of any one axle equals the total
+load transmitted to the road by all wheels whose centers are included between
+two parallel transverse vertical planes forty inches apart, extending across
+the full width of the vehicle. END_STATUTE
+Sec.2.Section 28-1100, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-1100.Vehicles and loads; gross weight restrictions; exceptions
+A.Except as provided in subsection H of this
+section or section 281099,
+a person may operate a vehicle on all highways, including a toll facility as
+defined in section 287751, subject to the following maximum gross
+weights:
+1.Twenty thousand pounds, including enforcement
+tolerances, on any one axle.
+2.Thirtyfour thousand pounds, including
+enforcement tolerances, on a tandem axle.
+3.Eighty thousand pounds on a vehicle combination
+of five axles or more.
+4.On a group of two or more consecutive axles, including
+any steering or castering axles, an overall gross weight, including enforcement
+tolerances, produced by application of the following formula in which W equals
+overall gross weight on any group of two or more consecutive axles to the
+nearest five hundred pounds, L equals distance in feet between the extreme of
+any group of two or more consecutive axles to the nearest foot and N equals
+number of axles in any group under consideration, except that two consecutive
+sets of tandem axles may carry a gross load of thirtyfour thousand
+pounds each if the overall distance between the first and last axles of the
+consecutive sets of tandem axles is thirtysix feet or more if the
+overall gross weight does not exceed eighty thousand pounds, including all
+enforcement tolerances:
+W = 500 (LN/(N1)+12N+36)
+B. For the purposes of subsection A of this
+section, "tandem axles" means two or more consecutive axles that are
+more than forty inches but not more than ninetysix inches apart.
+C.This section does not apply to a vehicle and load
+that cannot be easily dismantled or divided and that have been issued a special
+permit pursuant to section 281103.
+D.It is not a defense in a prosecution for a
+violation of this section that a vehicle or vehicle combination is registered
+for a declared gross weight as defined in section 285431 in excess of
+the amount allowed under this section.The department shall not make
+an allowance or refund for fees paid for the weight in excess of the amount
+allowed under this section.
+E.A single vehicle or a single vehicle of a
+combination of vehicles shall not be equipped with more than three axles,
+including the front steering axle, unless the additional axles are steering
+axles or castering axles. The limitation on the number of axles provided in
+this subsection does not apply to a vehicle operated with a permit issued
+pursuant to section 281103.
+F.A vehicle or combination of vehicles equipped
+with one or more variable load axles shall have the pressure control preset and
+located outside of the cab so that the operator of the vehicle cannot vary the
+weight carried on the variable load axle or axles during transport of a
+load.The actuating control that raises or lowers the axle or axles
+may be located inside the cab for safety purposes.This actuating
+control must completely raise or completely lower the axle or axles when
+activated.
+G.This section does not apply to a truck that meets
+all of the following requirements and for which a special permit has been
+issued pursuant to section 281103:
+1.Is equipped with a conveyor bed.
+2.Is used solely as a fiber and forage module
+mover.
+3.Does not exceed fortyeight feet in length.
+4.Is only operated each year from August 1 through
+January 30, unless the director extends the period of use.
+H.The gross weight of a heavy-duty vehicle that is
+equipped with idle reduction technology and the gross weight imposed on the
+highway by the wheels of any one axle or axle group of the vehicle may exceed
+the weight limitation specified in subsection A of this section by not more
+than four hundred pounds or the weight of the idle reduction technology,
+whichever is less. This subsection only applies if the heavy-duty vehicle
+operator, on request, proves by written certification the weight of the idle
+reduction technology and, by demonstration or certification, that the idle
+reduction technology is fully functional at all times.For the
+purposes of this subsection, "heavy-duty vehicle" and "idle reduction
+technology" have the same meanings prescribed in 42 United States Code
+section 16104a. END_STATUTE
+Sec.3.Section 28-2239, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-2239.Temporary proportional registrations; fee
+A.The department may sell temporary proportional
+registrations to motor carriers that are registering under this article. Motor
+carriers may use temporary proportional registrations for vehicles that are
+added to an existing fleet or in lieu of lost registrations pending receipt of
+permanent or replacement registrations.
+B.The cost of a temporary proportional registration
+is one dollar, and the registration is valid for ninety
+sixty days. END_STATUTE
+Sec.4.Section 28-2267, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-2267.Temporary registrations; fee
+A.The department may sell temporary registrations
+to motor carriers with existing fleets that are registered under this
+article.Temporary registrations may be used for vehicles that are
+added to an existing fleet or in lieu of lost registrations pending the receipt
+of permanent or replacement registrations.
+B.The temporary registration fee is one
+dollar.The temporary registration is valid for ninety
+sixty days. END_STATUTE
+Sec.5.Section 28-3312, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-3312.Mandatory disqualification of commercial driver licenses;
+definition
+A.The department shall disqualify a person who is required to have a
+commercial driver license, or who is a commercial driver
+license holder or who is a commercial
+instruction permit holder from driving a commercial motor vehicle
+as follows:
+1.Except as provided in subsection E of this
+section and except as otherwise provided in this subsection, for at least one
+year if a person:
+(a)Refuses a test in violation of section 281321.
+(b)Is convicted of a first violation of any of the
+following:
+(i)Driving a commercial motor vehicle under the
+influence of intoxicating liquor or a controlled substance or while having an
+alcohol concentration of 0.04 or more.
+(ii)Leaving the scene of an accident involving a
+motor vehicle driven by the person.
+(iii)Using a motor vehicle in the commission of a
+felony.
+(iv)A violation of chapter 4, article 3 of this
+title while operating a noncommercial motor vehicle.
+(v)Driving a commercial motor vehicle while, as a
+result of prior violations of this title committed while operating a commercial
+motor vehicle, the person's commercial driver license is revoked, suspended or
+canceled or the person is disqualified from operating a commercial motor
+vehicle.
+(vi)Causing a fatality through the negligent
+operation of a commercial motor vehicle, including a conviction of
+manslaughter, homicide or negligent homicide resulting from operation of a
+motor vehicle.
+2.For at least three years, if the person is
+convicted of any of the violations prescribed in paragraph 1 of this subsection
+and the violation occurred while the person was transporting a hazardous
+material in the quantity and under the circumstances that require placarding of
+the transport vehicle under the department's safety rules pursuant to chapter
+14 of this title.
+3.For the life of the person, if the person is
+convicted of two or more violations of any of the offenses prescribed in
+paragraph 1 of this subsection or of any combination of those offenses arising
+from two or more separate incidents.The department shall consider
+only offenses committed from and after December 31, 1989 in applying this paragraph.
+4.Permanently if the person is convicted of using
+any motor vehicle in the commission of a felony involving the manufacture,
+distribution or dispensing of a controlled substance or possession with intent
+to manufacture, distribute or dispense a controlled substance.
+5.For at least sixty consecutive days, if the
+person is convicted of two serious traffic violations committed in a motor
+vehicle arising from separate incidents occurring within a three year period
+from the date of the violation.
+6.For at least one hundred twenty days served in
+addition to any other disqualification, if the person is convicted of a third
+or subsequent serious traffic violation committed in a motor vehicle arising
+from separate incidents occurring within a three year period from the date of
+the violation.
+7.For at
+least sixty consecutive days, if the department determines that the person
+falsified information or documentation as part of the licensing process.
+8.For at
+least one year, if the person is convicted of fraud related to the issuance of
+a commercial instruction permit or commercial driver license.
+B.Except as provided in subsection C of this
+section, a person required to have a commercial driver license or a commercial
+driver license holder who is found responsible for violating an outofservice
+order pursuant to section 285241 is disqualified from driving a
+commercial motor vehicle as follows:
+1.For a period of one hundred eighty days if the
+person is found responsible for a first violation of an outofservice
+order.
+2.For a period of two years if the person is found
+responsible for a second violation of any outofservice order
+during any ten year period arising from separate incidents.
+3.For a period of three years if the person is
+found responsible for a third or subsequent violation of any outofservice
+order during any ten year period arising from separate incidents.
+C.A person required to have a commercial driver
+license or a commercial driver license holder who is found responsible for
+violating an outofservice order pursuant to section 285241
+while transporting hazardous materials or while operating a commercial motor
+vehicle designed or used to transport sixteen or more passengers, including the
+driver, is disqualified from driving a commercial motor vehicle as follows:
+1.For a period of one hundred eighty days if the
+person is found responsible for a first violation of an outofservice
+order.
+2.For a period of three years if the person is
+found responsible for a second or subsequent violation of any outofservice
+order during any ten year period arising from separate incidents.
+D.A person required to have a commercial driver
+license or a commercial driver license holder who is convicted of or found
+responsible for violating any federal, state or local railroad grade crossing
+law, ordinance or regulation is disqualified from driving a commercial motor
+vehicle as follows:
+1.For a period of sixty days if a person is
+convicted of or found responsible for a first violation.
+2.For a period of one hundred twenty days if a
+person is convicted of or found responsible for a second violation during any
+three year period.
+3.For a period of one year if a person is convicted
+of or found responsible for a third or subsequent violation during any three
+year period.
+E.If a federal agency determines that a commercial
+motor vehicle licensee is driving in a manner that constitutes an imminent
+hazard, the department, on receipt of notification by the federal government,
+shall disqualify the driver for a period not to exceed one year.The
+disqualification shall run concurrently with any other disqualification imposed
+on the driver. For the purposes of this subsection, "imminent
+hazard" means the existence of a condition that presents a substantial
+likelihood that death, serious illness, severe personal injury or a substantial
+endangerment to health, property or the environment may occur before the
+reasonably foreseeable completion date of a formal proceeding to decrease the
+risk of death, illness, injury or endangerment.
+F.The department shall keep records of findings of
+responsibility for a civil traffic violation and of conviction of any moving
+criminal traffic violation for a commercial driver licensee for violations in
+any type of motor vehicle and for a person required to have a commercial driver
+license if the violations arise from the operation of a commercial motor
+vehicle. The department shall make the records available to other states, the
+United States secretary of transportation, the driver and any motor carrier or
+prospective motor carrier or the motor carrier's designated agent within ten
+days after receiving a report of a conviction or finding of responsibility in
+this state or receipt of a report of a conviction or finding of responsibility
+or disqualification received from another state.
+G.Disqualification for a serious traffic violation
+committed by a commercial driver license holder while operating a noncommercial
+motor vehicle applies only if the conviction results in the revocation,
+cancellation or suspension of the person's commercial driver license or
+noncommercial driver license.
+H.The department may adopt rules establishing
+guidelines and conditions under which the department may reduce a
+disqualification for life pursuant to subsection A, paragraph 3 of this section
+to a disqualification of at least ten years. If a person's disqualification is
+reduced pursuant to rules adopted pursuant to this subsection and the person is
+subsequently convicted of a violation described in subsection A, paragraph 1 of
+this section, the person is permanently disqualified from driving a commercial
+vehicle and is not eligible to apply for a reduction of the disqualification
+pursuant to rules adopted pursuant to this subsection.
+I.Except as provided in subsection E of this
+section, the beginning date of the disqualification shall be ten days after the date the department
+receives the report of conviction or finding of responsibility.
+J.For the purposes of this section, "serious
+traffic violation" means a conviction or finding of responsibility for any
+of the following:
+1.Excessive speeding involving a single offense for
+a speed of fifteen miles per hour or more above the posted speed limit.
+2.Reckless driving as provided by section 28693.
+3.Aggressive driving as provided by section 28695.
+4.Racing as defined in section 28708.
+5.Improper or erratic traffic lane changes as
+provided by section 28729.
+6.Following the vehicle ahead too closely as
+provided by section 28730.
+7.A violation of this title that is connected with
+a fatal traffic accident.
+8.Driving a commercial motor vehicle if the person
+has not been issued a valid commercial driver license pursuant to this chapter.
+9.Driving a commercial motor vehicle without a
+commercial driver license in the person's possession.
+10.Driving a commercial motor vehicle without
+having a valid endorsement for the type of commercial motor vehicle or motor
+vehicle combination being operated. END_STATUTE
+

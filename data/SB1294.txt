@@ -1,0 +1,201 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: claims; licensed professionals; expert
+  witness
+
+
+
+
+
+
+
+State of Arizona
+Senate
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+
+SB 1294
+
+
+
+
+
+
+
+
+
+Introduced by
+Senator
+  Driggs
+
+
+
+
+
+AN ACT
+
+amending sections
+122601 and 122602, Arizona Revised Statutes; relating to claims
+against licensed professionals.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 12-2601, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE12-2601.Definitions
+In this article, unless the context otherwise requires:
+1."Claim" means a legal cause of action or arbitration except for
+actions or arbitrations relating
+to health care under sections 12561, through
+12562 and 12563
+of this title or under
+title 46, chapter 4 or an affirmative defense to which all of the following
+apply:
+(a)The claim is asserted against a licensed
+professional in a complaint, answer, crossclaim, counterclaim or third party
+complaint or in a claim, answering
+statement or counterclaim in an arbitration demand or submission.
+(b)The claim is based on the licensed
+professional's alleged breach of contract, negligence, misconduct, errors or
+omissions in rendering professional services.
+(c)Expert testimony is necessary to prove the
+licensed professional's standard of care or liability for the claim.
+2."Expert" means a person who meets the criteria prescribed in section 122602,
+subsection H and who is qualified by knowledge, skill,
+experience, training or education to express an opinion regarding a licensed
+professional's standard of care or liability for the claim.
+3."Licensed professional" means a person,
+corporation, professional corporation, partnership, limited liability company,
+limited liability partnership or other entity that is licensed by this state to
+practice a profession or occupation under title 20 or 32 or that is admitted to
+the state bar. END_STATUTE
+Sec.2.Section 12-2602, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE12-2602.Preliminary expert opinion testimony; certification;
+qualification criteria
+A.If a claim against a licensed professional is
+asserted in a civil action or
+arbitration, the claimant
+or the claimant's attorney
+shall certify in a written statement that is filed and served with the claim
+whether or not expert opinion testimony is necessary to prove the licensed
+professional's standard of care or liability for the claim.
+B.If the claimant or the claimant's attorney
+certifies pursuant to subsection A of
+this section that expert opinion testimony is necessary, the
+claimant shall serve a preliminary expert opinion affidavit with the initial
+disclosures that are required by rule 26.1, Arizona rules of civil procedure, or as an interim measure or prehearing
+exchange and production of information that is required by the arbitration
+tribunal before the arbitration hearing.The claimant
+may provide affidavits from as many experts as the claimant deems
+necessary.The preliminary expert opinion affidavit shall contain at
+least the following information:
+1.The expert's qualifications to express an opinion
+on the licensed professional's standard of care or liability for the claim.
+2.The factual basis for each claim against a
+licensed professional.
+3.The licensed professional's acts, errors or
+omissions that the expert considers to be a violation of the applicable
+standard of care resulting in liability.
+4.The manner in which the licensed professional's
+acts, errors or omissions caused or contributed to the damages or other relief
+sought by the claimant.
+C.The court or
+arbitrator may extend the time for compliance with this section
+on application and good cause shown or by stipulation of the parties to the
+claim.If the court or
+arbitrator extends the time for compliance, the court or arbitrator may also adjust
+the timing and sequence of disclosures that are required from the licensed
+professional against whom the claim is asserted.
+D.If the claimant or the claimant's attorney
+certifies that expert testimony is not required for its claim and the licensed
+professional who is defending the claim disputes that certification in good faith,
+the licensed professional may apply by motion to the court or arbitrator for an order requiring the
+claimant to obtain and serve a preliminary expert opinion affidavit under this
+section.In its motion, the licensed professional shall identify the
+following:
+1.The claim for which it believes expert testimony
+is needed.
+2.The prima facie elements of the claim.
+3.The legal or factual basis for its contention
+that expert opinion testimony is required to establish the standard of care or
+liability for the claim.
+E.After considering the motion and any response,
+the court or arbitrator
+shall determine whether the claimant shall comply with this section and, if the
+court or arbitrator deems
+that compliance is necessary, shall set a date and terms for
+compliance.The court or
+arbitrator shall stay all other proceedings and applicable time
+periods concerning the claim pending the court's or arbitrator's ruling on the motion to compel
+compliance with this section.
+F.The court
+or arbitrator, on its own motion or the motion of the licensed
+professional, shall dismiss the claim against the licensed professional without
+prejudice if the claimant fails to file and serve a preliminary expert opinion
+affidavit after the claimant or the claimant's attorney has certified that an affidavit is
+necessary or the court or arbitrator has
+ordered the claimant to file and serve an affidavit.
+G.A claimant may supplement a claim or preliminary
+expert opinion affidavit with additional claims, evidence or expert opinions that
+are timely disclosed under the Arizona rules of civil procedure, arbitration tribunal rules or pursuant to a court or arbitration tribunal order.An
+action under this chapter does not preclude a party from using a preliminary
+expert opinion affidavit for any purpose, including impeachment.
+H.An expert
+witness's opinion or testimony on the appropriate standard of practice or care
+of a licensed professional does not satisfy the requirements of this section
+unless the expert witness who provides the opinion or testimony is licensed or
+registered in this state or another state and the expert witness meets the
+following criteria:
+1.If the
+licensed professional against whom the expert opinion or testimony is offered
+is, or claims to be, registered or licensed in a particular profession or
+occupation or in a designated branch, license category or proficiency of a
+profession or occupation, the expert witness must be registered or licensed in
+the same profession or occupation or designated branch, license category or
+proficiency.
+2.During
+the year immediately preceding the occurrence giving rise to the claim, the
+expert must have devoted a majority of the expert's professional work or
+practice to either or both of the following:
+(a)The active practice of the same profession or
+occupation or designated branch, license category or proficiency of the
+profession or occupation as the licensed professional against whom the expert
+opinion or testimony is offered.
+(b)The instruction of students in
+an accredited educational institution for the same profession or occupation or
+designated branch, license category or proficiency of the profession or
+occupation as the licensed professional against whom the expert opinion or
+testimony is offered.
+I.If the
+licensed professional is a firm that employs a licensed professional against
+whom the expert opinion or testimony is offered, subsection H of this section
+applies as if the licensed professional were the party against whom the expert
+opinion or testimony is offered.
+J.This
+section does not limit the power of the trial court or arbitrator to disqualify
+an expert witness on grounds other than the qualifications required by this
+section.
+K.An expert
+witness in a claim may not testify if the fee of the witness is in any way
+contingent on the outcome of the claim. END_STATUTE
+

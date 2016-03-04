@@ -1,0 +1,352 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: student, teacher data collection;
+  prohibitions.
+
+
+
+
+
+
+
+State of Arizona
+Senate
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+SB 1389
+
+
+
+
+
+
+
+
+
+Introduced by
+Senator
+  Burges; Representatives Borrelli, Mitchell: Senators Allen S, Farnsworth D,
+  Smith; Representatives Gray, Kern, Lawrence, Livingston, Lovas
+
+
+
+
+
+AN ACT
+
+amending Title
+15, chapter 9, article 8, Arizona Revised Statutes, by adding section 15-1046;
+relating to student and teacher data.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Title 15, chapter 9, article 8,
+Arizona Revised Statutes, is amended by adding section 15-1046, to read:
+START_STATUTE15-1046.Student and teacher data; transparency and accountability;
+civil penalties
+A.Notwithstanding any other law, this state
+affirms the parent or guardian as the final authority in all matters regarding
+the education, health care and mental health of the parent's or guardian's
+student and prohibits the access, release or sharing of personally identifiable
+information, student level data or any information about students without a
+written explanation of why the information is being requested and for what
+purposes it will be used. Before any data collection, written consent of the
+parent or guardian is required.
+B.Notwithstanding
+any other law, the department of education and schools may not collect any
+personally identifiable information on any student or teacher without receiving
+prior written consent, and only after providing the parent, guardian or teacher
+with a written explanation of why the information is being requested and for
+what purpose. the department and schools shall establish Procedures to notify
+teachers, students and parents regarding the rights of teachers, students and
+parents or guardians under federal and state law.
+C.This
+state may not share any student's personally identifiable information with any
+federal agency, any federal personnel or any nongovernmental entity, including
+vendors, contractors and subcontractors, without obtaining prior written
+consent from the student's parent or guardian.
+D.A
+governmental entity may not discriminate in any manner against a parent,
+guardian, student or school employee who chooses not to provide prior written
+consent pursuant to this section.
+E.Notwithstanding
+any other law, a state or national student assessment may not be adopted or
+administered in this state that collects any type of psychological data, including
+assessment of noncognitive skills or attributes, psychological attributes,
+feelings, emotions, values, appreciations, enthusiasms, motivations, mindsets,
+learning strategies, attitudes, beliefs, dispositions, conceptions of self,
+social skills, interpersonal skills, intrapersonal resources or other aspects
+of the affective domain.
+F.Notwithstanding
+any other law, any state or national test used in this state to measure student
+academic achievement must meet minimal standards specified in a nationally
+recognized publication concerning Educational and Psychological Testing. The
+reliability and validity of any state or national norm-referenced achievement
+test must be established by independent reports in academic journals or
+independent reports before that test may be adopted or administered in this
+state.
+G.Notwithstanding
+any other law, the state board of education, the department of education and
+any other state entity may not spend any monies, whether from state, federal or
+private sources, on further construction, enhancement or expansion of any
+statewide longitudinal data system designed to track students beyond grade
+twelve or compile personal, nonacademic information beyond what is necessary
+either for administrative functions directly related to students' schooling or
+for evaluation of academic programs and student progress.
+H.Notwithstanding
+any other law, the state board of education, the arizona department of
+education, the data governance commission and any political subdivision of this
+state may not share any personally identifiable information of students and
+teachers with the United States department of education. This subsection does
+not prohibit the sharing of aggregated data.
+I.Notwithstanding
+any other law, the arizona department of education shall require every
+recipient of a federal grant to do the following:
+1.Obtain
+prior written consent from the teacher or the student's parent or guardian and
+retain the signed consent forms for the duration of the project.
+2.Provide written
+notification to the parents or guardians of every student whose data will be
+shared and to every teacher whose data will be shared of all of the following:
+(a)That the recipient of the
+federal grant may not turn over the student's or teacher's data to the United
+States department of education.
+(b)That neither the recipient of
+the federal grant nor any other entity in this state will have control over the
+use or further sharing of that data.
+(c)The contact information,
+including the telephone number and e-mail address, of the United States
+department of education official who demands the data.
+(d)The way in which the data will
+be used.
+J.Notwithstanding
+any other law, to ensure transparency of data collected or used in this state,
+the department of education shall:
+1.Develop
+and make publicly available to the people of this state, by posting on the
+website of the data governance commission with a link to the website of the
+department of education, a data inventory and index of data elements with
+definitions of each data field in the system that includes all of the
+following:
+(a)Any personally identifiable
+student level data required to be reported by state and federal law.
+(b)Any other personally
+identifiable student level data that has been proposed for inclusion in the
+student data system and a statement of purpose or reason for the proposed
+collection.
+(c)Any individual student level
+data that the department collects or maintains with no stated current purpose
+or reason.
+(d)A description of the procedures
+by which a parent or guardian may review the student's records and correct any
+erroneous information.
+2.Develop,
+publish and make available to the people of this state, by posting on the
+website of the data governance commission with a link to the website of the
+department of education, policies and procedures that comply with the family
+educational rights and privacy act of 1974 and other relevant privacy laws and
+policies, including policies and procedures that specify that Access to
+personally identifiable student level data in any current statewide data system
+is restricted to:
+(a)The authorized staff of the
+department of education and any of the department's contractors that require
+such access.
+(b)District administrators,
+teachers and school personnel who require such access to perform assigned
+duties.
+(c)Students and their parents or
+guardians for their own data.
+(d)The authorized staff of other
+state agencies in this state as required by law and defined by interagency data
+sharing agreements.
+K.Notwithstanding
+any other law, personally identifiable student level data maintained by the
+department of education shall remain confidential. The department shall use
+only aggregate data in public reports or in response to public record requests.
+L.Notwithstanding
+any other law, the department of education and the data GOVERNANCE commission
+shall develop criteria for the approval of research and data requests from
+state and local agencies, the legislature, researchers and the public that
+provide student level records with all personally identifiable student level
+data removed.In all cases, individual student identities shall
+remain confidential.
+M.The
+department of education shall develop and make publicly available to the people
+of this state, by posting on the website of the data governance commission with
+a link to the website of the department of education, a detailed data security
+plan that includes all of the following:
+1.Guidelines
+for authorizing access to the data system and to individual student level data,
+including guidelines for authentication of authorized access.
+2.Privacy
+compliance standards.
+3.Privacy
+and security audits.
+4.Breach
+planning, notification and procedures.
+5.Data
+retention and disposition policies.
+6.Data
+security policies, including electronic, physical and administrative
+safeguards, such as data encryption and training of employees.
+N.Notwithstanding
+any other law, the department of education may not share or transfer any personally
+identifiable information about any student or teacher with any entity in this
+state unless that entity is an educational agency or institution that will not:
+1.Use the
+data to develop commercial products or services.
+2.Share or
+transfer any personally identifiable information about any student or teacher
+to any economic or workforce development research or initiative.
+3.Share any
+personally identifiable information compiled regarding students or teachers
+with any entity outside this state, except as provided in this section.
+O.Notwithstanding
+any other law, the department of education shall ensure that all contracts that
+govern databases, assessments or instructional supports that include student or
+redacted data and that are outsourced to private vendors include written
+provisions that specifically safeguard student privacy and data security,
+including provisions that prohibit private vendors from selling student level
+data or from using student level data in furtherance of advertising, with penalties
+for noncompliance. The department may not share any personally identifiable
+information about any student or teacher with any entity that will use that
+information for development of commercial products or services or that will
+transfer that data to any other entity for use in the development of commercial
+products or services.A contractor working with student records
+shall agree in writing that it will not disclose such information, including
+for online behavioral advertising, for the sale of data for any commercial
+purpose or for any other commercial or noncommercial activity or
+product.Contractors may not share any student's personally
+identifiable information with any federal agency or federal personnel without
+prior written consent from the student's parent or guardian.
+P.Notwithstanding
+any other law, the arizona department of education and the data governance
+commission shall notify the governor, the president of the senate, the speaker
+of the house of representatives, the superintendent of public instruction, the
+state board of education, parents or guardians and the public, by posting on
+the website of the data governance commission with a link to the website of the
+department of education, of both of the following:
+1.New
+student level data elements proposed for inclusion in the state student data
+system.
+2.Changes
+to existing data collection required for any reason, including changes to the
+federal reporting requirements made by the United States department of
+education.
+Q.Notwithstanding
+any other law, the department of education may not collect, and school
+districts and charter schools may not report, any of the following individual
+student level data:
+1.Juvenile
+court delinquency records.
+2.Criminal
+records.
+3.Student
+biometric information.
+4.Information
+about political affiliation and voting history of students, siblings of
+students or parents or guardians of students.
+5.Information
+about the religion of students, siblings of students or parents or guardians of
+students.
+6.Information
+about firearm and ammunition ownership or other hobbies of students, siblings
+of students or parents or guardians of students.
+7.Information
+about drug or alcohol use of students, siblings of students or parents or
+guardians of students.
+8.The
+Quality of home students' interpersonal relationships.
+9.mental
+health screenings and mental health survey data of students, siblings of
+students or parents or guardians of students.
+R.Notwithstanding
+any other law, employees of the department of education and of any other state
+agency who violate this section are subject to termination from existing
+employment and prohibition from further employment with this state. The
+attorney general or the county attorney for the county in which an alleged
+violation of this section occurred may serve on the employee or former employee
+an order requiring compliance with this section and may assess a civil penalty
+of not more than five thousand dollars for each violation. The employee or
+former employee who is determined to be out of compliance with this section is
+responsible for the payment of all civil penalties, and public monies or
+insurance payments may not be used to pay these civil
+penalties.Civil penalties collected pursuant to this section shall
+be transmitted to the state treasurer for deposit in the state general fund.
+S.Notwithstanding
+any other law, for each violation of this section or any rule adopted pursuant
+to this section by an organization or entity other than a state agency, a school
+district governing board or an educational entity, a civil penalty shall be
+imposed in the amount of ten thousand dollars for each student record. if a
+person or entity that is a contractor with this state or with an educational
+entity in this state violates this section, the contract shall be terminated
+and that person or entity is prohibited from entering into any contract in the
+future with this state or an educational entity in this state.The
+attorney general may enforce compliance with this section by conducting
+investigations and initiating civil actions to seek civil penalties for
+violations of this section and to seek appropriate injunctive relief, including
+a prohibition on obtaining personally identifiable information for an
+appropriate time period. The attorney general may subpoena witnesses, compel
+attendance of witnesses, examine witnesses under oath and require the
+production, examination or audit of any books, records, documents, papers or
+electronic records relevant to the inquiry.subpoenas issued
+pursuant to this subsection may be enforced pursuant to the Arizona rules of
+civil procedure.
+T.The
+requirements of this section concerning curricula, standards, instructional
+methods, assessments, professional development, data collection, proposals,
+agreements, grants or documents include both paper and electronic media,
+whether stored locally, on the Internet or on servers connected to the internet
+or streamed or projected by, through or from any electronic device or software.
+U.The State
+Board of Education, the Department of Education, school districts and charter
+schools may not purchase, lease, rent or use hardware or software for
+instruction, including tutorials, simulations, gaming, interactive textbooks,
+collaborative software or operating systems, that collects any user data
+without obtaining prior written consent from parents or guardians and teachers,
+or that denies access to parents, guardians or citizens of this state.
+END_STATUTE
+Sec.2.Legislative findings and declarations
+The legislature finds and declares that:
+1.The rights of parents and guardians of students
+in this state are explicitly stated in:
+(a)Section 1-601, Arizona Revised Statutes, as
+"The liberty of parents to direct the upbringing, education, health care
+and mental health of their children is a fundamental right."
+(b)Section 1-602, Arizona Revised Statutes, as
+"All parental rights are reserved to a parent of a minor child without
+obstruction or interference from this state, any political subdivision of this
+state, any other governmental entity or any other institution."
+2.According to the fourth amendment to the
+Constitution of the United States, individuals have the right "to be
+secure in their persons, houses, papers, and effects, against unreasonable
+searches and seizures." The role of government is to ensure these rights.
+3.A de facto national longitudinal data system via
+connections to each state's longitudinal data system, controlled by national
+private-public partnerships that usurp the privacy of Arizona parents and
+guardians and local school board control, builds the infrastructure for
+undermining the Constitution of the United States, individual rights and
+states' rights and destroys locally determined curricular values and locally
+determined data usage.The constitutionally protected privacy and
+property of Arizona citizens is what these combined statewide longitudinal data
+systems seek to monitor, control and change.
+

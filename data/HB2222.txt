@@ -1,0 +1,560 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: employment security; omnibus 
+
+
+
+
+
+
+
+State of Arizona
+House of Representatives
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+HB 2222
+
+
+
+
+
+
+
+
+
+Introduced by
+Representative
+  Fann
+
+
+
+
+
+AN ACT
+
+Amending sections
+23672 and 23724, Arizona Revised Statutes; repealing section 23765,
+Arizona Revised Statutes; amending sections 23771, 411504, 411955
+and 411993, Arizona Revised Statutes; relating to employment security.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 23-672, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE23-672.Appeals board
+A.Within the department, an appeals board is
+established consisting of up to four
+members. The director shall appoint the members of the appeals board and shall
+designate one member to serve as chairman.
+B.Hearings conducted by or at the direction of the
+appeals board shall be conducted as provided by section 23674 and other
+provisions of this chapter. The department shall prescribe by rule the
+procedures for petitioning for review, removal of cases to the board and
+appeals under section 23673. An interested party may file either a
+written or electronic petition for review. On the filing of a petition for
+review, the department shall prepare a complete record unless the parties
+stipulate otherwise.
+C.In any case in which a petition for review of an
+appeal tribunal or hearing officer decision has been filed by an interested
+party, the appeals board may remand the case to any appeal tribunal or hearing
+officer for further proceedings or may review the matter on the basis of the
+record in the case, take additional evidence or rehear the matter and affirm,
+reverse, modify or set aside the decision of the appeal tribunal or hearing
+officer. On notice to the interested parties, a petition for review may be
+reviewed by one member of the appeals board designated by the
+chairman.If an interested party objects to review by one board
+member, the matter shall be heard by three members of the appeals board.
+D.Unless a petition for hearing or review of a
+department determination made under article 5 of this chapter is withdrawn, the
+appeals board after affording the parties reasonable opportunity for a fair
+hearing shall issue its decision.
+E.Every decision of the appeals board shall be in
+writing.If the decision is issued by three a
+majority of the members of the appeals board, and the appeals
+board is not unanimous, the decision of the majority shall
+control.The minority may file a dissent from the decision, setting
+forth the reasons for the dissent.All interested parties shall be
+promptly notified of the decision and the reasons for the decision. Notice to
+the parties of the decision shall be accompanied by instructions explaining the
+procedure for requesting review as
+described in subsection F of this section and clearly indicating the final date
+for filing a request for review pursuant to section 41-1993.
+F.A party
+dissatisfied with the decision under subsection E of this section may file a
+request for review within thirty days from the date of the decision, which
+shall be a written or electronic request and memorandum stating the reasons why
+the appeals board's decision is in error and containing appropriate citations
+of the record, rules and other authority. On motion, and for good cause, the
+appeals board may extend the time for filing a request for review. The timely
+filing of such a request for review is a prerequisite to any further
+appeal.The appeals board shall notify all parties of the filing of
+a request for review and shall allow fifteen days from the date of the notice
+for any party to respond.Thereafter, the appeals board shall issue
+a decision on review affirming, modifying or reversing its decision, or
+ordering the taking of additional testimony.All parties shall be
+given written notice by mail of the decision on review.END_STATUTE
+Sec.2.Section 23-724, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE23-724.Liability determinations; review; finality
+A.When
+if the department makes a
+determination, which determination shall be made either on the motion of the
+department or on application of an employing unit, that an employing unit
+constitutes an employer as defined in section 23613 or that services
+performed for or in connection with the business of an employing unit
+constitute employment as defined in section 23615 that is not exempt
+under section 23617 or that remuneration for services constitutes wages
+as defined in section 23622, the determination shall become final with
+respect to the employing unit sixty days after written notice is served
+personally, by electronic transmission or by certified mail if the
+determination was made on the basis of section 23613.01, or by first
+class mail if the determination was made by any other basis, addressed to the
+last known address of the employing unit, unless within such time the employing
+unit files a written request for reconsideration.
+B.When
+If a request for
+reconsideration is filed as prescribed in subsection A of this section, a
+reconsidered determination shall be made. The reconsidered determination shall
+become final with respect to the employing unit thirty days after written
+notice of the reconsidered determination is served personally, by electronic
+transmission or by mail addressed to the last known address of the employing
+unit, unless within such time the employing unit files with the appeals board a
+written petition for hearing or review.The department may for good
+cause extend the period within which the written petition is to be
+submitted.If the reconsidered determination is appealed to the
+appeals board and the decision by the appeals board is that the employing unit
+is liable, the employing unit shall submit all required contribution and wage
+reports to the department within fortyfive days after the decision by
+the appeals board.
+C.On an employer's written request and the
+submission of pertinent information to the department, the department shall, or
+on its own motion may, consider whether a determination, reconsidered
+determination or decision which
+that has become final
+should be revised. Revision shall be granted if either:
+1.There has been a substantial and material change
+in the facts on which the determination, reconsidered determination or decision
+relied.
+2.There has been a change in the law or
+interpretation of the law which
+that warrants a revised
+determination, reconsidered determination or decision.
+D.The effective date of a revision under subsection
+C of this section is either:
+1.The date on which the change occurred if the
+employer's request with the pertinent information is filed no later than the
+last day of the month immediately subsequent to the calendar quarter in which
+the change occurred.
+2.The first day of the calendar quarter in which
+the employer files the request and submits the pertinent information unless the
+employer demonstrates to the satisfaction of the department that good cause
+exists for the failure to notify the department within the period prescribed by
+paragraph 1 of this subsection of the occurrence of the change warranting the
+revision.In the event such
+that good cause is
+demonstrated, the effective date shall be the date of the change.
+E.A refusal to grant relief under subsection C of
+this section may not be appealed unless within thirty days the employer appeals
+the refusal to the appeals board.The employer's appeal shall be filed either electronically
+or in writing. Notwithstanding any other provision of law and
+pursuant to such an the appeal, the appeals board
+may initiate hearings to obtain information and issue a decision as to whether
+the relief requested in subsection C of this section should be
+granted.Thereafter, the appeals board shall issue a decision in the
+matter.The decision of the
+appeals board may not be appealed with respect to the employing
+unit unless petition for review and
+a request for judicial review are is filed
+within the time and in the manner provided in section 23672 41-1993. 
+F.The determination
+of the department or decision of the appeals board, together with the record,
+shall be admissible in any subsequent judicial proceeding involving liability
+for contributions.A determination or decision that an employing
+unit is liable that has become final shall be conclusive and binding on the
+employing unit and shall not be reconsidered in proceedings brought before the
+department or a hearing officer.
+G.Any determination issued on the basis of section
+23613.01 pursuant to subsection A of this section and any reconsidered
+determination issued pursuant to subsection B of this section and any
+contribution rate redetermination or denial issued pursuant to section 23732,
+subsection A shall contain the following:
+1.The facts considered and the facts relied on in
+making the determination.
+2.The specific statutes, regulations or other
+authority relied on in making the determination.
+3.The reasoning applied in making the
+determination.
+4.The appeal rights related to the determination
+and the time period after which the determination becomes final.
+H.If any determination covered by subsection G of
+this section is defective because it fails to meet the requirements of
+subsection G of this section, the defect may be cured by issuance of a
+corrected, amended or new determination.If a defect is alleged and
+specified in writing within the period for appeal, all time periods applicable
+to the determination are suspended pending the curative action.
+I.This section does not preclude the department
+from at any time correcting clerical errors that have occurred in the
+administration of this chapter.
+J.A determination, reconsidered determination,
+revision or refusal to grant relief under this section may be served by
+electronic means if the party being served consents in writing to service by
+electronic means. Service by electronic means is deemed complete on
+transmission. END_STATUTE
+Sec.3.Delayed repeal
+Section 23-765,
+Arizona Revised Statutes, is repealed from and after December 31, 2016.
+Sec.4.Section 23-771, Arizona Revised Statutes,
+is amended to read:
+START_STATUTE23-771.Eligibility for benefits
+A.An unemployed individual shall be is eligible to receive benefits with respect to any week
+only if the department finds that the individual:
+1.Has registered for work at and thereafter has
+continued to report at an employment office in accordance with such the
+regulations as
+prescribed by the
+department prescribes.
+2.Has made a claim for benefits in accordance with
+section 23772.
+3.Is able to work.
+4.Except for an individual who is applying for
+shared work benefits pursuant to article 5.1 of this chapter, is available for
+work and both of the following apply:
+(a)The individual has engaged in a systematic and
+sustained effort to obtain work during at least four days of the week.
+(b)The individual has made at least three four
+work search contacts during
+on four different days of the
+week.
+5.Has been unemployed for a waiting period of one
+week.A week shall
+is not be counted as a week of unemployment for the
+purpose of this paragraph:
+(a)Unless it occurs within the benefit year that
+includes the week with respect to which the individual claims payment of
+benefits.
+(b)Unless the individual was eligible for benefits
+with respect thereto as provided in this section and sections 23775, 23776
+and 23777.
+(c)If benefits have been paid in respect thereto.
+6.Has met one of the following requirements:
+(a)Has been paid wages for insured work during the
+individual's base period equal to at least one and onehalf times the
+wages paid to the individual in the calendar quarter of the individual's base
+period in which such the wages were highest, and the
+individual has been paid wages for insured work in one calendar quarter of the
+individual's base period equal to an amount that is equal to at least three
+hundred ninety times the minimum wage prescribed by section 23363 that
+is in effect when the individual files a claim for benefits.
+(b)Has for a benefit year beginning on or after September
+2, 1984, been paid wages for insured work during at least two quarters of the
+individual's base period and the amount of such the
+wages paid in one quarter would be sufficient to qualify the
+individual for the maximum weekly benefit amount payable under this chapter and
+the total of the individual's baseperiod wages is equal to or greater
+than the taxable limit as specified in section 23622, subsection B,
+paragraph 1.
+7.Following the beginning date of a benefit year
+established under this chapter or the unemployment compensation law of any
+other state and prior to before the effective date of a
+subsequent benefit year under this chapter, has performed services whether or
+not in employment as defined in section 23615 for which wages were
+payable in an amount equal to or in excess of eight times the weekly benefit
+amount for which the individual is otherwise qualified under section 23779.In
+making a determination under this paragraph the department shall use
+information available in its records or require the individual to furnish
+necessary information within thirty days from
+after the date notice is
+given that such the information is required.
+B.If an unemployed individual cannot establish a
+benefit year as defined in section 23609 due to receipt during the base
+period of compensation for a temporary total disability pursuant to chapter 6
+of this title, or any similar federal law, the individual's base period shall
+be the first four of the last five completed calendar quarters immediately preceding
+the first day of the calendar week in which the disability
+began.Wages previously used to establish a benefit year may not be
+reused.This subsection does not apply unless all of the following
+occur:
+1.The individual has filed a claim for benefits not
+later than the fourth calendar week of unemployment after the end of the period
+of disability.
+2.The claim is filed within two years after the
+period of disability begins.
+3.The individual meets the requirements of
+subsection A of this section.
+4.The individual has attempted to return to the
+employment where the temporary total disability occurred.
+C.If an unemployed individual is a member of the
+national guard or other reserve component of the United States armed forces,
+the individual shall is not be considered to be either employed or
+unavailable for work by reason of the individual's participation in drill,
+training or other national guard or reserve activity that occurs on not more
+than one weekend per month or in lieu of a weekend drill or the equivalent.
+D.The department shall not disqualify an individual
+from receiving benefits under this chapter on the basis of the individual's
+separation from employment if the individual is a victim of domestic violence
+and leaves employment due to a documented case involving domestic violence
+pursuant to section 133601 or 133601.02. Benefits paid to an
+individual pursuant to this subsection shall not be charged against an
+employer's account pursuant to section 23727, subsection G.
+E.For the purposes of subsection A, paragraph 6 of
+this section, wages shall be counted as "wages for insured work" for
+benefit purposes with respect to any benefit year only if that benefit year
+begins subsequent to the date on which the employing unit by which those wages
+were paid has become an employer subject to this chapter. END_STATUTE
+Sec.5.Section 41-1504, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE41-1504.Powers and duties; e-verify requirement
+A.The board of directors, on behalf of the
+authority, may:
+1.Adopt and use a corporate seal.
+2.Sue and be sued.
+3.Enter into contracts as necessary to carry out
+the purposes and requirements of this chapter, including intergovernmental
+agreements pursuant to title 11, chapter 7, article 3 and interagency service
+agreements as provided by section 35148.
+4.Lease real property and improvements to real
+property for the purposes of the authority. Leases by the authority are exempt
+from chapter 4, article 7 of this title, relating to management of state
+properties.
+5.Employ or retain legal counsel and other
+consultants as necessary to carry out the purposes of the authority.
+6.Develop and use written policies, procedures and
+guidelines for the terms and conditions of employing officers and employees of
+the authority and may include background checks of appropriate personnel.
+B.The board of directors, on behalf of the
+authority, shall:
+1.Develop comprehensive long-range strategic
+economic plans for this state and submit the plans to the governor.
+2.Annually update a strategic economic plan for
+submission to the governor.
+3.Accept gifts, grants and loans and enter into
+contracts and other transactions with any federal or state agency,
+municipality, private organization or other source.
+C.The authority shall:
+1.Assess and collect fees for processing
+applications and administering incentives. The board shall adopt the manner of
+computing the amount of each fee to be assessed. Within thirty days after
+proposing fees for adoption, the chief executive officer shall submit a
+schedule of the fees for review by the joint legislative budget committee. It
+is the intent of the legislature that a fee shall not exceed one per cent percent of the amount of the incentive.
+2.Determine and collect registry fees for the
+administration of the allocation of federal tax exempt industrial development
+bonds and student loan bonds authorized by the authority. Such monies
+collected by the authority shall be deposited, pursuant to sections 35146
+and 35147, in an authority bond fund. Monies in the fund shall be used,
+subject to annual appropriation by the legislature, by the authority to
+administer the allocations provided in this paragraph and are exempt from the
+provisions of section 35190 relating to the lapsing of appropriations.
+3.Determine and collect security deposits for the
+allocation, for the extension of allocations and for the difference between
+allocations and principal amounts of federal tax exempt industrial development
+bonds and student loan bonds authorized by the authority. Security deposits
+forfeited to the authority shall be deposited in the state general fund.
+4.At the direction of the board, establish and
+supervise the operations of full-time or part-time offices in other states and
+foreign countries for the purpose of expanding direct investment and export
+trade opportunities for businesses and industries in this state if, based on
+objective research, the authority determines that the effort would be
+beneficial to the economy of this state.
+5.Establish a program by which entrepreneurs become
+aware of permits, licenses or other authorizations needed to establish, expand
+or operate in this state.
+6.Be the
+state registration agency for apprenticeship functions prescribed by the
+federal government.
+D.The authority, through the chief executive
+officer, may:
+1.Contract and incur obligations reasonably
+necessary or desirable within the general scope of the authority's activities
+and operations to enable the authority to adequately perform its duties.
+2.Use monies, facilities or services to provide
+matching contributions under federal or other programs that further the
+objectives and programs of the authority.
+3.Accept gifts, grants, matching monies or direct
+payments from public or private agencies or private persons and enterprises for
+the conduct of programs that are consistent with the general purposes and
+objectives of this chapter.
+4.Assess business fees for promotional services
+provided to businesses that export products and services from this state. The
+fees shall not exceed the actual costs of the services provided.
+5.Establish and maintain one or more accounts in
+banks or other depositories, for public or private monies of the authority,
+from which operational activities, including payroll, vendor and grant
+payments, may be conducted. Individual funds that are established by law under
+the jurisdiction of the authority may be maintained in separate accounts in
+banks or other depositories, but shall not be commingled with any other monies
+or funds of the authority.
+E.The chief executive officer shall:
+1.Hire employees and prescribe the terms and
+conditions of their employment as necessary to carry out the purposes of the
+authority. The board of directors shall adopt written policies, procedures and
+guidelines, similar to those adopted by the department of administration,
+regarding officer and employee compensation, observed holidays, leave and
+reimbursement of travel expenses and health and accident
+insurance.The officers and employees of the authority are exempt
+from any laws regulating state employment, including:
+(a)Chapter 4, articles 5 and 6 of this title,
+relating to state service.
+(b)Title 38, chapter 4, article 1 and chapter 5,
+article 2, relating to state personnel compensation, leave and retirement.
+(c)Title 38, chapter 4, article 2, relating to
+reimbursement of state employee expenses.
+(d)Title 38, chapter 4, article 4, relating to
+health and accident insurance.
+2.On a quarterly basis, provide public record data
+in a manner prescribed by the department of administration related to the
+authority's revenues and expenditures for inclusion in the comprehensive
+database of receipts and expenditures of state monies pursuant to section 41725.
+F.In addition to any other requirement, in order to
+qualify for any grant, loan, reimbursement, tax incentive or other economic
+development incentive pursuant to this chapter, an applicant that is an
+employer must register with and participate in the e-verify program in
+compliance with section 23214. The authority shall require verification
+of compliance with this subsection as part of any application process.
+G.Notwithstanding any other law, the authority is
+subject to chapter 3.1, article 1 of this title, relating to risk management.
+H.The authority is exempt from chapter 32, articles
+1 and 2 of this title, relating to statewide information technology. The
+authority shall adopt policies, procedures and guidelines regarding information
+technology.
+I.The authority is exempt from state general
+accounting and finance practices and rules adopted pursuant to chapter 4,
+article 3 of this title, but the board shall adopt written accounting
+practices, systems and procedures for the economic and efficient operation of
+the authority.
+J.The authority is exempt from section 41712,
+relating to the installation and maintenance of telecommunications telecommunication systems.
+K.The authority may lease or purchase motor
+vehicles for use by employees to conduct business activities. The authority is
+exempt from section 41803, relating to the state motor vehicle fleet,
+and title 38, chapter 3, article 10, relating to vehicle usage and markings.
+L.Any tangible or intangible record submitted to or
+compiled by the board or the authority in connection with its work, including
+the award of monies, is subject to title 39, chapter 1, unless an applicant
+shows, or the board or authority determines, that specific information meets
+either of the following:
+1.If made public, the information would divulge the
+applicant's or potential applicant's trade secrets, as defined in section 44401.
+2.If made public, the information could potentially
+harm the applicant's, the potential
+applicant's or this state's competitive position relating to potential business
+development opportunities and strategies.
+M.The authority is exempt from chapter 25, article
+1 of this title, relating to government competition with private enterprise. END_STATUTE
+Sec.6.Section
+41-1955, Arizona Revised Statutes, is amended to read:
+START_STATUTE41-1955.Duty of department concerning employment stabilization, exoffender
+rehabilitation, income maintenance and manpower development; research studies
+The department, with the advice and aid of its advisory
+councils, shall:
+1.Take appropriate steps to reduce and prevent
+unemployment and dependency, and to assist in alleviating the economic and
+social impact of unemployment and dependency on the person and his family.
+2.Encourage and assist in the adoption of practical
+methods of manpower services, occupational training, vocational counseling and
+guidance, vocational rehabilitation and retraining, supportive services and
+other such services the director deems appropriate.
+3.Research, recommend, advise and assist in the
+establishment of community or area facilities, public and private, or both, to
+provide an integration of direct services and programs for the development of
+the state's manpower and the reduction of dependency.
+4.Promote the effective utilization of unemployed
+and underutilized workers.
+5.Aid in the rehabilitation of employable exoffenders,
+in cooperation with the department of corrections.An exoffender,
+by accepting the assistance provided for by this article, shall not be
+disqualified from receiving further assistance from any other state agency to
+which he is legally entitled.
+6.Be the
+state registration agency for apprenticeship functions prescribed by the
+federal government.
+6.7.Carry
+out and publish the results of research studies for the purpose of this
+chapter. END_STATUTE
+Sec.7.Section 41-1993, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE41-1993.Judicial review
+A.Any party aggrieved by a decision of the director
+is entitled to judicial review of the decision pursuant to title 12, chapter 7,
+article 6.
+B.Any party aggrieved by a decision on review of the appeals board may file an
+application for appeal to the court of appeals with the clerk of the appeals
+board within thirty days of
+after the date of mailing
+or electronic transmission of the decision on review, except as provided in subsection C
+of this section.On the filing of an application for appeal, the
+clerk of the appeals board shall transmit to the court of appeals the application
+for appeal, the original decision of
+decisions issued by the
+appeals board, and all requests petitions for review and responses, and the decision on review of the appeals
+board. The clerk of the appeals board shall also transmit any portions of the
+record before the department requested by the court of appeals. The clerk of the appeals board shall not process an
+application for appeal unless the appellant has previously filed a timely
+request for review under section 23672 or 411992 and a decision
+on review has been issued. The court of appeals shall thereafter
+grant or deny the application for appeal.If the application is
+denied, the decision on review
+of the appeals board shall be deemed final, and no further appeal may not be taken.If the application is
+granted, the rules for appeals in civil actions shall apply, commencing with
+the preparation and transmittal of the complete record before the department
+and a record index. No A bond for costs on
+appeal or docket fee shall be
+is not required.The
+department and all parties before the appeals board shall be given notice of
+the appeal and an opportunity to appear.All such appeals shall be are limited to the record before the department unless the
+court orders otherwise.No
+AN issue may not be raised on appeal which that has not been raised in the request petition
+for review before the appeals board. The department shall
+provide the record for use by the court and by any parties who request
+copies.The cost of providing the record is a taxable cost if the
+department prevails.The court of appeals may designate one
+department of division one to hear all appeals under this section.
+C.Any party aggrieved by a decision on review of the appeals board concerning tax
+liability, collection or enforcement may appeal to the tax court, as defined in
+section 12161, within thirty days after the date of mailing or
+electronic transmission of the decision on
+review.The appellant need not pay any of the tax,
+penalty or interest upheld by the appeals board in its decision on review before initiating, or in order to
+maintain an appeal to the tax court pursuant to this section.
+D.Any appeal that is taken to tax court pursuant to
+this section is subject to the following provisions:
+1.No injunction, writ of mandamus or other legal or
+equitable process may issue in an action in any court in this state against an
+officer of this state to prevent or enjoin the collection of any tax, penalty
+or interest.
+2.The action shall not begin more than thirty days
+after the date of mailing or electronic transmission of the appeals board's
+decision on review. Failure
+to bring the action within thirty days after the date of mailing or electronic
+transmission of the appeals board's decision on review constitutes a waiver of the protest
+and a waiver of all claims against this state arising from or based on the
+illegality of the tax, penalties and interest at issue.
+3.The scope of review of an appeal to tax court
+pursuant to this section shall be governed by section 12910, applying
+section 23613.01 as that section reads on the date the appeal is filed
+to the tax court or as thereafter amended.Either party to the
+action may appeal to the court of appeals or supreme court as provided by law.
+4.The action
+cannot be initiated or maintained unless the appellant has previously filed a
+timely request for review under section 23672 or 411992 and a
+decision on review has been issued. END_STATUTE
+

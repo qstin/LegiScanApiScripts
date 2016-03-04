@@ -1,0 +1,476 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: internal revenue code conformity
+
+
+
+
+
+
+
+State of Arizona
+Senate
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+SB 1288
+
+
+
+
+
+
+
+
+
+Introduced by
+Senator
+  Lesko
+
+
+
+
+
+AN ACT
+
+Amending sections
+42-1001, 43-105, 43-325, 43-327 and 43-1401, Arizona Revised Statutes; amending
+title 43, chapter 14, article 2, Arizona Revised Statutes, by adding section
+43-1414; relating to taxation.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 42-1001, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE42-1001.Definitions
+In this title, unless the context otherwise requires:
+1."Board" or "state board"
+means either the state board of tax appeals or the state board of equalization,
+as applicable.
+2."Court" means the tax court or superior
+court, whichever is applicable.
+3."Department" means the department of
+revenue.
+4."Director" means the director of the
+department.
+5."Internal revenue code" means the
+United States internal revenue code of 1986, as amended and in effect as of
+January 1, 2015 2016, including those
+provisions that became effective during 2014
+2015 with the specific
+adoption of their retroactive effective dates but excluding all changes to the
+code enacted after January 1, 2015
+2016. END_STATUTE
+Sec.2.Section 43-105, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE43-105.Internal revenue code; definition; application
+A.For the
+purposes of computing income tax pursuant to this title, for taxable years
+beginning from and after December 31, 2015, "internal revenue code"
+means the United States internal revenue code of 1986, as amended, in effect on
+January 1, 2016, including those provisions that became effective during 2015
+with the specific adoption of all federal retroactive effective dates, but
+excluding any change to the code enacted after January 1, 2016.
+A.B.For the purposes
+of computing income tax pursuant to this title, for taxable years beginning
+from and after December 31, 2014 through
+December 31, 2015, "internal revenue code" means the
+United States internal revenue code of 1986, as amended, in effect on January
+1, 2015, including those provisions that became effective during 2014 with the
+specific adoption of all federal retroactive effective dates, but excluding any change to the code enacted after January 1,
+2015 and including those
+provisions of the slain officer family support act of 2015 (P.L. 114-7), the
+don't tax our fallen public safety heroes act (P.L. 114-14), the surface
+transportation and veterans health care choice improvement act of 2015 (P.L.
+114-41) and the consolidated appropriations act, 2016 (P.L. 114-113) that are
+retroactively effective during taxable years beginning from and after December
+31, 2014 through December 31, 2015.
+B.C.For the purposes
+of computing income tax pursuant to this title, for taxable years beginning
+from and after December 31, 2013 through December31, 2014, "internal
+revenue code" means the United States internal revenue code of 1986, as
+amended, in effect on January 1, 2014, including those provisions that became
+effective during 2013 with the specific adoption of all federal retroactive
+effective dates, and including those provisions of the Philippines charitable
+giving assistance act (P.L. 11392), the Gabriella Miller kids first
+research act (P.L. 113-94), the cooperative and small employer charity pension
+flexibility act (P.L. 11397), the highway and transportation funding act
+of 2014 (P.L. 113159), the tribal general welfare exclusion act of 2014
+(P.L. 113168), the consolidated and further continuing appropriations
+act, 2015 (P.L. 113235), the 2014 airline bankruptcy payments rollover
+act (P.L. 113243),
+and the tax increase
+prevention act of 2014 (P.L. 113295), the slain officer family support act of 2015 (P.L. 1147)
+and the consolidated appropriations act, 2016 (P.L. 114-113) that
+are retroactively effective during taxable years beginning from and after
+December 31, 2013 through December 31, 2014.
+C.D.For the purposes
+of computing income tax pursuant to this title, for taxable years beginning
+from and after December 31, 2012 through December31, 2013, "internal
+revenue code" means the United States internal revenue code of 1986, as
+amended, in effect on January 3, 2013, including those provisions that became
+effective during 2012 with the specific adoption of all federal retroactive
+effective dates, and including those provisions of the Philippines charitable
+giving assistance act (P.L. 11392), the highway and transportation
+funding act of 2014 (P.L. 113159), the tribal general welfare exclusion
+act of 2014 (P.L. 113168), the 2014 airline bankruptcy payments rollover
+act (P.L. 113243),
+and the tax technical
+corrections act of 2014 (P.L. 113295, division A, title II) and the consolidated appropriations act, 2016
+(P.L. 114-113) that are retroactively effective during taxable
+years beginning from and after December 31, 2012 through December 31, 2013.
+D.E.For the purposes
+of computing income tax pursuant to this title, for taxable years beginning
+from and after December 31, 2011 through December31, 2012, "internal
+revenue code" means the United States internal revenue code of 1986, as
+amended, in effect on January 1, 2012, including those provisions that became
+effective during 2011 with the specific adoption of all federal retroactive
+effective dates, and including those provisions of the FAA modernization and
+reform act of 2012 (P.L. 11295), the moving ahead for progress in the
+21st century act (P.L. 112141), the American taxpayer relief act of 2012
+(P.L.112240), the 2014 airline bankruptcy payments rollover act
+(P.L. 113243), the tribal general welfare exclusion act of 2014 (P.L.
+113168), and the tax technical corrections
+act of 2014 (P.L. 113295, division A, title II) and the consolidated APPROPRIATIONS act, 2016 (P.L. 114-113)
+that are retroactively effective during taxable years beginning from and after
+December 31, 2011 through December 31,2012.
+E.F.For the purposes
+of computing income tax pursuant to this title, for taxable years beginning
+from and after December 31, 2010 through December31, 2011, "internal
+revenue code" means the United States internal revenue code of 1986, as
+amended, in effect on January 1, 2011, including those provisions that became
+effective during 2010 with the specific adoption of all federal retroactive
+effective dates, and including those provisions of Public Law 11240, the
+moving ahead for progress in the 21st century act (P.L. 112141), the
+American taxpayer relief act of 2012 (P.L. 112240), the tribal general
+welfare exclusion act of 2014 (P.L. 113168) and the tax technical
+corrections act of 2014 (P.L. 113295, division A, title II) that are
+retroactively effective during taxable years beginning from and after December
+31, 2010 through December 31, 2011.
+F.G.For the purposes
+of computing income tax pursuant to this title, for taxable years beginning
+from and after December 31, 2009 through December31, 2010, "internal
+revenue code" means the United States internal revenue code of 1986, as
+amended, in effect on January 1, 2010, including those provisions that became
+effective during 2009 with the specific adoption of all federal retroactive
+effective dates, and including those provisions of the temporary extension act
+of 2010 (P.L. 111144), the hiring incentives to restore employment act
+(P.L. 111147), the patient protection and affordable care act (P.L. 111148),
+the health care and education reconciliation act of 2010 (P.L.111152),
+the preservation of access to care for medicare beneficiaries and pension
+relief act of 2010 (P.L. 111192), the Dodd-Frank Wall Street reform and
+consumer protection act (P.L. 111203), the small business jobs act of
+2010 (P.L. 111240), the claims resolution act of 2010 (P.L. 111291),
+the tax relief, unemployment insurance reauthorization, and job creation act of
+2010 (P.L. 111312), the regulated investment company modernization act
+of 2010 (P.L. 111325) and the tax technical corrections act of 2014
+(P.L. 113-295, division A, title II) that are retroactively effective during
+taxable years beginning from and after December 31, 2009 through December 31,
+2010.
+G.H.For purposes of
+computing income tax pursuant to this title, for taxable years beginning from
+and after December 31, 2008 through December 31, 2009, "internal revenue
+code" means the United States internal revenue code of 1986, as amended,
+in effect on January 1, 2009, including those provisions that became effective
+during 2008 with the specific adoption of all federal retroactive effective
+dates, and including those provisions of the American recovery and reinvestment
+act of 2009 (P.L.1115) except section 1211, the consumer
+assistance to recycle and save act of 2009 (P.L.11132), the
+worker, homeownership, and business assistance act of 2009 (P.L.11192)
+except section 13, the hiring incentives to restore employment act (P.L. 111147),
+the patient protection and affordable care act (P.L. 111148), the
+preservation of access to care for medicare beneficiaries and pension relief
+act of 2010 (P.L. 111192), the small business jobs act of 2010
+(P.L.111240), the tax relief, unemployment insurance
+reauthorization, and job creation act of 2010 (P.L.111312) and the
+tax technical corrections act of 2014 (P.L. 113295, division A, title
+II) that are retroactively effective during taxable years beginning from and
+after December 31, 2008 through December 31, 2009.
+H.I.For purposes of
+computing income tax pursuant to this title, for taxable years beginning from
+and after December 31, 2007 through December 31, 2008, "internal revenue
+code" means the United States internal revenue code of 1986, as amended,
+in effect on January 1, 2008, including those provisions that became effective
+during 2007 with the specific adoption of all federal retroactive effective
+dates and including those provisions of the economic stimulus act of 2008 (P.L.
+110185), the heroes earnings assistance and relief tax act of 2008 (P.L.
+110245), the heartland, habitat, harvest and horticulture act of 2008
+(P.L. 110246), the housing assistance tax act of 2008 (P.L. 110289),
+the emergency economic stabilization act of 2008 (P.L.110343), the
+worker, retiree, and employer recovery act of 2008 (P.L.110458),
+the American recovery and reinvestment act of 2009 (P.L.1115)
+except section 1211, the worker, homeownership, and business assistance act of
+2009 (P.L. 11192) except section 13 and the tax technical corrections
+act of 2014 (P.L. 113295, division A, title II) that are retroactively
+effective during taxable years beginning from and after December 31, 2007
+through December 31, 2008.
+I.J.For purposes of
+computing income tax pursuant to this title, for taxable years beginning from
+and after December 31, 2006 through December 31, 2007, "internal revenue
+code" means the United States internal revenue code of 1986, as amended,
+in effect on January 1, 2007, including those provisions that became effective
+during 2006 with the specific adoption of all federal retroactive effective
+dates and including those provisions of the small business and work opportunity
+tax act of 2007 (P.L. 11028), the energy independence and security act of
+2007 (P.L. 110140), Public Law 110141, the mortgage forgiveness
+debt relief act of 2007 (P.L.110142), the tax technical
+corrections act of 2007 (P.L. 110172), the economic stimulus act of 2008
+(P.L. 110185), the heroes earnings assistance and relief tax act of 2008
+(P.L. 110245), the heartland, habitat, harvest and horticulture act of
+2008 (P.L. 110246), the housing assistance tax act of 2008 (P.L. 110289),
+the emergency economic stabilization act of 2008 (P.L.110343), the
+worker, retiree, and employer recovery act of 2008 (P.L.110458)
+and the tax technical corrections act of 2014 (P.L. 113-295, division A, title
+II) that are retroactively effective during taxable years beginning from and
+after December 31, 2006 through December 31, 2007.
+J.K.For purposes of
+computing income tax pursuant to this title, for taxable years beginning from
+and after December 31, 2005 through December 31, 2006, "internal revenue
+code" means the United States internal revenue code of 1986, as amended,
+in effect on January 1, 2006, including those provisions that became effective
+during 2005 with the specific adoption of all federal retroactive effective
+dates and including those provisions of the tax increase prevention and
+reconciliation act of 2005 (P.L. 109222), the pension protection act of
+2006 (P.L. 109280), the tax relief and health care act of 2006 (P.L. 109432),
+the small business and work opportunity tax act of 2007 (P.L. 11028),
+the mortgage forgiveness debt relief act of 2007 (P.L.110142), the
+tax technical corrections act of 2007 (P.L. 110172), the heartland,
+habitat, harvest and horticulture act of 2008 (P.L. 110246), the housing
+assistance tax act of 2008 (P.L. 110289) and the tax technical
+corrections act of 2014 (P.L. 113295, division A, title II) that are
+retroactively effective during taxable years beginning from and after December
+31, 2005 through December 31, 2006.
+K.For
+purposes of computing income tax pursuant to this title, for taxable years
+beginning from and after December 31, 2004 through December 31, 2005,
+"internal revenue code" means the United States internal revenue code
+of 1986, as amended, in effect on January 1, 2005, including those provisions
+that became effective during 2004 with the specific adoption of all federal retroactive
+effective dates and including those provisions of the Katrina emergency tax
+relief act of 2005 (P.L.10973), the energy tax
+incentives act of 2005 (title XIII of the energy policy act of 2005
+(P.L.10958)), the gulf opportunity zone act of 2005 (P.L.109135),
+the tax technical corrections act of 2007 (P.L.110172), the
+heartland, habitat, harvest and horticulture act of 2008 (P.L.110246)
+and the housing assistance tax act of 2008 (P.L.110289) that are
+retroactively effective during taxable years beginning from and after December
+31, 2004 through December 31, 2005. END_STATUTE
+Sec.3.Section 43-325, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE43-325.Time for filing returns
+Unless otherwise indicated: ,
+
+1.Returns
+made on the basis of the calendar year shall be filed on or before the
+fifteenth day of April following the close of the calendar year.
+2.Returns
+made on the basis of a fiscal year shall be filed on or before the fifteenth
+day of the fourth month following the close of the fiscal year.
+3.For
+taxable years beginning from and after December 31, 2015, partnership returns
+are due on or before the fifteenth day of the third month following the close
+of the taxable year. END_STATUTE
+Sec.4.Section 43-327, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE43-327.Recomputation of tax or amended return due after federal
+adjustment; definition
+A.If the amount of taxable income for any year of
+any taxpayer as reported to the United States treasury department is changed or
+corrected by the commissioner of internal revenue or other officer of the
+United States or other competent authority, or if a renegotiation of a contract
+or subcontract with the United States results in a change in taxable income,
+such taxpayer within ninety days after the final determination of such change or
+correction or renegotiation shall either:
+1.File with the department a copy of the final
+determination, concede the accuracy of the determination or state any errors
+and request the department to recompute the tax owed to this state.
+Recomputing the tax by the department is not considered to be an audit for
+purposes of section 422059.
+2.File an amended return as required by the
+department of revenue.
+B.For
+federal changes to which section 43-1414 applies:
+1.If the
+partnership passes through to each partner the partner's distributive share of
+any adjustments pursuant to section 43-1414, subsection B, paragraph 2, the
+statement provided to each partner under section 43-1414, subsection B,
+paragraph 2 is considered to be a change in taxable income of the partner by
+the commissioner of internal revenue for the taxable year of the partner in
+which the reviewed year of the partnership ends. The partners shall each file
+an amended return within one hundred fifty days after the final determination
+of the partnership adjustments by the internal revenue service to report their
+share of the partnership adjustments as reported to them in the statement
+provided by the partnership pursuant to section 431414, subsection B,
+paragraph 2.
+2.If the
+partnership is required to report federal changes and pay the tax pursuant to
+section 43-1414, subsection B, paragraph 1, the partnership shall file the
+return required under section 43-1414, subsection A and pay the tax within
+ninety days after the final determination of the partnership adjustments by the
+internal revenue service.
+B.C.The department
+may require an amended return if the department lacks the necessary information
+to recompute the tax owed to this state.
+C.D.Any taxpayer
+filing an amended return with the United States treasury department shall also
+file within ninety days of the final determination by the United States
+treasury department an amended return with the department of revenue, which shall contain such
+information as it shall require.
+D.E.For the purposes
+of this section, assessments under a partial agreement, closing agreement
+covering specific matters, jeopardy or advance payment are considered part of
+the final determination defined in
+subsection Gof this section and must be submitted to the
+department with the final determination.
+E.F.If a partial
+agreement, a closing
+agreement covering specific matters or any other agreement with the United
+States treasury department would be final except for a federal extension still
+open for flow through adjustments from other entities or other jurisdictions, then the final determination is
+the date the taxpayer signs the agreement. Flow through adjustments are
+finally determined based on criteria specified in subsection G H
+of this section.
+F.G.The department is
+not required to issue refunds based on any agreement other than a final
+determination.
+G.H.For the purposes
+of this section, "final determination" means the appeal rights of
+both parties have expired or have been exhausted relative to the tax year. END_STATUTE
+Sec.5.Section 43-1401, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE43-1401.Definitions
+In this chapter, unless the context otherwise requires:
+1."Arizona gross income" of a partnership
+means its taxable income for the year, computed according to subtitle A,
+chapter 1, subchapter K of the internal revenue code, exclusive of items
+requiring separate computation under section 43-1412, paragraphs 1 through
+16.For purposes of this title the provisions relating to interest
+on investment indebtedness contained in section 163(d) of the internal revenue
+code shall not apply.
+2."Arizona taxable income" of a partnership
+means its Arizona gross income adjusted by the modifications specified in
+sections 43-1021 and 431022 and
+section 43-1414, subsection A. END_STATUTE
+Sec.6.Title 43, chapter 14, article 2,
+Arizona Revised Statutes, is amended by adding section 43-1414, to read:
+START_STATUTE43-1414.Federal assessment of imputed underpayment; definitions
+A.A
+partnership that is audited by the internal revenue service and that is
+assessed an imputed underpayment pursuant to section 6225 of the internal
+revenue code as added by the bipartisan budget act of 2015 (P.L. 114-74) or a
+partnership that makes the election under section 6226 of the internal revenue
+code as added by the bipartisan budget act of 2015 (P.L. 114-74) shall file a
+return for the reviewed year on a form prescribed by the department that shows
+the adjustments to income or the gain, loss or deduction on which the federal
+imputed underpayment was based as well as any of the correlative adjustments to
+the additions required under section 431021 or the subtractions required
+under section 43-1022.
+B.If the
+adjustments determined in subsection A of this section are:
+1.A net
+increase in Arizona taxable income:
+(a)Within
+ninety days after the final determination regarding the adjustment from the
+internal revenue service, the partnership shall pay the tax on the adjustments
+in lieu of passing the adjustments through to the partners.
+(b)The tax shall be imposed on the
+Arizona share of the adjustments at the highest tax rate imposed on individuals
+under section 43-1011.
+(c)Interest shall be computed
+pursuant to section 42-1123 for the period beginning on the day after the
+partnership return due date for the reviewed year, without regard to any
+extensions.
+(d)For the purposes of imposing
+penalties under section 42-1125, the due date of the return under paragraph 2
+of this subsection is the ninetieth day after the final determination of the
+partnership adjustments by the internal revenue service.
+2.A net
+reduction in Arizona taxable income, within ninety days after the final
+determination regarding the adjustment from the internal revenue service, the
+partnership shall furnish to each partner of the partnership and to the
+department a statement on a form prescribed by the department of the partner's
+share of the adjustments required in subsection A of this
+section.The amount reported to the partner under this subsection is
+an adjustment to the partner's share of partnership taxable income.
+C.If a
+partnership fails to file the return that is required under subsection A of
+this section or if the department is not satisfied with the return or the
+payment of the tax required to be paid, the department may issue a deficiency
+assessment to the partnership under section 42-1108.
+D.If the
+partnership incorrectly reported the adjustments under subsection A of this
+section that resulted in:
+1.An
+understatement of the distribution of Arizona taxable income to the partners
+under subsection B, paragraph 2 of this section, the partnership shall pay the
+tax on the understatement by applying the calculation in subsection B,
+paragraph 1 of this section to the unreported adjustments.
+2.An
+overstatement of Arizona Taxable income, any adjustment shall be handled as
+follows:
+(a)If the adjustments were
+originally passed through to the partners under subsection B, paragraph 2 of
+this section, the adjustment shall be passed through to the partners. The
+partnership shall amend the return under subsection A of this section and amend
+the statements provided to the partners and the department under subsection B,
+paragraph 2 of this section.
+(b)If the tax on the adjustments
+was originally paid by the partnership pursuant to subsection B, paragraph 1 of
+this section, the partnership shall amend the return filed pursuant to
+subsection B, paragraph 1 of this section to claim any refund. This
+subdivision does not allow a partnership to claim a refund for amounts not
+actually paid by the partnership.
+E.For the
+purposes of this section:
+1."Arizona
+share of the adjustments" means the adjustments determined in subsection A
+of this section, subject to the allocation and apportionment provisions of
+chapter 11, article 4 of this title.
+2."Final
+determination" has the same meaning prescribed in section 43-327.
+3."Reviewed
+year" means the partnership taxable year to which the items adjusted by
+the internal revenue service relate. END_STATUTE
+Sec.7.Federal exclusion for wrongfully incarcerated individuals
+A.Except as provided in subsection B of this
+section, this state conforms to the retroactive changes made by Public Law
+114-113, division Q, section 304 that allow an exclusion from gross income for
+civil damages, restitution or other monetary award for wrongfully incarcerated
+individuals.
+B.If Public Law 114-113, division Q, section 304,
+subsection (d) applies to a taxpayer's federal claim for credit or refund:
+1.The taxpayer must file an Arizona amended income
+tax return for the applicable taxable year on or before December 18, 2016 to
+claim any refund due to the exclusion allowed by subsection A of this section.
+Any request filed after December 31, 2016 shall be denied. The taxpayer is
+responsible for providing all documentation necessary to substantiate the
+refund request, including copies of the original federal and state income tax
+returns filed for the taxable year to which the request is related.
+2.The department of revenue may review the amended
+return, and any deficiency resulting from the review of the adjustment may be
+assessed within six months after the date the amended return is filed or within
+six months after the date the federal adjustment is final, whichever period
+expires later. The federal adjustment is final when the internal revenue
+service has accepted the amended return and the appeal rights of both parties
+have expired or have been exhausted relative to the adjustment for the taxable
+year. Any adjustment shall be treated as a deficiency assessment under section
+42-1108, Arizona Revised Statutes.
+

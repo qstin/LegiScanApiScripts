@@ -1,0 +1,135 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: mediation; confidential communications;
+  exception
+
+
+
+
+
+
+
+State of Arizona
+Senate
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+SB 1293
+
+
+
+
+
+
+
+
+
+Introduced by
+Senator
+  Driggs
+
+
+
+
+
+AN ACT
+
+amending section
+122238, Arizona Revised Statutes; relating to privileged communications.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 12-2238, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE12-2238.Mediation; privileged communications; exceptions;
+liability; definitions
+A.Before or after the filing of a complaint,
+mediation may occur pursuant to law, a court order or a voluntary decision of
+the parties.
+B.The mediation process is
+confidential.Communications made, materials created for or used and
+acts occurring during a mediation are confidential and may not be discovered or
+admitted into evidence unless one of the following exceptions is met:
+1.All of the parties to the mediation agree to the
+disclosure.
+2.The communication, material or act is relevant to
+a claim or defense made by a party to the mediation against the mediator or the
+mediation program arising out of a breach of a legal obligation owed by the mediator
+to the party.
+3.The disclosure is required by statute.
+4.The disclosure is necessary to enforce an
+agreement to mediate.
+5.The
+disclosure is made in a report to a law enforcement officer, the department of
+child safety or adult protective services by a court appointed mediator who
+reasonably believes that a minor or vulnerable adult is or has been a victim of
+abuse, child abuse, neglect, physical injury or a reportable offense.
+C.Except pursuant to subsection B, paragraph 2, 3
+or 4 of this section, a
+mediator is not subject to service of process or a subpoena to produce evidence
+or to testify regarding any evidence or occurrence relating to the mediation
+proceedings. Evidence that exists independently of the mediation even if the
+evidence is used in connection with the mediation is subject to service of
+process or subpoena.
+D.Notwithstanding subsection B of this section, when necessary to enforce or
+obtain approval of an agreement that is reached by the parties in a mediation,
+the terms of an agreement that is evidenced by a record that is signed by the
+parties are not confidential.The agreement may be introduced in any
+proceeding to obtain court approval of the agreement, where required by law, or
+to enforce the agreement. If a party requests that all or a portion of the
+agreement remain confidential, the agreement may be disclosed to the court
+under seal with a request to issue appropriate orders to protect the
+confidentiality of the agreement, as permitted by law.
+E.Notwithstanding subsection B of this section, threatened or actual
+violence that occurs during a mediation is not a privileged communication. The
+mediator may inform the parties that threatened or actual violence is not
+privileged and may be disclosed.
+F.A mediator is not subject to civil liability
+except for those acts or omissions that involve intentional misconduct or
+reckless disregard of a substantial risk of a significant injury to the rights
+of others.
+G.For the purposes of this section:
+1."Abuse"
+has the same meaning prescribed in section 8201.
+2."Child
+abuse" means child abuse pursuant to section 133623.
+1.3."Mediation"
+means a process in which parties who are involved in a dispute enter into one
+or more private settlement discussions outside of a formal court proceeding
+with a neutral third party to try to resolve the dispute. 
+4."Neglect"
+has the same meaning prescribed in section 8201.
+5."Physical
+injury" has the same meaning prescribed in section 13105.
+2.6."Record"
+means information that is inscribed on a tangible medium or that is stored in
+an electronic or other medium and that is retrievable in a perceivable form.
+7."Reportable
+offense" has the same meaning prescribed in section 133620.
+3.8."Sign"
+means to execute or adopt a tangible symbol with the present intent to
+authenticate a record or to attach or logically associate an electronic symbol,
+sound or process to or with a record with the present intent to authenticate a
+record.
+9."Vulnerable
+adult" has the same meaning prescribed in section 133623.
+END_STATUTE
+

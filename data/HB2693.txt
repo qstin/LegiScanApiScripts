@@ -1,0 +1,639 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: TPT classes; income tax reduction
+
+
+
+
+
+
+
+State of Arizona
+House of Representatives
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+HB 2693
+
+
+
+
+
+
+
+
+
+Introduced by
+Representatives
+  Mitchell, Gowan, Kern, Leach, Montenegro: Campbell, Cobb, Finchem, Livingston
+
+
+
+
+
+AN ACT
+
+amending section
+425010, arizona revised statutes; amending title 42, chapter 5, article
+2, arizona revised statutes, by adding sections 425076 and 425077;
+Amending sections 43-1011 and 43-1022, Arizona Revised Statutes; relating to
+individual income tax.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 42-5010, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE42-5010.Rates; distribution base
+A.The tax imposed by this article is levied and
+shall be collected at the following rates:
+1.Five percent of the tax base as computed for the
+business of every person engaging or continuing in this state in the following
+business classifications described in article 2 of this chapter:
+(a)Transporting classification.
+(b)Utilities classification.
+(c)Telecommunications classification.
+(d)Pipeline classification.
+(e)Private car line classification.
+(f)Publication classification.
+(g)Job printing classification.
+(h)Prime contracting classification.
+(i)Amusement classification.
+(j)Restaurant classification.
+(k)Personal property rental classification.
+(l)Retail classification and amounts equal to
+retail transaction privilege tax due pursuant to section 425008.01.
+(m)Personal
+services classification.
+(n)Financial
+services classification.
+2.Five and onehalf percent of the tax base
+as computed for the business of every person engaging or continuing in this
+state in the transient lodging classification described in section 425070.
+3.Three and oneeighth percent of the tax
+base as computed for the business of every person engaging or continuing in
+this state in the mining classification described in section 425072.
+4.Zero percent of the tax base as computed for the
+business of every person engaging or continuing in this state in the commercial
+lease classification described in section 425069.
+B.Except as provided by subsection J of this
+section, twenty percent of the tax revenues collected at the rate prescribed by
+subsection A, paragraph 1 of this section from persons on account of engaging
+in business under the business classifications listed in subsection A,
+paragraph 1, subdivisions (a) through (h) of this section is designated as
+distribution base for purposes of section 425029.
+C.Forty percent of the tax revenues collected at
+the rate prescribed by subsection A, paragraph 1 of this section from persons
+on account of engaging in business under the business classifications listed in
+subsection A, paragraph 1, subdivisions (i) through (l) (n) of this section is designated as
+distribution base for purposes of section 425029.
+D.Thirtytwo percent of the tax revenues
+collected from persons on account of engaging in business under the business
+classification listed in subsection A, paragraph 3 of this section is
+designated as distribution base for purposes of section 425029.
+E.Fiftythree and onethird percent of
+the tax revenues collected from persons on account of engaging in business
+under the business classification listed in subsection A, paragraph 4 of this
+section is designated as distribution base for purposes of section 425029.
+F.Fifty percent of the tax revenues collected from
+persons on account of engaging in business under the business classification
+listed in subsection A, paragraph 2 of this section is designated as
+distribution base for purposes of section 425029.
+G.In addition to the rates prescribed by subsection
+A of this section, if approved by the qualified electors voting at a statewide
+general election, an additional rate increment is imposed and shall be
+collected through June 30, 2021.The taxpayer shall pay taxes
+pursuant to this subsection at the same time and in the same manner as under
+subsection A of this section.The department shall separately
+account for the revenues collected with respect to the rates imposed pursuant
+to this subsection and the state treasurer shall distribute all of those revenues
+in the manner prescribed by section 425029, subsection E. The rates
+imposed pursuant to this subsection shall not be considered local revenues for
+purposes of article IX, section 21, Constitution of Arizona.The
+additional tax rate increment is levied at the rate of sixtenths of one
+per cent of the tax base of every person engaging or continuing in this state
+in a business classification listed in subsection A, paragraph 1 of this
+section.
+H.Any increase in the rate of tax that is imposed
+by this chapter and that is enacted by the legislature or by a vote of the
+people does not apply with respect to contracts entered into by prime
+contractors or pursuant to written bids made by prime contractors on or before
+the effective date of the legislation or the date of the election enacting the
+increase.To qualify for the exemption under this subsection, the
+prime contractor must maintain sufficient documentation, in a manner and form
+prescribed by the department, to verify the date of the contract or written
+bid.
+I.For taxpayers taxable under this chapter other
+than prime contractors taxable pursuant to section 425075:
+1.Any increase in the rate of tax that is levied by
+this article or article 2 of this chapter enacted by the legislature or by a
+vote of the people does not apply for a period of one hundred twenty days from
+the date of the tax rate increase to the gross proceeds of sales or gross
+income from the business of the taxpayer with respect to written contracts
+entered into before the effective date of the tax rate increase unless the
+taxpayer has entered into a contract that contains a provision that entitles
+the taxpayer to recover from the purchaser the amount of the additional tax
+levied.
+2.The provisions of this subsection apply without
+regard to the accounting method used by the taxpayer to report the taxes
+imposed under article 2 of this chapter.
+3.The provisions of this subsection shall not be
+considered in determining the rate of tax imposed under chapter 6, article 3 of
+this title.
+J.Zero percent of the tax revenues that are
+collected at the rate prescribed by subsection A, paragraph 1 of this section
+from persons on account of engaging in business under the business
+classification listed in subsection A, paragraph 1, subdivision (h) of this
+section, and that are subject to any distribution required by section 425032.02,
+is designated as distribution base for the purposes of section 425029
+until the total amount subject to distribution pursuant to section 425032.02
+has reached the maximum amount prescribed by section 425032.02,
+subsection C. Thereafter, twenty percent of the remaining tax revenues is
+designated as distribution base for the purposes of section 425029 as
+provided by subsection B of this section. END_STATUTE
+Sec.2.Title 42, chapter 5, article 2, Arizona
+Revised Statutes, is amended by adding sections 42-5076 and 42-5077, to read:
+START_STATUTE42-5076.Personal services classification
+A.The personal services classification includes
+the following businesses that are not otherwise classified under this article
+for tax purposes:
+1.barber, beauty, nail and pedicure salon
+services.
+2.Funeral, mortuary, crematory and other death
+care services.
+3.Laundry, dry cleaning and garment services,
+including garment altering and repair services.
+4.Shoe repair and shoeshine services.
+5.Carpet and upholstery cleaning.
+6.Pet grooming and boarding and other pet care
+services that are not considered to be veterinary services.
+7.Parking services.
+8.Home, automobile and personal property
+maintenance, cleaning and repair services, including sales of warranty
+contracts.
+9.Personal accounting, bookkeeping and tax
+return preparation services.
+10.Photographic and portrait studios.
+11.Diet and weight reduction services.
+12.Weight and fitness facilities, gymnasiums,
+spas and sports training services.
+13.Individual and family counseling services.
+14.job training, vocational and driving schools
+and examination preparation schools and seminars.
+15.Child and residential care services that are
+not considered to be medical care.
+16.Other personal services.
+B.The tax
+base for the personal services classification is the gross proceeds of sales or
+gross income derived from the business, except that the tax base does not
+include gross proceeds of sales or gross income derived from
+business-to-business transactions. END_STATUTE
+START_STATUTE42-5077.Financial services classification
+A.The financial services classification includes
+the following businesses that are not otherwise classified for taxation under
+this article:
+1.Depository
+institutions, including banks and credit unions other than national banks and
+federal credit unions and all Other depository credit intermediation.
+2.Credit
+card issuing, Sales financing, consumer lending, real estate credit,
+international trade financing, secondary market financing and all other
+Nondepository credit institutions.
+3.Mortgage
+and nonmortgage loan brokers.
+4.Financial
+transactions processing, reserve, clearinghouse and other activities related to
+credit intermediation.
+5.holding
+companies.
+6.investment
+companies, brokers and dealers in securities and commodity contracts and
+intermediation.
+7.Mortgage
+and nonmortgage loan broker services.
+8.Financial
+transaction processing and clearing.
+9.Other
+activities related to credit intermediation.
+10.Investment
+advice and portfolio management.
+11.Trust,
+fiduciary and custody activities.
+12.all
+other financial investment activities.
+B.The tax
+base for the financial services classification is the gross proceeds of sales
+or gross income derived from the business, whether in the form of interest,
+fees, commissions, rents, royalties or other charges paid by customers for
+financial services. END_STATUTE
+Sec.3.Section 43-1011, Arizona Revised Statutes,
+is amended to read:
+START_STATUTE43-1011.Taxes and tax rates
+A.There shall be levied, collected and paid for
+each taxable year on the entire taxable income of every resident of this state
+and on the entire taxable income of every nonresident that is derived from
+sources within this state taxes determined in the following manner:
+1.For taxable years beginning from and after
+December 31, 1996 through December 31, 1997:
+(a)In the case of a single person or a married
+person filing separately:
+If taxable income is: The
+tax is:
+$0 - $10,000 2.90% of taxable income
+$10,001 - $25,000 $290, plus 3.30% of the
+excess over $10,000
+$25,001 - $50,000 $785, plus 3.90% of the
+excess over $25,000
+$50,001 - $150,000 $1,760, plus 4.80% of
+the excess over $50,000
+$150,001 and over $6,560, plus 5.17% of
+the excess over $150,000
+(b)In the case of a married couple filing a joint
+return or a single person who is a head of a household:
+If taxable income is: The
+tax is:
+$0 - $20,000 2.90% of taxable income
+$20,001 - $50,000 $580, plus 3.30% of the
+excess over $20,000
+$50,001 - $100,000 $1,570, plus 3.90% of
+the excess over $50,000
+$100,001 - $300,000 $3,520, plus 4.80% of
+the excess over $100,000
+$300,001 and over $13,120, plus 5.17% of
+the excess over $300,000
+2.For taxable years beginning from and after
+December 31, 1997 through December 31, 1998:
+(a)In the case of a single person or a married
+person filing separately:
+If taxable income is: The
+tax is:
+$0 - $10,000 2.88% of taxable income
+$10,001 - $25,000 $288, plus 3.24% of the
+excess over $10,000
+$25,001 - $50,000 $774, plus 3.82% of the
+excess over $25,000
+$50,001 - $150,000 $1,729, plus 4.74% of
+the excess over $50,000
+$150,001 and over $6,469, plus 5.10% of
+the excess over $150,000
+(b)In the case of a married couple filing a joint
+return or a single person who is a head of a household:
+If taxable income is: The
+tax is:
+$0 - $20,000 2.88% of taxable income
+$20,001 - $50,000 $576, plus 3.24% of the
+excess over $20,000
+$50,001 - $100,000 $1,548, plus 3.82% of
+the excess over $50,000
+$100,001 - $300,000 $3,458, plus 4.74% of
+the excess over $100,000
+$300,001 and over $12,938, plus 5.10% of
+the excess over $300,000
+3.For taxable years beginning from and after
+December 31, 1998 through December 31, 2005:
+(a)In the case of a single person or a married
+person filing separately:
+If taxable income is: The
+tax is:
+$0 - $10,000 2.87% of taxable income
+$10,001 - $25,000 $287, plus 3.20% of the
+excess over $10,000
+$25,001 - $50,000 $767, plus 3.74% of the
+excess over $25,000
+$50,001 - $150,000 $1,702, plus 4.72% of
+the excess over $50,000
+$150,001 and over $6,422, plus 5.04% of
+the excess over $150,000
+(b)In the case of a married couple filing a joint
+return or a single person who is a head of a household:
+If taxable income is: The
+tax is:
+$0 - $20,000 2.87% of taxable income
+$20,001 - $50,000 $574, plus 3.20% of the
+excess over $20,000
+$50,001 - $100,000 $1,534, plus 3.74% of
+the excess over $50,000
+$100,001 - $300,000 $3,404, plus 4.72% of
+the excess over $100,000
+$300,001 and over $12,844, plus 5.04% of
+the excess over $300,000
+4.For taxable years beginning from and after
+December 31, 2005 through December 31, 2006:
+(a)In the case of a single person or a married
+person filing separately:
+If taxable income is: The tax is:
+$0 - $10,000 2.73% of taxable income
+$10,001 - $25,000 $273, plus 3.04% of the excess over
+$10,000
+$25,001 - $50,000 $729, plus 3.55% of the excess over
+$25,000
+$50,001 - $150,000 $1,617, plus 4.48% of the excess over
+$50,000
+$150,001 and over $6,097, plus 4.79% of the excess over
+$150,000
+(b)In the case of a married couple filing a joint
+return or a single person who is a head of a household:
+If taxable income is: The tax is:
+$0 - $20,000 2.73% of taxable income
+$20,001 - $50,000 $546, plus 3.04% of the excess over
+$20,000
+$50,001 - $100,000 $1,458, plus 3.55% of the excess over
+$50,000
+$100,001 - $300,000 $3,233, plus 4.48% of the excess over
+$100,000
+$300,001 and over $12,193, plus 4.79% of the excess over
+$300,000
+5.Subject to subsection
+subsections B and C of
+this section, for taxable years beginning from and after December 31, 2006 through December 31, 2017:
+(a)In the case of a single person or a married
+person filing separately:
+If taxable income is: The tax is:
+$0 - $10,000 2.59% of taxable income
+$10,001 - $25,000 $259, plus 2.88% of the excess over
+$10,000
+$25,001 - $50,000 $691, plus 3.36% of the excess over
+$25,000
+$50,001 - $150,000 $1,531,
+plus 4.24% of the excess over $50,000
+$150,001 and over $5,771,
+plus 4.54% of the excess over $150,000
+(b)In the case of a married couple filing a joint
+return or a single person who is a head of a household:
+If taxable income is: The tax is:
+$0 - $20,000 2.59% of taxable income
+$20,001 - $50,000 $518, plus 2.88% of the excess over
+$20,000
+$50,001 - $100,000 $1,382, plus 3.36% of the excess over
+$50,000
+$100,001 - $300,000 $3,062, plus 4.24% of the excess over
+$100,000
+$300,001 and over $11,542, plus 4.54% of the excess over
+$300,000
+6.Subject
+to subsection C of this section, for taxable years beginning from and after
+December 31, 2017:
+(a)In the
+case of a single person or a married person filing separately:
+If taxable income
+is: The tax is:
+$0 - $10,163 1.3%
+of taxable income
+$10,164 - $25,406 $132,
+plus 2.7% of the excess over $10,163
+$25,407 - $50,812 $544,
+plus 3.2% of the excess over $25,406
+$50,813 - $152,434 $1,357,
+plus 4.1% of the excess over $50,812
+$152,435 and over $5,524,
+plus 4.5% of the excess over $152,434
+(b)In the
+case of a married couple filing a joint return or a single person who is a head
+of a household:
+If taxable income
+is: The tax is:
+$0 - $20,325 1.3%
+of taxable income
+$20,326 - $50,812 $264,
+plus 2.7% of the excess over $20,325
+$50,813 - $101,623 $1,087,
+plus 3.2% of the excess over $50,812
+$101,624 - $304,868 $2,713,
+plus 4.1% of the excess over $101,623
+$304,869 and over $11,046,
+plus 4.5% of the excess over $304,868
+B.For the taxable year beginning from and after
+December 31, 2014 through December 31, 2015, the department shall adjust the
+income dollar amounts for each rate bracket prescribed by subsection A,
+paragraph 5 of this section according to the average annual change in the
+metropolitan Phoenix consumer price index published by the United States bureau
+of labor statistics.The revised dollar amounts shall be raised to
+the nearest whole dollar.The income dollar amounts for each rate
+bracket may not be revised below the amounts prescribed in the prior taxable year.
+C.For each taxable year beginning from and after
+December 31, 2015, the department shall adjust the income dollar amounts for
+each rate bracket prescribed by subsection A, paragraph 5 6
+of this section according to the average annual change in the metropolitan
+Phoenix consumer price index published by the United States bureau of labor
+statistics.The revised dollar amounts shall be raised to the
+nearest whole dollar.The income dollar amounts for each rate
+bracket may not be revised below the amounts prescribed in the prior taxable
+year. END_STATUTE
+Sec.4.Section 43-1022, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE43-1022.Subtractions from Arizona gross income
+In computing Arizona adjusted gross income, the following
+amounts shall be subtracted from Arizona gross income:
+1.The amount of exemptions allowed by section 431023.
+2.Benefits, annuities and pensions in an amount
+totaling not more than two thousand five hundred dollars received from one or
+more of the following:
+(a)The United States government service retirement
+and disability fund, retired or retainer pay of the uniformed services of the
+United States, the United States foreign service retirement and disability
+system and any other retirement system or plan established by federal law.
+(b)The Arizona state retirement system, the
+corrections officer retirement plan, the public safety personnel retirement
+system, the elected officials' retirement plan, an optional retirement program
+established by the Arizona board of regents under section 151628, an
+optional retirement program established by a community college district board
+under section 151451 or a retirement plan established for employees of a
+county, city or town in this state.
+3.A beneficiary's share of the fiduciary adjustment
+to the extent that the amount determined by section 431333 decreases the
+beneficiary's Arizona gross income.
+4.Interest income received on obligations of the
+United States, less any interest on indebtedness, or other related expenses,
+and deducted in arriving at Arizona gross income, which were incurred or
+continued to purchase or carry such obligations.
+5.The excess of a partner's share of income
+required to be included under section 702(a)(8) of the internal revenue code
+over the income required to be included under chapter 14, article 2 of this
+title.
+6.The excess of a partner's share of partnership
+losses determined pursuant to chapter 14, article 2 of this title over the
+losses allowable under section 702(a)(8) of the internal revenue code.
+7.The amount by which the adjusted basis of
+property described in this paragraph and computed pursuant to this title and
+the income tax act of 1954, as amended, exceeds the adjusted basis of such
+property computed pursuant to the internal revenue code.This
+paragraph shall apply to all property that is held for the production of income
+and that is sold or otherwise disposed of during the taxable year other than
+depreciable property used in a trade or business.
+8.The amount allowed by section 431025 for
+contributions during the taxable year of agricultural crops to charitable
+organizations.
+9.The portion of any wages or salaries paid or
+incurred by the taxpayer for the taxable year that is equal to the amount of
+the federal work opportunity credit, the empowerment zone employment credit,
+the credit for employer paid social security taxes on employee cash tips and
+the Indian employment credit that the taxpayer received under sections 45A,
+45B, 51(a) and 1396 of the internal revenue code.
+10.The amount of prizes or winnings less than five
+thousand dollars in a single taxable year from any of the state lotteries
+established and operated pursuant to title 5, chapter 5.1, article 1.
+11.The amount of exploration expenses that is
+determined pursuant to section 617 of the internal revenue code, that has been
+deferred in a taxable year ending before January 1, 1990 and for which a
+subtraction has not previously been made. The subtraction shall be made on a
+ratable basis as the units of produced ores or minerals discovered or explored
+as a result of this exploration are sold.
+12.The amount included in federal adjusted gross
+income pursuant to section 86 of the internal revenue code, relating to
+taxation of social security and railroad retirement benefits.
+13.To the extent not already excluded from Arizona
+gross income under the internal revenue code, compensation received for active
+service as a member of the reserves, the national guard or the armed forces of
+the United States, including compensation for service in a combat zone as
+determined under section 112 of the internal revenue code.
+14.The amount of unreimbursed medical and hospital
+costs, adoption counseling, legal and agency fees and other nonrecurring costs
+of adoption not to exceed three thousand dollars. In the case of a husband and
+wife who file separate returns, the subtraction may be taken by either taxpayer
+or may be divided between them, but the total subtractions allowed both husband
+and wife shall not exceed three thousand dollars.The subtraction
+under this paragraph may be taken for the costs that are described in this
+paragraph and that are incurred in prior years, but the subtraction may be
+taken only in the year during which the final adoption order is granted.
+15.The amount authorized by section 431027
+for the taxable year relating to qualified wood stoves, wood fireplaces or gas
+fired fireplaces.
+16.The amount by which a net operating loss carryover
+or capital loss carryover allowable pursuant to section 431029,
+subsection F exceeds the net operating loss carryover or capital loss carryover
+allowable pursuant to section 1341(b)(5) of the internal revenue code.
+17.Any amount of qualified educational expenses
+that is distributed from a qualified state tuition program determined pursuant
+to section 529 of the internal revenue code and that is included in income in
+computing federal adjusted gross income.
+18.Any item of income resulting from an installment
+sale that has been properly subjected to income tax in another state in a
+previous taxable year and that is included in Arizona gross income in the
+current taxable year.
+19.The amount authorized by section 431030
+relating to holocaust survivors.
+20.For property
+placed in service:
+(a)In taxable years
+beginning before December 31, 2012, an amount equal to the depreciation
+allowable pursuant to section 167(a) of the internal revenue code for the
+taxable year computed as if the election described in section 168(k)(2)(D)(iii)
+of the internal revenue code had been made for each applicable class of
+property in the year the property was placed in service.
+(b)In taxable years beginning from and after
+December 31, 2012 through December 31, 2013, an amount determined in the year
+the asset was placed in service based on the calculation in subdivision (a) of
+this paragraph.In the first taxable year beginning from and after
+December 31, 2013, the taxpayer may elect to subtract the amount necessary to
+make the depreciation claimed to date for the purposes of this title the same
+as it would have been if subdivision (c) of this paragraph had applied for the
+entire time the asset was in service. Subdivision (c) of this paragraph
+applies for the remainder of the asset's life. If the taxpayer does not make
+the election under this subdivision, subdivision (a) of this paragraph applies
+for the remainder of the asset's life.
+(c)In taxable years
+beginning from and after December 31, 2013, an amount equal to the depreciation
+allowable pursuant to section 167(a) of the internal revenue code for the
+taxable year as computed as if the additional allowance for depreciation had
+been ten per cent percent of the amount allowed
+pursuant to section 168(k) of the internal revenue code.
+21.With respect to property that is sold or
+otherwise disposed of during the taxable year by a taxpayer that complied with
+section 431021, paragraph 16 with respect to that property, the amount
+of depreciation that has been allowed pursuant to section 167(a) of the
+internal revenue code to the extent that the amount has not already reduced
+Arizona taxable income in the current or prior taxable years.
+22.With respect to property for which an adjustment
+was made under section 431021, paragraph 17, an amount equal to onefifth
+of the amount of the adjustment pursuant to section 431021, paragraph 17
+in the year in which the amount was adjusted under section 431021,
+paragraph 17 and in each of the following four years.
+23.The amount contributed during the taxable year
+to college savings plans established pursuant to section 529 of the internal
+revenue code to the extent that the contributions were not deducted in
+computing federal adjusted gross income. The amount subtracted shall not
+exceed:
+(a)Two thousand dollars for a single individual or
+a head of household.
+(b)Four thousand dollars for a married couple
+filing a joint return. In the case of a husband and wife who file separate
+returns, the subtraction may be taken by either taxpayer or may be divided
+between them, but the total subtractions allowed both husband and wife shall
+not exceed four thousand dollars.
+24.The amount of any original issue discount that
+was deferred and not allowed to be deducted in computing federal adjusted gross
+income in the current taxable year pursuant to section 108(i) of the internal
+revenue code as added by section 1231 of the American recovery and reinvestment
+act of 2009 (P.L. 1115).
+25.The amount of previously deferred discharge of
+indebtedness income that is included in the computation of federal adjusted
+gross income in the current taxable year pursuant to section 108(i) of the
+internal revenue code as added by section 1231 of the American recovery and
+reinvestment act of 2009 (P.L. 111-5), to the extent that the amount was
+previously added to Arizona gross income pursuant to section 431021,
+paragraph 19.
+26.The portion of the net operating loss
+carryforward that would have been allowed as a deduction in the current year
+pursuant to section 172 of the internal revenue code if the election described
+in section 172(b)(1)(H) of the internal revenue code had not been made in the
+year of the loss that exceeds the actual net operating loss carryforward that
+was deducted in arriving at federal adjusted gross income. This subtraction
+only applies to taxpayers who made an election under section 172(b)(1)(H) of
+the internal revenue code as amended by section 1211 of the American recovery
+and reinvestment act of 2009 (P.L. 1115) or as amended by section 13 of
+the worker, homeownership, and business assistance act of 2009 (P.L. 11192).
+27.For taxable years beginning from and after
+December 31, 2013, the amount of any net capital gain included in federal
+adjusted gross income for the taxable year derived from investment in a
+qualified small business as determined by the Arizona commerce authority
+pursuant to section 411518.
+28.An amount of any net long-term capital gain
+included in federal adjusted gross income for the taxable year that is derived
+from an investment in an asset acquired after December 31, 2011, as follows:
+(a)For taxable years beginning from and after
+December 31, 2012 through December 31, 2013, ten per cent percent of the net long-term capital gain included in
+federal adjusted gross income.
+(b)For taxable years beginning from and after
+December 31, 2013 through December 31, 2014, twenty per cent percent of the net long-term capital gain included in
+federal adjusted gross income.
+(c)For taxable years beginning from and after
+December 31, 2014 through December 31,
+2017, twenty-five per cent
+percent of the net
+long-term capital gain included in federal adjusted gross income.
+(d)For
+taxable years beginning from and after December 31, 2017, 37.5percent of
+the net long-term capital gain included in federal adjusted gross income.
+For the purposes of this paragraph, a
+transferee that receives an asset by gift or at the death of a transferor is
+considered to have acquired the asset when the asset was acquired by the
+transferor.If the date an asset is acquired cannot be verified, a
+subtraction under this paragraph is not allowed.
+29.If an individual is not claiming itemized
+deductions pursuant to section 431042, the amount of premium costs for
+long-term care insurance, as defined in section 201691.
+30.With respect to a long-term health care savings
+account established pursuant to section 431032, the amount deposited by
+the taxpayer in the account during the taxable year to the extent that the
+taxpayer's contributions are included in the taxpayer's federal adjusted gross
+income. END_STATUTE
+Sec.5.Effective date
+This act is effective from and after December 31, 2017.
+

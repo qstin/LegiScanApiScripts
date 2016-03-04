@@ -1,0 +1,401 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: school districts; adjacent ways;
+  verification
+
+
+
+
+
+
+
+State of Arizona
+Senate
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+SB 1117
+
+
+
+
+
+
+
+
+
+Introduced by
+Senators
+  Dial: Biggs
+
+
+
+
+
+AN ACT
+
+amending sections
+15995 and 152002, Arizona Revised Statutes; relating to school
+finance.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 15-995, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE15-995.Special district assessment for adjacent ways by school
+district
+A.The governing board of a school district may
+contract for constructing, maintaining or otherwise improving any public way
+adjacent to any parcel of land owned by the school district or leased for
+school purposes by the school district, or an intersection of any public way
+adjoining a quarter block in which the parcel of land is situated, and for the
+construction of sidewalks, sewers, utility lines, roadways and other related
+improvements in or along such streets and intersections, and to pay for such
+improvements by the levy of a special assessment upon on
+the taxable property in the school district.A school
+district shall not use any portion of the monies generated from the special
+assessment for any construction, maintenance or other improvements to the
+school district's property except improvements necessary to assure ensure
+the safe ingress to and egress from public school property
+directly adjacent to the public way for buses and fire
+equipment.The assessment shall be made a part of the itemized
+statement that is regularly
+filed with the county school superintendent and showing that
+shows the amount of monies needed for the expenses of schools
+within the school district for the ensuing year. The assessment shall not exceed the amount of the project
+cost estimate for the adjacent ways project.The assessment shall
+not be conducted unless the school facilities board validates all of the
+following:
+1.The
+project that is proposed to be funded by the assessment is in compliance with
+state laws relating to adjacent ways projects.
+2.The
+project cost estimate for the proposed adjacent ways project matches the
+adjacent ways proposal submitted by the school district.
+3.The
+proposal selected by the school district does not contain additional work that
+is not listed in the adjacent ways proposal submitted by the school district.
+B.If any property that is owned by a school district or leased
+by a school district for school purposes from any city or county, the state or
+the United States is included within the assessment district to be assessed to
+pay the costs and expenses of any public improvements initiated by a city, as in order to make the assessments thereon
+payable by the city in which the improvement is initiated, the governing board
+may contract with the municipality or its improvement district to reimburse it
+for the amount of the assessment against the property and to pay the amount so
+contracted for by the levy of a special assessment as provided by subsection A
+of this section.
+C.After the proposed adjacent ways project is validated by the
+school facilities board pursuant to subsection A of this section, the
+governing board of the school district shall follow the truth in taxation
+notice and hearing requirements prescribed in section 15905.01,
+subsection B.
+D.The portion of the primary tax rate to fund
+adjacent ways as provided in this section shall not be included in the
+computation of additional state aid for education as prescribed in section 15972.
+END_STATUTE
+Sec.2.Section 15-2002, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE15-2002.Powers and duties; executive director; staffing; report
+A.The school facilities board shall:
+1.Make assessments of school facilities and
+equipment deficiencies and approve the distribution of grants as appropriate.
+2.Maintain a database of school facilities to
+administer the building renewal grant fund and new school facilities
+formula.The facilities listed in the database must include all
+buildings that are owned by school districts.The school facilities
+board shall ensure that the database is updated on at least an annual
+basis.Each school district shall report to the school facilities
+board no later than September 1 of each year information as required by the
+school facilities board for the administration of the building renewal grant
+fund and computation of new school facilities formula distributions, including
+the nature and cost of major repairs, renovations or physical improvements to
+or replacement of building systems or equipment that were made in the previous
+year and that were paid for either with local monies or monies provided by the
+school facilities board from the building renewal grant fund.Each
+school district shall report any school or school buildings that have been
+closed, that have been leased to another entity or that operate as a charter
+school. The school facilities board may review or audit the information, or
+both, to confirm the information submitted by a school district.
+Notwithstanding any other provision of this chapter, if a school district
+converts space that is listed in the database maintained pursuant to this
+paragraph to space that will be used for administrative purposes, the school
+district is responsible for any costs associated with the conversion,
+maintenance and replacement of that space. If a building is significantly
+upgraded or remodeled, the school facilities board shall adjust the age of that
+school facility in the database as follows:
+(a)Determine the
+building capacity value as follows:
+(i)Multiply the
+student capacity of the building by the per pupil square foot capacity
+established by section 152041.
+(ii)Multiply the product determined in item (i) of
+this subdivision by the cost per square foot established by section 152041.
+(b)Divide the cost of the renovation by the
+building capacity value determined in subdivision (a) of this paragraph.
+(c)Multiply the quotient determined in subdivision
+(b) of this paragraph by the currently listed age of the building in the
+database.
+(d)Subtract the product determined in subdivision
+(c) of this paragraph from the currently listed age of the building in the
+database, rounded to the nearest whole number.If the result is a
+negative number, use zero.
+3.Inspect school buildings at least once every five
+years to ensure compliance with the building adequacy standards prescribed in
+section 152011 and routine preventative maintenance guidelines as
+prescribed in this section with respect to construction of new buildings and
+maintenance of existing buildings. The school facilities board shall randomly
+select twenty school districts every thirty months and inspect them pursuant to
+this paragraph.
+4.Review and approve student population projections
+submitted by school districts to determine to what extent school districts are
+entitled to monies to construct new facilities pursuant to section 152041.
+The board shall make a final determination within six months of the receipt of
+an application by a school district for monies from the new school facilities
+fund.
+5.Certify that plans for new school facilities meet
+the building adequacy standards prescribed in section 152011.
+6.Develop prototypical elementary and high school
+designs. The board shall review the design differences between the schools
+with the highest academic productivity scores and the schools with the lowest
+academic productivity scores. The board shall also review the results of a
+valid and reliable survey of parent quality rating in the highest performing
+schools and the lowest performing schools in this state.The survey
+of parent quality rating shall be administered by the department of
+education.The board shall consider the design elements of the
+schools with the highest academic productivity scores and parent quality
+ratings in the development of elementary and high school designs. The board
+shall develop separate school designs for elementary, middle and high schools
+with varying pupil capacities.
+7.Develop application forms, reporting forms and
+procedures to carry out the requirements of this article.
+8.Review and approve or reject requests submitted
+by school districts to take actions pursuant to section 15341,
+subsection G.
+9.Submit electronically an annual report on or
+before December 15 to the speaker of the house of representatives, the
+president of the senate, the superintendent of public instruction, the
+secretary of state and the governor that includes the following information:
+(a)A detailed description of the amount of monies
+distributed by the school facilities board in the previous fiscal year.
+(b)A list of each capital project that received
+monies from the school facilities board during the previous fiscal year, a
+brief description of each project that was funded and a summary of the board's
+reasons for the distribution of monies for the project.
+(c)A summary of the findings and conclusions of the
+building maintenance inspections conducted pursuant to this article during the
+previous fiscal year.
+(d)A summary of the findings of common design
+elements and characteristics of the highest performing schools and the lowest
+performing schools based on academic productivity, including the results of the
+parent quality rating survey.For the purposes of this subdivision,
+"academic productivity" means academic year advancement per calendar
+year as measured with studentlevel data using the statewide nationally
+standardized normreferenced achievement test.
+10.On or before December 1 of each year, report
+electronically to the joint committee on capital review the amounts necessary
+to fulfill the requirements of sections 152022 and 152041 for the
+following three fiscal years.In developing the amounts necessary
+for this report, the school facilities board shall use the most recent average
+daily membership data available. On request from the board, the department of
+education shall make available the most recent average daily membership data
+for use in calculating the amounts necessary to fulfill the requirements of
+section 152041 for the following three fiscal years. The board shall
+provide copies of the report to the president of the senate, the speaker of the
+house of representatives and the governor.
+11.Adopt minimum school facility adequacy
+guidelines to provide the minimum quality and quantity of school buildings and
+the facilities and equipment necessary and appropriate to enable pupils to
+achieve the educational goals of the Arizona state schools for the deaf and the
+blind. The school facilities board shall establish minimum school facility
+adequacy guidelines applicable to the Arizona state schools for the deaf and
+the blind.
+12.In each evennumbered year, report
+electronically to the joint committee on capital review the amounts necessary
+to fulfill the requirements of section 152041 for the Arizona state
+schools for the deaf and the blind for the following two fiscal years. The
+Arizona state schools for the deaf and the blind shall incorporate the findings
+of the report in any request for new school facilities monies.Any
+monies provided to the Arizona state schools for the deaf and the blind for new
+school facilities are subject to legislative appropriation.
+13.On or before June 15 of each year, submit
+electronically detailed information regarding demographic assumptions, a
+proposed construction schedule and new school construction cost estimates for
+individual projects approved in the current fiscal year and expected project
+approvals for the upcoming fiscal year to the joint committee on capital review
+for its review. A copy of the report shall also be submitted electronically to
+the governor's office of strategic planning and budgeting.The joint
+legislative budget committee staff, the governor's office of strategic planning
+and budgeting staff and the school facilities board staff shall agree on the
+format of the report.
+14.Every two years, provide school districts with
+information on improving and maintaining the indoor environmental quality in
+school buildings.
+15.On or before December 31 of each year, report to
+the joint legislative budget committee on all class B bond approvals by school
+districts in that year.Each school district shall report to the
+school facilities board on or before December 1 of each year information
+required by the school facilities board for the report prescribed in this
+paragraph.
+16.Validate
+proposed adjacent ways projects submitted by school districts as prescribed in
+section 15995.
+B.The school facilities board may contract for the
+following services in compliance with the procurement practices prescribed in
+title 41, chapter23:
+1.Private services.
+2.Construction project management services.
+3.Assessments for school buildings to determine if
+the buildings have outlived their useful life pursuant to section 152041,
+subsection G.
+4.Services related to land acquisition and
+development of a school site.
+C.The governor shall appoint an executive director
+of the school facilities board pursuant to section 38211.The
+executive director is eligible to receive compensation as determined pursuant
+to section 38611 and may hire and fire necessary staff subject to title
+41, chapter 4, article 4 and as approved by the legislature in the
+budget.The executive director shall have demonstrated competency in
+school finance, facilities design or facilities management, either in private
+business or government service.The executive director serves at the
+pleasure of the governor. The staff of the school facilities board is exempt
+from title 41, chapter 4, articles 5 and 6. The executive director:
+1.Shall analyze applications for monies submitted
+to the board by school districts.
+2.Shall assist the board in developing forms and
+procedures for the distribution and review of applications and the distribution
+of monies to school districts.
+3.May review or audit, or both, the expenditure of
+monies by a school district for deficiencies corrections and new school
+facilities.
+4.Shall assist the board in the preparation of the
+board's annual report.
+5.Shall research and provide reports on issues of
+general interest to the board.
+6.May aid school districts in the development of
+reasonable and costeffective school designs in order to avoid statewide
+duplicated efforts and unwarranted expenditures in the area of school design.
+7.May assist school districts in facilitating the
+development of multijurisdictional facilities.
+8.Shall assist the board in any other appropriate
+matter or method as directed by the members of the board.
+9.Shall establish procedures to ensure compliance
+with the notice and hearing requirements prescribed in section 15905.
+The notice and hearing procedures adopted by the board shall include the
+requirement, with respect to the board's consideration of any application filed
+after July 1, 2001 or after December 31 of the year in which the property
+becomes territory in the vicinity of a military airport or ancillary military
+facility as defined in section 288461 for monies to fund the
+construction of new school facilities proposed to be located in territory in
+the vicinity of a military airport or ancillary military facility, that the
+military airport receive notification of the application by first class mail at
+least thirty days before any hearing concerning the application.
+10.May expedite any request for monies in which the
+local match was not obtained for a project that received preliminary approval
+by the state board for school capital facilities.
+11.Shall expedite any request for monies in which
+the school district governing board submits an application that shows an
+immediate need for a new school facility.
+12.Shall make a determination as to administrative
+completion within one month after the receipt of an application by a school
+district for monies from the new school facilities fund.
+13.Shall provide technical support to school
+districts as requested by school districts in connection with the construction
+of new school facilities and the maintenance of existing school facilities and
+may contract directly with construction project managers pursuant to subsection
+B of this section. This paragraph does not restrict a school district from
+contracting with a construction project manager using district or state
+resources.
+D.When appropriate, the school facilities board
+shall review and use the statewide school facilities inventory and needs
+assessment conducted by the joint committee on capital review and issued in
+July, 1995.
+E.The school facilities board shall contract with
+one or more private building inspectors to complete an initial assessment of
+school facilities and equipment and shall inspect each school building in this
+state at least once every five years to ensure compliance with section 152011.
+A copy of the inspection report, together with any recommendations for building
+maintenance, shall be provided to the school facilities board and the governing
+board of the school district.
+F.The school
+facilities board may consider appropriate combinations of facilities or uses in
+making assessments of and curing deficiencies pursuant to subsection A,
+paragraph 1 of this section and in certifying plans for new school facilities
+pursuant to subsection A, paragraph 5 of this section.
+G.The board shall not award any monies to fund new
+facilities that are financed by class A bonds that are issued by the school
+district.
+H.The board shall not distribute monies to a school
+district for replacement or repair of facilities if the costs associated with
+the replacement or repair are covered by insurance or a performance or payment
+bond.
+I.The board may contract for construction services
+and materials that are necessary to correct existing deficiencies in school
+district facilities. The board may procure the construction services necessary
+pursuant to this subsection by any method, including constructionmanageratrisk,
+designbuild, designbidbuild or jobordercontracting
+as provided by title 41, chapter 23. The construction planning and services
+performed pursuant to this subsection are exempt from section 41791.01.
+J.The school facilities board may enter into
+agreements with school districts to allow school facilities board staff and
+contractors access to school property for the purposes of performing the
+construction services necessary pursuant to subsection I of this section.
+K.Each school district shall develop routine
+preventative maintenance guidelines for its facilities.The
+guidelines shall include plumbing systems, electrical systems, heating,
+ventilation and air conditioning systems, special equipment and other systems
+and for roofing systems shall recommend visual inspections performed by district
+staff for signs of structural stress and weakness.The guidelines
+shall be submitted to the school facilities board for review and
+approval.If on inspection by the school facilities board it is
+determined that a school district facility was inadequately maintained pursuant
+to the school district's routine preventative maintenance guidelines, the
+school district shall return the building to compliance with the school
+district's routine preventative maintenance guidelines.
+L.The school facilities board may temporarily
+transfer monies between the capital reserve fund established by section 152003,
+the emergency deficiencies correction fund established by section 152022
+and the new school facilities fund established by section 152041 if all
+of the following conditions are met:
+1.The transfer is necessary to avoid a temporary
+shortfall in the fund into which the monies are transferred.
+2.The transferred monies are restored to the fund
+where the monies originated as soon as practicable after the temporary shortfall
+in the other fund has been addressed.
+3.The school facilities board reports to the joint
+committee on capital review the amount of and the reason for any monies
+transferred.
+M.After notifying each school district, and if a
+written objection from the school district is not received by the school
+facilities board within thirty days of the notification, the school facilities
+board may access public utility company records of power, water, natural gas,
+telephone and broadband usage to assemble consistent and accurate data on
+utility consumption at school facilities to determine the effectiveness of
+facility design, operation and maintenance measures intended to reduce energy
+and water consumption and costs. Any public utility that provides service to a
+school district in this state shall provide the data requested by the school
+facilities board pursuant to this subsection.
+N.The school facilities board shall not require a
+common school district that provides instruction to pupils in grade nine to obtain
+approval from the school facilities board to reconfigure its school
+facilities.A common school district that provides instruction to
+pupils in grade nine is not entitled to additional monies from the school
+facilities board for facilities to educate pupils in grade nine. END_STATUTE
+

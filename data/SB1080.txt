@@ -1,0 +1,231 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: early ballots; election day postmark
+
+
+
+
+
+
+
+State of Arizona
+Senate
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+SB 1080
+
+
+
+
+
+
+
+
+
+Introduced by
+Senators
+  Quezada, Farley, Hobbs; Representatives Andrade, Clark, Espinoza, Velasquez:
+  Senator Contreras
+
+
+
+
+
+AN ACT
+
+amending sections
+16-543.02, 16-547, 16-548, 16-551 and 16-558.01, Arizona Revised Statutes;
+relating to early voting.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 16-543.02, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE16-543.02.Federal writein early ballots; procedure;
+registration form
+A.An overseas voter as defined in the uniformed and
+overseas citizens absentee voting act of 1986 (P.L. 99410; 42 52 United States Code section 1973ff-6
+20310), as amended by the Ronald W. Reagan national defense
+authorization act for fiscal year 2005 (P.L. 108375), who is absent from
+the place of residence in this state where the voter is otherwise qualified to
+vote may use a federal writein early ballot in a primary, general or
+special election for the offices of presidential elector and United States
+senator and representative in Congress if the voter applies for an early ballot
+by 7:00 p.m. on election day and does not receive that early ballot.
+B.A federal writein early ballot of an
+overseas voter shall not be counted if either of the following conditions is
+met:
+1.The application of the overseas voter for an
+early ballot is received by the county recorder or other officer in charge of
+elections after 7:00 p.m. on election day.
+2.An early ballot from the overseas voter is
+received by the county recorder or other officer in charge of elections by 7:00
+p.m. on election day or is postmarked
+by united states mail by the election day.
+C.An overseas voter who completes a federal writein
+early ballot may designate a candidate by writing in the name of the candidate
+or by writing in the name of a political party, in which case the ballot shall
+be counted for the candidate of that political party. In the case of the
+offices of president and vicepresident, a vote for a named candidate or
+in the name of the political party shall be counted as a vote for that
+candidate's or party's presidential electors. Any abbreviation, misspelling or
+other minor variation in the form of the name of a candidate or political party
+shall be disregarded in determining the validity of the ballot if the intention
+of the voter can be ascertained.
+D.For an overseas voter who completes a federal
+write-in early ballot transmission envelope with the federal write-in early
+ballot request, the transmission envelope shall serve as a voter registration
+form and the voter is registered to vote on completion and receipt of the
+transmission envelope and the federal write-in early ballot if all of the
+following apply:
+1.The information submitted on the transmission
+envelope includes the information prescribed in section 16121.01.
+2.The voter is otherwise eligible to register and
+vote in this state.
+3.The request is received by the county recorder by
+7:00 p.m. on election day.
+E.For any request
+received after 7:00 p.m. on election day, an otherwise valid transmission
+envelope constitutes a voter registration form that is valid for any subsequent
+election. END_STATUTE
+Sec.2.Section 16-547, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE16-547.Ballot affidavit; form
+A.The early ballot shall be accompanied by an
+envelope bearing on the front the name, official title and post office address
+of the recorder or other officer in charge of elections and on the other side a
+printed affidavit in substantially the following form:
+I declare the following under penalty of
+perjury:I am a registered voter in ___________ county Arizona, I
+have not voted and will not vote in this election in any other county or state,
+I understand that knowingly voting more than once in any election is a class 5
+felony and I voted the enclosed ballot and signed this affidavit personally
+unless noted below.
+If the voter was assisted by another person in marking the
+ballot, complete the following:
+I declare the following under penalty of
+perjury:At the registered voter's request I assisted the voter
+identified in this affidavit with marking the voter's ballot, I marked the
+ballot as directly instructed by the voter, I provided the assistance because
+the voter was physically unable to mark the ballot solely due to illness,
+injury or physical limitation and I understand that there is no power of
+attorney for voting and that the voter must be able to make their selection
+even if they cannot physically mark the ballot.
+Name of voter assistant: _____________________________
+Address of voter assistant: __________________________
+B.The face of each envelope in which a ballot is
+sent to a federal postcard applicant or in which a ballot is returned by such the applicant to the recorder or other officer
+in charge of elections shall be in the form prescribed in accordance with the
+uniformed and overseas citizens absentee voting act of 1986 (P.L. 99410;
+42 52 United States Code section 1973ff20301).
+Otherwise, the envelopes shall be the same as those used to send ballots to, or
+receive ballots from, other early voters.
+C.The county recorder or other officer in charge of
+elections shall supply printed instructions to early voters that direct them to
+sign the affidavit, mark the ballot and return both in the enclosed selfaddressed
+envelope that complies
+with section 16-545. The instructions shall include the following statement:
+In order to be valid and counted, the ballot and affidavit
+must be delivered to the office of the county recorder or other officer in
+charge of elections, or may be deposited at any
+polling place in the county no later than 7:00 p.m. on election day or is postmarked by United States mail by
+the election day.
+WARNING-It is a felony to offer or receive any compensation
+for a ballot. END_STATUTE
+Sec.3.Section 16-548, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE16-548.Preparation and transmission of ballot
+A.The early voter shall make and sign the affidavit
+and shall then mark his ballot in such a manner that his vote cannot be seen.
+The early voter shall fold the ballot, if a paper ballot, so as to conceal the
+vote and deposit the voted ballot in the envelope provided for that purpose,
+which shall be securely sealed and, together with the affidavit, delivered or
+mailed to the county recorder or other officer in charge of elections of the
+political subdivision in which the elector is registered or deposited by the
+voter or the voter's agent at any polling place in the county. In order to be
+counted and valid, the ballot must be received by the county recorder or other
+officer in charge of elections,
+or deposited at any polling
+place in the county no later than 7:00 p.m. on election day or is postmarked by United States mail by the election day.
+B.If the early voter is an overseas citizen, a
+qualified elector absent from the United States or in the United States
+service, a spouse or dependent residing with the early voter or a qualified
+elector of a special district mail ballot election as provided in article 8.1
+of this chapter, the early voter may subscribe to the affidavit before and
+obtain the signature and military identification number or passport number, if
+available, of any person who is a United States citizen eighteen years of age
+or older.END_STATUTE
+Sec.4.Section 16-551, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE16-551.Early election board; violation; classification
+A.The board of supervisors or the governing body of
+the political subdivision shall appoint one or more early election boards to
+serve at places to be designated by the board of supervisors or the governing
+body to canvass and tally early election ballots.Members of early
+election boards shall be selected in accordance with the provisions for
+selecting members of regular election boards as provided in section 16531.
+B.If an electronic voting system is in use for
+early voting, the early election board shall consist of at least one inspector
+and two judges who shall perform the processing requirements in accordance with
+the rules issued by the secretary of state.The inspector and judges
+shall be appointed in the same manner by party as provided in section 16531.
+C.All early ballots received by the county recorder
+or other officer in charge of elections before 7:00 p.m. on election day or is postmarked by United States mail by
+the election day and the original affidavit of the voter shall be
+delivered to the early election boards for processing as provided in the rules
+of the secretary of state.The office of the county recorder or
+other officer in charge of elections shall remain open until 7:00 p.m. on
+election day for the purpose of receiving early ballots. In no event shall
+partial or complete tallies of the early election board be released or divulged
+before all precincts have reported or one hour after the closing of the polls
+on election day, whichever occurs first, and any person who unlawfully releases
+information regarding vote tallies or who possesses a tally sheet or summary
+without authorization from the recorder or officer in charge of elections is
+guilty of a class 6 felony.
+D.The necessary printed blanks for poll lists,
+tally lists, lists of voters, ballots, oaths and returns, together with
+envelopes in which to enclose the returns, shall be furnished by the board of
+supervisors or the governing body of the political subdivision to the early
+election board for each election precinct at the expense of the county or the
+political subdivision. END_STATUTE
+Sec.5.Section 16-558.01, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE16-558.01.Mailing of ballots
+Not more than twentyseven days before the election and
+not fewer than fifteen days before the election, the county recorder or other
+officer in charge of elections for the special district shall send by
+nonforwardable mail all official ballots with printed instructions and a return
+envelope bearing a printed ballot affidavit as described in section 16547
+to each qualified elector entitled to vote in the election.The
+envelope in which the ballot is mailed shall be clearly marked with the
+statement required by the postmaster to receive an address correction and
+notification. The district governing board shall determine whether the voter
+or the district governing board will pay for the postage for the return of
+electors' marked ballots.An elector who votes in a special district
+mail ballot election shall return the elector's marked ballot to the recorder
+or other officer in charge of the election or to a designated depository site
+as provided in section 16411 no
+not later than 7:00 p.m.
+on the day of the election or shall
+return the marked ballot in an envelope that is postmarked by United States
+mail not later than the day of the election. END_STATUTE
+

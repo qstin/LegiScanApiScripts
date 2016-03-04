@@ -1,0 +1,251 @@
+
+
+
+
+PREFILED JAN 07 2016
+
+
+
+REFERENCE TITLE: process servers; motor vehicle records
+
+
+
+
+
+
+
+
+State of Arizona
+Senate
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+SB 1061
+
+
+
+
+
+
+
+
+
+Introduced by
+Senator
+  Kavanagh
+
+
+
+
+
+AN ACT
+
+amending section
+28455, Arizona Revised Statutes; relating to department of
+transportation records.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 28-455, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE28-455.Release of personal information; fees
+A.In accordance with section 28458 and the
+driver's privacy protection act of 1994 (18 United States Code sections 2721
+through 2725) and notwithstanding section 28447, the department shall
+not knowingly disclose or otherwise make available to any person:
+1.Personal information obtained by the department
+in connection with a motor vehicle record except as otherwise provided in this
+section.
+2.Highly restricted personal information obtained
+by the department in connection with a motor vehicle record without the express
+consent of the person to whom the information applies except for uses allowed
+in subsection C, paragraphs 1, 4, 6 and 9 of this section. This paragraph does
+not affect the use of organ donation information on an individual's driver
+license or affect the administration of organ donation in this state.
+B.The department shall disclose personal
+information for use in connection with the following matters:
+1.Motor vehicle or driver safety and theft.
+2.Motor vehicle emissions.
+3.Motor vehicle product alterations, recalls or
+advisories.
+4.Performance monitoring of motor vehicles and
+dealers by motor vehicle manufacturers.
+5.Removal of nonowner records from the original
+owner records of motor vehicle manufacturers to carry out the purposes of
+titles I and IV of the anti car theft act of 1992 (18 United States Code
+sections 2311 through 2322), the automobile information disclosure act (15
+United States Code sections 1231, 1232 and 1233), the clean air act of 1963 (42
+United States Code sections 7401 through 7671q) and 49 United States Code
+chapters 301, 305 and 321 through 331.
+C.Subject to subsection A of this section, the
+department may disclose personal information as follows:
+1.For use by any government agency, including any
+court or law enforcement agency, in carrying out its functions or any private
+person or entity acting on behalf of a government agency in carrying out its
+functions.
+2.For use in
+connection with matters of:
+(a)Performance
+monitoring of motor vehicles, motor vehicle parts and dealers.
+(b)Motor vehicle market research activities,
+including survey research.
+(c)Removal of nonowner records from the original
+owner records of motor vehicle manufacturers.
+3.For use in the normal course of business by a
+legitimate business or its agents, employees or contractors, but only:
+(a)To verify the accuracy of personal information
+submitted by the individual to the business or its agents, employees or
+contractors.
+(b)If the information submitted is not correct or
+is no longer correct, to obtain the correct information for the purpose of
+preventing fraud by, pursuing legal remedies against or recovering on a debt or
+security interest against the individual.
+4.For use by an attorney licensed to practice law, by a certified process server
+or by a licensed private investigator in connection with any civil, criminal,
+administrative or arbitration proceeding in any court or government agency or
+before any selfregulatory body, including the service of process,
+investigation in anticipation of litigation and the execution or enforcement of
+judgments and orders, or pursuant to a court order.
+5.For use in research activities and for use in
+producing statistical reports if the personal information is not published,
+redisclosed or used to contact individuals.
+6.For use by any insurer that writes automobile
+liability or motor vehicle liability policies and that is under the
+jurisdiction of the department of insurance or insurance support organization
+or by a selfinsured entity or its agents, employees or contractors in
+connection with claims investigation activities, antifraud activities, rating
+or underwriting.
+7.For use in providing notice to the owners of
+towed or impounded vehicles.
+8.For use by any licensed private investigative
+agency or licensed security service for any purpose allowed under this section.
+9.For use by an employer or its agent or insurer to
+obtain or verify information relating to a holder of a commercial driver
+license that is required under 49 United States Code sections 31301 through
+31317.
+10.For use by a toll operator as defined in section
+287751 in connection with the operation of a toll facility or the
+enforcement of tolls, administrative charges and penalties as defined in
+section 287751.
+11.For any other use in response to requests for
+individual motor vehicle records if the state has obtained the express consent
+of the person to whom the personal information pertains.
+12.For bulk distribution for surveys, marketing or
+solicitations if the department has obtained the express consent of the person
+to whom the personal information pertains.
+13.For use by any requester if the requester
+demonstrates it has obtained the written consent of the individual to whom the
+information pertains.
+14.For any other use that is specifically
+authorized by law and that is related to the operation of a motor vehicle or
+public safety, including the following:
+(a)Use by a financial institution or enterprise
+under the jurisdiction of the department of financial institutions or a federal
+monetary authority.
+(b)Use by a motor vehicle dealer who is licensed
+and bonded by the department or a state organization of licensed and bonded
+motor vehicle dealers.
+(c)Use by a person who is involved in an accident
+or the owner of a vehicle involved in an accident if the person who requests
+the information submits proof to the department of involvement in the accident.
+(d)Use by a person applying for a bonded title if
+all of the following conditions exist:
+(i)The requester verifies to the satisfaction of
+the director that the vehicle on which the requester is requesting the record
+is in the requester's possession.
+(ii)The record is requested in order for the
+requester to notify the registered owner of the requester's intent to apply to
+the department for a bonded title.
+(iii)The requester provides a verification of a
+vehicle inspection that was performed by an authorized department employee or
+agent.
+(e)Use by an operator of a self-service storage
+facility who alleges both of the following:
+(i)That the vehicle on which the operator is
+requesting the record is in the operator's possession.
+(ii)That the record is requested to allow the
+operator to notify the registered owner and any lienholders of record of the
+operator's intent to foreclose its lien and to sell the vehicle.
+(f)For any other use as determined by the director
+and established by rule.
+D.The department may establish and carry out
+procedures under which the department, on receiving a request for personal
+information that does not fall within one of the exceptions prescribed in
+subsection B or C of this section, may mail a copy of the request to the individual
+about whom the information was requested. The mailing shall inform the
+individual of the request and contain a statement that the information will not
+be released unless the individual waives the individual's right to privacy
+under this section.
+E.In addition to the permissible uses prescribed in
+subsection C of this section, the department may disclose its motor vehicle
+records information, including personal information, as a bulk record only
+under any of the following conditions:
+1.If the director determines either of the
+following:
+(a)The sale or release of the record is necessary
+for the public health or safety.
+(b)The use is for general research or general
+statistical purposes that do not provide specific factors from a record.
+2.For surveys, marketing or solicitations if the
+department has obtained the express consent of the person to whom the personal
+information pertains.
+3.For the release of motor vehicle title and motor
+vehicle registration information, vehicle identification numbers, title brands,
+odometer readings and brands and title lien information to a requester if the
+requester is in the business of preparing vehicle history reports and the
+information is used to develop a vehicle history report.
+F.The director shall provide in a clear and
+conspicuous manner on forms for the issuance or renewal of driver licenses,
+nonoperating identification licenses and title and registration the opportunity
+for express consent so that each person who is the subject of a record of the department
+may opt in, for any purpose as prescribed by the director. Express consent
+shall be conveyed in a form prescribed by the director and shall include at
+least the following:
+1.Clear and conspicuous notice informing the person
+who is giving express consent that by giving express consent the person is
+allowing the department to disclose information contained in the person's motor
+vehicle record to any person requesting information for any purpose.
+2.A written signature or an electronic signature.
+3.An explanation of the difference between a
+one-time authorization and general consent or opt in.
+G.Subject to the requirements of subsection F of
+this section, express consent may be conveyed as either of the following:
+1.A one-time authorization submitted by a requester
+on a consent to release form or by other written format as prescribed by the
+director.
+2.General consent or opt in on certain department
+forms.
+H.Driver histories shall not be disclosed under
+subsection E of this section.
+I.Except as provided in subsection J of this
+section and section 28446, subsection B, records provided pursuant to
+subsections B and C of this section are subject to the fees prescribed in
+section 28-446, subsections A and C.
+J.For records searched and provided for the
+purposes described in subsection E of this section, the director:
+1.Shall charge a search fee that is a minimum of
+six hundred dollars per million records searched.
+2.Shall charge a records fee that is a minimum of
+thirty dollars per thousand records provided.
+3.May prorate the charge for fractional quantities
+that are searched or provided.
+4.May charge only the search fee if the request is
+in accordance with subsection E, paragraph 2 of this section.
+K.Records requests that require a database search
+for specific criteria within a record are subject to a search fee. In addition
+to this search fee, each motor vehicle record provided to a records requester
+as a result of a criteria search incurs record fees in accordance with subsection
+I of this section. END_STATUTE
+

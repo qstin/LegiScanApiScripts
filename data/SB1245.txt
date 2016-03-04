@@ -1,0 +1,89 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: appropriation;
+  information technology; education; certification
+
+
+
+
+
+
+
+
+State of Arizona
+Senate
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+SB 1245
+
+
+
+
+
+
+
+
+
+Introduced by
+Senator
+  Allen S
+
+
+
+
+
+AN ACT
+
+amending Title
+15, chapter 7, article 5, Arizona Revised Statutes, by adding section
+15-790.01; relating to education.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Title
+15, chapter 7, article 5, Arizona Revised Statutes, is amended by adding
+section 15-790.01, to read:
+START_STATUTE15-790.01.Appropriation; statewide information technology education
+and certification program; annual report; program termination
+A.The sum of $1,000,000 is appropriated from the
+state general fund each fiscal year to the department of education to establish
+a statewide information technology education and certification program in
+school districts and charter schools that provide instruction for pupils in
+kindergarten programs and grades one through twelve.
+B.The department shall contract with at least
+one vendor to provide software licenses, courses, certification examinations,
+curricula and materials that prepare pupils for information technology industry
+certification.
+C.Beginning October 15, 2017 and on or before
+October 15 of each year thereafter, the department shall prepare and submit to
+the governor, speaker of the house of representatives, president of the senate
+and secretary of state a report that contains:
+1.The number of contracts awarded pursuant to
+this section.
+2.A list of participating school districts,
+charter schools and joint technical education districts.
+3.Performance data regarding the information
+technology education and certification program, including performance data
+regarding pupils participating in the program.
+D.The program established by this section ends
+on July 1, 2026 pursuant to section 413102. END_STATUTE
+

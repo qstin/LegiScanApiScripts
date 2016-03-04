@@ -1,0 +1,238 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: insurance; prescription eye drops;
+  refills
+
+
+
+
+
+
+
+State of Arizona
+House of Representatives
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+HB 2264
+
+
+
+
+
+
+
+
+
+Introduced by
+Representatives
+  Brophy McGee: Carter
+
+
+
+
+
+AN ACT
+
+Amending title 20,
+chapter 4, article 3, Arizona Revised Statutes, by adding section 20-841.11;
+amending title 20, chapter 4, article 9, Arizona Revised Statutes, by adding
+section 20-1057.16; amending title 20, chapter 6, article 4, Arizona Revised
+Statutes, by adding section 20-1376.08; amending title 20, chapter 6, article
+5, Arizona Revised Statutes, by adding section 20-1406.08; relating to health
+insurance.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Title 20, chapter 4, article 3,
+Arizona Revised Statutes, is amended by adding section 20-841.11, to read:
+START_STATUTE20-841.11.Prescription eye drops; refills
+A.Any
+contract that is issued, delivered or renewed by a corporation on or after the
+effective date of this section and that provides coverage for prescription eye
+drops may not deny coverage for a refill of a prescription for eye drops if all
+of the following apply:
+1.The
+subscriber requests the refill:
+(a)For a thirty-day supply, at
+least twentyone days and less than thirty days from the later of:
+(i)The original date that the
+prescription was distributed to the subscriber.
+(ii)The date of the most recent
+refill that was distributed to the subscriber.
+(b)For a sixty-day supply, at least
+fortytwo days and less than sixty days from the later of:
+(i)The original date that the
+prescription was distributed to the subscriber.
+(ii)The date of the most recent refill
+that was distributed to the subscriber.
+(c)For a ninety-day
+supply, at least sixtythree days and less than ninety days from the
+later of:
+(i)The original date that the
+prescription was distributed to the subscriber.
+(ii)The date of the most recent refill
+that was distributed to the subscriber.
+2.The
+prescription eye drops prescribed by the health care provider are a covered
+benefit under the subscriber's contract.
+3.The
+prescribing health care provider indicates on the original prescription that
+additional quantities of the prescription eye drops are needed.
+4.The
+refill requested by the subscriber does not exceed the number of additional
+quantities prescribed.
+B.To the
+extent practicable, the requirements of this section are limited in quantity to
+the remaining dosage initially approved for coverage, except that any limited
+refilling may not limit or restrict coverage to any previously or subsequently
+approved prescription eye drops and is subject to the terms and conditions of
+the contract that are applicable to this coverage. END_STATUTE
+Sec.2.Title 20, chapter 4, article 9, Arizona
+Revised Statutes, is amended by adding section 20-1057.16, to read:
+START_STATUTE20-1057.16.Prescription eye drops; refills
+A.Any
+evidence of coverage that is issued, delivered or renewed by a health care
+services organization on or after the effective date of this section and that
+provides coverage for prescription eye drops may not deny coverage for a refill
+of a prescription for eye drops if all of the following apply:
+1.The
+enrollee requests the refill:
+(a)For a thirty-day supply, at
+least twentyone days and less than thirty days from the later of:
+(i)The original date that the prescription
+was distributed to the enrollee.
+(ii)The date of the most recent
+refill that was distributed to the enrollee.
+(b)For a sixty-day supply, at least
+fortytwo days and less than sixty days from the later of:
+(i)The original date that the prescription
+was distributed to the enrollee.
+(ii)The date of the most recent
+refill that was distributed to the enrollee.
+(c)For a ninety-day supply, at least sixtythree days and
+less than ninety days from the later of:
+(i)The original date that the prescription
+was distributed to the enrollee.
+(ii)The date of the most recent
+refill that was distributed to the enrollee.
+2.The
+prescription eye drops prescribed by the health care provider are a covered
+benefit under the enrollee's evidence of coverage.
+3.The
+prescribing health care provider indicates on the original prescription that
+additional quantities of the prescription eye drops are needed.
+4.The
+refill requested by the enrollee does not exceed the number of additional
+quantities prescribed.
+B.To the
+extent practicable, the requirements of this section are limited in quantity to
+the remaining dosage initially approved for coverage, except that any limited
+refilling may not limit or restrict coverage to any previously or subsequently
+approved prescription eye drops and is subject to the terms and conditions of
+the evidence of coverage that are applicable to this coverage. END_STATUTE
+Sec.3.Title 20, chapter 6, article 4, Arizona
+Revised Statutes, is amended by adding section 20-1376.08, to read:
+START_STATUTE20-1376.08.Prescription eye drops; refills
+A.Any
+policy that is issued, delivered or renewed by a disability insurer on or after
+the effective date of this section and that provides coverage for prescription
+eye drops may not deny coverage for a refill of a prescription for eye drops if
+all of the following apply:
+1.The
+insured requests the refill:
+(a)For a thirty-day supply, at
+least twentyone days and less than thirty days from the later of:
+(i)The original date that the
+prescription was distributed to the insured.
+(ii)The date of the most recent
+refill that was distributed to the insured.
+(b)For a sixty-day supply, at least
+fortytwo days and less than sixty days from the later of:
+(i)The original date that the
+prescription was distributed to the insured.
+(ii)The date of the most recent
+refill that was distributed to the insured.
+(c)For a ninety-day supply, at least sixtythree days and
+less than ninety days from the later of:
+(i)The original date that the
+prescription was distributed to the insured.
+(ii)The date of the most recent
+refill that was distributed to the insured.
+2.The
+prescription eye drops prescribed by the health care provider are a covered
+benefit under the insured's policy.
+3.The
+prescribing health care provider indicates on the original prescription that
+additional quantities of the prescription eye drops are needed.
+4.The
+refill requested by the insured does not exceed the number of additional
+quantities prescribed.
+B.To the
+extent practicable, the requirements of this section are limited in quantity to
+the remaining dosage initially approved for coverage, except that any limited
+refilling may not limit or restrict coverage to any previously or subsequently
+approved prescription eye drops and is subject to the terms and conditions of
+the policy that are applicable to this coverage. END_STATUTE
+Sec.4.Title 20, chapter 6, article 5, Arizona
+Revised Statutes, is amended by adding section 20-1406.08, to read:
+START_STATUTE20-1406.08.Prescription eye drops; refills
+A.Any
+policy that is issued, delivered or renewed by a group or blanket disability
+insurer on or after the effective date of this section and that provides
+coverage for prescription eye drops may not deny coverage for a refill of a
+prescription for eye drops if all of the following apply:
+1.The insured
+requests the refill:
+(a)For a thirty-day supply, at
+least twentyone days and less than thirty days from the later of:
+(i)The original date that the
+prescription was distributed to the insured.
+(ii)The date of the most recent
+refill that was distributed to the insured.
+(b)For a sixty-day supply, at least
+fortytwo days and less than sixty days from the later of:
+(i)The original date that the
+prescription was distributed to the insured.
+(ii)The date of the most recent
+refill that was distributed to the insured.
+(c)For a ninety-day supply, at least sixtythree days and
+less than ninety days from the later of:
+(i)The original date the
+prescription was distributed to the insured.
+(ii)The date of the most recent
+refill that was distributed to the insured.
+2.The
+prescription eye drops prescribed by the health care provider are a covered
+benefit under the insured's policy.
+3.The
+prescribing health care provider indicates on the original prescription that
+additional quantities of the prescription eye drops are needed.
+4.The
+refill requested by the insured does not exceed the number of additional
+quantities prescribed.
+B.To the
+extent practicable, the requirements of this section are limited in quantity to
+the remaining dosage initially approved for coverage, except that any limited
+refilling may not limit or restrict coverage to any previously or subsequently
+approved prescription eye drops and is subject to the terms and conditions of
+the policy that are applicable to this coverage. END_STATUTE
+

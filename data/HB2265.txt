@@ -1,0 +1,1071 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: epinephrine auto-injectors
+
+
+
+
+
+
+
+State of Arizona
+House of Representatives
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+HB 2265
+
+
+
+
+
+
+
+
+
+Introduced by
+Representatives
+  Cobb: Finchem, Weninger
+
+
+
+
+
+AN ACT
+
+Amending sections
+321401, 321854 and 321901.01, Arizona Revised Statutes;
+Amending Title 36, chapter 21.1, article 1, Arizona Revised Statutes, by adding
+section 362226.01; relating to epinephrine autoinjectors.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 32-1401, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-1401.Definitions
+In this chapter, unless the context otherwise requires:
+1."Active license" means a valid and
+existing license to practice medicine.
+2."Adequate records" means legible
+medical records, produced by hand or electronically, containing, at a minimum,
+sufficient information to identify the patient, support the diagnosis, justify
+the treatment, accurately document the results, indicate advice and cautionary
+warnings provided to the patient and provide sufficient information for another
+practitioner to assume continuity of the patient's care at any point in the
+course of treatment.
+3."Advisory letter" means a
+nondisciplinary letter to notify a licensee that either:
+(a)While there is insufficient evidence to support
+disciplinary action, the board believes that continuation of the activities
+that led to the investigation may result in further board action against the
+licensee.
+(b)The violation is a minor or technical violation
+that is not of sufficient merit to warrant disciplinary action.
+(c)While the licensee has demonstrated substantial
+compliance through rehabilitation or remediation that has mitigated the need
+for disciplinary action, the board believes that repetition of the activities
+that led to the investigation may result in further board action against the
+licensee.
+4."Approved hospital internship, residency or
+clinical fellowship program" means a program at a hospital that at the
+time the training occurred was legally incorporated and that had a program that
+was approved for internship, fellowship or residency training by the
+accreditation council for graduate medical education, the association of
+American medical colleges, the royal college of physicians and surgeons of
+Canada or any similar body in the United States or Canada approved by the board
+whose function is that of approving hospitals for internship, fellowship or
+residency training.
+5."Approved school of medicine" means any
+school or college offering a course of study that, on successful completion,
+results in the degree of doctor of medicine and whose course of study has been
+approved or accredited by an educational or professional association,
+recognized by the board, including the association of American medical
+colleges, the association of Canadian medical colleges or the American medical
+association.
+6."Board" means the Arizona medical
+board.
+7."Completed application" means that the
+applicant has supplied all required fees, information and correspondence
+requested by the board on forms and in a manner acceptable to the board.
+8."Direct
+supervision" means that a physician, physician assistant licensed pursuant
+to chapter 25 of this title or nurse practitioner certified pursuant to chapter
+15 of this title is within the same room or office suite as the medical
+assistant in order to be available for consultation regarding those tasks the
+medical assistant performs pursuant to section 321456.
+9."Dispense" means the delivery by a
+doctor of medicine of a prescription drug or device to a patient, except for
+samples packaged for individual use by licensed manufacturers or repackagers of
+drugs, and includes the prescribing, administering, packaging, labeling and
+security necessary to prepare and safeguard the drug or device for delivery.
+10."Doctor of medicine" means a natural
+person holding a license, registration or permit to practice medicine pursuant
+to this chapter.
+11."Fulltime faculty member" means
+a physician who is
+employed full time as a faculty member while holding the academic position of
+assistant professor or a higher position at an approved school of medicine.
+12."Health care institution" means any
+facility as defined in section 36401, any person authorized to transact
+disability insurance, as defined in title 20, chapter 6, article 4 or 5, any
+person who is issued a certificate of authority pursuant to title 20, chapter
+4, article 9 or any other partnership, association or corporation that provides
+health care to consumers.
+13."Immediate family" means the spouse,
+natural or adopted children, father, mother, brothers and sisters of the doctor
+and the natural or adopted children, father, mother, brothers and sisters of
+the doctor's spouse.
+14."Letter of reprimand" means a
+disciplinary letter that is issued by the board and that informs the physician
+that the physician's conduct violates state or federal law and may require the board
+to monitor the physician.
+15."Limit" means taking a nondisciplinary
+action that alters the physician's practice or professional activities if the
+board determines that there is evidence that the physician is or may be
+mentally or physically unable to safely engage in the practice of medicine.
+16."Medical assistant" means an
+unlicensed person who meets the requirements of section 321456, has
+completed an education program approved by the board, assists in a medical
+practice under the supervision of a doctor of medicine, physician assistant or
+nurse practitioner and performs delegated procedures commensurate with the
+assistant's education and training but does not diagnose, interpret, design or
+modify established treatment programs or perform any functions that would
+violate any statute applicable to the practice of medicine.
+17."Medical peer review" means:
+(a)The participation by a doctor of medicine in the
+review and evaluation of the medical management of a patient and the use of
+resources for patient care.
+(b)Activities relating to a health care
+institution's decision to grant or continue privileges to practice at that
+institution.
+18."Medically incompetent" means a person
+who the board determines is incompetent based on a variety of factors,
+including:
+(a)A lack of sufficient medical knowledge or
+skills, or both, to a degree likely to endanger the health of patients.
+(b)When considered with other indications of
+medical incompetence, failing to obtain a scaled score of at least seventyfive
+percent on the written special purpose licensing examination.
+19."Medicine" means allopathic medicine
+as practiced by the recipient of a degree of doctor of medicine.
+20."Office based surgery" means a medical
+procedure conducted in a physician's office or other outpatient setting that is
+not part of a licensed hospital or licensed ambulatory surgical center.
+21."Physician" means a doctor of medicine
+who is licensed pursuant
+to this chapter.
+22."Practice of medicine" means the
+diagnosis, the treatment or the correction of or the attempt or the claim to be
+able to diagnose, treat or correct any and all human diseases, injuries,
+ailments, infirmities,
+or deformities, physical
+or mental, real or imaginary, by any means, methods, devices or instrumentalities,
+except as the same may be among the acts or persons not affected by this
+chapter. The practice of medicine includes the practice of medicine alone or
+the practice of surgery alone, or both.
+23."Restrict" means taking a disciplinary
+action that alters the physician's practice or professional activities if the
+board determines that there is evidence that the physician is or may be
+medically incompetent or guilty of unprofessional conduct.
+24."Special purpose licensing
+examination" means an examination that
+is developed by the national board of medical examiners on behalf
+of the federation of state medical boards for use by state licensing boards to
+test the basic medical competence of physicians who are applying for licensure
+and who have been in practice for a considerable period of time in another
+jurisdiction and to determine the competence of a physician who is under investigation by a state
+licensing board.
+25."Teaching hospital's accredited graduate
+medical education program" means that the hospital is incorporated and has
+an internship, fellowship or residency training program that is accredited by
+the accreditation council for graduate medical education, the American medical
+association, the association of American medical colleges, the royal college of
+physicians and surgeons of Canada or a similar body in the United States or
+Canada that is approved
+by the board and whose
+function is that of approving hospitals for internship, fellowship or residency
+training.
+26."Teaching license" means a valid
+license to practice medicine as a fulltime faculty member of an approved
+school of medicine or a teaching hospital's accredited graduate medical
+education program.
+27."Unprofessional conduct" includes the
+following, whether occurring in this state or elsewhere:
+(a)Violating any federal or state laws, rules or
+regulations applicable to the practice of medicine.
+(b)Intentionally disclosing a professional secret
+or intentionally disclosing a privileged communication except as either act may
+otherwise be required by law.
+(c)False, fraudulent, deceptive or misleading
+advertising by a doctor of medicine or the doctor's staff, employer or
+representative.
+(d)Committing a felony, whether or not involving
+moral turpitude, or a misdemeanor involving moral turpitude. In either case,
+conviction by any court of competent jurisdiction or a plea of no contest is
+conclusive evidence of the commission.
+(e)Failing or refusing to maintain adequate records
+on a patient.
+(f)Habitual intemperance in the use of alcohol or
+habitual substance abuse.
+(g)Using controlled substances except if prescribed
+by another physician for use during a prescribed course of treatment.
+(h)Prescribing or dispensing controlled substances
+to members of the physician's immediate family.
+(i)Prescribing, dispensing or administering
+schedule II controlled substances as defined in section 362513 including
+amphetamines and similar schedule II sympathomimetic drugs in the treatment of
+exogenous obesity for a period in excess of thirty days in any one year, or the
+nontherapeutic use of injectable amphetamines.
+(j)Prescribing, dispensing or administering any
+controlled substance or prescriptiononly drug for other than accepted
+therapeutic purposes.
+(k)Signing a blank, undated or predated
+prescription form.
+(l)Conduct that the board determines is gross
+malpractice, repeated malpractice or any malpractice resulting in the death of
+a patient.
+(m)Representing that a manifestly incurable disease
+or infirmity can be permanently cured, or that any disease, ailment or
+infirmity can be cured by a secret method, procedure, treatment, medicine or
+device, if this is not true.
+(n)Refusing to divulge to the board on demand the
+means, method, procedure, modality of treatment or medicine used in the
+treatment of a disease, injury, ailment or infirmity.
+(o)Action that is taken against a doctor of
+medicine by another licensing or regulatory jurisdiction due to that doctor's
+mental or physical inability to engage safely in the practice of medicine or
+the doctor's medical incompetence or for unprofessional conduct as defined by
+that jurisdiction and that corresponds directly or indirectly to an act of
+unprofessional conduct prescribed by this paragraph. The action taken may
+include refusing, denying, revoking or suspending a license by that
+jurisdiction or a surrendering of a license to that jurisdiction, otherwise
+limiting, restricting or monitoring a licensee by that jurisdiction or placing
+a licensee on probation by that jurisdiction.
+(p)Sanctions imposed by an agency of the federal
+government, including restricting, suspending, limiting or removing a person
+from the practice of medicine or restricting that person's ability to obtain
+financial remuneration.
+(q)Any conduct or practice that is or might be
+harmful or dangerous to the health of the patient or the public.
+(r)Violating a formal order, probation, consent
+agreement or stipulation issued or entered into by the board or its executive
+director under this chapter.
+(s)Violating or attempting to violate, directly or
+indirectly, or assisting in or abetting the violation of or conspiring to
+violate any provision of this chapter.
+(t)Knowingly making any false or fraudulent
+statement, written or oral, in connection with the practice of medicine or if
+applying for privileges or renewing an application for privileges at a health
+care institution.
+(u)Charging a fee for services not rendered or
+dividing a professional fee for patient referrals among health care providers
+or health care institutions or between these providers and institutions or a
+contractual arrangement that has the same effect. This subdivision does not
+apply to payments from a medical researcher to a physician in connection with
+identifying and monitoring patients for a clinical trial regulated by the
+United States food and drug administration.
+(v)Obtaining a fee by fraud, deceit or
+misrepresentation.
+(w)Charging or collecting a clearly excessive fee.
+In determining if whether a fee is clearly
+excessive, the board shall consider the fee or range of fees customarily
+charged in the this state for similar services
+in light of modifying factors such as the time required, the complexity of the
+service and the skill requisite to perform the service properly. This subdivision
+does not apply if there is a clear written contract for a fixed fee between the
+physician and the patient that has been entered into before the provision of the service.
+(x)Fetal experiments conducted in violation of
+section 362302.
+(y)The use of experimental forms of diagnosis and
+treatment without adequate informed patient consent, and without conforming to
+generally accepted experimental criteria, including protocols, detailed
+records, periodic analysis of results and periodic review by a medical peer
+review committee as approved by the federal
+United States food and
+drug administration or its successor agency.
+(z)Engaging in sexual conduct with a current
+patient or with a former patient within six months after the last medical
+consultation unless the patient was the licensee's spouse at the time of the
+contact or, immediately preceding the physicianpatient relationship, was
+in a dating or engagement relationship with the licensee.For the
+purposes of this subdivision, "sexual conduct" includes:
+(i)Engaging in or soliciting sexual relationships,
+whether consensual or nonconsensual.
+(ii)Making sexual advances, requesting sexual
+favors or engaging in any other verbal conduct or physical contact of a sexual
+nature.
+(iii)Intentionally viewing a completely or
+partially disrobed patient in the course of treatment if the viewing is not
+related to patient diagnosis or treatment under current practice standards.
+(aa)Procuring or attempting to procure a license to
+practice medicine or a license renewal by fraud, by misrepresentation or by
+knowingly taking advantage of the mistake of another person or an agency.
+(bb)Representing or claiming to be a medical
+specialist if this is not true.
+(cc)Maintaining a professional connection with or
+lending one's name to enhance or continue the activities of an illegal
+practitioner of medicine.
+(dd)Failing to furnish information in a timely
+manner to the board or the board's investigators or representatives if legally
+requested by the board.
+(ee)Failing to allow properly authorized board
+personnel on demand to examine and have access to documents, reports and
+records maintained by the physician that relate to the physician's medical
+practice or medically related activities.
+(ff)Knowingly failing to disclose to a patient on a
+form that is prescribed by the board and that is dated and signed by the
+patient or guardian acknowledging that the patient or guardian has read and
+understands that the doctor has a direct financial interest in a separate
+diagnostic or treatment agency or in nonroutine goods or services that the
+patient is being prescribed and if the prescribed treatment, goods or services
+are available on a competitive basis. This subdivision does not apply to a
+referral by one doctor of medicine to another doctor of medicine within a group
+of doctors of medicine practicing together.
+(gg)Using chelation therapy in the treatment of
+arteriosclerosis or as any other form of therapy, with the exception of
+treatment of heavy metal poisoning, without:
+(i)Adequate informed patient consent.
+(ii)Conforming to generally accepted experimental
+criteria, including protocols, detailed records, periodic analysis of results
+and periodic review by a medical peer review committee.
+(iii)Approval by the federal United
+States food and drug administration or its successor agency.
+(hh)Prescribing, dispensing or administering
+anabolicandrogenic steroids to a person for other than therapeutic
+purposes.
+(ii)Lack of or inappropriate direction,
+collaboration or direct supervision of a medical assistant or a licensed,
+certified or registered health care provider employed by, supervised by or
+assigned to the physician.
+(jj)Knowingly making a false or misleading
+statement to the board or on a form required by the board or in a written
+correspondence, including attachments, with the board.
+(kk)Failing to dispense drugs and devices in
+compliance with article 6 of this chapter.
+(ll)Conduct that the board determines is gross
+negligence, repeated negligence or negligence resulting in harm to or the death
+of a patient.
+(mm)The representation by a doctor of medicine or
+the doctor's staff, employer or representative that the doctor is boarded or
+board certified if this is not true or the standing is not current or without
+supplying the full name of the specific agency, organization or entity granting
+this standing.
+(nn)Refusing to submit to a body fluid examination
+or any other examination known to detect the presence of alcohol or other drugs
+as required by the board pursuant to section 321452 or pursuant to a
+board investigation into a doctor of medicine's alleged substance abuse.
+(oo)Failing to report in writing to the Arizona
+medical board or the Arizona regulatory board of physician assistants any
+evidence that a doctor of medicine or a physician assistant is or may be
+medically incompetent, guilty of unprofessional conduct or mentally or
+physically unable to safely practice medicine or to perform as a physician
+assistant.
+(pp)The failure of a physician who is the chief
+executive officer, the medical director or the medical chief of staff of a
+health care institution to report in writing to the board that the hospital
+privileges of a doctor of medicine have been denied, revoked, suspended,
+supervised or limited because of actions by the doctor that appear to show that
+the doctor is or may be medically incompetent, is or may be guilty of
+unprofessional conduct or is or may be unable to engage safely in the practice
+of medicine.
+(qq)Claiming to be a current member of the board, or its staff or a board medical consultant if
+this is not true.
+(rr)Failing to make patient medical records in the
+physician's possession promptly available to a physician assistant, a nurse
+practitioner, a person licensed pursuant to this chapter or a podiatrist,
+chiropractor, naturopathic physician, osteopathic physician or homeopathic
+physician licensed under chapter 7, 8, 14, 17 or 29 of this title on receipt of
+proper authorization to do so from the patient, a minor patient's parent, the
+patient's legal guardian or the patient's authorized representative or failing
+to comply with title 12, chapter 13, article 7.1.
+(ss)Prescribing, dispensing or furnishing a
+prescription medication or a prescriptiononly device as defined in
+section 321901 to a person unless the licensee first conducts a physical
+or mental health status examination of that person or has previously
+established a doctorpatient relationship.The physical or
+mental health status examination may be conducted during a real-time
+telemedicine encounter with audio and video capability if the telemedicine
+audio and video capability meets the elements required by the centers for
+medicare and medicaid services, unless the examination is for the purpose of
+obtaining a written certification from the physician for the purposes of title
+36, chapter 28.1. This subdivision does not apply to:
+(i)A physician who provides temporary patient
+supervision on behalf of the patient's regular treating licensed health care
+professional or provides a consultation requested by the patient's regular
+treating licensed health care professional.
+(ii)Emergency medical situations as defined in
+section 411831.
+(iii)Prescriptions written to prepare a patient for
+a medical examination.
+(iv)Prescriptions written or prescription
+medications issued for use by a county or tribal public health department for
+immunization programs or emergency treatment or in response to an infectious
+disease investigation, public health emergency, infectious disease outbreak or
+act of bioterrorism. For the purposes of this item, "bioterrorism"
+has the same meaning prescribed in section 36781.
+(v)Prescriptions written or antimicrobials
+dispensed to a contact as defined in section 36661 who is believed to
+have had significant exposure risk as defined in section 36661 with
+another person who has been diagnosed with a communicable disease as defined in
+section 36-661 by the prescribing or dispensing physician.
+(vi)Prescriptions written or prescription
+medications issued for administration of immunizations or vaccines listed in
+the United States centers for disease control and prevention's recommended
+immunization schedule to a household member of a patient.
+(vii)Prescriptions for epinephrine auto-injectors
+written or dispensed for a school district or charter school to be stocked for
+emergency use pursuant to section 15157 or for an authorized entity to be stocked pursuant to
+section 362226.01.
+(viii)Prescriptions written by a licensee through a
+telemedicine program that is covered by the policies and procedures adopted by
+the administrator of a hospital or outpatient treatment center.
+(ix)Prescriptions for naloxone hydrochloride or any
+other opiate opioid antagonist approved by
+the United States food and drug administration that are written or dispensed
+for use pursuant to section 362228.
+(tt)Performing office based surgery using sedation
+in violation of board rules.
+(uu)Practicing medicine under a false or assumed
+name in this state. END_STATUTE
+Sec.2.Section 32-1854, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-1854.Definition of unprofessional conduct
+For the purposes of this chapter,
+"unprofessional conduct" includes the following acts, whether
+occurring in this state or elsewhere:
+1.Knowingly betraying a
+professional secret or wilfully violating a privileged communication except as
+either of these may otherwise be required by law. This paragraph does not
+prevent members of the board from exchanging information with the licensing and
+disciplinary boards of other states, territories or districts of the United
+States or with foreign countries or with osteopathic medical organizations
+located in this state or in any state, district or territory of this country or
+in any foreign country.
+2.Committing a felony
+or a misdemeanor involving moral turpitude. In either case conviction by any
+court of competent jurisdiction is conclusive evidence of the commission of the
+offense.
+3.Practicing medicine
+while under the influence of alcohol, a dangerous
+drug as defined in section 133401, narcotic or hypnotic drugs or any
+substance that impairs or may impair the licensee's ability to safely and
+skillfully practice medicine.
+4.Being diagnosed by a
+physician licensed under this chapter or chapter 13 of this title or a
+psychologist licensed under chapter 19.1 of this title as excessively or
+illegally using alcohol or a controlled substance.
+5.Prescribing,
+dispensing or administering controlled substances or prescriptiononly
+drugs for other than accepted therapeutic purposes.
+6.Engaging in the
+practice of medicine in a manner that harms or may harm a patient or that the
+board determines falls below the community standard.
+7.Impersonating another
+physician.
+8.Acting or assuming to
+act as a member of the board if this is not true.
+9.Procuring, renewing
+or attempting to procure or renew a license to practice osteopathic medicine by
+fraud or misrepresentation.
+10.Having professional
+connection with or lending one's name to an illegal practitioner of osteopathic
+medicine or any of the other healing arts.
+11.Representing that a
+manifestly incurable disease, injury, ailment or infirmity can be permanently
+cured or that a curable disease, injury, ailment or infirmity can be cured
+within a stated time, if this is not true.
+12.Failing to
+reasonably disclose and inform the patient or the patient's representative of
+the method, device or instrumentality the licensee uses to treat the patient's
+disease, injury, ailment or infirmity.
+13.Refusing to divulge
+to the board on demand the means, method, device or instrumentality used in the
+treatment of a disease, injury, ailment or infirmity.
+14.Charging a fee for
+services not rendered or dividing a professional fee for patient referrals.
+This paragraph does not apply to payments from a medical researcher to a
+physician in connection with identifying and monitoring patients for clinical
+trial regulated by the United States food and drug administration.
+15.Knowingly making any
+false or fraudulent statement, written or oral, in connection with the practice
+of medicine or when applying for or renewing privileges at a health care
+institution or a health care program.
+16.Advertising in a
+false, deceptive or misleading manner.
+17.Representing or
+claiming to be an osteopathic medical specialist if the physician has not
+satisfied the applicable requirements of this chapter or board rules.
+18.The denial of or disciplinary
+action against a license by any other state, territory, district or country,
+unless it can be shown that this occurred for reasons that did not relate to
+the person's ability to safely and skillfully practice osteopathic medicine or
+to any act of unprofessional conduct as provided in this section.
+19.Any conduct or
+practice contrary to recognized standards of ethics of the osteopathic medical
+profession.
+20.Violating or
+attempting to violate, directly or indirectly, or assisting in or abetting the
+violation of or conspiring to violate any of the provisions of this chapter.
+21.Failing or refusing
+to establish and maintain adequate records on a patient as follows:
+(a)If the patient is an
+adult, for at least six years after the last date the licensee provided the
+patient with medical or health care services.
+(b)If the patient is a
+child, either for at least three years after the child's eighteenth birthday or
+for at least six years after the last date the licensee provided that patient
+with medical or health care services, whichever date occurs later.
+22.Using controlled
+substances or prescriptiononly drugs unless they are provided by a
+medical practitioner, as defined in section 321901, as part of a lawful
+course of treatment.
+23.Prescribing
+controlled substances to members of one's immediate family unless there is no
+other physician available within fifty miles to treat a member of the family
+and an emergency exists.
+24.Nontherapeutic use
+of injectable amphetamines.
+25.Violating a formal
+order, probation or a stipulation issued by the board under this chapter.
+26.Charging or
+collecting an inappropriate fee.This paragraph does not apply to a
+fee that is fixed in a written contract between the physician and the patient
+and entered into before treatment begins.
+27.Using experimental
+forms of therapy without adequate informed patient consent or without
+conforming to generally accepted criteria and complying with federal and state
+statutes and regulations governing experimental therapies.
+28.Failing to make
+patient medical records in the physician's possession promptly available to a
+physician assistant, a nurse practitioner, a person licensed pursuant to this
+chapter or a podiatrist, chiropractor, naturopathic physician, physician or
+homeopathic physician licensed under chapter 7, 8, 13, 14 or 29 of this title
+on receipt of proper authorization to do so from the patient, a minor patient's
+parent, the patient's legal guardian or the patient's authorized representative
+or failing to comply with title 12, chapter 13, article 7.1.
+29.Failing to allow
+properly authorized board personnel to have, on presentation of a subpoena,
+access to any documents, reports or records that are maintained by the
+physician and that relate to the physician's medical practice or medically
+related activities pursuant to section 321855.01.
+30.Signing a blank,
+undated or predated prescription form.
+31.Obtaining a fee by
+fraud, deceit or misrepresentation.
+32.Failing to report to
+the board an osteopathic physician and surgeon who is or may be guilty of
+unprofessional conduct or is or may be mentally or physically unable safely to
+engage in the practice of medicine.
+33.Referring a patient
+to a diagnostic or treatment facility or prescribing goods and services without
+disclosing that the physician has a direct pecuniary interest in the facility,
+goods or services to which the patient has been referred or prescribed. This
+paragraph does not apply to a referral by one physician to another physician
+within a group of physicians practicing together.
+34.Lack of or
+inappropriate direction, collaboration or supervision of a licensed, certified
+or registered health care provider or office personnel employed by or assigned
+to the physician in the medical care of patients.
+35.Violating a federal
+law, a state law or a rule applicable to the practice of medicine.
+36.Prescribing or
+dispensing controlled substances or prescriptiononly medications without
+establishing and maintaining adequate patient records.
+37.Failing to dispense
+drugs and devices in compliance with article 4 of this chapter.
+38.Any conduct or
+practice that endangers a patient's or the public's health or may reasonably be
+expected to do so.
+39.Any conduct or
+practice that impairs the licensee's ability to safely and skillfully practice
+medicine or that may reasonably be expected to do so.
+40.With the exception
+of heavy metal poisoning, using chelation therapy in the treatment of
+arteriosclerosis or as any other form of therapy without adequate informed
+patient consent and without conforming to generally accepted experimental
+criteria, including protocols, detailed records, periodic analysis of results
+and periodic review by a medical peer review committee.
+41.Prescribing,
+dispensing or administering anabolicandrogenic steroids to a person for
+other than therapeutic purposes.
+42.Engaging in sexual
+conduct with a current patient or with a former patient within six months after
+the last medical consultation unless the patient was the licensee's spouse at
+the time of the contact or, immediately preceding the physicianpatient
+relationship, was in a dating or engagement relationship with the licensee.
+For the purposes of this paragraph, "sexual conduct" includes:
+(a)Engaging in or
+soliciting sexual relationships, whether consensual or nonconsensual.
+(b)Making sexual
+advances, requesting sexual favors or engaging in any other verbal conduct or
+physical conduct of a sexual nature.
+43.Fetal experiments
+conducted in violation of section 362302.
+44.Conduct that the
+board determines constitutes gross negligence, repeated negligence or
+negligence that results in harm or death of a patient.
+45.Conduct in the
+practice of medicine that evidences moral unfitness to practice medicine.
+46.Engaging in
+disruptive or abusive behavior in a professional setting.
+47.Failing to disclose
+to a patient that the licensee has a direct financial interest in a prescribed
+treatment, good or service if the treatment, good or service is available on a
+competitive basis.This paragraph does not apply to a referral by
+one licensee to another licensee within a group of licensees who practice
+together. A licensee meets the disclosure requirements of this paragraph if all both of the following are true:
+(a)The licensee makes
+the disclosure on a form prescribed by the board.
+(b)The patient or the
+patient's guardian or parent acknowledges by signing the form that the licensee
+has disclosed the licensee's direct financial interest.
+48.Prescribing,
+dispensing or furnishing a prescription medication or a prescriptiononly
+device to a person if the licensee has not conducted a physical or mental
+health status examination of that person or has not previously established a
+physicianpatient relationship.The physical or mental health
+status examination may be conducted during a real-time telemedicine encounter
+with audio and video capability if the telemedicine audio and video capability
+meets the elements required by the centers for medicare and medicaid services, unless
+the examination is for the purpose of obtaining a written certification from
+the physician for the purposes of title 36, chapter 28.1. This paragraph does
+not apply to:
+(a)Emergencies.
+(b)A licensee who
+provides patient care on behalf of the patient's regular treating licensed
+health care professional or provides a consultation requested by the patient's
+regular treating licensed health care professional.
+(c)Prescriptions
+written or antimicrobials dispensed to a contact as defined in section 36661
+who is believed to have had significant exposure risk as defined in section 36661
+with another person who has been diagnosed with a communicable disease as
+defined in section 36661 by the prescribing or dispensing physician.
+(d)Prescriptions for epinephrine
+auto-injectors written or dispensed for a school district or charter school to
+be stocked for emergency use pursuant to section 15157 or for an authorized entity to be stocked pursuant to
+section 362226.01.
+(e)Prescriptions
+written by a licensee through a telemedicine program that is covered by the
+policies and procedures adopted by the administrator of a hospital or
+outpatient treatment center.
+(f)Prescriptions for
+naloxone hydrochloride or any other opiate
+opioid antagonist
+approved by the United States food and drug administration that are written or
+dispensed for use pursuant to section 362228.
+49.If a licensee
+provides medical care by computer, failing to disclose the licensee's license
+number and the board's address and telephone number. END_STATUTE
+Sec.3.Section 32-1901.01, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-1901.01.Definition of unethical and unprofessional conduct;
+permittees; licensees
+A.In this chapter, unless the context otherwise
+requires, for the purposes of disciplining a permittee, "unethical
+conduct" means the following, whether occurring in this state or
+elsewhere:
+1.Committing a felony, whether or not involving
+moral turpitude, or a misdemeanor involving moral turpitude or any drug-related
+offense. In either case, conviction by a court of competent jurisdiction or a
+plea of no contest is conclusive evidence of the commission.
+2.Committing an act that is substantially related
+to the qualifications, functions or duties of a permittee and that demonstrates
+either a lack of good moral character or an actual or potential unfitness to
+hold a permit in light of the public's safety.
+3.Working under the influence of alcohol or other
+drugs.
+4.Addiction to the use of alcohol or other drugs to
+such a degree as to render the permittee unfit to perform the permittee's
+employment duties.
+5.Violating a federal or state law or
+administrative rule relating to the manufacture, sale or distribution of drugs,
+devices, poisons, hazardous substances or precursor chemicals.
+6.Violating a federal or state law or
+administrative rule relating to marijuana, prescriptiononly drugs,
+narcotics, dangerous drugs, controlled substances or precursor chemicals.
+7.Violating state or federal reporting or
+recordkeeping requirements on transactions relating to precursor chemicals.
+8.Failing to report in writing to the board any
+evidence that a pharmacist, pharmacy intern or graduate intern is or may be
+professionally incompetent, is or may be guilty of unprofessional conduct or is
+or may be mentally or physically unable safely to engage in the practice of
+pharmacy.
+9.Failing to report in writing to the board any
+evidence that a pharmacy technician or pharmacy technician trainee is or may be
+professionally incompetent, is or may be guilty of unprofessional conduct or is
+or may be mentally or physically unable safely to engage in the permissible
+activities of a pharmacy technician or pharmacy technician trainee.
+10.Failing to report in writing to the board any
+evidence that appears to show that a permittee or permittee's employee is or
+may be guilty of unethical conduct, is or may be mentally or physically unable
+safely to engage in employment duties related to manufacturing, selling,
+distributing or dispensing of drugs, devices, poisons, hazardous substances,
+controlled substances or precursor chemicals or is or may be in violation of
+this chapter or a rule adopted under this chapter.
+11.Intending to sell, transfer or distribute, or to
+offer for sale, transfer or distribution, or selling, transferring,
+distributing or dispensing or offering for sale, transfer or distribution an
+imitation controlled substance, imitation overthecounter drug or
+imitation prescriptiononly drug as defined in section 133451.
+12.Denial or discipline of a permittee's permit to
+manufacture, sell, distribute or dispense drugs, devices, poisons, hazardous
+substances or precursor chemicals in another jurisdiction and the permit was
+not reinstated.
+13.Committing an offense in another jurisdiction
+that if committed in this state would be grounds for discipline.
+14.Obtaining or attempting to obtain a permit or a
+permit renewal by fraud, by misrepresentation or by knowingly taking advantage
+of the mistake of another person or an agency.
+15.Wilfully making a false report or record
+required by this chapter, required by federal or state laws pertaining to
+drugs, devices, poisons, hazardous substances or precursor chemicals or
+required for the payment for drugs, devices, poisons or hazardous substances or
+precursor chemicals or for services pertaining to such drugs or substances.
+16.Knowingly filing with the board any application,
+renewal or other document that contains false or misleading information.
+17.Providing false or misleading information or
+omitting material information in any communication to the board or the board's
+employees or agents.
+18.Violating or attempting to violate, directly or
+indirectly, or assisting in or abetting the violation of, or conspiring to
+violate, this chapter.
+19.Violating a formal order, terms of probation, a
+consent agreement or a stipulation issued or entered into by the board or its
+executive director pursuant to this chapter.
+20.Failing to comply with a board subpoena or
+failing to comply in a timely manner with a board subpoena without providing
+any explanation to the board for not complying with the subpoena.
+21.Failing to provide the board, or
+its employees or agents or an authorized federal or state
+official conducting a site investigation, inspection or audit with access to
+any place for which a permit has been issued or for which an application for a
+permit has been submitted.
+22.Failing to notify the board of a change of
+ownership, management or pharmacist in charge.
+23.Failing to promptly produce on the request of
+the official conducting a site investigation, inspection or audit any book,
+record or document.
+24.Overruling or attempting to overrule a
+pharmacist in matters of pharmacy ethics or interpreting laws pertaining to the
+practice of pharmacy or the distribution of drugs or devices.
+25.Distributing premiums or rebates of any kind in
+connection with the sale of prescription medication, other than to the
+prescription medication recipient.
+26.Failing to maintain effective controls against
+the diversion of precursor chemicals to unauthorized persons or entities.
+27.Fraudulently claiming to have performed a
+service.
+28.Fraudulently charging a fee for a service.
+29.Advertising drugs or devices, or services
+pertaining to drugs or devices, in a manner that is untrue or misleading in any
+particular, and that is known, or that by the exercise of reasonable care
+should be known, to be untrue or misleading.
+B.In this chapter, unless the context otherwise
+requires, for the purposes of disciplining a pharmacist, pharmacy intern or
+graduate intern, "unprofessional conduct" means the following,
+whether occurring in this state or elsewhere:
+1.Addiction to the use of alcohol or other drugs to
+such a degree as to render the licensee unfit to practice the profession of
+pharmacy.
+2.Violating any federal or state law, rule or
+regulation relating to the manufacture or distribution of drugs and devices or
+the practice of pharmacy.
+3.Dispensing a different drug or brand of drug in
+place of the drug or brand of drug ordered or prescribed without the express
+permission in each case of the orderer, or in the case of a prescription order,
+the medical practitioner.The conduct prohibited by this paragraph
+does not apply to substitutions authorized pursuant to section 321963.01.
+4.Obtaining or attempting to obtain a license to
+practice pharmacy or a license renewal by fraud, by misrepresentation or by knowingly
+taking advantage of the mistake of another person or an agency.
+5.Denial or discipline of a licensee's license to
+practice pharmacy in another jurisdiction and the license was not reinstated.
+6.Claiming professional superiority in compounding
+or dispensing prescription orders.
+7.Failing to comply with the mandatory continuing
+professional pharmacy education requirements of sections 321936 and 321937
+and rules adopted by the board.
+8.Committing a felony, whether or not involving
+moral turpitude, or a misdemeanor involving moral turpitude or any drug-related
+offense. In either case, conviction by a court of competent jurisdiction or a
+plea of no contest is conclusive evidence of the commission.
+9.Working under the influence of alcohol or other
+drugs.
+10.Violating a federal or state law or
+administrative rule relating to marijuana, prescriptiononly drugs,
+narcotics, dangerous drugs, controlled substances or precursor chemicals when
+determined by the board or by conviction in a federal or state court.
+11.Knowingly dispensing a drug without a valid
+prescription order as required pursuant to section 321968, subsection A.
+12.Knowingly dispensing a drug on a prescription
+order that was issued in the course of the conduct of business of dispensing
+drugs pursuant to diagnosis by mail or the internet, unless the order was any
+of the following:
+(a)Made by a physician who provides temporary
+patient supervision on behalf of the patient's regular treating licensed health
+care professional or provides a consultation requested by the patient's regular
+treating licensed health care professional.
+(b)Made in an emergency medical situation as
+defined in section 411831.
+(c)Written to prepare a patient for a medical
+examination.
+(d)Written or the prescription medications were
+issued for use by a county or tribal public health department for immunization
+programs or emergency treatment or in response to an infectious disease
+investigation, a public health emergency, an infectious disease outbreak or an
+act of bioterrorism. For the purposes of this subdivision,
+"bioterrorism" has the same meaning prescribed in section 36781.
+(e)Written or antimicrobials were dispensed by the
+prescribing or dispensing physician to a contact as defined in section 36661
+who is believed to have had significant exposure risk as defined in section 36661
+with another person who has been diagnosed with a communicable disease as
+defined in section 36661.
+(f)Written or the prescription medications were
+issued for administration of immunizations or vaccines listed in the United
+States centers for disease control and prevention's recommended immunization
+schedule to a household member of a patient.
+(g)For epinephrine auto-injectors that are written
+or dispensed for a school district or charter school and that are to be stocked
+for emergency use pursuant to section 15157 or for an authorized entity to be stocked pursuant to
+section 362226.01.
+(h)Written by a licensee through a telemedicine
+program that is covered by the policies and procedures adopted by the
+administrator of a hospital or outpatient treatment center.
+(i)Written pursuant to a physical or mental health
+status examination that was conducted during a realtime telemedicine
+encounter with audio and video capability that meets the elements required by
+the centers for medicare and medicaid services.
+(j)For naloxone hydrochloride or any other opiate opioid antagonist approved by the United
+States food and drug administration and written or dispensed for use pursuant
+to section 362228.
+13.Failing to report in writing to the board any
+evidence that a pharmacist, pharmacy intern or graduate intern is or may be
+professionally incompetent, is or may be guilty of unprofessional conduct or is
+or may be mentally or physically unable to safely engage in the practice of
+pharmacy.
+14.Failing to report in writing to the board any
+evidence that a pharmacy technician or pharmacy technician trainee is or may be
+professionally incompetent, is or may be guilty of unprofessional conduct or is
+or may be mentally or physically unable to safely engage in the permissible
+activities of a pharmacy technician or pharmacy technician trainee.
+15.Failing to report in writing to the board any
+evidence that a permittee or a permittee's employee is or may be guilty of
+unethical conduct or is or may be in violation of this chapter or a rule
+adopted under this chapter.
+16.Committing an offense in another jurisdiction
+that if committed in this state would be grounds for discipline.
+17.Knowingly filing with the board any application,
+renewal or other document that contains false or misleading information.
+18.Providing false or misleading information or
+omitting material information in any communication to the board or the board's
+employees or agents.
+19.Violating or attempting to violate, directly or
+indirectly, or assisting in or abetting in the violation of, or conspiring to
+violate, this chapter.
+20.Violating a formal order, terms of probation, a
+consent agreement or a stipulation issued or entered into by the board or its
+executive director pursuant to this chapter.
+21.Failing to comply with a board subpoena or
+failing to comply in a timely manner with a board subpoena without providing
+any explanation to the board for not complying with the subpoena.
+22.Refusing without just cause to allow authorized
+agents of the board to examine documents that are required to be kept pursuant
+to this chapter or title 36.
+23.Participating in an arrangement or agreement to
+allow a prescription order or a prescription medication to be left at, picked
+up from, accepted by or delivered to a place that is not licensed as a
+pharmacy. This paragraph does not prohibit a pharmacist or a pharmacy from
+using an employee or a common carrier to pick up prescription orders at or
+deliver prescription medications to the office or home of a medical
+practitioner, the residence of a patient or a patient's hospital.
+24.Paying rebates or entering into an agreement for
+the payment of rebates to a medical practitioner or any other person in the
+health care field.
+25.Providing or causing to be provided to a medical
+practitioner prescription order blanks or forms bearing the pharmacist's or
+pharmacy's name, address or other means of identification.
+26.Fraudulently claiming to have performed a
+professional service.
+27.Fraudulently charging a fee for a professional
+service.
+28.Failing to report a change of the licensee's
+home address or employer as required pursuant to section 321926.
+29.Failing to report a change in the licensee's
+residency status as required pursuant to section 321926.01.
+C.In this chapter, unless the context otherwise
+requires, for the purposes of disciplining a pharmacy technician or pharmacy
+technician trainee, "unprofessional conduct" means the following,
+whether occurring in this state or elsewhere:
+1.Addiction to the use of alcohol or other drugs to
+such a degree as to render the licensee unfit to perform the licensee's
+employment duties.
+2.Violating a federal or state law or
+administrative rule relating to the manufacture or distribution of drugs or
+devices.
+3.Obtaining or attempting to obtain a pharmacy
+technician or pharmacy technician trainee license or a pharmacy technician
+license renewal by fraud, by misrepresentation or by knowingly taking advantage
+of the mistake of another person or an agency.
+4.Denial or discipline of a licensee's license to
+practice as a pharmacy technician in another jurisdiction and the license was
+not reinstated.
+5.Failing to comply with the mandatory continuing
+professional education requirements of section 321925, subsection I and
+rules adopted by the board.
+6.Committing a felony, whether or not involving
+moral turpitude, or a misdemeanor involving moral turpitude or any drug-related
+offense. In either case, conviction by a court of competent jurisdiction or a
+plea of no contest is conclusive evidence of the commission.
+7.Working under the influence of alcohol or other
+drugs.
+8.Violating a federal or state law or
+administrative rule relating to marijuana, prescriptiononly drugs,
+narcotics, dangerous drugs, controlled substances or precursor chemicals when
+determined by the board or by conviction in a federal or state court.
+9.Failing to report in writing to the board any
+evidence that a pharmacist, pharmacy intern or graduate intern is or may be
+professionally incompetent, is or may be guilty of unprofessional conduct or is
+or may be mentally or physically unable to safely engage in the practice of
+pharmacy.
+10.Failing to report in writing to the board any
+evidence that a pharmacy technician or pharmacy technician trainee is or may be
+professionally incompetent, is or may be guilty of unprofessional conduct or is
+or may be mentally or physically unable to safely engage in the permissible
+activities of a pharmacy technician or pharmacy technician trainee.
+11.Failing to report in writing to the board any
+evidence that a permittee or a permittee's employee is or may be guilty of
+unethical conduct or is or may be in violation of this chapter or a rule
+adopted under this chapter.
+12.Committing an offense in another jurisdiction
+that if committed in this state would be grounds for discipline.
+13.Knowingly filing with the board any application,
+renewal or other document that contains false or misleading information.
+14.Providing false or misleading information or
+omitting material information in any communication to the board or the board's
+employees or agents.
+15.Violating or attempting to violate, directly or
+indirectly, or assisting in or abetting in the violation of, or conspiring to
+violate, this chapter.
+16.Violating a formal order, terms of probation, a
+consent agreement or a stipulation issued or entered into by the board or its
+executive director pursuant to this chapter.
+17.Failing to comply with a board subpoena or
+failing to comply in a timely manner with a board subpoena without providing
+any explanation to the board for not complying with the subpoena.
+18.Failing to report a change of the licensee's
+home address or employer as required pursuant to section 321926.
+19.Failing to report a change in the licensee's
+residency status as required pursuant to section 321926.01. END_STATUTE
+Sec.4.Title 36, chapter 21.1, article 1,
+Arizona Revised Statutes, is amended by adding section 36-2226.01, to read:
+START_STATUTE36-2226.01.Emergency administration of epinephrine; authorized
+entities; prescriptions; training; immunity; definitions
+A.A
+practitioner may prescribe epinephrine autoinjectors in the name of an
+authorized entity for use in accordance with this section, and pharmacists and
+practitioners may dispense epinephrine autoinjectors pursuant to a
+prescription issued in the name of an authorized entity.A
+prescription issued pursuant to this section is valid for two years.
+B.An
+authorized entity may acquire and stock a supply of epinephrine autoinjectors
+pursuant to a prescription issued in accordance with this section.The
+epinephrine auto-injectors shall be stored in a location that is readily
+accessible in an emergency and in accordance with the epinephrine autoinjector's
+instructions for use and any additional requirements that may be established by
+the department.An authorized entity shall designate employees or
+agents who have completed the training required by subsection D of this section
+to be responsible for the storage, maintenance, control and general oversight
+of the epinephrine autoinjectors acquired by the authorized entity.
+C.An
+employee or agent of an authorized entity or another individual who has
+completed the training required by subsection D of this section may do either
+of the following:
+1.Provide
+an epinephrine autoinjector to any individual who the employee, agent or
+other individual believes in good faith is experiencing anaphylaxis, or to the
+parent, guardian or caregiver of the individual, for immediate administration,
+regardless of whether the individual has a prescription for an epinephrine autoinjector
+or has previously been diagnosed with an allergy.
+2.Administer
+an epinephrine autoinjector to any individual who the employee, agent or
+other individual believes in good faith is experiencing anaphylaxis, regardless
+of whether the individual has a prescription for an epinephrine autoinjector
+or has previously been diagnosed with an allergy.
+D.An
+employee, agent or other individual described in subsection B or C of this
+section shall complete initial anaphylaxis training and, at least every two
+years thereafter, shall complete subsequent anaphylaxis training. The training
+shall be conducted by a nationally recognized organization that is experienced
+in training laypersons in emergency health treatment or an entity or individual
+approved by the department.The department may approve specific
+entities or individuals or may approve classes of entities or individuals to
+conduct this training. Training may be conducted online or in person and, at a
+minimum, shall cover:
+1.How to
+recognize signs and symptoms of severe allergic reactions, including
+anaphylaxis.
+2.Standards
+and procedures for the storage and administration of an epinephrine autoinjector.
+3.Emergency
+follow-up procedures.
+E.The
+entity that conducts the training required by subsection D of this section
+shall issue a certificate, on a form developed or approved by the department,
+to each person who successfully completes the anaphylaxis training.
+F.The
+administration of an epinephrine auto-injector pursuant to this section is not
+the practice of medicine or any other profession that otherwise requires
+licensure.
+G.A
+practitioner prescribing epinephrine auto-injectors in the name of an
+authorized entity, an authorized entity, an employee or agent of an authorized
+entity and a person or entity that provides training pursuant to subsection D
+of this section are immune from civil liability with respect to all decisions
+made and actions or omissions taken that are based on good faith implementation
+of the requirements of this section, except in cases of gross negligence,
+wilful misconduct or intentional wrongdoing.
+H.The
+immunity from civil liability provided in subsection G of this section does not
+affect a manufacturer's product liability regarding the design, manufacturing
+or instructions for use of an epinephrine autoinjector.
+I.An
+authorized entity that possesses and makes available epinephrine autoinjectors
+shall submit to the department, on a form developed by the department, a report
+of each incident that occurs on the authorized entity's premises and that
+involves the administration of an epinephrine auto-injector pursuant to
+subsection C of this section.
+J.For the
+purposes of this section:
+1."Administer"
+means the direct application of an epinephrine autoinjector to the body
+of an individual.
+2."Authorized
+entity" means any entity or organization, other than a school district or
+charter school described in section 15157, in connection with or at
+which allergens capable of causing anaphylaxis may be present, including
+recreation camps, colleges and universities, day care facilities, youth sports
+leagues, amusement parks, restaurants, places of employment and sports arenas.
+3."Epinephrine
+auto-injector" means a single-use device used for the automatic injection
+of a premeasured dose of epinephrine into the human body.
+4."Practitioner"
+has the meaning prescribed in section 321901. END_STATUTE
+

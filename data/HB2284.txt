@@ -1,0 +1,324 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: large electronics recycling program
+
+
+
+
+
+
+
+State of Arizona
+House of Representatives
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+HB 2284
+
+
+
+
+
+
+
+
+
+Introduced by
+Representatives
+  Mendez, Andrade, Cardenas, Larkin: Clark, Fernandez, Hale, Velasquez
+
+
+
+
+
+AN ACT
+
+amending title
+49, chapter 4, Arizona Revised Statutes, by adding article 11; relating to
+electronic devices.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Title 49, chapter 4, Arizona Revised
+Statutes, is amended by adding article 11, to read:
+ARTICLE 11. LARGE ELECTRONICS RECYCLING
+PROGRAM
+START_STATUTE49-891.Definitions
+In this article, unless
+the context otherwise requires:
+1."Collector"
+means an entity that collects covered electronic devices as part of a
+manufacturer program.
+2."Covered
+electronic device":
+(a)Means:
+(i)a computer monitor of any type
+having a viewable area greater than four inches measured diagonally.
+(ii)a desktop computer or portable
+computer.
+(iii)a television of any type having
+a viewable area greater than four inches measured diagonally.
+(b)Does not include:
+(i)any part of a motor vehicle.
+(ii)any part of a larger piece of equipment
+designed and intended for use in an industrial, commercial or medical setting,
+such as diagnostic, monitoring or control equipment.
+(iii)telephones or personal digital
+assistants of any type unless the telephone or personal digital assistant contains
+a viewable area greater than four inches measured diagonally.
+(iv)any part of a clothes washer,
+clothes dryer, refrigerator, freezer, microwave oven, conventional oven or
+range, dishwasher, room air conditioner, dehumidifier or air purifier.
+3."Covered
+entity" means any household or business.
+4."Household"
+means an occupant of a single detached dwelling unit or a single unit of a
+multiple dwelling unit located in this state who has used a covered electronic
+device at a dwelling unit primarily for personal use.
+5."Manufacturer":
+(a)Means any person that either:
+(i)Manufactures covered electronic
+devices under a brand that the person owns or is licensed to use.
+(ii)Sells covered electronic devices
+manufactured by others under a brand that the seller owns.
+(iii)Manufactures covered electronic
+devices without affixing a brand.
+(iv)Manufactures covered electronic
+devices to which the person affixes a brand that the person does not own.
+(v)On whose account covered
+electronic devices manufactured outside the United States are imported into the
+United States.
+(b)Does not include:
+(i)A person with a license to
+manufacture covered electronic devices for delivery exclusively to or at the
+order of the licensor.
+(ii)A small business as defined in
+section 411001.
+6."Manufacturer
+program" means a statewide plan for collecting, transporting and recycling
+covered electronic devices that is provided by a manufacturer or manufacturers
+pursuant to section 49-891.02.
+7."Portable
+computer" means any of the following that has a viewable area greater than
+four inches measured diagonally and that can be carried as one unit by an
+individual:
+(a)A laptop computer.
+(b)A notebook computer.
+(c)A notepad computer.
+8."Recycling":
+(a)Means either of the following:
+(i)Processing through
+disassembling, dismantling, shredding, transforming or remanufacturing covered
+electronic devices, components and by-products into usable or marketable raw
+materials or products in a manner such that the original products may lose
+their identity.
+(ii)Smelting materials from
+components removed from covered electronic devices to recover metals for reuse
+in conformance with applicable laws and rules.
+(b)Does not include landfill
+disposal or incineration of covered electronic devices or energy recovery or
+energy generation by means of combusting covered electronic devices, components
+and by-products with or without other waste.
+9."Retailer"
+means a person that sells, rents or leases through sales outlets, catalogs or
+the internet covered electronic devices to a household and not for resale in
+any form.
+10."Sale"
+or "sell" means any transfer for consideration of title or of the
+right to use, by lease or sales contract, including transactions conducted
+through sales outlets, catalogs or the internet or any other similar electronic
+means either inside or outside of this state, by a person that conducts the
+transaction and controls delivery of a covered electronic device to a consumer
+in this state, but does not include a manufacturer's or distributor's wholesale
+transaction with a distributor or retailer. END_STATUTE
+START_STATUTE49-891.01.Prohibition on sale; registration with department; fees
+A.Beginning
+January 1, 2017, a manufacturer or retailer may not sell or offer for sale any
+covered electronic device in or for delivery in this state unless both of the
+following apply:
+1.The
+covered electronic device is labeled with a brand and the label is permanently
+affixed and readily visible.
+2.The brand
+is included in the plan that is filed with the department pursuant to section
+49-891.02.
+B.On or
+before January 1, 2017 and each year thereafter, a manufacturer of covered
+electronic devices sold or offered for sale in this state shall register with the department, for
+a period to cover the upcoming calendar year, on a form provided by the
+department.
+C.A
+manufacturer of covered electronic devices sold or offered for sale in this
+state shall pay to the department an annual registration fee determined by the
+department by rule.
+D.If a
+manufacturer ceases to manufacture, sell or import covered electronic devices
+and covered electronic devices manufactured, sold or imported by the manufacturer
+are collected for recycling under a manufacturer program, the manufacturer
+shall register with the department and pay a registration fee determined by the
+department by rule.
+E.A
+manufacturer that begins to sell or offer for sale covered electronic devices
+to households after January 1, 2017 and that has not filed a registration
+pursuant to this section shall submit a registration to the department within
+ten days after beginning to sell or offer for sale covered electronic devices
+to households.
+F.A
+manufacturer shall update its registration within ten days after a change in
+the manufacturer's brands of covered electronic devices sold or offered for
+sale to households. END_STATUTE
+START_STATUTE49-891.02.Manufacturer program; plan
+A.A
+manufacturer shall submit a plan to the department at the time of payment of
+the annual registration fee required under section 49-891.01. The
+manufacturer's plan must describe how the manufacturer will:
+1.Finance,
+manage and conduct a statewide program to collect covered electronic devices
+from covered entities in this state.
+2.Provide
+for environmentally sound management practices to collect, transport and
+recycle covered electronic devices.
+3.Provide
+for advertising and promotion of collection opportunities statewide and on a
+regular basis.
+4.Include
+convenient service in every county in this state and at least one collection
+site for any city with a population of at least fifty thousand
+persons.Convenient service may include one or more periodic
+opportunities to drop off covered electronic devices at one or more locations.
+Convenient service does not require household pickup of covered electronic
+devices. A collection site for a county may be the same as a collection site
+for a city in the county. Collection sites shall be staffed and open to the
+public at a frequency adequate to meet the needs of the area being served. A
+program may provide collection service jointly with another program.
+B.The plan
+must include information on how and where to return the manufacturer's covered
+electronic devices. The manufacturer:
+1.Shall
+include collection, recycling and reuse information on the manufacturer's
+publicly available website.
+2.Shall
+provide collection, recycling and reuse information to the department.
+3.May
+include collection, recycling and reuse information in the packaging for or in
+other materials that accompany the manufacturer's covered electronic devices when
+the device is sold.
+C.Information
+regarding collection, recycling and reuse that is on a manufacturer's publicly
+available website does not constitute a determination by the department that
+the manufacturer's recovery plan or actual practices are in compliance with
+this article or any other law.
+D.A
+manufacturer shall:
+1.Meet or
+exceed the requirements for collection sites described in subsection A of this
+section.
+2.Provide
+for collection, transportation and recycling of covered electronic devices for
+covered entities free of charge, except that a manufacturer that provides
+premium service for a covered entity may charge for the additional cost of that
+premium service. Premium service may include pickup service at individually
+scheduled times and locations and may include minimum requirements for the
+quantity of covered electronic devices to be picked up.
+3.Implement
+the plan required under this section.
+E.A group
+of manufacturers may choose to implement a manufacturer program as one entity.
+END_STATUTE
+START_STATUTE49-891.03.Prohibition on consumer fees; exception
+A.Except as
+authorized in subsection B of this section, a manufacturer program or a
+collector participating in a manufacturer program may not charge a fee to
+covered entities for the collection, transportation or recycling of covered
+electronic devices.
+B.A
+collector that provides a premium service to a covered entity may charge for
+the additional cost of providing the premium service. END_STATUTE
+START_STATUTE49-891.04.Duties of department; rules
+The department shall:
+1.Maintain
+and make available on its website, which must be updated on or before the first
+day of each calendar quarter after July 1, 2017, A list of registered
+manufacturers and their brands that identifies which manufacturers are in
+compliance with this article.
+2.Review
+and approve manufacturer plans that comply with section 49891.02 and
+that are submitted annually by manufacturers.
+3.Advertise
+and promote collection opportunities statewide and on a regular basis.
+4.Review
+each registration and notify the manufacturer of any information required by
+this section that is omitted from the registration. within thirty days after
+receipt of a notification from the department, the manufacturer shall submit a
+revised registration providing the information noted by the department.
+5.Maintain
+and update the website registration information at least each calendar
+quarter. The website shall contain prominent language stating that the law
+requiring registration is directed at household equipment and the
+manufacturers' brands list is not a list of manufacturers that are qualified to
+sell to industrial, commercial or other markets that are identified as exempt
+from the requirements.
+6.Maintain
+on its website information on collection opportunities for covered electronic
+devices, including collection site locations and hours. The information must be
+made available in a printable format for retailers.
+7.Beginning
+December 31, 2018 and biennially thereafter, compile information from
+manufacturers and issue a report to the legislature regarding the program
+established pursuant to this article.
+8.Adopt
+rules as necessary to implement this article. END_STATUTE
+START_STATUTE49-891.05.Covered electronic devices fund
+A.The covered
+electronic devices fund is established. The director shall administer the
+fund.The fund consists of monies from the following sources:
+1.Fees
+collected by the department pursuant to this article.
+2.Gifts,
+grants and donations.
+3.Legislative
+appropriations.
+4.Until
+July 1, 2019, monies from the recycling fund pursuant to section 49-837,
+subsection B, except that no more than five hundred thousand dollars from the
+recycling fund may be transferred to the covered electronic devices fund in any
+fiscal year.
+B.On notice
+from the department, the state treasurer shall invest and divest monies in the
+fund as provided in section 35-313, and monies earned from investment shall be
+credited to the fund.
+C.Monies in
+the fund are continuously appropriated to the department and may be used only
+to pay the costs of implementing and enforcing this article.
+D.Monies in
+the fund shall be used for the following purposes:
+1.For all
+reasonable and necessary costs to implement this article.
+2.For the
+reasonable and necessary costs of administering the fund. END_STATUTE
+START_STATUTE49-891.06.Enforcement
+A manufacturer or
+retailer that fails to comply with this article is subject to enforcement under
+article 5 of this chapter. END_STATUTE
+START_STATUTE49-891.07.Program termination
+The program established
+by this article ends on July 1, 2026 pursuant to section 41-3102. END_STATUTE
+

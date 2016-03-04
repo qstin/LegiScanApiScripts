@@ -1,0 +1,199 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: unmanned aircraft; prohibited operations
+
+
+
+
+
+
+
+State of Arizona
+Senate
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+SB 1449
+
+
+
+
+
+
+
+
+
+Introduced by
+Senator
+  Kavanagh
+
+
+
+
+
+AN ACT
+
+amending section
+132904, Arizona Revised Statutes; amending title 13, chapter 37, Arizona
+Revised Statutes, by adding section 133729; relating to unmanned
+aircraft.
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 13-2904, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE13-2904.Disorderly conduct; classification
+A.A person commits disorderly conduct if, with
+intent to disturb the peace or quiet of a neighborhood, family or person, or
+with knowledge of doing so, such person:
+1.Engages in fighting, violent or seriously
+disruptive behavior; or
+2.Makes unreasonable noise; or
+3.Uses abusive or offensive language or gestures to
+any person present in a manner likely to provoke immediate physical retaliation
+by such person; or
+4.Makes any protracted commotion, utterance or
+display with the intent to prevent the transaction of the business of a lawful
+meeting, gathering or procession; or
+5.Refuses to obey a lawful order to disperse issued
+to maintain public safety in dangerous proximity to a fire, a hazard or any
+other emergency; or
+6.Recklessly handles, displays or discharges a
+deadly weapon or dangerous instrument.
+7. Operates a model
+aircraft or civil unmanned aircraft in dangerous proximity to a person or a
+person's property unless the person has consented to the
+operation.For the purposes of this paragraph, "model
+aircraft" and "civil unmanned aircraft" have the same meanings
+prescribed in section 133729.
+B.Disorderly conduct under subsection A, paragraph
+6 is a class 6 felony.Disorderly conduct under subsection A,
+paragraph 1, 2, 3, 4, or 5 or 7 is a class 1 misdemeanor. END_STATUTE
+Sec.2.Title 13, chapter 37, Arizona Revised
+Statutes, is amended by adding section 13-3729, to read:
+START_STATUTE13-3729.Prohibited operation of model or unmanned aircraft; state
+preemption; definitions
+A.A person
+may not operate a model aircraft or a civil unmanned aircraft if the operation:
+1.Is
+prohibited by a federal law or regulation that governs aeronautics.
+2.Violates
+a temporary flight restriction or notice to airman that is issued by the
+federal aviation administration.
+3.Interferes
+in the operation of a manned aircraft.
+4.Interferes
+with a law enforcement or firefighter operation.
+5.Is in a
+careless or reckless manner that endangers the life or property of another
+person.
+6.Causes
+the intentional killing of a bird or animal while in flight.
+B.A person
+may not operate a model aircraft within a horizontal distance of five hundred
+feet or a vertical distance of two hundred fifty feet measured from the
+outermost fence, physical boundary or wall of a critical facility without the
+written consent of the entity that lawfully owns, operates, possesses or
+controls the critical facility.
+C.This
+section does not apply to a person who is authorized to operate a civil
+unmanned aircraft pursuant to An exemption under section 333 of the faa
+Modernization and reform act of 2012 (p.l. 11295) or a certificate of
+waiver, a certificate of authorization or an airworthiness certificate under 49
+United States code section 44704 or another Federal Aviation Administration
+grant of authority for specific flight operations or other operations that are
+conducted pursuant to the authority granted by the Federal Aviation
+Administration.
+D.Except as
+authorized by law, a political subdivision of this state may not enact or adopt
+any ordinance, policy or rule that relates to the ownership or operation of an
+unmanned aircraft, an unmanned aircraft system, a civil unmanned aircraft or a
+public unmanned aircraft or otherwise engage in the regulation of the ownership
+or operation of an unmanned aircraft, an unmanned aircraft system, a civil
+unmanned aircraft or a public unmanned aircraft if the ordinance, policy or
+rule is more prohibitive than or has a penalty that is greater than any state
+law penalty, whether enacted or adopted before or after the effective date of
+this section.
+E.For the
+purposes of this section:
+1."Civil
+unmanned aircraft" means an unmanned aircraft or unmanned aircraft system
+that is operated by a person for any purpose other than strictly hobby or
+recreational purposes, including commercial purposes, or in furtherance of or
+incidental to any business or media service or agency.
+2."Critical
+facility" means a facility that is owned or leased for any of the
+following purposes:
+(a)A petroleum refinery.
+(b)A Petroleum or chemical
+production, transportation, storage or processing facility.
+(c)A Chemical manufacturing
+facility.
+(d)A Water or wastewater treatment
+facility and water distribution or conveyance system.
+(e)A Power generating station plant
+or substation.
+(f)A federal, state, county or
+municipal court.
+(g)A public safety or emergency
+operation facility.
+(h)A Federal, state, county or
+municipal jail or prison or other facility in which persons are incarcerated.
+(i)A Federal or state military
+installation or facility.
+(j)A hospital.
+(k)A Properly marked federal,
+state, county or municipal owned building.
+3."Model
+aircraft" means an unmanned aircraft or unmanned aircraft system that is
+operated by a person strictly for hobby or recreational purposes.
+4."Public
+unmanned aircraft" means an unmanned aircraft or unmanned aircraft system
+that is operated by a public agency for a governmentrelated purpose.
+5."Unmanned
+aircraft" means an aircraft, including an aircraft commonly known as a
+drone, that is operated without the possibility of direct human intervention
+from within or on the aircraft.
+6."Unmanned
+aircraft system" means an unmanned aircraft and associated elements,
+including any communication links and components that control the unmanned
+aircraft.
+Sec.3.Arizona department of transportation; monitoring of
+federal aviation administration regulations; annual report; delayed repeal
+A.Beginning on the effective date of this act and
+for three years thereafter, the Arizona department of transportation's
+aeronautics division shall monitor the federal aviation administration's
+regulation of model aircraft, civil unmanned aircraft and public unmanned
+aircraft as those terms are defined in section 133729, Arizona Revised
+Statutes, as added by this act. The division shall consult with
+representatives of model aircraft, civil unmanned aircraft and public unmanned
+aircraft, law enforcement and political subdivisions in this state on whether
+amendments to section 133729, Arizona Revised Statutes, as added by this
+act, are necessary due to changes in federal regulations made by the federal
+aviation administration.
+B.The Arizona department of transportation's
+aeronautics division shall submit an annual report in each year that monitoring
+is required by subsection A of this section to the president of the senate and
+the speaker of the house of representatives that makes recommendations for
+amendments to section 133729, Arizona Revised Statutes, as added by this
+act.
+C.This section is repealed from and after December
+31, 2019.
+

@@ -1,0 +1,647 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: electronic communication privacy rights
+
+
+
+
+
+
+
+State of Arizona
+Senate
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+SB 1352
+
+
+
+
+
+
+
+
+
+Introduced by
+Senator
+  Dial
+
+
+
+
+
+AN ACT
+
+amending sections
+133001, 133011, 133012 and 133013, Arizona Revised
+Statutes; repealing sections 133015, 133016 and 133018,
+Arizona Revised Statutes; amending title 13, chapter 30, Arizona Revised
+Statutes, by adding new sections 133015, 133016 and 133018;
+amending title 13, chapter 38, article 9, Arizona Revised Statutes, by adding
+section 133932; relating to electronic communications.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Heading change
+The chapter heading of title 13, chapter 30, Arizona Revised
+Statutes, is changed from "EAVESDROPPING AND COMMUNICATIONS" to
+"EAVESDROPPING AND ELECTRONIC COMMUNICATION PRIVACY RIGHTS".
+Sec.2.Section 13-3001, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE13-3001.Definitions
+In this chapter, unless the
+context otherwise requires:
+1."Adverse
+result" means any of the following:
+(a)Danger to the life or physical
+safety of an individual.
+(b)Flight from prosecution.
+(c)Destruction of or tampering with
+evidence.
+(d)Intimidation of potential
+witnesses.
+(e)Serious jeopardy to an
+investigation or undue delay of a trial.
+1.2."Aural
+transfer" means a communication containing the human voice at any point
+between and including the point of origin and the point of reception.
+3."Authorized
+possessor" means the possessor of an electronic device if that person is
+the owner of the device or has been authorized to possess the device by the
+owner of the device.
+2.4."Child monitoring
+device" means a device that is capable of transmitting an audio or
+audiovisual signal and that is installed or used in a residence for child
+supervision or safety monitoring by any parent, guardian or other responsible
+person in the person's own residence.
+3.5."Communication
+service provider" or "service
+provider" means any person who is engaged in providing a
+service that allows its users to send or receive oral, wire or electronic
+communications or computer services,
+including any service that acts as an intermediary in the transmission of
+electronic communications or that stores electronic communication information.
+4.6."Electronic
+communication" means any transfer of signs, signals, writing, images,
+sounds, data or intelligence of any nature that is transmitted in whole or in
+part by a wire, radio, electromagnetic, photoelectronic or photooptical system
+but that does not include any of the following:
+(a)Any wire or oral communication.
+(b)Any communication made through a toneonly
+paging device.
+(c)Any communication from a tracking device.
+7."Electronic
+communication information" means any information about an electronic
+communication or the use of an electronic communication service, including the
+content, sender, recipient, format or location of the sender or recipient at
+any point during the communication, the time or date the communication was
+created, sent or received or any information pertaining to any individual or
+device participating in the communication, including an internet protocol
+address. Electronic communication information does not include subscriber
+information.
+8."electronic
+communication service" means a service that provides to its subscribers or
+users the ability to send or receive electronic communications, including any
+service that acts as an intermediary in the transmission of electronic
+communications, or that stores electronic communication information.
+5.9."Electronic
+communication system" means any communication or computer facilities or
+related electronic equipment for the transmission, processing or electronic
+storage of electronic communications.
+10."Electronic
+device" means a device that stores, generates or transmits information in
+electronic form.
+11."Electronic
+device information" means any information that is stored on or generated
+through the operation of an electronic device, including the current and
+previous locations of the device.
+12."Electronic
+information" means electronic communication information or electronic
+device information.
+6.13."Electronic
+storage" means either of the following:
+(a)Any temporary, intermediate storage of a wire or
+electronic communication incidental to the electronic transmission.
+(b)Any storage of the communication by an
+electronic communication service provider for purposes of backup protection of
+the communication.
+14."Government
+entity" means a department or agency of this state or a political
+subdivision of this state or an individual acting for or on behalf of this
+state or a political subdivision of this state.
+7.15."Intercept"
+means the aural or other acquisition of the contents of any wire, electronic or
+oral communication through the use of any electronic, mechanical or other
+device.
+8.16."Oral
+communication" means a spoken communication that is uttered by a person
+who exhibits an expectation that the communication is not subject to
+interception under circumstances justifying the expectation but does not
+include any electronic communication.
+9.17."Pen
+register" means a device or process that records or decodes electronic or
+other impulses that identify the numbers dialed or otherwise transmitted on the
+telephone line or communication facility to which the device is attached or the
+dialing, routing, addressing or signaling information that is transmitted by an
+instrument or facility from which a wire or electronic communication is
+transmitted but does not include the contents of any communication, except when
+used in connection with a court order issued pursuant to section 133010
+or 133012. A pen register does not include a publicly available device
+or process that is otherwise not unlawful.
+10.18."Person"
+means any individual, enterprise, public or private corporation, unincorporated
+association, partnership, firm, society, governmental authority or entity,
+including the subscriber to the communication service involved, and any law
+enforcement officer.
+11.19."Readily
+accessible to the general public" means a radio communication that is not:
+(a)Scrambled or encrypted.
+(b)Transmitted using modulation techniques with
+essential parameters that have been withheld from the public to preserve the
+privacy of the communication.
+(c)Carried on a subcarrier or other signal
+subsidiary to a radio transmission.
+(d)Transmitted over a communication system provided
+by a common carrier, unless the communication is a toneonly paging
+system communication.
+(e)Transmitted on frequencies allocated under part
+25, subpart D, E or F or part 74 or part 94 of the rules of the federal communications
+commission. If a communication transmitted on a frequency allocated under part
+74 is not exclusively allocated to broadcast auxiliary services, the
+communication is a twoway voice communication system by radio.
+12.20."Remote
+computing service" means providing to the public any computer storage or
+processing services by means of an electronic communication system.
+21."Specific
+consent" means consent that is provided directly to the government entity
+seeking information, including when the government entity is the addressee, the
+intended recipient or a member of the intended audience of an electronic
+communication. Specific consent does not require that the originator of the
+communication have actual knowledge that an addressee, intended recipient or
+member of the specific audience is a government entity.
+22."Subscriber
+information" means the name, street address, telephone number, email
+address or other similar contact information that is provided by the subscriber
+to the provider to establish or maintain an account or communication channel, a
+subscriber or account number or identifier, the length of service and the types
+of services used by a user of or subscriber to a service provider.
+13.23."Trap and
+trace device" means a device or process that captures the incoming
+electronic or other impulses that identify the originating number of an
+instrument or device from which a wire or electronic communication was
+transmitted or the dialing, routing, addressing and signaling information that is
+reasonably likely to identify the source of a wire or electronic communication
+but does not include the content of any communication, except when used in
+connection with a court order issued pursuant to section 133010 or 133012.
+A trap and trace device does not include a publicly available device or process
+that is otherwise not unlawful.
+14.24."Wire
+communication" means any aural transfer that is made in whole or in part
+through the use of facilities for the transmission of communications by the aid
+of any wire, cable or other like connection between the point of origin and the
+point of reception, including the use of a connection in a switching station,
+and that is furnished or operated by any person who is engaged in providing or
+operating the facilities for the transmission of communications. END_STATUTE
+Sec.3.Section 13-3011, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE13-3011.Disclosing confidential information relating to ex parte
+order; exceptions; classification
+A.Except in any trial, hearing or other judicial
+proceeding, a person shall not knowingly disclose to another person any
+information concerning either:
+1.The application for or the granting or denial of
+orders for the interception or installation of a pen register or trap and trace
+device or a request for the preservation
+of records or evidence pursuant to section 133016 or a subpoena issued
+pursuant to section 133018.
+2.The identity of the person or persons whose
+communications are the subject of an ex parte order, subpoena or records preservation request granted
+pursuant to sections 133010, 133015,
+133016, and 133017 and 133018.
+B.Subsection A of this section does not apply to
+the disclosure of information to the communication service provider whose
+facilities are involved or to an employee or other authorized agent of the
+county attorney, attorney general or law enforcement agency that applies for an
+order permitting interception or installation of a pen register or trap and
+trace device or who requests the
+preservation of records or evidence pursuant to section 133016 or a
+subpoena issued pursuant to section 133018.
+C.Notwithstanding subsection A of this section, a
+peace officer or prosecuting attorney who obtains knowledge of the contents of
+a wire, electronic or oral communication as authorized by sections 133010,
+133015, 133016, and 133017 and 133018 or evidence derived from that
+knowledge may:
+1.Disclose the contents of the communication to a
+peace officer or prosecuting attorney to the extent the disclosure is
+appropriate to the proper performance of the official duties of the peace
+officer or prosecuting attorney making or receiving the disclosure.
+2.Use the contents of the communication to the
+extent that the use is appropriate to the proper performance of the official
+duties of the peace officer or prosecuting attorney.
+D.A person who violates this section is guilty of a
+class 1 misdemeanor.END_STATUTE
+Sec.4.Section 13-3012, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE13-3012.Exemptions
+The following are exempt from the provisions of this chapter:
+1.The interception of wire, electronic or oral
+communications, the installation and operation of a pen register or trap and
+trace device, the providing of information, facilities or technical assistance
+to an investigative or law enforcement officer pursuant to a subpoena or an ex parte order granted
+pursuant to sections 133010, 133015,
+133016, and 133017 and 133018 or an emergency
+interception made in good faith pursuant to section 133015 133016, including any of the foregoing
+acts by a communication service provider or its officers, agents or employees.
+2.The normal use of services, equipment and
+facilities that are provided by a communication service provider pursuant to
+tariffs that are on file with the Arizona corporation commission or the federal
+communications commission and the normal functions of any operator of a
+switchboard.
+3.Any officer, agent or employee of a communication
+service provider who performs acts that are otherwise prohibited by this article chapter in providing, constructing,
+maintaining, repairing, operating or using the provider's services, equipment
+or facilities, protecting the provider's service, equipment and facilities from
+illegal use in violation of tariffs that are on file with the Arizona corporation
+commission or the federal communications commission and protecting the provider
+from the commission of fraud against it.
+4.Providing requested information or any other
+response to a subpoena or other order that is issued by a court of competent
+jurisdiction or on demand of any other lawful authority.
+5.The interception of wire or electronic
+communications or the use of a pen register or trap and trace device by a
+communication service provider or by a person providing technical assistance at
+the request of the communication service provider if the interception or use
+either:
+(a)Relates to the operation, maintenance and
+testing of that service, the protection of the rights or property of the
+provider or the protection of users of that service from fraudulent, abusive or
+unlawful use of that service.
+(b)Records the fact that a wire or electronic
+communication was initiated or completed in order to protect the provider,
+another provider furnishing service toward the completion of the communication
+or a user of that service from fraudulent, unlawful or abusive use of that
+service.
+6.The interception of any radio communication that
+is transmitted:
+(a)By any station for the use of the general public
+or if the transmission relates to ships, aircraft, vehicles or persons in
+distress.
+(b)By any government, law enforcement, civil
+defense, private land mobile or public safety communication system, including
+police and fire systems, and that is readily accessible to the general public.
+(c)By any station that operates on an authorized
+frequency within the bands that are allocated to the amateur, citizens band or
+general mobile radio services.
+(d)By any marine or aeronautical communications
+system.
+(e)Through a system using frequencies that are
+monitored by persons who are engaged in the provision or the use of the system
+or by other persons who use the same frequency if the communication is not
+scrambled or encrypted.
+7.The interception of wire or electronic
+communication if the transmission is causing harmful interference to any
+lawfully operating station or consumer electronic equipment, to the extent
+necessary to identify the source of the interference.
+8.The use of a pen register or trap and trace
+device by a communication service provider for billing or recording as an
+incident to billing for communication services, or for cost accounting or other
+like purposes in the ordinary course of business.
+9.The interception of any wire, electronic or oral
+communication by any person, if the interception is effected with the consent
+of a party to the communication or a person who is present during the
+communication, or the installation of a pen register or trap and trace device
+with the consent of a user or subscriber to the service.
+10.Divulging the
+contents of a wire or electronic communication and any related records or
+information to a law enforcement agency by a remote computing service or
+communication service provider, officer or employee if either:
+(a)The contents, records or information were
+lawfully or inadvertently obtained by the service provider and appear to
+pertain to the commission of a crime.
+(b)The provider reasonably believes that an
+emergency involving immediate danger of death or serious physical injury to any
+person justifies the disclosure of the contents, records or information without
+delay.
+11.Divulging records or other information that
+pertains to a customer or subscriber by a remote computing service or
+communication service provider, other than the contents of a communication,
+either:
+(a)As authorized by section 133016.
+(b) With the customer's or subscriber's consent.
+(c) As may be necessary incident to the rendition of the
+service or for the protection of the rights or property of the provider of that
+service.
+(d) To any person other than a governmental agency.
+12.The interception or access of an electronic
+communication that is made through an electronic communication system and that
+is configured so that the electronic communication is readily accessible to the
+general public.
+13.For other users of the same frequency to
+intercept a radio communication that is made through a system that uses
+frequencies that are monitored by individuals who provide or use the system, if
+the communication is not scrambled or encrypted.
+14.The interception of oral communications by means
+of a child monitoring device. END_STATUTE
+Sec.5.Section
+13-3013, Arizona Revised Statutes, is amended to read:
+START_STATUTE13-3013.Defenses
+Any of the following constitute constitutes a complete defense to any civil or
+criminal action brought under this chapter or under any other law:
+1.A good faith reliance on an ex parte order or subpoena that is issued
+pursuant to section 133010, 133015,
+133016, or 133017 or 133018.
+2.Providing information pursuant to section 133012.
+3.Providing assistance, information or facilities
+for an emergency interception pursuant to section 133015 133016.
+4.Disclosing
+stored electronic communications or preserving records, content or evidence
+pursuant to section 133016.
+5.Providing
+equipment, information or assistance to render stored electronic communications
+in a usable form pursuant to section 133016.
+Sec.6.Repeal
+Sections 133015,
+13-3016 and 13-3018, Arizona Revised Statutes, are repealed.
+Sec.7.Title 13, chapter 30, Arizona Revised
+Statutes, is amended by adding new sections 133015, 13-3016 and 133018,
+to read:
+13-3015.Government entity; access to
+electronic information in an emergency; requirements 
+A.Except as
+otherwise provided in this section, a government entity that executes a search
+warrant or that obtains electronic information in an emergency pursuant to
+section 133016 shall serve on, or deliver to by registered or first
+class mail, email or other means reasonably calculated to be effective,
+the identified targets of the search warrant or emergency request, a notice
+that informs the recipient that information about the recipient has been
+compelled or requested and that states with reasonable specificity the nature
+of the government investigation under which the information is sought. The
+notice shall include a copy of the search warrant or a written statement
+setting forth facts giving rise to the emergency. The notice shall be provided
+contemporaneously with the execution of a search warrant or, in the case of an
+emergency, within three days after obtaining the electronic information.
+B.When a
+search warrant is sought or electronic information is obtained in an emergency
+pursuant to section 133016, the government entity may submit a request
+supported by a sworn affidavit for an order delaying notification and
+prohibiting any party providing information from notifying any other party that
+information has been sought. if the court determines that there is reason to
+believe that notification may have an adverse result, The court shall issue the
+order for the period of time that the court finds there is reason to believe
+that the notification may have that adverse result, not to exceed ninety days.
+The court may grant extensions of the delay of up to ninety days each as
+provided in this subsection.
+c.On
+expiration of the period of delay of the notification, the government entity
+shall serve on, or deliver to by registered or first class mail, email
+or other means reasonably calculated to be effective as specified by the court
+issuing the order authorizing delayed notification, the identified targets of
+the search warrant a document that includes the information prescribed in
+subsection A of this section and a copy of all electronic information obtained
+or a summary of that information including, at a minimum, the number and types
+of records disclosed, the date and time when the earliest and latest records
+were created and a statement of the grounds for the court's determination to
+grant a delay in notifying the individual.
+d.If there
+is no identified target of a search warrant or emergency request at the time of
+its issuance, the government entity shall submit to the attorney general within
+three days after the execution of the search warrant or issuance of the request
+all of the information prescribed in subsection A of this section. If an order
+delaying notification is obtained pursuant to subsection B of this section, the
+government entity shall submit to the attorney general on the expiration of the
+period of delay all of the information prescribed in subsection c of this
+section. The attorney general shall publish all those reports on the attorney
+general's website within ninety days after receipt. The attorney general may
+redact names or other personal identifying information from the reports.END_STATUTE
+START_STATUTE13-3016.Government entity; prohibited access to or production of
+electronic communication information and devices; exceptions; search warrant
+requirements; emergency orders
+A.Except as
+provided in sections 133012 and 133013 and this section, a
+government entity may not do any of the following:
+1.Compel
+the production of or access to electronic communication information from a
+service provider.
+2.Compel
+the production of or access to electronic device information from any person or
+entity other than the authorized possessor of the device.
+3.Access
+electronic device information by means of physical interaction or electronic
+communication with the electronic device. This paragraph does not prohibit the
+intended recipient of an electronic communication from voluntarily disclosing
+electronic communication information concerning that communication to a
+government entity.
+B.A
+government entity may compel the production of or access to electronic communication
+information from a service provider or compel the production of or access to
+electronic device information from any person or entity other than the
+authorized possessor of the device only under the following circumstances:
+1.Except as
+provided in subsection D of this section, pursuant to a search warrant issued
+pursuant to Chapter 38, article 8 of this title.
+2.Pursuant
+to an order for interception of electronic communication information issued
+pursuant to section 133010.
+3.pURSUANT
+TO AN ORDER FOR A PEN REGISTER OR TRAP AND TRACE DEVICE ISSUED PURSUANT TO
+SECTION 133017.
+4.Pursuant
+to a subpoena issued pursuant to existing law, if the information is not sought
+for the purpose of investigating or prosecuting a criminal offense and if compelling
+the production of or access to the information via the subpoena is not
+otherwise prohibited by state or federal law. This paragraph does not expand
+any authority under the laws of this state to compel the production of or
+access to electronic information.
+C.A
+government entity may access electronic device information by means of physical
+interaction or electronic communication with the device only as follows:
+1.Except as
+provided in subsection D of this section, pursuant to a search warrant issued
+pursuant to Chapter 38, article 8 of this title.
+2.Pursuant
+to an order for interception of electronic communication information issued
+pursuant to section 133010.
+3.pURSUANT
+TO AN ORDER FOR A PEN REGISTER OR TRAP AND TRACE DEVICE ISSUED PURSUANT TO
+SECTION 133017.
+4.With the
+specific consent of the authorized possessor of the device.
+5.With the
+specific consent of the owner of the device, only if the device has been
+reported as lost or stolen.
+6.If the
+government entity, in good faith, believes that an emergency involving danger
+of death or serious physical injury to any person requires access to the
+electronic device information.
+7.If the
+government entity, in good faith, believes that the device is lost, stolen or
+abandoned, except that the entity shall only access electronic device
+information in order to attempt to identify, verify or contact the owner or
+authorized possessor of the device.
+8.unless
+prohibited by state or federal law, if the device is seized from an inmate's
+possession or is found in an area of a correctional facility where inmates have
+access, the device is not in the possession of an individual and the device is
+not known or believed to be the possession of an authorized visitor.
+D.a search
+warrant that is authorized by this section and that is issued pursuant to
+chapter 38, article 8 of this title for electronic information shall do all of
+the following:
+1.describe
+with particularity the information to be seized by specifying the time periods
+covered and, as appropriate and reasonable, the target individuals or accounts,
+the applications or services covered and the types of information sought.
+2.require
+that any information that is obtained through the execution of the search
+warrant and that is unrelated to the objective of the search warrant be sealed
+and not subject to further review, use or disclosure without a court order. A
+court shall issue such an order on a finding that there is probable cause to
+believe that the information is relevant to an active investigation or that
+review, use or disclosure is required by state or federal law.
+3.comply
+with all other provisions of state and federal law, including any provisions
+prohibiting, limiting or imposing additional requirements on the use of search
+warrants. If directed to a service provider, the search warrant must be
+accompanied by an order requiring the service provider to certify the
+authenticity of the electronic information that it produces if all of the
+following apply:
+(a)The records are the regular
+electronic information records that are used and kept by the communication
+service provider.
+(b)The records of electronic
+communication information are made at or near the time the underlying
+communications occur in the ordinary course of business.
+(c)The authorized representative
+certifies that the record produced in response to the search warrant is an
+accurate copy of the communication service provider records.
+E.When
+issuing a SEARCH warrant or order for electronic information, or on the petition
+from the target or recipient of the search warrant or order, a court, in its
+discretion, may do any or all of the following:
+1.Appoint a
+special master to ensure that only information necessary to achieve the
+objective of the search warrant or order is produced or accessed.
+2.Require
+that any information obtained through the execution of the SEARCH warrant or
+order that is unrelated to the objective of the search warrant be destroyed as
+soon as feasible after the termination of the current investigation and any
+related investigations or proceedings.
+F.A service
+provider may voluntarily disclose electronic communication information or
+subscriber information if that disclosure is not otherwise prohibited by state
+or federal law.
+G.If a
+government entity receives electronic communication information that is
+voluntarily provided pursuant to subsection F of this section, the government
+entity shall destroy that information within ninety days after receiving it
+unless one or more of the following circumstances apply:
+1.The
+entity has or obtains the specific consent of the sender or recipient of the
+electronic communications about which information was disclosed.
+2.The
+entity obtains a court order authorizing the retention of the information. A
+court shall issue a retention order on a finding that the conditions justifying
+the initial voluntary disclosure persist, in which case the court shall
+authorize the retention of the information for only so long as those conditions
+persist, or there is probable cause to believe that the information constitutes
+evidence that a criminal offense has been committed.
+3.The
+entity reasonably believes that the information relates to the sexual
+exploitation of a minor and the information is retained as part of a multiagency
+database used in the investigation of the sexual exploitation of minors and
+related offenses.
+H.If a
+government entity obtains electronic information pursuant to an emergency
+involving danger of death or serious physical injury to a person pursuant to
+subsection C of this section and requiring access to the electronic information
+without delay, within three days after obtaining the electronic information,
+the entity shall file with the appropriate court an application for a SEARCH
+warrant or order authorizing obtaining the electronic information or a motion
+seeking approval of the emergency disclosures that sets forth the facts giving
+rise to the emergency and, if applicable, a request supported by a sworn
+affidavit for an order delaying notification pursuant to section 133015,
+subsection b. The court shall promptly rule on the application or motion and
+shall order the immediate destruction of all information obtained and immediate
+notification pursuant to Section 133015, subsection a if such notice has
+not already been given, if the court finds that the facts did not give rise to
+an emergency or rejects the search warrant or order application on any other
+ground.
+I.This
+section does not limit the authority of a government entity to use an administrative,
+grand jury, trial or civil discovery subpoena to do any of the following:
+1.Require
+an originator, addressee or intended recipient of an electronic communication
+to disclose any electronic communication information associated with that
+communication.
+2.Require
+an entity that provides electronic communications services to its officers,
+directors, employees or agents for the purpose of carrying out their duties to
+disclose electronic communication information associated with an electronic communication
+to or from an officer, director, employee or agent of the entity.
+3.Require a
+service provider to provide subscriber information.
+J.Certified
+communication service records that are obtained by a search warrant may be
+introduced in evidence at a hearing or trial and constitute prima facie
+evidence of the facts contained in the records.
+K.If a
+certification of service provider records is acknowledged by a notary or other
+officer who is authorized by law to take acknowledgments, the certification
+shall be received in evidence without further proof of its authenticity.END_STATUTE
+START_STATUTE13-3018.Electronic information obtained or retained in violation
+of law; civil action; liability
+A.Any
+person in a trial, hearing or proceeding may move to suppress any electronic
+information that is obtained or retained in violation of this chapter or the
+constitution of the United States or this state.
+B.The
+attorney general may commence a civil action to compel a government entity to
+comply with this chapter.
+C.A person
+whose information is targeted by a search warrant, order or other legal process
+that is inconsistent with this chapter or the constitution of the United States
+or this state, or a service provider or any other recipient of the search
+warrant, order or other legal process may petition the issuing court to void or
+modify the search warrant, order or other legal process or to order the
+destruction of any information that is obtained in violation of this chapter or
+the constitution of the United States or this state.
+D.An
+Arizona or foreign corporation, and its officers, employees and agents are not
+SUBJECT TO ANY CAUSE OF action for providing records, information, facilities
+or assistance pursuant to the terms of a search warrant, court order, statutory
+authorization, emergency certification OR ORDER issued pursuant to this
+chapter. END_STATUTE
+Sec.8.Title 13, chapter 38, article 9,
+Arizona Revised Statutes, is amended by adding section 13-3932, to read:
+START_STATUTE13-3932.Search of electronic devices; biometric identifier; search
+warrant requirement; definition
+A.Except
+for exigent circumstances, a person who is detained or arrested and who
+possesses an electronic device that requires a biometric identifier to access
+the device is not required to provide the biometric identifier to access the
+device unless a valid search warrant has been issued for the biometric
+identifier.
+B.For the
+purposes of this section, "biometric identifier" includes a
+fingerprint, palm veins, face recognition, deoxyribonucleic acid, palm print,
+hand geometry, iris recognition and retina. END_STATUTE
+

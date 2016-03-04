@@ -1,0 +1,820 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: schools; bullying policy; definition
+
+
+
+
+
+
+
+State of Arizona
+Senate
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+SB 1408
+
+
+
+
+
+
+
+
+
+Introduced by
+Senators
+  Hobbs, Bradley, Cajero Bedford, Sherwood: Contreras, Dalessandro, Farley,
+  Quezada
+
+
+
+
+
+AN ACT
+
+amending section
+15-101, Arizona Revised Statutes; amending title 15, chapter 1, article 8,
+Arizona Revised Statutes, by adding section 15-186; amending section 15341,
+Arizona Revised Statutes; relating to student conduct.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 15-101, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE15-101.Definitions
+In this title, unless the context otherwise requires:
+1."Accommodation school" means either:
+(a)A school that is operated through the county
+board of supervisors and the county school superintendent and that the county
+school superintendent administers to serve a military reservation or territory
+that is not included within the boundaries of a school district.
+(b)A school that provides educational services to
+homeless children or alternative education programs as provided in section 15308,
+subsectionB.
+(c)A school that is established to serve a military
+reservation, the boundaries of which are coterminous with the boundaries of the
+military reservation on which the school is located.
+2."Assessed valuation" means the
+valuation derived by applying the applicable percentage as provided in title
+42, chapter 15, article 1 to the full cash value or limited property value,
+whichever is applicable, of the property.
+3."Bullying"
+means any written, verbal or physical act or any electronic communication that
+is intended to harm or that a reasonable person would know is likely to harm
+one or more pupils by doing any of the following:
+(a)Substantially interfering with
+the educational opportunities, benefits or programs of one or more pupils.
+(b)Adversely affecting the ability
+of a pupil to participate in or benefit from educational programs or activities
+by placing the pupil in reasonable fear of physical harm or by causing
+substantial emotional distress.
+(c)Having an actual and substantial
+detrimental effect on a pupil's physical or mental health.
+(d)Causing substantial disruption
+in, or substantial interference with, the orderly operation of a school.
+3.4."Charter
+holder" means a person that enters into a charter with the state board for
+charter schools.For the purposes of this paragraph,
+"person" means an individual, partnership, corporation, association
+or public or private organization of any kind.
+4.5."Charter
+school" means a public school established by contract with a district
+governing board, the state board of education, the state board for charter
+schools, a university under the jurisdiction of the Arizona board of regents, a
+community college district with enrollment of more than fifteen thousand fulltime
+equivalent students or a group of community college districts with a combined
+enrollment of more than fifteen thousand fulltime equivalent students
+pursuant to article 8 of this chapter to provide learning that will improve
+pupil achievement.
+5.6."Child with
+a disability" means a child with a disability as defined in section 15761.
+6.7."Class A
+bonds" means general obligation bonds approved by a vote of the qualified
+electors of a school district at an election held on or before December 31,
+1998.
+7.8."Class B
+bonds" means general obligation bonds approved by a vote of the qualified
+electors of a school district at an election held from and after December 31,
+1998.
+8.9."Competency"
+means a demonstrated ability in a skill at a specified performance level.
+9.10."Course"
+means organized subject matter in which instruction is offered within a given
+period of time and for which credit toward promotion, graduation or
+certification is usually given.A course consists of knowledge
+selected from a subject for instructional purposes in the schools.
+10.11."Course of
+study" means a list of required and optional subjects to be taught in the
+schools.
+11.12."Dual
+enrollment course" means a college
+level college-level
+course that is conducted on the campus of a high school or on the campus of a
+joint technical education district, that is applicable to an established
+community college academic degree or certificate program and that is
+transferable to a university under the jurisdiction of the Arizona board of
+regents. A dual enrollment course that is applicable to a community college
+occupational degree or certificate program may be transferable to a university
+under the jurisdiction of the Arizona board of regents.
+12.13."Elementary
+grades" means kindergarten programs and grades one through eight. 
+13.14."Fiscal
+year" means the year beginning July 1 and ending June30.
+14.15."Governing
+board" means a body organized for the government and management of the
+schools within a school district or a county school superintendent in the conduct
+of an accommodation school.
+15.16."Lease"
+means an agreement for conveyance and possession of real or personal property.
+16.17."Limited
+property value" means the value determined pursuant to title 42, chapter
+13, article 7.Limited property value shall be used as the basis for
+assessing, fixing, determining and levying primary property taxes.
+17.18."Parent"
+means the natural or adoptive parent of a child or a person who has custody of
+a child.
+18.19."Person who
+has custody" means a parent or legal guardian of a child, a person to whom
+custody of the child has been given by order of a court or a person who stands
+in loco parentis to the child.
+19.20."Primary
+property taxes" means all ad valorem taxes except for secondary property taxes.
+20.21."Private
+school" means a nonpublic institution where instruction is imparted.
+21.22."School"
+or "public school" means any public institution established for the
+purposes ofoffering instruction to pupils in programs for preschool
+children with disabilities, kindergarten programs or any combination of
+elementary grades or secondary grades one through twelve.
+22.23."School
+district" means a political subdivision of this state with geographic
+boundaries organized for the purpose of the administration, support and
+maintenance of the public schools or an accommodation school.
+23.24."Secondary
+grades" means grades nine through twelve.
+24.25."Secondary
+property taxes" means ad valorem taxes used to pay the principal of and
+the interest and redemption charges on any bonded indebtedness or other lawful
+longterm obligation issued or incurred for a specific purpose by a
+school district or a community college district and amounts levied pursuant to
+an election to exceed a budget, expenditure or tax limitation.
+25.26."Subject"
+means a division or field of organized knowledge, such as English or
+mathematics, or a selection from an organized body of knowledge for a course or
+teaching unit, such as the English novel or elementary algebra. END_STATUTE
+Sec.2.Title 15, chapter 1, article 8, Arizona
+Revised Statutes, is amended by adding section 15-186, to read:
+START_STATUTE15-186.Bullying policies and procedures
+Charter schools shall
+prescribe and enforce policies and procedures to prohibit pupils from
+harassing, intimidating and bullying other pupils. These policies may include
+a policy prohibiting bullying, intimidation and harassment at any off-campus
+location or activity if the alleged activity is reported to school officials
+and if the bullying, intimidation or harassment creates a hostile environment
+for the alleged victim at school, infringes on the rights of the alleged victim
+at school or materially and substantially disrupts the education process or the
+orderly operation of the school. These policies and procedures shall include
+all of the following:
+1.A policy
+prohibiting Harassment, intimidation and bullying through the use of electronic
+technology and electronic communications on school grounds, on school property,
+on school buses, at school bus stops, at schoolsponsored events and on
+school computers, networks, forums and mailing lists.
+2.A
+statement that all pupils are protected under these policies and that bullying
+is prohibited without regard to the subject matter of the bullying or the
+motivation of the perpetrator.
+3.A
+procedure for pupils, parents and charter school employees to confidentially
+report to school officials incidents of harassment, intimidation or
+bullying.The charter school shall make available written forms
+designed to provide a full and detailed description of the incident and any
+other relevant information about the incident.
+4.A
+requirement that charter school employees report in writing suspected incidents
+of harassment, intimidation or bullying to the appropriate school official and
+a description of appropriate disciplinary procedures for employees who fail to
+report suspected incidents that are known to the employee.
+5.A
+requirement that, at the beginning of each school year, school officials
+provide all pupils with a written copy of the rights, protections and support
+services available to a pupil who is an alleged victim of an incident reported
+pursuant to this section.
+6.If an
+incident is reported pursuant to this section, a requirement that school
+officials, in compliance with state rules and federal regulations adopted to
+comply with the family educational rights and privacy act, notify the parent or
+guardian of the alleged victim and provide the alleged victim of the incident
+with a written copy of the rights, protections and support services available
+to that pupil.In order to avoid additional negative consequences to
+the alleged victim's health and wellbeing and before notifying the
+parent of the alleged victim, school administrators, in consultation with
+on-site school counselors and social workers, if available, shall evaluate the
+notification in the same manner as any other educationally relevant decision by
+considering the health, wellbeing and safety of any pupils involved in
+the incident.Notification of the parent or guardian of a pupil who
+is the alleged perpetrator shall be provided pursuant to the charter school's
+disciplinary notification policies and procedures.
+7.A formal
+process for the documentation of reported incidents of harassment, intimidation
+or bullying and for the confidentiality, maintenance and disposition of this
+documentation.Charter Schools shall maintain documentation of all
+incidents reported pursuant to this section for at least six
+years.The charter school shall not use that documentation to impose
+disciplinary action unless the appropriate school official has investigated and
+determined that the reported incidents of harassment, intimidation or bullying
+occurred.If a charter school provides documentation of reported
+incidents to persons other than school officials or law enforcement, all
+individually identifiable information shall be redacted.
+8.A formal
+process for the investigation by the appropriate school officials of suspected
+incidents of harassment, intimidation or bullying, including procedures for the
+timely notification of the alleged victim and the parent or guardian of the
+alleged victim on completion and disposition of the investigation.
+9.Disciplinary
+procedures for pupils who have admitted committing or been found to have
+committed incidents of harassment, intimidation or bullying.
+10.A
+procedure that sets forth consequences for submitting false reports of
+incidents of harassment, intimidation or bullying.
+11.Procedures
+designed to protect the health and safety of pupils who are physically or
+emotionally harmed, or both, as the result of an incident of harassment,
+intimidation or bullying, including, if appropriate, procedures to contact
+emergency medical services or law enforcement agencies, or both.
+12.An
+education requirement designed to prevent harassment, intimidation or bullying
+that includes annual training for administrators and charter school employees
+in preventing, identifying, responding to and reporting incidents of
+harassment, intimidation or bullying.This requirement shall also
+include similar training for pupils and parents.
+13.The same
+definition of bullying prescribed in section 15101. END_STATUTE
+Sec.3.Section 15-341, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE15-341.General powers and duties; immunity; delegation
+A.The governing board shall:
+1.Prescribe and enforce policies and procedures for
+the governance of the schools, not inconsistent with law or rules prescribed by
+the state board of education.
+2.Exclude from schools all books, publications,
+papers or audiovisual materials of a sectarian, partisan or denominational
+character.This paragraph shall not be construed to prohibit the
+elective course permitted by section 15717.01.
+3.Manage and control the school property within its
+district.
+4.Acquire school furniture, apparatus, equipment,
+library books and supplies for the use of the schools.
+5.Prescribe the curricula and criteria for the
+promotion and graduation of pupils as provided in sections 15701 and 15701.01.
+6.Furnish, repair and insure, at full insurable
+value, the school property of the district.
+7.Construct school buildings on approval by a vote
+of the district electors.
+8.Make in the name of the district conveyances of
+property belonging to the district and sold by the board.
+9.Purchase school sites when authorized by a vote
+of the district at an election conducted as nearly as practicable in the same
+manner as the election provided in section 15481 and held on a date
+prescribed in section 15491, subsection E, but such authorization shall
+not necessarily specify the site to be purchased and such authorization shall
+not be necessary to exchange unimproved property as provided in section 15342,
+paragraph 23.
+10.Construct, improve and furnish buildings used
+for school purposes when such buildings or premises are leased from the
+national park service.
+11.Purchase school sites or construct, improve and
+furnish school buildings from the proceeds of the sale of school property only
+on approval by a vote of the district electors.
+12.Hold pupils to strict account for disorderly
+conduct on school property.
+13.Discipline students for disorderly conduct on
+the way to and from school.
+14.Except as provided in section 151224,
+deposit all monies received by the district as gifts, grants and devises with
+the county treasurer who shall credit the deposits as designated in the uniform
+system of financial records. If not inconsistent with the terms of the gifts,
+grants and devises given, any balance remaining after expenditures for the
+intended purpose of the monies have been made shall be used for reduction of
+school district taxes for the budget year, except that in the case of
+accommodation schools the county treasurer shall carry the balance forward for
+use by the county school superintendent for accommodation schools for the
+budget year.
+15.Provide that, if a parent or legal guardian
+chooses not to accept a decision of the teacher as provided in section 15521,
+paragraph 4, the parent or legal guardian may request in writing that the
+governing board review the teacher's decision. This paragraph shall not be construed to release school
+districts from any liability relating to a child's promotion or retention.
+16.Provide for adequate supervision over pupils in
+instructional and noninstructional activities by certificated or
+noncertificated personnel.
+17.Use school monies received from the state and
+county school apportionment exclusively for payment of salaries of teachers and
+other employees and contingent expenses of the district.
+18.Make an annual report to the county school
+superintendent on or before October 1 in the manner and form and on the blanks
+prescribed by the superintendent of public instruction or county school
+superintendent. The board shall also make reports directly to the county
+school superintendent or the superintendent of public instruction whenever
+required.
+19.Deposit all monies received by school districts
+other than student activities monies or monies from auxiliary operations as
+provided in sections 151125 and 151126 with the county treasurer
+to the credit of the school district except as provided in paragraph 20 of this
+subsection and sections 151223 and 151224, and the board shall
+expend the monies as provided by law for other school funds.
+20.Establish bank accounts in which the board
+during a month may deposit miscellaneous monies received directly by the
+district. The board shall remit monies deposited in the bank accounts at least
+monthly to the county treasurer for deposit as provided in paragraph 19 of this
+subsection and in accordance with the uniform system of financial records.
+21.Prescribe and enforce policies and procedures
+for disciplinary action against a teacher who engages in conduct that is a
+violation of the policies of the governing board but that is not cause for
+dismissal of the teacher or for revocation of the certificate of the
+teacher.Disciplinary action may include suspension without pay for
+a period of time not to exceed ten school days. Disciplinary action shall not
+include suspension with pay or suspension without pay for a period of time
+longer than ten school days. The procedures shall include notice, hearing and
+appeal provisions for violations that are cause for disciplinary action. The
+governing board may designate a person or persons to act on behalf of the board
+on these matters.
+22.Prescribe and enforce policies and procedures
+for disciplinary action against an administrator who engages in conduct that is
+a violation of the policies of the governing board regarding duties of
+administrators but that is not cause for dismissal of the administrator or for
+revocation of the certificate of the administrator. Disciplinary action may
+include suspension without pay for a period of time not to exceed ten school
+days. Disciplinary action shall not include suspension with pay or suspension
+without pay for a period of time longer than ten school days.The
+procedures shall include notice, hearing and appeal provisions for violations
+that are cause for disciplinary action. The governing board may designate a
+person or persons to act on behalf of the board on these
+matters.For violations that are cause for dismissal, the provisions
+of notice, hearing and appeal in chapter 5, article 3 of this title shall
+apply. The filing of a timely request for a hearing suspends the imposition of
+a suspension without pay or a dismissal pending completion of the hearing.
+23.Notwithstanding sections 133108 and 133120,
+prescribe and enforce policies and procedures that prohibit a person from
+carrying or possessing a weapon on school grounds unless the person is a peace
+officer or has obtained specific authorization from the school administrator.
+24.Prescribe and enforce policies and procedures
+relating to the health and safety of all pupils participating in district
+sponsored practice sessions or games or other interscholastic athletic
+activities, including:
+(a)The provision of water.
+(b)Guidelines, information and forms, developed in
+consultation with a statewide private entity that supervises interscholastic
+activities, to inform and educate coaches, pupils and parents of the dangers of
+concussions and head injuries and the risks of continued participation in
+athletic activity after a concussion. The policies and procedures shall
+require that, before a pupil participates in an athletic activity, the pupil
+and the pupil's parent must sign an information form at least once each school
+year that states that the parent is aware of the nature and risk of concussion.
+The policies and procedures shall require that a pupil who is suspected of
+sustaining a concussion in a practice session, game or other interscholastic
+athletic activity be immediately removed from the athletic
+activity.A coach from the pupil's team or an official or a licensed
+health care provider may remove a pupil from play.A team parent may
+also remove the parent's own child from play. A pupil may return to play on
+the same day if a health care provider rules out a suspected concussion at the
+time the pupil is removed from play. On a subsequent day, the pupil may return
+to play if the pupil has been evaluated by and received written clearance to
+resume participation in athletic activity from a health care provider who has
+been trained in the evaluation and management of concussions and head
+injuries. A health care provider who is a volunteer and who provides clearance
+to participate in athletic activity on the day of the suspected injury or on a
+subsequent day is immune from civil liability with respect to all decisions
+made and actions taken that are based on good faith implementation of the
+requirements of this subdivision, except in cases of gross negligence or wanton
+or wilful neglect. A school district, school district employee, team coach, official
+or team volunteer or a parent or guardian of a team member is not subject to
+civil liability for any act, omission or policy undertaken in good faith to
+comply with the requirements of this subdivision or for a decision made or an
+action taken by a health care provider.A group or organization that
+uses property or facilities owned or operated by a school district for athletic
+activities shall comply with the requirements of this subdivision.A
+school district and its employees and volunteers are not subject to civil
+liability for any other person or organization's failure or alleged failure to
+comply with the requirements of this subdivision. This subdivision does not
+apply to teams that are based in another state and that participate in an athletic
+activity in this state.For the purposes of this subdivision,
+athletic activity does not include dance, rhythmic gymnastics, competitions or
+exhibitions of academic skills or knowledge or other similar forms of physical
+noncontact activities, civic activities or academic activities, whether engaged
+in for the purposes of competition or recreation.For the purposes
+of this subdivision, "health care provider" means a physician who is
+licensed pursuant to title 32, chapter 13 or 17, an athletic trainer who is
+licensed pursuant to title 32, chapter 41, a nurse practitioner who is licensed
+pursuant to title 32, chapter 15, and a physician assistant who is licensed
+pursuant to title 32, chapter 25.
+25.Prescribe and enforce policies and procedures
+regarding the smoking of tobacco within school buildings.The
+policies and procedures shall be adopted in consultation with school district
+personnel and members of the community and shall state whether smoking is
+prohibited in school buildings. If smoking in school buildings is not
+prohibited, the policies and procedures shall clearly state the conditions and
+circumstances under which smoking is permitted, those areas in a school
+building that may be designated as smoking areas and those areas in a school
+building that may not be designated as smoking areas.
+26.Establish an assessment, data gathering and
+reporting system as prescribed in chapter 7, article 3 of this title.
+27.Provide special education programs and related
+services pursuant to section 15764, subsection A to all children with
+disabilities as defined in section 15761.
+28.Administer competency tests prescribed by the
+state board of education for the graduation of pupils from high school.
+29.Ensure that insurance coverage is secured for
+all construction projects for purposes of general liability, property damage
+and workers' compensation and secure performance and payment bonds for all
+construction projects.
+30.Keep on file the resumes of all current and
+former employees who provide instruction to pupils at a
+school.Resumes shall include an individual's educational and
+teaching background and experience in a particular academic content subject
+area.A school district shall inform parents and guardians of the
+availability of the resume information and shall make the resume information
+available for inspection on request of parents and guardians of pupils enrolled
+at a school.This paragraph shall not be construed to require any
+school to release personally identifiable information in relation to any
+teacher or employee, including the teacher's or employee's address, salary,
+social security number or telephone number.
+31.Report to local law enforcement agencies any
+suspected crime against a person or property that is a serious offense as
+defined in section 13706 or that involves a deadly weapon or dangerous
+instrument or serious physical injury and any conduct that poses a threat of
+death or serious physical injury to employees, students or anyone on the
+property of the school. This paragraph does not limit or preclude the
+reporting by a school district or an employee of a school district of suspected
+crimes other than those required to be reported by this paragraph. For the
+purposes of this paragraph, "dangerous instrument", "deadly
+weapon" and "serious physical injury" have the same meanings
+prescribed in section 13105.
+32.In conjunction with local law enforcement
+agencies and local medical facilities, develop an emergency response plan for
+each school in the school district in accordance with minimum standards
+developed jointly by the department of education and the division of emergency
+management within the department of emergency and military affairs.
+33.Provide written notice
+to the parents or guardians of all students affected in the school district at
+least ten days prior to a public meeting to discuss closing a school within the
+school district.The notice shall include the reasons for the
+proposed closure and the time and place of the meeting.The
+governing board shall fix a time for a public meeting on the proposed closure
+no less than ten days before voting in a public meeting to close the school.
+The school district governing board shall give notice of the time and place of
+the meeting.At the time and place designated in the notice, the
+school district governing board shall hear reasons for or against closing the
+school.The school district governing board is exempt from this
+paragraph if it is determined by the governing board that the school shall be
+closed because it poses a danger to the health or safety of the pupils or
+employees of the school.A governing board may consult with the
+school facilities board for technical assistance and for information on the
+impact of closing a school.The information provided from the school
+facilities board shall not require the governing board to take or not take any
+action.
+34.Incorporate
+instruction on Native American history into appropriate existing curricula.
+35.Prescribe
+and enforce policies and procedures:
+(a)Allowing pupils
+who have been diagnosed with anaphylaxis by a health care provider licensed
+pursuant to title 32, chapter 13, 14, 17 or 25 or by a registered nurse
+practitioner licensed and certified pursuant to title 32, chapter 15 to carry
+and self-administer emergency medications, including autoinjectable
+epinephrine, while at school and at schoolsponsored activities. The
+pupil's name on the prescription label on the medication container or on the
+medication device and annual written documentation from the pupil's parent or
+guardian to the school that authorizes possession and self-administration is
+sufficient proof that the pupil is entitled to the possession and selfadministration
+of the medication.The policies shall require a pupil who uses
+auto-injectable epinephrine while at school and at schoolsponsored
+activities to notify the nurse or the designated school staff person of the use
+of the medication as soon as practicable. A school district and its employees
+are immune from civil liability with respect to all decisions made and actions
+taken that are based on good faith implementation of the requirements of this
+subdivision, except in cases of wanton or wilful neglect.
+(b)For the emergency administration of autoinjectable
+epinephrine by a trained employee of a school district pursuant to section 15157.
+36.Allow the possession
+and self-administration of prescription medication for breathing disorders in
+handheld inhaler devices by pupils who have been prescribed that medication by
+a health care professional licensed pursuant to title 32.The
+pupil's name on the prescription label on the medication container or on the
+handheld inhaler device and annual written documentation from the pupil's
+parent or guardian to the school that authorizes possession and
+self-administration shall be sufficient proof that the pupil is entitled to the
+possession and selfadministration of the medication.A school
+district and its employees are immune from civil liability with respect to all
+decisions made and actions taken that are based on a good faith implementation
+of the requirements of this paragraph.
+37.Prescribe and enforce
+policies and procedures to prohibit pupils from harassing, intimidating and
+bullying other pupils. These policies
+may include a policy prohibiting bullying, intimidation and harassment at any
+off-campus location or activity if the alleged activity is reported to school
+officials and if the bullying, intimidation or harassment creates a hostile
+environment for the alleged victim at school, infringes on the rights of the
+alleged victim at school or materially and substantially disrupts the education
+process or the orderly operation of the school. These policies and procedures
+shall include all of the following:
+(a)A policy
+prohibiting harassment, intimidation and bullying through the use of electronic
+technology and electronic communications on school grounds, on
+school property, on school buses, at school bus stops, at schoolsponsored
+events and activities and through the use
+of electronic technology or electronic communication on school
+computers, networks, forums and mailing lists. that
+include the following components:
+(b)A statement that all pupils are protected under
+these policies and that bullying is prohibited without regard to the subject
+matter of the bullying or the motivation of the perpetrator.
+(a)(c)A
+procedure for pupils, parents and school district employees to confidentially
+report to school officials incidents of harassment, intimidation or
+bullying.The school shall make available written forms designed to
+provide a full and detailed description of the incident and any other relevant
+information about the incident.
+(b)(d)A
+requirement that school district employees report in writing suspected
+incidents of harassment, intimidation or bullying to the appropriate school
+official and a description of appropriate disciplinary procedures for employees
+who fail to report suspected incidents that are known to the employee.
+(c)(e)A
+requirement that, at the beginning of each school year, school officials
+provide all pupils with a written copy of the rights, protections and support
+services available to a pupil who is an alleged victim of an incident reported
+pursuant to this paragraph.
+(d)(f)If
+an incident is reported pursuant to this paragraph, a requirement that school
+officials, in compliance with state
+rules and federal regulations adopted to comply with the family educational
+rights and privacy act, notify the parent or guardian of the alleged victim and
+provide a pupil who is an the alleged victim of the
+incident with a written copy of the rights, protections and support services
+available to that pupil.In
+order to avoid additional negative consequences to the alleged victim's health
+and wellbeing and before notifying the parent of the alleged victim,
+school administrators, in consultation with on-site school counselors and
+social workers, if available, shall evaluate the notification in the same
+manner as any other educationally relevant decision by considering the health,
+wellbeing and safety of any pupils involved in the incident.
+Notification of the parent or guardian of a pupil who is the alleged
+perpetrator shall be provided pursuant to the school district's disciplinary
+notification policies and procedures.
+(e)(g)A
+formal process for the documentation of reported incidents of harassment,
+intimidation or bullying and for the confidentiality, maintenance and
+disposition of this documentation.School districts shall maintain
+documentation of all incidents reported pursuant to this paragraph for at least
+six years.The school shall not use that documentation to impose
+disciplinary action unless the appropriate school official has investigated and
+determined that the reported incidents of harassment, intimidation or bullying
+occurred. If a school provides documentation of reported incidents to persons
+other than school officials or law enforcement, all individually identifiable
+information shall be redacted.
+(f)(h)A
+formal process for the investigation by the appropriate school officials of
+suspected incidents of harassment, intimidation or bullying, including
+procedures for notifying the timely notification of the
+alleged victim and the parent or
+guardian of the alleged victim on completion and disposition of
+the investigation.
+(g)(i)Disciplinary
+procedures for pupils who have admitted or been found to have committed
+incidents of harassment, intimidation or bullying.
+(h)(j)A
+procedure that sets forth consequences for submitting false reports of incidents
+of harassment, intimidation or bullying. 
+(i)(k)Procedures
+designed to protect the health and safety of pupils who are physically or emotionally harmed, or both, as the result of incidents an incident of harassment, intimidation and
+bullying, including, if appropriate, procedures to contact emergency medical
+services or law enforcement agencies, or both.
+(j)Definitions
+of harassment, intimidation and bullying.
+(l)An education requirement designed to prevent harassment,
+intimidation or bullying that includes annual training for administrators and
+school employees in preventing, identifying, responding to and reporting
+incidents of harassment, intimidation or bullying. This requirement shall also
+include similar training for pupils and parents.
+(m)The same definition of bullying prescribed in
+section 15101.
+38.Prescribe and enforce
+policies and procedures regarding changing or adopting attendance boundaries
+that include the following components:
+(a)A procedure for holding public meetings to
+discuss attendance boundary changes or adoptions that allows public comments.
+(b)A procedure to notify the parents or guardians
+of the students affected.
+(c)A procedure to notify the residents of the
+households affected by the attendance boundary changes.
+(d)A process for placing public meeting notices and
+proposed maps on the school district's website for public review, if the school
+district maintains a website.
+(e)A formal process for presenting the attendance
+boundaries of the affected area in public meetings that allows public comments.
+(f)A formal process for notifying the residents and
+parents or guardians of the affected area as to the decision of the governing
+board on the school district's website, if the school district maintains a
+website.
+(g)A formal process for updating attendance
+boundaries on the school district's website within ninety days of an adopted
+boundary change. The school district shall send a direct link to the school
+district's attendance boundaries website to the department of real estate.
+(h)If the land that a school was built on was
+donated within the past five years, a formal process to notify the entity that
+donated the land affected by the decision of the governing board.
+39.If the state board of education determines that
+the school district has committed an overexpenditure as defined in section 15107,
+provide a copy of the fiscal management report submitted pursuant to section 15107,
+subsection H on its website and make copies available to the public on
+request.The school district shall comply with a request within five
+business days after receipt.
+40.Ensure that the contract for the superintendent
+is structured in a manner in which up to twenty per cent percent of the total annual salary included for the
+superintendent in the contract is classified as performance pay. This
+paragraph shall not be construed to require school districts to increase total
+compensation for superintendents.Unless the school district
+governing board votes to implement an alternative procedure at a public meeting
+called for this purpose, the performance pay portion of the superintendent's
+total annual compensation shall be determined as follows:
+(a)Twentyfive per cent percent of the performance pay shall be determined based on
+the percentage of academic gain determined by the department of education of
+pupils who are enrolled in the school district compared to the academic gain
+achieved by the highest ranking of the fifty largest school districts in this
+state.For the purposes of this subdivision, the department of
+education shall determine academic gain by the academic growth achieved by each
+pupil who has been enrolled at the same school in a school district for at
+least five consecutive months measured against that pupil's academic results in
+the 20082009 school year.For the purposes of this
+subdivision, of the fifty largest school districts in this state, the school
+district with pupils who demonstrate the highest statewide percentage of
+overall academic gain measured against academic results for the 20082009
+school year shall be assigned a score of 100 and the school district with
+pupils who demonstrate the lowest statewide percentage of overall academic gain
+measured against academic results for the 20082009 school year shall be
+assigned a score of 0.
+(b)Twentyfive per cent percent of the performance pay shall be determined by the
+percentage of parents of pupils who are enrolled at the school district who
+assign a letter grade of "A" to the school on a survey of parental
+satisfaction with the school district.The parental satisfaction
+survey shall be administered and scored by an independent entity that is
+selected by the governing board and that demonstrates sufficient expertise and
+experience to accurately measure the results of the survey. The parental
+satisfaction survey shall use standard random sampling procedures and provide
+anonymity and confidentiality to each parent who participates in the survey.
+The letter grade scale used on the parental satisfaction survey shall direct
+parents to assign one of the following letter grades:
+(i)A letter grade of "A" if the school
+district is excellent.
+(ii)A letter grade of "B" if the school
+district is above average.
+(iii)A letter grade of "C" if the school
+district is average.
+(iv)A letter grade of "D" if the school
+district is below average.
+(v)A letter grade of "F" if the school
+district is a failure.
+(c)Twentyfive per cent percent of the performance pay shall be determined by the
+percentage of teachers who are employed at the school district and who assign a
+letter grade of "A" to the school on a survey of teacher satisfaction
+with the school.The teacher satisfaction survey shall be
+administered and scored by an independent entity that is selected by the
+governing board and that demonstrates sufficient expertise and experience to
+accurately measure the results of the survey.The teacher
+satisfaction survey shall use standard random sampling procedures and provide
+anonymity and confidentiality to each teacher who participates in the
+survey.The letter grade scale used on the teacher satisfaction
+survey shall direct teachers to assign one of the following letter grades:
+(i)A letter grade of "A" if the school
+district is excellent.
+(ii)A letter grade of "B" if the school
+district is above average.
+(iii)A letter grade of "C" if the school
+district is average.
+(iv)A letter grade of "D" if the school
+district is below average.
+(v)A letter grade of "F" if the school
+district is a failure.
+(d)Twentyfive per cent percent of the performance pay shall be determined by other
+criteria selected by the governing board.
+41.Maintain and store permanent public records of
+the school district as required by law. Notwithstanding section 39101,
+the standards adopted by the Arizona state library, archives and public records
+for the maintenance and storage of school district public records shall allow
+school districts to elect to satisfy the requirements of this paragraph by
+maintaining and storing these records either on paper or in an electronic
+format, or a combination of a paper and electronic format.
+42.Adopt in a public meeting and implement by
+school year 20132014 policies for principal
+evaluations.Before the adoption of principal evaluation policies,
+the school district governing board shall provide opportunities for public
+discussion on the proposed policies. The policies shall describe:
+(a)The principal evaluation instrument, including
+the four performance classifications adopted by the governing board pursuant to
+section 15203, subsection A, paragraph 38.
+(b)Alignment of professional development
+opportunities to the principal evaluations.
+(c)Incentives for principals in one of the two
+highest performance classifications pursuant to section 15203,
+subsection A, paragraph 38, which may include:
+(i)Multiyear contracts pursuant to section 15503.
+(ii)Incentives to work at schools that are assigned
+a letter grade of D or F pursuant to section 15241.
+(d)Transfer and contract processes for principals
+designated in the lowest performance classification pursuant to section 15203,
+subsection A, paragraph 38.
+B.Notwithstanding subsection A, paragraphs 7, 9 and
+11 of this section, the county school superintendent may construct, improve and
+furnish school buildings or purchase or sell school sites in the conduct of an
+accommodation school.
+C.If any school district acquires real or personal
+property, whether by purchase, exchange, condemnation, gift or otherwise, the
+governing board shall pay to the county treasurer any taxes on the property
+that were unpaid as of the date of acquisition, including penalties and
+interest. The lien for unpaid delinquent taxes, penalties and interest on
+property acquired by a school district:
+1.Is not abated, extinguished, discharged or merged
+in the title to the property.
+2.Is enforceable in the same manner as other
+delinquent tax liens.
+D.The governing board may not locate a school on
+property that is less than onefourth mile from agricultural land regulated
+pursuant to section 3365, except that the owner of the agricultural land
+may agree to comply with the buffer zone requirements of section 3365.If
+the owner agrees in writing to comply with the buffer zone requirements and
+records the agreement in the office of the county recorder as a restrictive
+covenant running with the title to the land, the school district may locate a
+school within the affected buffer zone. The agreement may include any
+stipulations regarding the school, including conditions for future expansion of
+the school and changes in the operational status of the school that will result
+in a breach of the agreement.
+E.A school district, its governing board members,
+its school council members and its employees are immune from civil liability
+for the consequences of adoption and implementation of policies and procedures
+pursuant to subsection A of this section and section 15342. This waiver
+does not apply if the school district, its governing board members, its school
+council members or its employees are guilty of gross negligence or intentional
+misconduct.
+F.A governing board may delegate in writing to a
+superintendent, principal or head teacher the authority to prescribe procedures
+that are consistent with the governing board's policies.
+G.Notwithstanding any other provision of this
+title, a school district governing board shall not take any action that would
+result in a reduction of pupil square footage unless the governing board
+notifies the school facilities board established by section 152001 of
+the proposed action and receives written approval from the school facilities
+board to take the action.A reduction includes an increase in
+administrative space that results in a reduction of pupil square footage or
+sale of school sites or buildings, or both. A reduction includes a
+reconfiguration of grades that results in a reduction of pupil square footage
+of any grade level.This subsection does not apply to temporary
+reconfiguration of grades to accommodate new school construction if the
+temporary reconfiguration does not exceed one year.The sale of
+equipment that results in a reduction that falls below the equipment
+requirements prescribed in section 152011, subsection B is subject to
+commensurate withholding of school district district additional assistance
+monies pursuant to the direction of the school facilities
+board.Except as provided in section 15342, paragraph 10,
+proceeds from the sale of school sites, buildings or other equipment shall be
+deposited in the school plant fund as provided in section 151102.
+H.Subsections C through G of this section apply to
+a county board of supervisors and a county school superintendent when operating
+and administering an accommodation school. END_STATUTE
+Sec.4.Intent
+The legislature finds and declares that:
+1.All students have the right to participate fully
+in the educational process, free from bullying, intimidation and harassment.
+2.A safe and civil environment in school is necessary
+for students to learn and to achieve high academic standards.
+3.Bullying, intimidation and harassment, like other
+disruptive or violent behaviors, are forms of conduct that disrupt both a
+student's ability to learn and a school's ability to educate its students in a
+safe environment.
+4.Staff and volunteers should be expected to
+demonstrate appropriate behavior, treat others with civility and respect and
+refuse to tolerate bullying, intimidation and harassment.
+Sec.5.Short title
+This act may be cited as the "Arizona Safe Schools Act of
+2016".
+

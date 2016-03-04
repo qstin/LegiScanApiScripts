@@ -1,0 +1,120 @@
+
+
+
+
+PREFILED JAN 07 2016
+
+
+
+REFERENCE TITLE: crimes; culpable mental state;
+  requirement
+
+
+
+
+
+
+
+State of Arizona
+Senate
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+SB 1057
+
+
+
+
+
+
+
+
+
+Introduced by
+Senator
+  Kavanagh
+
+
+
+
+
+AN ACT
+
+amending title 9,
+chapter 4, article 8, Arizona Revised Statutes, by adding section 9500.38;
+amending section 13202, Arizona Revised Statutes; relating to culpable
+mental states.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Title 9, chapter 4, article 8,
+Arizona Revised Statutes, is amended by adding section 9-500.38, to read:
+START_STATUTE9-500.38.Culpable mental state; misdemeanor ordinances; exemptions
+A.If a city
+or town classifies an offense as a misdemeanor and does not expressly prescribe
+a culpable mental state that is sufficient for commission of the offense, the
+culpable mental state that is required for the commission of the offense is
+intentional, except that if the offense is a misdemeanor offense that is
+related to a drug offense the culpable mental state is knowingly. An ordinance
+defining a strict liability offense shall expressly prescribe that it is a
+strict liability offense.
+B.This
+section does not apply to a city or town ordinance that involves:
+1.A traffic
+violation.
+2.A
+building code violation.
+3.A food or
+health and safety code violation. END_STATUTE
+Sec.2.Section 13-202, Arizona Revised Statutes,
+is amended to read:
+START_STATUTE13-202.Construction of statutes with respect to culpability;
+exemptions
+A.If a statute defining an offense prescribes a
+culpable mental state that is sufficient for commission of the offense without
+distinguishing among the elements of such offense, the prescribed mental state
+shall apply to each such element unless a contrary legislative purpose plainly
+appears.
+B.If a
+statute defining an offense does not expressly prescribe a culpable mental
+state that is sufficient for commission of the offense, the culpable mental
+state that is required for the commission of the offense is intentional, except
+that if the statute defining an offense is listed in chapter 34 of this title,
+the culpable mental state that is required for the commission of the offense is
+knowingly. This section does not apply to any of the following:
+1.A moving
+traffic violation included in title 28.
+2.A
+violation involving public health and safety included in title36.
+C.Notwithstanding
+subsection B of this section, if a statute defining an offense expressly prescribes that it is a strict
+liability offense and does not expressly prescribe a culpable
+mental state that is sufficient for commission of the offense, no culpable
+mental state is required for the commission of such
+the offense, and the
+offense is one of strict liability unless the proscribed conduct necessarily
+involves a culpable mental state.If the offense is one of strict
+liability, proof of a culpable mental state will also suffice to establish
+criminal responsibility.
+C.D.If a statute
+provides that criminal negligence suffices to establish an element of an
+offense, that element also is established if a person acts intentionally, knowingly
+or recklessly.If acting recklessly suffices to establish an
+element, that element also is established if a person acts intentionally or
+knowingly.If acting knowingly suffices to establish an element,
+that element is also established if a person acts intentionally. END_STATUTE
+Sec.3.Effective date
+This act is effective from and after December 31, 2016.
+

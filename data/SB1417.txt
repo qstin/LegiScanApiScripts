@@ -1,0 +1,561 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: distributed energy generation systems
+
+
+
+
+
+
+
+State of Arizona
+Senate
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+SB 1417
+
+
+
+
+
+
+
+
+
+Introduced by
+Senators
+  Lesko, Allen S, Bradley, Griffin, Kavanagh; Representatives Allen J, Barton,
+  Cardenas, Leach, Pratt: Senators Biggs, Burges, Contreras, Dial, Donahue,
+  Hobbs, Meza, Miranda, Pancrazi, Shooter; Representatives Carter, Fernandez,
+  Gowan, Larkin, Livingston, Mitchell, Montenegro, Plumlee, Rios, Saldate,
+  Shope, Wheeler
+
+
+
+
+
+AN ACT
+
+amending sections
+32-1154, 32-1155, 44-1761, 44-1762 and 44-1763, Arizona Revised Statutes;
+amending title 44, chapter 11, article 11, Arizona Revised Statutes, by adding
+section 44-1764; relating to solar energy devices.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 32-1154, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-1154.Grounds for suspension or revocation of license; continuing
+jurisdiction; civil penalty; recovery fund award; summary suspension
+A.The holder of a license or any person listed on a
+license pursuant to this chapter shall not commit any of the following acts or
+omissions:
+1.Abandonment of a contract or refusal to perform
+after submitting a bid on work without legal excuse for the abandonment or
+refusal.
+2.Departure from or disregard of plans or
+specifications or any building codes of the state or any political subdivision
+of the state in any material respect that is prejudicial to another without
+consent of the owner or the owner's duly authorized representative and without
+the consent of the person entitled to have the particular construction project
+or operation completed in accordance with such plans and specifications and
+code.
+3.Violation of any rule adopted by the registrar.
+4.Failure to comply with the statutes or rules
+governing social security, workers' compensation or unemployment insurance.
+5.Misrepresentation of a material fact by the applicant
+in obtaining a license.
+6.The doing of a fraudulent act by the licensee as
+a contractor resulting in another person being substantially injured.
+7.Conviction of a felony.
+8.Failure in a material respect by the licensee to
+complete a construction project or operation for the price stated in the
+contract, or in any modification of the contract.
+9.Aiding or abetting a licensed or unlicensed
+person to evade this chapter, knowingly or recklessly combining or conspiring
+with a licensed or unlicensed person, allowing one's license to be used by a
+licensed or unlicensed person or acting as agent, partner, associate or
+otherwise of a licensed or unlicensed person with intent to evade this chapter.
+10.Failure by a licensee or agent or official of a
+licensee to pay monies in excess of seven hundred fifty dollars when due for
+materials or services rendered in connection with the licensee's operations as
+a contractor when the licensee has the capacity to pay or, if the licensee
+lacks the capacity to pay, when the licensee has received sufficient monies as
+payment for the particular construction work project or operation for which the
+services or materials were rendered or purchased.
+11.Failure of a contractor to comply with any
+safety or labor laws or codes of the federal government, state or political
+subdivisions of the state.
+12.Failure in any material respect to comply with
+this chapter.
+13.Knowingly entering into a contract with a
+contractor for work to be performed for which a license is required with a
+person not duly licensed in the required classification.
+14.Acting in the capacity of a contractor under any
+license issued under this chapter in a name other than as set forth on the
+license.
+15.False, misleading or deceptive advertising whereby
+any member of the public may be misled and injured.
+16.Knowingly contracting beyond the scope of the
+license or licenses of the licensee.
+17.Contracting or offering to contract or
+submitting a bid while the license is under suspension or while the license is
+on inactive status.
+18.Failure to notify the registrar in writing
+within a period of fifteen days of any disassociation of the person who
+qualified for the license.Such licensee shall have sixty days from
+the date of such disassociation to qualify through another person.
+19.Subsequent discovery of facts that if known at
+the time of issuance of a license or the renewal of a license would have been
+grounds to deny the issuance or renewal of a license.
+20.Having a person named on the license who is or
+was named on any other license in this state or in another state that is under
+suspension or revocation for any act or omission that occurs while the person
+is or was named on the license unless the prior revocation was based solely on
+a violation of this paragraph.
+21.Continuing a new single family residential
+construction project with actual knowledge that a pretreatment wooddestroying
+pests or organisms application was either:
+(a)Not performed at the required location.
+(b)Performed in a manner inconsistent with label
+requirements, state law or rules.
+22.Failure to take appropriate corrective action to
+comply with this chapter or with rules adopted pursuant to this chapter without
+valid justification within a reasonable period of time after receiving a
+written directive from the registrar. The written directive shall set forth
+the time within which the contractor is to complete the remedial action. The
+time permitted for compliance shall not be less than fifteen days from the date
+of issuance of the directive. A license shall not be revoked or suspended nor
+shall any other penalty be imposed for a violation of this paragraph until
+after a hearing has been held.
+23.Prohibit, threaten to prohibit, retaliate,
+threaten to retaliate or otherwise intimidate any contractor or materialman
+from serving a preliminary notice pursuant to section 33992.01.
+24.For
+solar contractors as defined in section 32-1170, failure to comply with title
+44, chapter 11, article 11.
+B.The registrar may on the registrar's own motion,
+and shall on the written complaint of any owner or contractor that is a party
+to a construction contract or a person who suffers a material loss or injury as
+a result of a contractor's failure to perform work in a professional and
+workmanlike manner or in accordance with any applicable building codes and
+professional industry standards, investigate the acts of any contractor within
+this state and may temporarily suspend, with or without imposition of specific
+conditions in addition to increased surety bond or cash deposit requirements,
+or permanently revoke any or all licenses issued under this chapter if the
+holder of the license issued pursuant to this chapter is guilty of or commits
+any of the acts or omissions set forth in subsection A of this section. For
+the purposes of this subsection:
+1."Construction contract" means a written
+or oral agreement relating to the construction, alteration, repair,
+maintenance, moving or demolition of any building, structure or improvement or
+relating to the contractor's excavation of or other development or improvement
+to land if the registrar investigates the contractor's actions under this
+subsection.
+2."Owner" means any person, firm,
+partnership, corporation, association or other organization, or a combination
+of any of them, that causes a building, structure or improvement to be
+constructed, altered, repaired, maintained, moved or demolished or that causes
+land to be excavated or otherwise developed or improved, whether the interest
+or estate of the person is in fee, as vendee under a contract to purchase, as
+lessee or another interest or estate less than fee, pursuant to a construction
+contract.
+C.Pursuant to this chapter, the registrar shall
+temporarily suspend or permanently revoke the license issued to a person under
+this chapter upon on notice from the department
+of revenue that a tax debt related to income taxes, withholding taxes or any
+tax imposed or administered by title 42, chapter 5 that was incurred in the
+operation of the licensed business has become final and the person neglects to
+pay or refuses to pay the tax debt.
+D.The expiration, cancellation, suspension or
+revocation of a license by operation of law or by decision and order of the
+registrar or a court of law or the voluntary surrender of a license by a
+licensee shall not deprive the registrar of jurisdiction to proceed with any
+investigation of or action or disciplinary proceeding against such licensee, or
+to render a decision suspending or revoking such a license, or denying the
+renewal or right of renewal of such license.
+E.The registrar may impose a civil penalty of not
+to exceed five hundred dollars on a contractor for each violation of subsection
+A, paragraph 22 of this section. Civil penalties collected pursuant to this
+subsection shall be deposited in the residential contractors' recovery
+fund.The failure by the licensee to pay any civil penalty imposed
+under this subsection results in the automatic revocation of the license thirty
+days after the effective date of the order providing for the civil
+penalty.No future license may be issued to an entity consisting of
+a person, as defined in section 321101, subsection A, paragraph 6, who is associated
+with the contractor, unless payment of any outstanding civil penalty is
+tendered.
+F.The registrar shall impose a civil penalty of not
+to exceed one thousand dollars on a contractor for each violation of subsection
+A, paragraph 17 of this section. Civil penalties collected pursuant to this
+subsection shall be deposited in the residential contractors' recovery fund.
+The failure by the licensee to pay any civil penalty imposed under this
+subsection results in the automatic permanent revocation of the license thirty
+days after the effective date of the order providing for the civil
+penalty.No future license may be issued to an entity consisting of
+a person, as defined in section 321101, subsection A, paragraph 6, who is associated
+with the contractor, unless payment of any outstanding civil penalty is
+tendered.
+G.Notwithstanding any other provisions in this
+chapter, if a contractor's license has been revoked or has been suspended as a
+result of an order to remedy a violation of this chapter, the registrar may
+order payment from the residential contractors' recovery fund to remedy the
+violation. The registrar shall serve the contractor with a notice setting
+forth the amount claimed or to be awarded. If the contractor contests the
+amount or propriety of the payment, the contractor shall respond within ten
+days of the date of service by requesting a hearing to determine the amount or
+propriety of the payment. Failure by the contractor to respond in writing
+within ten days of the date of service shall be deemed a waiver by the
+contractor of the right to contest the amount claimed or to be awarded.
+Service may be made by personal service to the contractor or by mailing a copy
+of the notice by registered mail with postage prepaid to the contractor's
+latest address of record on file in the registrar's office. If service is made
+by registered mail, it is effective five days after the notice is
+mailed.Except as provided in section 411092.08, subsection
+H, the contractor or injured person may seek judicial review of the registrar's
+final award pursuant to title 12, chapter 7, article 6. An applicant to the
+residential contractors' recovery fund pursuant to this subsection must show
+that the applicant has proceeded against any existing bond covering the
+residential contractor and has not collected on the bond in an amount of thirty
+thousand dollars or more. END_STATUTE
+Sec.2.Section 32-1155, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE32-1155.Filing of complaint; resolution of complaint; service of
+notice; failure to answer; prohibited citations
+A.On the filing of a written complaint with the
+registrar charging a licensee with the commission, within two years before the
+date of filing the complaint, of an act that is cause for suspension or
+revocation of a license, or, for solar
+contractors as defined in section 32-1170, an act that is in violation of title
+44, chapter 11, article 11, including the marketing or sale of a distributed
+energy generation system as defined in section 44-1761, the
+registrar after investigation, in its sole discretion, may issue a citation
+directing the licensee, within ten days after service of the citation on the
+licensee, to appear by filing with the registrar the licensee's written answer
+to the citation and complaint showing cause, if any, why the licensee's license
+should not be suspended or revoked.Service of citation on the
+licensee shall be fully effected by personal service or by mailing a true copy
+thereof, together with a true copy of the complaint, by registered mail in a
+sealed envelope with postage prepaid and addressed to the licensee at the
+licensee's latest address of record in the registrar's office. Service of the
+citation and complaint shall be complete at the time of personal service or
+five days after deposit in the mail.The twoyear period
+prescribed by this subsection shall commence on the earlier of the close of
+escrow or actual occupancy for new home or other new building construction and
+otherwise shall commence on completion of the specific project.
+B.Failure of the licensee to answer within ten days
+after service shall be deemed an admission by the licensee of the licensee's
+commission of the act or acts charged in the complaint, and the registrar may
+then suspend or revoke the licensee's license.
+C.The registrar shall not issue a citation for
+failure to perform work in a professional and workmanlike manner or in
+accordance with any applicable building codes and professional industry
+standards if either:
+1.The contractor is not provided an opportunity to
+inspect the work within fifteen days after receiving a written notice from the
+registrar.
+2.The contractor's work has been subject to
+neglect, modification or abnormal use.
+D.Notwithstanding subsection C of this section, the
+registrar may investigate the complaint without waiting fifteen days. END_STATUTE
+Sec.3.Section 44-1761, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE44-1761.Definitions
+In this article, unless the context otherwise requires:
+1."Collector" means a component of a
+solar energy device that is used to absorb solar radiation, convert it to heat
+or electricity and transfer the heat to a heat transfer fluid or to storage.
+2."Distributed energy generation system":
+(a)Means a device or system that is used to
+generate or store electricity, that has a an electric delivery capacity,
+singly or in connection with other similar devices or systems, greater than one
+kilowatt or one kilowatt-hour, and that
+is primarily for on-site energy consumption.
+(b)Does not include an electric generator that is
+intended for occasional use.
+3."Energize"
+or "energized" means that the distributed energy generation system is
+installed and operational for its intended purposes of generating or storing
+electricity.
+3.4."Heat
+exchanger" means a component of a solar energy device that is used to
+transfer heat from one fluid to another.
+5."Interconnected"
+or "interconnection" means a distributed energy generation system
+that is connected to the power grid and that is able to transfer electricity to
+the power grid.
+4.6."Seller
+or marketer" means an individual or a company acting through its officers,
+employees or agents that markets, sells or solicits the sale, financing or
+lease of distributed energy generation systems or negotiates or enters into
+agreements for the sale, financing or lease of distributed energy generation
+systems.
+5.7."Solar
+daylighting" means a device that is specifically designed to capture and
+redirect the visible portion of the solar beam spectrum, while controlling the
+infrared portion, for use in illuminating interior building spaces in lieu of
+artificial lighting.
+6.8."Solar
+energy device":
+(a)Means a system or
+series of mechanisms that is designed primarily to provide heating, to provide
+cooling, to produce electrical power, to produce mechanical power, to provide
+solar daylighting or to provide any combination of the foregoing by means of
+collecting and transferring solar generated energy into such uses either by
+active or passive means.Such systems may also have the capability
+of storing such energy for future utilization.Passive systems shall
+clearly be designed as a solar energy device such as a trombe wall and not
+merely a part of a normal structure such as a window.
+(b)Includes a distributed energy
+generation system.
+7."Storage
+unit" means a component of a solar energy device that is used to store solar
+generated electricity or heat for later use. END_STATUTE
+Sec.4.Section 44-1762, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE44-1762.Solar energy device warranties; installation standards;
+inspections
+A.The collectors, heat exchangers and storage units
+of a solar energy device that is sold or
+installed in this state
+leased or financed under an agreement pursuant to section 44-1763,
+and the installation of the solar
+energy device, shall be warranted for a period of at least two years or the duration of the lease or finance agreement,
+whichever is longer.The remaining components of the
+solar energy device and their installation shall be warranted for a period of
+at least one year ten years.
+B.Any person who manufactures, furnishes for
+installation or installs a solar energy device shall provide with such the device a written statement of warranty,
+responsibilities assumed or disclaimed and performance data of the solar energy
+device and components of the solar energy device as prescribed by section 44-1763 as part of the agreement
+for the financing, sale or lease of a solar energy device.The
+form of the statement required by this subsection is subject to approval by the
+registrar of contractors after
+consultation with the governor's energy office.The
+registrar of contractors shall adopt rules governing the readability and
+understandability of the statement.The statement shall specify the
+source of any performance data it contains.A copy of the statement
+shall be delivered to the registrar of contractors where it shall be kept on
+public file.
+C.A person who sells or markets for sale or lease a solar energy
+device in this state shall furnish a certificate to the buyer that the solar
+energy device complies with the requirements of this section and section 441763. The marketer, installer or representative of either the
+marketer or installer of a distributed energy generation system must be present
+when the distributed energy generation system is energized and interconnected
+to the power grid.
+D.A solar energy device that is sold or installed
+in this state shall comply with any consumer protection, rating, certification,
+performance, marking, installation and safety standards that have been adopted
+by the governor's energy office registrar of contractors and that are
+required by section 44-1763.
+E.An individual who installs a solar energy device
+in this state, in addition to being a licensed solar contractor under title 32,
+chapter 10, article 4, shall:
+1.Possess the general license that is appropriate
+to the type of solar energy device that is installed.Installers of
+a solar water heater or a photovoltaic device shall possess an appropriate
+contractor's license.
+2.Meet any education and training standards that
+have been adopted by the registrar of contractors after consultation with the governor's energy office.
+3.Pass an examination on the installation of the
+type of device to be installed, if the registrar of contractors after consultation with the governor's energy office
+has adopted such an examination.
+F.Solar energy devices that are designed or
+installed by the final owner are exempt from the requirements of subsections A
+through E of this section.
+G.The installation of a solar energy device shall
+meet the requirements of:
+1.All applicable fire, safety and building codes.
+2.Consumer protection standards, including freeze
+protection and temperature related damage standards adopted by the governor's energy office registrar of contractors.
+3.All other applicable federal, state and local
+laws.
+H.Solar energy devices and the agreements of licensed sellers and marketers for the
+sale, financing or lease of a solar energy device are subject to
+random inspections by the registrar of contractors.Sellers, marketers and installers who fail to
+meet safety, installation or other prescribed standards or the requirements of section 44-1763 are
+subject to disciplinary action under title 32, chapter 10, article 3. END_STATUTE
+Sec.5.Section
+44-1763, Arizona Revised Statutes, is amended to read:
+START_STATUTE44-1763.Distributed energy generation system agreements;
+disclosures; exception
+A.An agreement governing the financing, sale or
+lease of a distributed energy generation system to any person or a political
+subdivision of this state must:
+1.Be signed by the person buying, financing or leasing
+the distributed energy generation system and must be dated. Any agreement that
+contains blank spaces affecting the timing, value or obligations of the
+agreement in a material manner when signed by the buyer or lessee is voidable
+at the option of the buyer or lessee until the distributed energy generation
+system is installed.
+2.Be in at least ten-point type.
+3.Include a provision granting the buyer or lessee
+the right to rescind the financing, sale or lease agreement for a period of not
+less than three business days after the agreement is signed by the buyer or
+lessee and before the distributed energy generation system is installed.
+4.Provide a description, including the make and
+model of the distributed energy generation system's major components or a
+guarantee concerning energy production output that the distributed energy
+generation system being sold or leased will provide over the life of the
+agreement.
+5.Separately set forth the following items, if
+applicable:
+(a)The total purchase price or total cost to the
+buyer or lessee under the agreement for the distributed energy generation
+system over the life of the agreement.
+(b)Any interest, installation fees, document
+preparation fees, service fees or other costs to be paid by the buyer or lessee
+of the distributed energy generation system.
+(c)If the distributed energy generation system is
+being financed or leased, the total number of payments, the payment frequency,
+the amount of the payment expressed in dollars and the payment due date.
+6.Provide a disclosure in the sale and financing
+agreements, to the extent they are used by the seller or marketer in
+determining the purchase price of the agreement, identify that identifies all current tax incentives and rebates or
+other state or federal incentives for which the buyer or lessee may be eligible and any conditions
+or requirements pursuant to the agreement to obtain these tax incentives,
+rebates or other incentives.
+7.Identify the tax obligations that the buyer or
+lessee may be required to pay as a result of buying, financing or leasing the
+distributed energy generation system, including:
+(a)The assessed value and the property tax
+assessments associated with the distributed energy generation system calculated
+in the year the agreement is signed.
+(b)Transaction privilege taxes that may be assessed
+against the person buying or leasing the distributed energy generation system.
+(c)Any obligation of the buyer or lessee to
+transfer tax credits or tax incentives of the distributed energy generation
+system to any other person.
+8.Disclose whether the warranty or maintenance
+obligations related to the distributed energy generation system may be sold or
+transferred to a third party.
+9.Include a disclosure, the receipt of which shall
+be separately acknowledged by the buyer or lessee, if a transfer of the sale,
+lease or financing agreement contains any restrictions pursuant to the
+agreement on the lessee's or buyer's ability to modify or transfer ownership of
+a distributed energy generation system, including whether any modification or
+transfer is subject to review or approval by a third party.If the
+modification or transfer of the distributed energy generation system is subject
+to review or approval by a third party, the agreement must identify the name,
+address and telephone number of, and provide for updating any change in, the
+entity responsible for approving the modification or transfer.
+10.Include a disclosure, the receipt of which shall
+be separately acknowledged by the buyer or lessee, if a modification or
+transfer of ownership of the real property to which the distributed energy
+generation system is or will be affixed contains any restrictions pursuant to
+the agreement on the lessee's or buyer's ability to modify or transfer ownership
+of the real property to which the distributed energy generation system is
+installed or affixed, including whether any modification or transfer is subject
+to review or approval by a third party.If the modification or
+transfer of the real property to which the distributed energy generation system
+is affixed or installed is subject to review or approval by a third party, the
+agreement must identify the name, address and telephone number of, and provide for updating any change in,
+the entity responsible for approving the modification or transfer.
+11.Provide a full and accurate summary of the total
+costs under the agreement for maintaining and operating the distributed energy
+generation system over the life of the distributed energy generation system,
+including financing, maintenance and construction costs related to the
+distributed energy generation system.
+12.If the agreement contains an estimate of the
+buyer's or lessee's future utility charges based on projected utility rates after the installation of a distributed energy
+generation system, provide an estimate of the buyer's or lessee's
+estimated future utility charges during the same period as impacted by potential
+utility rate changes ranging from at least a five percent annual decrease to at
+least a five percent annual increase from current utility costs applied to the duration of the agreement.The Any comparative estimates must be calculated based on the same utility rates by applying the entire rate change range to
+the duration of the agreement.
+13.Include a
+disclosure, the receipt of which shall be separately acknowledged by the buyer
+or lessee, that states:
+Utility rates and utility rate
+structures are subject to change. These changes cannot be accurately
+predicted. Projected savings from your distributed energy generation system
+are therefore subject to change.Tax incentives are subject to
+change or termination by executive, legislative or regulatory action.
+14.Comply
+with section 32-1158.
+B.If a
+document or sales presentation relating to a distributed energy generation
+system states or suggests that the distributed energy generation system will
+result in financial savings for a buyer or lessee, the document or sales
+presentation must substantiate the methodology used to calculate those savings
+and reasonably quantify the cumulative savings expected for the duration of the
+agreement.
+C.If a
+document or sales presentation relating to a distributed energy generation
+system contains financial savings comparative estimates or utility rate comparative
+estimates, the document and sales presentation must include historical utility
+rates for the immediately preceding period of time that is of the same duration
+as the proposed financing or lease period for the same class of utility
+customer in the same utility service territory as the prospective buyer or
+lessee. These historical rates must be included in any comparative estimates.
+D.The
+marketer or seller of a distributed energy generation system shall ensure that
+an engineer or other person who is knowledgeable about the installation,
+energizing and interconnection of the distributed energy generation system is
+present when the distributed energy generation system is installed, energized
+and interconnected to the power grid.
+B.E.Before
+the maintenance or warranty obligations of a distributed energy generation
+system under an existing lease, financing or purchase agreement is transferred,
+the person who is currently obligated to maintain or warrant the distributed
+energy generation system must disclose the name, address and telephone number
+of the person who will be assuming the maintenance or warranty of the
+distributed energy generation system.
+C.F.If the seller's or marketer's marketing materials
+a document or sales presentation
+relating to a distributed energy generation system contain contains
+an estimate of the buyer's or lessee's future utility charges based on
+projected utility rates after the
+installation of a distributed energy generation system, the marketing materials document and sales presentation must
+contain an estimate of the buyer's or lessee's estimated future utility charges during the same period as impacted by potential
+utility rate changes ranging from at least a five percent annual decrease to at
+least a five percent annual increase from current utility costs applied to the duration of an agreement for the financing,
+sale or lease of a distributed energy generation system. Any comparative
+estimates must be calculated by applying the entire rate change range to the
+duration of the agreement.
+G.Lease
+payments under a distributed energy generation system lease may not begin until
+the distributed energy generation system is energized and interconnected.
+D.H.This
+section does not apply to an individual or company, acting through its
+officers, employees or agents, that markets, sells, solicits, negotiates or
+enters into an agreement for the sale, financing or lease of a distributed
+energy generation system as part of a transaction involving the sale or
+transfer of the real property to which the distributed energy generation system
+is or will be affixed. END_STATUTE
+Sec.6.Title 44, chapter 11, article 11,
+Arizona Revised Statutes, is amended by adding section 44-1764, to read:
+START_STATUTE44-1764.Distributed energy generation system; interconnection
+Any person who seeks to
+install, energize or interconnect a distributed energy generation system must
+first submit an application for interconnection to the power grid to the
+utility that owns or operates the power grid.The utility must
+approve the application before the installation, energizing or interconnection
+of the distributed energy generation system. The application must disclose the
+current owner of the distributed energy generation system and the owner of the
+distributed energy generation system at the time the system will be
+energized.The applicant must follow the utility's effective
+interconnection requirements before interconnecting the distributed energy
+generation system. The utility that owns or operates the power grid to which
+the distributed energy generation system is interconnected must receive notice
+of any changes in ownership of the distributed energy generation system. END_STATUTE
+

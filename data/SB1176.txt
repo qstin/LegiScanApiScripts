@@ -1,0 +1,111 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: corporate income tax reductions;
+  suspension
+
+
+
+
+
+
+
+State of Arizona
+Senate
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+SB 1176
+
+
+
+
+
+
+
+
+
+Introduced by
+Senators
+  Farley, Dalessandro, Hobbs: Contreras, Pancrazi
+
+
+
+
+
+AN ACT
+
+Amending title
+43, chapter 11, Arizona Revised Statutes, by adding article 1.1; relating to
+corporate income taxes.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Title 43, chapter 11, Arizona Revised
+Statutes, is amended by adding article 1.1, to read:
+ARTICLE 1.1.SUSPENSION OF CREDITS AND
+REDUCTIONS
+START_STATUTE43-1105.Definitions
+In this article, unless
+the context otherwise requires:
+1."K-12"
+means kindergarten programs and grades one through twelve.
+2."Trigger
+event" means a fiscal year in which at least one of the following occurs:
+(a)The per student state general
+fund expenditures for K-12 education are at least equal to the median per student
+state general fund expenditures for K12 education among the fifty
+states, as determined by the joint legislative budget committee.
+(b)At least ninety-four percent of
+the third grade students in this state are reading at or higher than the third
+grade reading level as measured on the test prescribed by section 15-701.
+(c)The high school graduation rate
+in this state is at least ninetythree percent. END_STATUTE
+START_STATUTE43-1106.Suspension of credits and reductions
+A.Following
+every fiscal year, the superintendent of public instruction shall determine
+whether a trigger event occurred in that fiscal year and, on or before December
+1, report the findings of this determination to the governor, the director of
+the department of revenue, the president of the senate and the speaker of the
+house of representatives.
+B.Notwithstanding
+section 43-1111 and section 43-1139, subsection a, until a trigger event
+occurs, both of the following apply:
+1.There
+shall be levied, collected and paid for the taxable year on the entire Arizona
+taxable income of every corporation, unless exempt under section 43-1126 or
+43-1201 or as otherwise provided in this title or by law, taxes in an amount of
+5.5 percent of net income or fifty dollars, whichever is greater.
+2.Except as provided in section 43-1139,
+subsection B, every corporate taxpayer having income from business activity
+that is taxable both within and without this state shall elect to apportion all
+business income, as defined in section 43-1131, to this state for the taxable
+year by either:
+(a)Multiplying
+the income by a fraction, the numerator of which is the property factor
+determined pursuant to section 43-1140, plus the payroll factor determined
+pursuant to section 43-1143, plus two times the sales factor determined
+pursuant to section 43-1145, and the denominator of which is four.
+(b)Multiplying
+the income by a fraction, the numerator of which is two and one-half times the
+property factor, plus two and one-half times the payroll factor, plus
+ninety-five times the sales factor, and the denominator of which is one
+hundred.END_STATUTE
+

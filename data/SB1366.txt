@@ -1,0 +1,96 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: laboratories; pharmacogenetic testing 
+
+
+
+
+
+
+
+State of Arizona
+Senate
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+SB 1366
+
+
+
+
+
+
+
+
+
+Introduced by
+Senators
+  Barto: Kavanagh
+
+
+
+
+
+AN ACT
+
+Amending section
+36468, Arizona Revised Statutes; relating to clinical laboratories.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 36-468, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE36-468.Laboratory testing without health care provider's order;
+results; report; duty of care; liability; definitions
+A.A person may obtain any laboratory test from a
+licensed clinical laboratory on a direct access basis without a health care
+provider's request or written authorization if the laboratory offers that
+laboratory test to the public on a direct access basis without a health care
+provider's request or written authorization.
+B.If a laboratory test of a person is conducted by
+or under the supervision of a person other than a health care provider and not
+at the request or with the written authorization of a health care provider, any
+report of the test results shall be provided by the person conducting the test
+to the person who was the subject of the test.The report shall
+state in bold type that it is the responsibility of the person who was tested
+to arrange with the person's health care provider for consultation and
+interpretation of the test results.
+C.A health care provider's duty of care to a
+patient does not include any responsibility to review or act on the laboratory
+test results of a patient if the health care provider did not request or
+authorize the laboratory test.A health care provider is not subject
+to liability or disciplinary actions for the failure to review or act on the
+results of a laboratory test of any patient if the health care provider did not
+request or authorize the laboratory test.
+D.A clinical laboratory may not submit a claim for
+reimbursement from a thirdparty payor for any laboratory test conducted
+without a health care provider's request or written authorization.
+E.This section does not require that a laboratory
+test be covered by a health insurance plan or product pursuant to title 20 or
+by any program administered by the Arizona health care cost containment system
+administration pursuant to chapter 29 of this title.
+F.For the purposes of this section: ,
+1."Health
+care provider" means a person who is licensed pursuant to title 32 and who
+is authorized to order laboratory testing.
+2."Laboratory
+test" includes pharmacogenetic testing.END_STATUTE
+

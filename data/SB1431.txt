@@ -1,0 +1,664 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: property tax; disabled veterans'
+  residences
+
+
+
+
+
+
+
+State of Arizona
+Senate
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+SB 1431
+
+
+
+
+
+
+
+
+
+Introduced by
+Senator
+  Griffin
+
+
+
+
+
+AN ACT
+
+Amending sections
+15-972, 42-12003, 42-12009, 42-12052, 42-12053 and 4212054, Arizona
+Revised Statutes; amending title 42, chapter 12, article 2, Arizona Revised
+Statutes, by adding section 42-12058; amending sections 4215102 and
+42-15103, Arizona Revised Statutes; relating to property tax classification.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 15-972, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE15-972.State limitation on homeowner property taxes; additional
+state aid to school districts; definitions
+A.Notwithstanding section 15971, there shall
+be additional state aid for education computed for school districts as provided
+in subsection B of this section.
+B.The clerk of the board of supervisors shall
+compute such additional state aid for education as follows:
+1.For a high school district or for a common school
+district within a high school district that does not offer instruction in high
+school subjects as provided in section 15447:
+(a)Determine the qualifying tax rate pursuant to
+section 411276 for the school district.
+(b)Determine the following percentage of the
+qualifying tax rate determined in subdivision (a) of this paragraph:
+(i)Thirtyfive percent through December 31,
+2005.
+(ii)Thirtysix percent beginning from and
+after December 31, 2005 through December 31, 2006.
+(iii)Thirtyseven percent beginning from and
+after December 31, 2006 through December 31, 2007.
+(iv)Thirtyeight percent beginning from and
+after December 31, 2007 through December 31, 2008.
+(v)Thirtynine percent beginning from and
+after December 31, 2008 through December 31, 2009.
+(vi)Forty percent beginning from and after December
+31, 2009.
+(vii)Such further adjustments of the percentage
+beginning from and after December 31, 2012 as provided by law.
+(c)Select the lesser of the amount determined in
+subdivision (b) of this paragraph or forty percent of the primary property tax
+rate that would be levied in lieu of the provisions of this section for the
+district.
+(d)Multiply the rate selected in subdivision (c) of
+this paragraph as a rate per one hundred dollars assessed valuation by the
+assessed valuation used for primary property taxes of the residential property
+in the school district.
+2.For a unified school district, for a common
+school district not within a high school district or for a common school
+district that offers instruction in high school subjects as provided in section
+15447:
+(a)Determine the qualifying tax rate pursuant to
+section 411276 for the school district.
+(b)Determine the following percentage of the tax
+rate determined in subdivision (a) of this paragraph:
+(i)Thirtyfive percent through December 31,
+2005.
+(ii)Thirtysix percent beginning from and
+after December 31, 2005 through December 31, 2006.
+(iii)Thirtyseven percent beginning from and
+after December 31, 2006 through December 31, 2007.
+(iv)Thirtyeight percent beginning from and
+after December 31, 2007 through December 31, 2008.
+(v)Thirtynine percent beginning from and
+after December 31, 2008 through December 31, 2009.
+(vi)Forty percent beginning from and after December
+31, 2009.
+(vii)Such further adjustments of the percentage
+beginning from and after December 31, 2012 as provided by law.
+(c)Select the lesser of the amount determined in
+subdivision (b) of this paragraph or forty percent of the primary property tax
+rate that would be levied in lieu of the provisions of this section for the
+district.
+(d)Multiply the rate selected in subdivision (c) of
+this paragraph as a rate per one hundred dollars assessed valuation by the
+assessed valuation used for primary property taxes of the residential property
+in the district.
+C.The clerk of the board of supervisors shall
+report to the department of revenue not later than the Friday following the
+third Monday in August of each year the amount by school district of additional
+state aid for education and the data used for computing the amount as provided
+in subsection B of this section.The department of revenue shall
+verify all of the amounts and report to the county board of supervisors not
+later than August 30 of each year the property tax rate or rates that shall be
+used for property tax reduction as provided in subsection E of this section.
+D.The board of supervisors shall reduce the
+property tax rate or rates that would be levied in lieu of the provisions of
+this section by the school district or districts on the assessed valuation used
+for primary property taxes of the residential property in the school district
+or districts by the rate or rates selected in subsection B, paragraph 1,
+subdivision (c) and paragraph 2, subdivision (c) of this section. The excess
+of the reduction in property taxes for a parcel of property resulting from the
+reduction in the property tax rate pursuant to this subsection over the amounts
+listed in this subsection shall be deducted from the amount of additional state
+aid for education. The reduction in property taxes on a parcel of property
+resulting from the reduction in the property tax rate pursuant to this
+subsection shall not exceed the following amounts except as provided in
+subsection I of this section:
+1.Five hundred dollars through December 31, 2005.
+2.Five hundred twenty dollars beginning from and
+after December 31, 2005 through December 31, 2006.
+3.Five hundred forty dollars beginning from and
+after December 31, 2006 through December 31, 2007.
+4.Five hundred sixty dollars beginning from and
+after December 31, 2007 through December 31, 2008.
+5.Five hundred eighty dollars beginning from and
+after December 31, 2008 through December 31, 2009.
+6.Six hundred dollars beginning from and after
+December 31, 2009.
+E.Prior to the levying of taxes for school purposes
+the board of supervisors shall determine whether the total primary property
+taxes to be levied for all taxing jurisdictions on each parcel of residential
+property, in lieu of the provisions of this subsection, violate article IX,
+section 18, Constitution of Arizona. For those properties that qualify for
+property tax exemptions pursuant to article IX, sections 2, 2.1 and 2.2,
+Constitution of Arizona, eligibility for the credit is determined on the basis
+of the limited property value that corresponds to the taxable assessed value after
+reduction for the applicable exemption. If the board of supervisors determines
+that such a situation exists, the board shall apply a credit against the
+primary property taxes due from each such parcel in the amount in excess of
+article IX, section 18, Constitution of Arizona. Such excess amounts shall
+also be additional state aid for education for the school district or districts
+in which such parcel of property is located.
+F.The clerk of the board of supervisors shall
+report to the department of revenue not later than September 5 of each year the
+amount by school district of additional state aid for education and the data
+used for computing the amount as provided in subsection B of this
+section.The department of revenue shall verify all of the amounts
+and report to the board of supervisors not later than September 10 of each year
+the property tax rate that shall be used for property tax reduction as provided
+in subsection E of this section.
+G.The clerk of the board of supervisors shall
+report to the department of revenue not later than September 30 of each year in
+writing the following:
+1.The data processing specifications used in the
+calculations provided for in subsections B and E of this section.
+2.At a minimum, copies of two actual tax bills for
+residential property for each distinct tax area.
+H.The department of revenue shall report to the
+state board of education not later than October 12 of each year the amount by
+school district of additional state aid for education as provided in this
+section. The additional state aid for education provided in this section shall
+be apportioned as provided in section 15973.
+I.If a parcel of property is owned by a cooperative
+apartment corporation or is owned by the tenants of a cooperative apartment
+corporation as tenants in common, the reduction in the property taxes
+prescribed in subsection D of this section shall not exceed the amounts listed
+in subsection D of this section for each owneroccupied housing unit on
+the property. The assessed value used for determining the reduction in taxes
+for the property is equal to the total assessed value of the property times the
+ratio of the number of owneroccupied housing units to the total number
+of housing units on the property.For the purposes of this
+subsection, "cooperative apartment corporation" means a corporation:
+1.Having only one class of outstanding stock.
+2.Of which
+all of the stockholders of which
+are entitled, solely by reason of their ownership of stock in the corporation,
+to occupy for dwelling purposes apartments in a building owned or leased by
+such corporation and who
+are not entitled, either conditionally or unconditionally, except upon on a complete or partial liquidation of the
+corporation, to receive any distribution not out of earnings and profits of the
+corporation.
+3.Of which eighty
+percent or more of the gross income of
+which is derived from tenantstockholders. For the
+purposes of this paragraph, "gross income" means gross income as
+defined by the United States internal revenue code, as defined in section 43105.
+J.The total amount of state monies that may be
+spent in any fiscal year for state aid for education in this section shall not
+exceed the amount appropriated or authorized by section 35173 for that
+purpose. This section shall not be construed to impose a duty on an officer,
+agent or employee of this state to discharge a responsibility or to create any
+right in a person or group if the discharge or right would require an
+expenditure of state monies in excess of the expenditure authorized by
+legislative appropriation for that specific purpose.
+K.Notwithstanding subsection E of this section,
+beginning in fiscal year 2015-2016, the maximum amount of additional state aid
+for education that will be funded by this state pursuant to subsection E of
+this section shall be one million dollars per county. For any county with a
+school district or districts that collectively would otherwise receive more
+than one million dollars in
+additional state aid for education pursuant to subsection E of this section,
+the property tax oversight commission established by section 4217002
+shall determine the proportion of the violation of article IX, section 18,
+Constitution of Arizona, that is attributable to each taxing jurisdiction within
+the affected school district or districts.Based on those
+proportions, the property tax oversight commission shall determine an amount
+that each taxing jurisdiction within the affected school district or districts
+shall transfer to the affected school district or districts during the fiscal
+year in order to compensate the affected school district or districts for its
+pro rata share of the reduction in additional state aid for education funding
+required by this subsection. In determining the proportion of the violation of
+article IX, section 18, Constitution of Arizona, that is attributable to each
+taxing jurisdiction within the affected school district or districts, the
+property tax oversight commission shall assume a proportion of zero for any
+taxing jurisdiction that has a tax rate for the fiscal year that is equal to or
+less than the tax rate of peer jurisdictions, as determined by the property tax
+oversight commission.
+L.For the purposes
+of this section:
+1."Owner"
+includes any purchaser under a contract of sale or under a deed of trust.
+2."Residential property" includes owneroccupied
+real property and improvements to the property and owneroccupied mobile
+homes that are used as the owner's primary residence and classified as class
+three property pursuant to section 4212003 and as class nine property pursuant to section 42-12009,
+subsection A, paragraph 6. END_STATUTE
+Sec.2.Section 42-12003, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE42-12003.Class three property; definition
+A.For purposes of taxation, class three is
+established consisting of:
+1.Real and personal property and improvements to
+the property that are used as the owner's primary residence, that are not
+otherwise included in class one, two, four, six, seven, or
+eight or nine and that
+are valued at full cash value. 
+2.Real and personal property that is occupied by a
+relative of the owner, as provided by section 4212053, and used as the
+relative's primary residence, that is not otherwise included in class one, two,
+four, six, seven or eight and that is valued at full cash value.
+B.For the purposes of this section, a homesite that
+is included in class three may include:
+1.Up to ten acres on a single parcel of real
+property on which the residential improvement is located.
+2.More than ten, but not more than forty, acres on
+a single parcel of real property on which the residential improvement is
+located if it is zoned exclusively for residential purposes or contains legal
+restrictions or physical conditions that prevent the division of the parcel.
+C.For the purposes of this section, "physical
+conditions" means topography, mountains, washes, rivers, roads or any other
+configuration that limits the residential usable land area. END_STATUTE
+Sec.3.Section 42-12009, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE42-12009.Class nine property
+A.For purposes of
+taxation, class nine is established consisting of:
+1.Improvements that are
+located on federal, state, county or municipal property and owned by the lessee
+of the property if:
+(a)The improvements are
+required to become the property of the federal, state, county or municipal
+owner of the property on termination ofthe leasehold interest in the
+property.
+(b)Both the
+improvements and the property are used exclusively for convention activities or
+athletic, recreational, entertainment, artistic or cultural facilities.
+2.Improvements that are
+located on federal, state, county or municipal property and owned by the lessee
+of the property if:
+(a)The improvements are
+required to become the property of the federal, state, county or municipal
+owner of the property on termination ofthe leasehold interest in the
+property.
+(b)Both the
+improvements and the property are:
+(i)Used for or in
+connection with aviation, including hangars, tiedowns, aircraft
+maintenance, sales of aviationrelated items, charter andrental
+activities, parking facilities and restaurants, stores and otherservices
+located in a terminal.
+(ii)Located on a state,
+county, city or town airport or a public airport operating pursuant to sections
+288423, 288424 and 288425.
+3.Property that is
+defined as "contractor-acquired property" or
+"government-furnished property" in the federal acquisition
+regulations (48Code of Federal Regulations section 45.101) and that is
+leased to or acquired by the government and used to perform a government
+contract.
+4.Property of a
+corporation that is organized by or at the directionof this state or a
+county, city or town to develop, construct, improve, repair, replace or own any
+property, improvement, building or otherfacility to be used for public
+purposes that the state, county, city ortown pledges to lease or
+lease-purchase with state, county or municipal special or general revenues and
+that is not otherwise exempt under chapter 11, article 3 of this title.
+5.Real property and
+improvements, including land, buildings, furniture and equipment, regardless of
+ownership, that are leased for the entire valuation year to, and used
+exclusively by, a nonprofit organization that is recognized under section
+501(c)(3) of the internal revenue code and that operates on the premises as a
+charter school pursuant to section 15183 or that are leased for the
+entire valuation year to, and used exclusively by, a nonprofit church,
+religious assembly or religious institution.If only part of a
+parcel of real property or improvements to real property is leased for
+operation of a charter school or a church, religious assembly or religious
+institution as provided by this paragraph, only the portion so leased qualifies
+for classification under this section. A property owner who leases property to
+a charter school or a church, religious assembly or religious institution as
+provided by this paragraph shall file an affidavit with the county assessor
+stating that the charter school or church, religious assembly or religious
+institution shall be the sole beneficiary of the change in property tax
+classification pursuant to this section and that the lease rate that is charged
+to the charter school or church, religious assembly or religious institution is
+consistent with the lease rates that are charged to other tenants of the
+property or a fair market rate.
+6.Real and personal property and improvements to
+the property that are used as the primary residence of a qualifying veteran
+with a disability that is owned by the veteran, by the veteran's spouse or
+jointly by the veteran and the veteran's spouse, as provided by section
+42-12058.For the purposes of this paragraph, a homesite that is
+included in class nine may include:
+(a)Up to ten acres on a single parcel of real property on which
+the residential improvement is located.
+(b)More than ten, but not more than forty, acres on a single
+parcel of real property on which the residential improvement is located if it
+is zoned exclusively for residential purposes or contains legal restrictions or
+physical conditions that prevent the division of the parcel.For the
+purposes of this subdivision, "physical conditions" means topography,
+mountains, washes, rivers, roads or any other configuration that limits the
+residential usable land area.
+B.Improvements that are
+located in an area defined as a research parkpursuant to section 35701
+may not be classified under this section.
+C.All property
+classified as class nine is subject to valuation at full cash value. END_STATUTE
+Sec.4.Section 42-12052, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE42-12052.Review and verification of class three and class nine
+property; civil penalty; appeals
+A.Each county assessor shall review assessment
+information, on a continuing basis, to ensure proper classification of
+residential dwellings. The assessor may enter into intergovernmental agreements
+with the department for an exchange of information to ensure a coordinated and
+comprehensive review and identification of property that may be rented while
+classified as class three pursuant to section 4212003 or as class nine pursuant to section 42-12009, subsection A,
+paragraph 6.
+B.If the assessor has reason to believe that a
+parcel of property that is classified as class three pursuant to section 4212003
+or as class nine pursuant to section
+42-12009, subsection A, paragraph 6 is not used as the owner's primary
+residence or as a qualifying family member residence pursuant to section 4212053,
+the assessor shall notify the owner, in a form prescribed by the department as
+provided by subsection D of this section, and request that the owner respond as
+to whether the property meets the requirements of section 4212003, section 42-12009, subsection A, paragraph 6
+or section 4212053
+or 42-12058, is a
+secondary residence or is used as a rental property. If the owner fails to
+respond to the assessor within thirty days after the notice is mailed, the
+assessor shall mail the owner a final notice within thirty days requesting that
+the owner provide information as to whether or not the property meets the
+requirements of a primary residence,
+or a secondary residence
+or is used as a rental property. If the owner fails to respond to the assessor
+within fifteen days after the final notice is mailed, the assessor shall:
+1.Reclassify the
+property as class four. In addition to other appeal procedures provided by
+law, the owner of the property that is reclassified as class four under this
+paragraph may appeal the reclassification to the county board of supervisors
+within thirty days after the notice of classification is mailed. If the owner
+proves to the board's satisfaction that the property is occupied as the owner's
+primary residence, the board shall order the property to be reclassified as
+class three property pursuant to section 4212003 or as class nine pursuant to section 42-12009, subsection A,
+paragraph 6, as applicable.
+2.Notify the county treasurer who shall assess a
+civil penalty against the property equal to the amount of additional state aid
+paid pursuant to section 15972 with respect to the property in the
+preceding tax year.The civil penalty shall not be assessed if the
+ownership of the property has changed after notification. The owner of the
+property shall pay a penalty under this paragraph to the county treasurer
+within thirty days after the notice of the penalty is mailed. The owner may
+appeal the penalty to the county board of supervisors within the time required
+for payment.If the owner proves to the board's satisfaction that
+the property is occupied by the owner, the board shall waive the penalty, and
+the property shall be listed as class three pursuant to section 4212003 or as class nine pursuant to section
+42-12009, subsection A, paragraph 6, as applicable.Until
+paid or waived, the penalty constitutes a lien against the
+property.The county treasurer shall deposit all revenue received
+from penalties assessed under this paragraph in the county general fund.
+C.Beginning in 2013 and during each elective term
+of office thereafter, the
+county assessor shall send notices under subsection B of this section to each
+owner of property classified as class three pursuant to section 4212003 or class nine pursuant to section 42-12009,
+subsection A, paragraph 6 described by any of the following:
+1.The owner has a mailing address outside the
+county in which the property is located.
+2.The owner has a mailing address, other than a
+post office box, that is different than the situs address of the property.
+3.The owner has the same mailing address listed for
+more than one parcel of class three property, or for class three and class nine property,
+in this state.
+4.The owner appears to be a business entity.
+D.The department shall:
+1.Prescribe all forms used to notify property
+owners under this section.The forms shall contain information as to
+criteria for the reclassification of property and the civil penalties that may
+result if the owner fails to respond to the notice.
+2.Monitor and review the procedures and practices
+used by assessors and treasurers to accomplish the verification of class three property classification and the
+assessment and collection of penalties prescribed by this section and propose
+suggested improvements to establish uniform processes and performance among the
+counties. 
+E.The department may inspect the records of county
+assessors and county treasurers to determine compliance with the requirements
+of this section and the accuracy of the classification of owner-occupied
+residential property and rental property. END_STATUTE
+Sec.5.Section 42-12053, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE42-12053.Criteria for distinguishing primary residential property,
+secondary residential property and rental property
+A.For the purpose of classifying residential
+property under sections 4212003, 4212004 and 4212052, a
+parcel is not considered a secondary property or rental property if the
+property is occupied by a member of the owner's family, who must be:
+1.The owner's natural or adopted child or a
+descendant of the owner's child.
+2.The owner's parent or an ancestor of the owner's
+parent.
+3.The owner's stepchild or stepparent.
+4.The owner's child-in-law or parent-in-law.
+5.The owner's natural or adopted sibling.
+B.For the purpose of classifying owner-occupied
+residential property under sections 4212003, 4212004 and 4212052
+and section 42-12009, subsection A,
+paragraph 6, the department shall adopt standard criteria for use
+in determining whether the property is considered to be the owner's or
+relative's primary residence, including:
+1.The period of occupancy each year.
+2.The owner's registered voting precinct.
+3.The owner's driver license address.
+4.The registration address of the owner's motor
+vehicles.
+5.Other appropriate indicators of primary residency.
+END_STATUTE
+Sec.6.Section 42-12054, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE42-12054.Change in classification of owner-occupied residence
+A.If a person purchases or converts property that
+is listed as class one pursuant to
+section 4212001, paragraph 12 or 13, class two or class
+four pursuant to article 1 of this chapter and occupies the property as the
+person's primary residence, the person may have the classification reviewed for
+change to class three from the date of conversion and occupancy as a primary
+residence and may appeal from the decision resulting from the review in the
+same manner as provided by law for review of a valuation for ad valorem
+property taxes and appeal from that review.
+B.If a person purchases or converts property that
+is listed as class one pursuant to
+section 4212001, paragraph 12 or 13, class two or class
+four pursuant to article 1 of this chapter and the property is occupied by a
+member of the owner's immediate family as described in section 4212053,
+the person may have the classification reviewed for change to class three from
+the date of occupancy and may appeal the decision resulting from the review in
+the same manner as provided by law for review of a valuation for ad valorem
+property taxes and appeal from that review.
+C.If a
+veteran with a disability rated at one hundred percent purchases or converts
+property that is listed as class one pursuant to section 4212001,
+paragraph 12 or 13 or as class two, class three or class four pursuant to
+article 1 of this chapter and occupies the property as the veteran's primary
+residence, the veteran may have the classification reviewed for change to class
+nine pursuant to section 42-12009, subsection A, paragraph 6 from the date of
+occupancy and may appeal the decision resulting from the review in the same
+manner as provided by law for review of a valuation for ad valorem property
+taxes and appeal from that review.
+C.D.If a person makes
+such a conversion or occupancy or appeals the classification after the county
+assessor has closed the rolls, the person may petition the county board of
+supervisors to change the classification and reduce the assessed valuation from
+the date of conversion or occupancy.
+D.E.The board of
+supervisors shall entertain the petition in the same manner as a board of
+equalization hears a request for reduction in valuation.
+E.F.The petitioner
+may appeal the board of supervisors' decision in the same manner as provided in
+section 4216111, except that the petitioner shall file the notice of
+appeal within fifteen days after the board's finding.
+F.G.If the board of
+supervisors finds that the property is in fact being used for the owner's
+primary residence and should be listed as class three property pursuant to section 42-12003 or as class nine property
+pursuant to section 42-12009, subsection A, paragraph 6, it the board shall change the classification on
+the roll and fix the assessed valuation from the date of
+occupancy.The amount of taxes that is assessed against the property
+shall be computed by applying the current tax rate to the original assessed
+valuation prorated for the portion of the tax year before the property was currently occupied plus the
+current tax rate applied to the reassessed value of the property prorated for
+the balance of the year.
+G.H.The board of
+supervisors shall notify the department, assessor and county treasurer of the
+change in classification, the change in assessed valuation and the amount of
+tax assessed.The department and the assessor may appeal any such
+decision in the same manner as provided in section 4216111.The
+assessor and treasurer shall note the change on their records, and the treasurer
+may issue a future tax credit, endorsed by the board, to the person whose
+property is liable for the tax.The tax credit shall be used on the
+next or several succeeding property tax assessments that the person may owe
+thereafter. END_STATUTE
+Sec.7.Title
+42, chapter 12, article 2, Arizona Revised Statutes, is amended by adding
+section 42-12058, to read:
+START_STATUTE42-12058.Criteria for class nine classification; veterans with a
+disability; definitions
+A.For the
+purpose of classifying residential property as class nine under section
+42-12009, subsection A, paragraph 6:
+1.The
+property must be owned:
+(a)By a
+veteran who has a service-connected disability of one hundred percent, as rated
+by the United States department of veterans affairs, that was sustained while
+serving in the armed forces of the United States. Any question regarding the
+person's status as a veteran or as having a claimed service-connected
+disability must be verified by the United States department of veterans affairs
+or by the department of veterans' services.
+(b)Solely
+by the unmarried surviving spouse of a DECEASED veteran who was killed in
+action or who died as a result of injury incurred while serving on active duty
+in the armed forces of the United States.
+2.The
+veteran, or the veteran's surviving spouse, must occupy the property as the
+person's primary residence. The property may be considered to be the primary
+residence of a veteran who is confined to a hospital or other care facility if
+the property would be the veteran's primary residence were it not for the
+veteran's confinement and if the property is not leased or rented to another
+occupant other than a family member who resides at the property.
+B.For the
+purposes of this section:
+1."Primary
+residence" means an owner-occupied dwelling, including a manufactured
+home, that is owned by and used as the primary dwelling place of the veteran or
+the veteran's surviving spouse.A primary residence may consist of
+part of a multidwelling or multipurpose building and part of the land on which
+the building is located.
+2."Veteran"
+means an individual who has served in, and been discharged, separated or
+released under honorable conditions from, active or inactive service in the
+uniformed services of the united states, including:
+(a)All
+regular, reserve and national guard components of the United States army, navy,
+air force, marine corps and coast guard.
+(b)The
+commissioned corps of the national oceanic and atmospheric administration.
+(c)The
+commissioned corps of the United States public health service.
+(d)A
+nurse in the service of the American red cross or in the army and navy nurse
+corps.
+(e)Any
+other civilian service that is authorized by federal law to be considered
+active military duty for the purpose of laws administered by the United States
+secretary of veterans affairs. END_STATUTE
+Sec.8.Section
+42-15102, Arizona Revised Statutes, is amended to read:
+START_STATUTE42-15102.Notice information entered by assessor
+A.The assessor shall
+include in the assessment notice:
+1.The full cash value found by the assessor for the
+property for the preceding valuation year.
+2.The classification of the property pursuant to
+chapter 12 of this title.
+3.The mailing date of the notice.
+4.The last date on which the owner may file an
+appeal from the valuation or classification assigned to the property.
+B.Except for property that is listed as class three
+property under section 4212003, owner-occupied residential property that
+is listed as class four property under section 4212004, subsection A,
+paragraph 1, and single family rented residential
+property that is listed as class four property under section 4212004,
+subsection A, paragraph 2 and the
+primary residence of a veteran with a disability that is listed as class nine
+property under section 42-12009, subsection A, paragraph 6, the
+notice shall separately list the full cash value of the land and the full cash
+value of the improvement or improvements associated with the land. END_STATUTE
+Sec.9.Section 42-15103, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE42-15103.Contents of notice form
+The notice form shall:
+1.Prominently display a statement for all
+residential properties:
+(a)Which
+That defines class three
+properties as described in section 4212003.
+(b)Informing property owners that if the property
+listed on the notice does not meet the definition
+description provided
+pursuant to subdivision (a) of this section
+paragraph, the owner must
+notify the county assessor of the usage of the property or they the
+owner may be subject to a civil penalty prescribed by section 4212052.
+2.Prominently
+display a statement for residential properties classified as class nine
+pursuant to section 42-12009, subsection A, paragraph 6 listing the
+requirements for classification and informing the property owner that if the
+property listed on the notice and the ownership do not meet those requirements,
+the owner must notify the county assessor of the current usage of the property
+or the owner may be subject to a civil penalty prescribed by section 42-12052.
+2.3.Include
+simplified instructions on the procedure and deadlines for appealing the
+assessed valuation shown on the notice.
+3.4.Prominently
+display a statement informing owners of property that is used for residential
+rental purposes that:
+(a)The parcel must be listed on the notice as class
+four, and the owner must register the residential rental property with the
+county assessor pursuant to section 331902 or the owner may be subject
+to a penalty.
+(b)If the owner is required to register the rental
+property with the county assessor and fails to do so after receipt of this
+notice, the city or town may impose a civil penalty payable to the city or town
+in the amount of one hundred fifty dollars per day for each day of violation,
+and the city or town may impose enhanced inspection and enforcement measures on
+the property.
+(c)If the city or town in which the property is
+located requires the lessor to pay transaction privilege tax on residential
+rent, a notice of applicable requirements imposed by the city or town and that
+failure to pay the applicable tax could result in a penalty or fine by the city
+or town.
+(d)Residential rental properties are required to
+comply with the landlord tenant law pursuant to title 33, chapters 10 and 11. END_STATUTE
+

@@ -1,0 +1,1536 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: reviser's technical corrections; 2016
+
+
+
+
+
+
+
+State of Arizona
+Senate
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+SB 1251
+
+
+
+
+
+
+
+
+
+Introduced by
+Senator
+  Biggs
+
+
+
+
+
+AN ACT
+
+repealing section
+362021, Arizona Revised Statutes, as amended by laws 2015, chapter 195,
+section 47; amending section 362021, Arizona Revised Statutes, as
+amended by laws 2015, chapter 276, section 6; repealing section 362907,
+Arizona Revised Statutes, as amended by Laws 2015, chapter 195, section 57;
+amending section 362907, Arizona Revised Statutes, as amended by laws
+2015, chapter 264, section 1; repealing section 412501, Arizona Revised
+Statutes, as amended by laws 2015, chapter 195, section 82; amending section 412501,
+Arizona Revised Statutes, as amended by laws 2015, chapter 257, section 30;
+repealing section 413803, Arizona Revised Statutes, as amended by Laws
+2015, chapter 195, section 83; amending section 413803, Arizona Revised
+Statutes, as amended by laws 2015, chapter 167, section 1; repealing section 413804,
+Arizona Revised Statutes, as amended by laws 2015, chapter 195, section 84;
+amending section 413804, Arizona Revised Statutes, as amended by laws
+2015, chapter 167, section 2; repealing section 413955.01, Arizona
+Revised Statutes, as amended by laws 2015, chapter 195, section 85; amending
+section 413955.01, Arizona Revised Statutes, as amended by laws 2015,
+chapter 312, section 1; amending section 413955.01, Arizona Revised
+Statutes, as amended by laws 2015, chapter 312, section 2; repealing section 49123,
+Arizona Revised Statutes, as amended by laws 2015, chapter 208, section 25;
+amending section 49123, Arizona Revised Statutes, as amended by laws
+2013, chapter 205, section 1; repealing section 49127, Arizona Revised
+Statutes, as amended by laws 2015, CHAPTER 208, section 26; amending section 49127,
+Arizona Revised Statutes, as amended by laws 1989, chapter 238, section 5;
+repealing section 49128, Arizona Revised Statutes, as amended by laws
+2015, chapter 208, section 27; amending section 49128, Arizona Revised
+Statutes, as amended by laws 2011, chapter 36, section 1; repealing section 49129,
+Arizona Revised Statutes, as amended by laws 2015, chapter 208, section 28;
+amending section 49129, Arizona Revised Statutes, as amended by laws
+1989, chapter 238, section 7; repealing section 49130, Arizona Revised
+Statutes, as amended by laws 2015, chapter 208, section 29; amending section 49130,
+Arizona Revised Statutes, as amended by laws 2002, chapter 138, section 1;
+repealing section 49131, Arizona Revised Statutes, as amended by laws
+2015, chapter 208, section 30; amending section 49131, Arizona Revised
+Statutes, as amended by laws 1989, chapter 238, section 9; repealing section 49132,
+Arizona Revised Statutes, as amended by laws 2015, chapter 208, section 31;
+amending section 49132, Arizona Revised Statutes, as amended by laws
+1991, chapter 315, section 4; repealing laws 2015, chapter 208, section 35;
+appropriating monies; relating to MULTIPLE, defective and conflicting
+legislative DISPOSITIONS of statutory text.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Purpose
+1.Section 362021, Arizona Revised Statutes,
+was amended by Laws 2015, chapter 195, section 47 and chapter 276, section 6.
+The chapter 195 version could not be blended because of the delayed effective
+date. In order to combine these versions, this act amends the Laws 2015,
+chapter 276 version of section 362021, Arizona Revised Statutes, to
+incorporate the amendments made by Laws 2015, chapter 195, and the chapter 195
+version is repealed.
+2.Section 362907, Arizona Revised Statutes,
+was amended by Laws 2015, chapter 195, section 57 and chapter 264, section 1.
+The chapter 195 version could not be blended because of the delayed effective
+date. In order to combine these versions, this act amends the Laws 2015,
+chapter 264 version of section 362907, Arizona Revised Statutes, to
+incorporate the amendments made by Laws 2015, chapter 195, and the chapter 195
+version is repealed.
+3.Section 412501, Arizona Revised Statutes,
+was amended by Laws 2015, chapter 195, section 82 and chapter 257, section 30.
+The chapter 195 version could not be blended because of the delayed effective
+date. In order to combine these versions, this act amends the Laws 2015,
+chapter 257 version of section 412501, Arizona Revised Statutes, to
+incorporate the amendments made by Laws 2015, chapter 195, and the chapter 195
+version is repealed.
+4.Section 413803, Arizona Revised Statutes,
+was amended by Laws 2015, chapter 167, section 1 and chapter 195, section 83.
+The chapter 195 version could not be blended because of the delayed effective
+date. In order to combine these versions, this act amends the Laws 2015,
+chapter 167 version of section 413803, Arizona Revised Statutes, to
+incorporate the amendments made by Laws 2015, chapter 195, and the chapter 195
+version is repealed.
+5.Section 413804, Arizona Revised Statutes,
+was amended by Laws 2015, chapter 167, section 2 and chapter 195, section 84.
+The chapter 195 version could not be blended because of the delayed effective
+date. In order to combine these versions, this act amends the Laws 2015,
+chapter 167 version of section 413804, Arizona Revised Statutes, to
+incorporate the amendments made by Laws 2015, chapter 195, and the chapter 195
+version is repealed.
+6.Section 413955.01, Arizona Revised
+Statutes, was amended by Laws 2015, chapter 195, section 85 and chapter 312,
+sections 1 and 2. The chapter 195 version could not be blended because of the
+delayed effective date. In order to combine these versions, this act amends
+the Laws 2015, chapter 312, section 1 and section 2 versions of section 413955.01,
+Arizona Revised Statutes, to incorporate the amendments made by Laws 2015,
+chapter 195, and the chapter 195 version is repealed.
+7.Section 26343, Arizona Revised Statutes,
+was transferred and renumbered as section 49123, Arizona Revised
+Statutes, by Laws 2015, chapter 208, section 12, and, as renumbered, was amended
+by Laws 2015, chapter 208, section 25.However, the amendment of
+section 49123, Arizona Revised Statutes, was not included in the title
+of the act. In order to comply with article IV, part 2, section 13,
+Constitution of Arizona, this act amends section 49123, Arizona Revised
+Statutes, as amended by Laws 2013, chapter 205, section 1, to incorporate the
+amendments made by Laws 2015, chapter 208, and the chapter 208 version is
+repealed.
+8.Section 26347, Arizona Revised Statutes,
+was transferred and renumbered as section 49127, Arizona Revised
+Statutes, by Laws 2015, chapter 208, section 12, and, as renumbered, was
+amended by Laws 2015, chapter 208, section 26.However, the
+amendment of section 49127, Arizona Revised Statutes, was not included in
+the title of the act. In order to comply with article IV, part 2, section 13,
+Constitution of Arizona, this act amends section 49127, Arizona Revised
+Statutes, as amended by Laws 1989, chapter 238, section 5, to incorporate the
+amendments made by Laws 2015, chapter 208, and the chapter 208 version is
+repealed.
+9.Section 26348, Arizona Revised Statutes,
+was transferred and renumbered as section 49128, Arizona Revised
+Statutes, by Laws 2015, chapter 208, section 12, and, as renumbered, was
+amended by Laws 2015, chapter 208, section 27.However, the
+amendment of section 49128, Arizona Revised Statutes, was not included
+in the title of the act. In order to comply with article IV, part 2, section
+13, Constitution of Arizona, this act amends section 49128, Arizona
+Revised Statutes, as amended by Laws 2011, chapter 36, section 1, to
+incorporate the amendments made by Laws 2015, chapter 208, and the chapter 208
+version is repealed.
+10.Section 26349, Arizona Revised Statutes,
+was transferred and renumbered as section 49129, Arizona Revised
+Statutes, by Laws 2015, chapter 208, section 12, and, as renumbered, was
+amended by Laws 2015, chapter 208, section 28.However, the
+amendment of section 49129, Arizona Revised Statutes, was not included
+in the title of the act. In order to comply with article IV, part 2, section
+13, Constitution of Arizona, this act amends section 49129, Arizona
+Revised Statutes, as amended by Laws 1989, chapter 238, section 7, to
+incorporate the amendments made by Laws 2015, chapter 208, and the chapter 208
+version is repealed.
+11.Section 26350, Arizona Revised Statutes,
+was transferred and renumbered as section 49130, Arizona Revised
+Statutes, by Laws 2015, chapter 208, section 12, and, as renumbered, was
+amended by Laws 2015, chapter 208, section 29.However, the
+amendment of section 49130, Arizona Revised Statutes, was not included
+in the title of the act. In order to comply with article IV, part 2, section
+13, Constitution of Arizona, this act amends section 49130, Arizona Revised
+Statutes, as amended by Laws 2002, chapter 138, section 1, to incorporate the
+amendments made by Laws 2015, chapter 208, and the chapter 208 version is
+repealed.
+12.Section 26351, Arizona Revised Statutes,
+was transferred and renumbered as section 49131, Arizona Revised
+Statutes, by Laws 2015, chapter 208, section 12, and, as renumbered, was
+amended by Laws 2015, chapter 208, section 30.However, the
+amendment of section 49131, Arizona Revised Statutes, was not included
+in the title of the act. In order to comply with article IV, part 2, section
+13, Constitution of Arizona, this act amends section 49131, Arizona
+Revised Statutes, as amended by Laws 1989, chapter 238, section 9, to
+incorporate the amendments made by Laws 2015, chapter 208, and the chapter 208
+version is repealed.
+13.Section 26352, Arizona Revised Statutes,
+was transferred and renumbered as section 49132, Arizona Revised
+Statutes, by Laws 2015, chapter 208, section 12, and, as renumbered, was
+amended by Laws 2015, chapter 208, section 31.However, the
+amendment of section 49132, Arizona Revised Statutes, was not included
+in the title of the act. In order to comply with article IV, part 2, section
+13, Constitution of Arizona, this act amends section 49132, Arizona
+Revised Statutes, as amended by Laws 1991, chapter 315, section 4, to
+incorporate the amendments made by Laws 2015, chapter 208, and the chapter 208
+version is repealed.
+14.Laws 2015, chapter 208, section 35 transferred
+monies, but this appropriation was not included in the title of the act. In
+order to comply with article IV, part 2, section 13, Constitution of Arizona,
+this act repeals Laws 2015, chapter 208, section 35 and reenacts the transfer
+of monies.
+Sec.2.Repeal
+Section 36-2021,
+Arizona Revised Statutes, as amended by Laws 2015, chapter 195, section 47, is
+repealed.
+Sec.3.Section 36-2021, Arizona Revised
+Statutes, as amended by Laws 2015, chapter 276, section 6, is amended to read:
+START_STATUTE36-2021.Definitions
+In this chapter, unless the context otherwise requires:
+1."Administration"
+means the Arizona health care cost containment system administration.
+1.2."Alcoholic"
+means a person who habitually lacks selfcontrol with respect to the use
+of alcoholic beverages or who uses alcoholic beverages to the extent that his the person's health is substantially impaired
+or endangered or his social
+or economic functions are substantially disrupted.
+2.3."Approved
+private treatment facility" means a private agency meeting the standards
+established by the division
+department and approved
+pursuant to sections 362023 and 362029.
+3.4."Approved
+public treatment facility" means a treatment agency operating under the
+directions and control of a county, providing treatment through a contract with
+a county, meeting the standards established by the division department and approved pursuant to sections 362023
+and 362029.
+4.5."Chronic
+alcoholic" means an alcoholic who is incapacitated by alcohol and who
+during the preceding twelve months has been admitted to a local alcoholism
+reception center on ten or more occasions or has been admitted for three or
+more episodes of inpatient or residential alcoholism treatment.
+5.6."Court"
+means the supreme court, the court of appeals, a superior court, a justice of
+the peace court, a municipal court or a city court authorized by charter.
+6.7."Department"
+means the department of health services.
+7."Deputy
+director" means the deputy director of the division of behavioral health
+in the department of health services.
+8."Director" means the director of the department of health services administration.
+9."Division"
+means the division of behavioral health in the department of health services.
+10.9."Evaluation"
+means a multidisciplinary
+professional analysis of a person's medical, psychological, social, financial
+and legal conditions. Persons providing evaluation services shall be properly
+qualified professionals and may be fulltime employees of an approved
+treatment facility providing evaluation services or may be parttime
+employees or may be employed on a contractual basis.
+11.10."Incapacitated
+by alcohol" means that a person as a result of the use of alcohol is
+unconscious or has his judgment
+otherwise so impaired that he
+the person is incapable
+of realizing and making a rational decision with respect to his the
+person's need for evaluation and treatment, is unable to take
+care of his basic personal
+needs or safety such as food, clothing, shelter or medical care or lacks
+sufficient understanding or capacity to make or communicate rational decisions concerning himself.
+12.11."Intoxicated
+person" means a person whose mental or physical functioning is
+substantially impaired as a result of the immediate effects of alcohol in his the person's system.
+13.12."Local
+alcoholism reception center" or "center" means an initial
+reception agency for a person who is intoxicated or who is incapacitated by
+alcohol to receive initial evaluation and processing for assignment for further
+evaluation or into a treatment program.
+14.13."Treatment"
+means the broad range of emergency, outpatient, intermediate and inpatient
+services and care, including diagnostic evaluation, medical, psychiatric,
+psychological and social service care, vocational rehabilitation and career
+counseling, which may be extended to alcoholics and intoxicated persons. END_STATUTE
+Sec.4.Repeal
+Section 36-2907,
+Arizona Revised Statutes, as amended by Laws 2015, chapter 195, section 57, is
+repealed.
+Sec.5.Section 36-2907, Arizona Revised
+Statutes, as amended by Laws 2015, chapter 264, section 1, is amended to read:
+START_STATUTE36-2907.Covered health and medical services; modifications;
+related delivery of service requirements; definition
+A.Subject to the limitations and exclusions
+specified in this section, contractors shall provide the following medically
+necessary health and medical services:
+1.Inpatient hospital services that are ordinarily
+furnished by a hospital for the care and treatment of inpatients and that are
+provided under the direction of a physician or a primary care
+practitioner.For the purposes of this section, inpatient hospital
+services exclude services in an institution for tuberculosis or mental diseases
+unless authorized under an approved section 1115 waiver.
+2.Outpatient health services that are ordinarily
+provided in hospitals, clinics, offices and other health care facilities by
+licensed health care providers. Outpatient health services include services
+provided by or under the direction of a physician or a primary care
+practitioner.
+3.Other laboratory and xray services ordered
+by a physician or a primary care practitioner.
+4.Medications that are ordered on prescription by a
+physician or a dentist licensed pursuant to title 32, chapter 11. Persons who
+are dually eligible for title XVIII and title XIX services must obtain
+available medications through a medicare licensed or certified medicare
+advantage prescription drug plan, a medicare prescription drug plan or any
+other entity authorized by medicare to provide a medicare part D prescription
+drug benefit.
+5.Medical supplies, durable medical equipment,
+insulin pumps and prosthetic devices ordered by a physician or a primary care
+practitioner. Suppliers of durable medical equipment shall provide the
+administration with complete information about the identity of each person who
+has an ownership or controlling interest in their business and shall comply
+with federal bonding requirements in a manner prescribed by the administration.
+6.For persons who are at least twentyone
+years of age, treatment of medical conditions of the eye, excluding eye examinations
+for prescriptive lenses and the provision of prescriptive lenses.
+7.Early and periodic health screening and
+diagnostic services as required by section 1905(r) of title XIX of the social
+security act for members who are under twentyone years of age.
+8.Family planning services that do not include
+abortion or abortion counseling.If a contractor elects not to
+provide family planning services, this election does not disqualify the
+contractor from delivering all other covered health and medical services under
+this chapter.In that event, the administration may contract
+directly with another contractor, including an outpatient surgical center or a
+noncontracting provider, to deliver family planning services to a member who is
+enrolled with the contractor that elects not to provide family planning
+services.
+9.Podiatry services ordered by a primary care
+physician or primary care practitioner.
+10.Nonexperimental transplants approved for title
+XIX reimbursement.
+11.Ambulance and nonambulance transportation,
+except as provided in subsection G of this section.
+12.Hospice care.
+13.Orthotics, if all of the following apply:
+(a)The use of the orthotic is medically necessary
+as the preferred treatment option consistent with medicare guidelines.
+(b)The orthotic is less expensive than all other
+treatment options or surgical procedures to treat the same diagnosed condition.
+(c)The orthotic is ordered by a physician or
+primary care practitioner.
+B.The limitations and exclusions for health and medical
+services provided under this section are as follows:
+1.Circumcision of newborn males is not a covered
+health and medical service.
+2.For eligible persons who are at least twentyone
+years of age:
+(a)Outpatient health services do not include occupational
+therapy or speech therapy.
+(b)Prosthetic devices do not include hearing aids,
+dentures, bone anchored bone-anchored hearing aids or
+cochlear implants.Prosthetic devices, except prosthetic implants,
+may be limited to twelve thousand five hundred dollars per contract year.
+(c)Percussive vests and orthotics are not covered
+health and medical services.
+(d)Durable medical equipment is limited to items
+covered by medicare.
+(e)Podiatry services do not include services
+performed by a podiatrist.
+(f)Nonexperimental transplants do not include pancreas only pancreasonly transplants.
+(g)Bariatric surgery procedures, including
+laparoscopic and open gastric bypass and restrictive procedures, are not
+covered health and medical services.
+C.The system shall pay noncontracting providers
+only for health and medical services as prescribed in subsection A of this
+section and as prescribed by rule.
+D.The director shall adopt rules necessary to
+limit, to the extent possible, the scope, duration and amount of services,
+including maximum limitations for inpatient services that are consistent with
+federal regulations under title XIX of the social security act (P.L. 8997;
+79 Stat. 344; 42 United States Code section 1396 (1980)). To the extent
+possible and practicable, these rules shall provide for the prior approval of
+medically necessary services provided pursuant to this chapter.
+E.The director shall make available home health
+services in lieu of hospitalization pursuant to contracts awarded under this article.
+For the purposes of this subsection, "home health services" means the
+provision of nursing services, home health aide services or medical supplies,
+equipment and appliances that are provided on a parttime or intermittent
+basis by a licensed home health agency within a member's residence based on the
+orders of a physician or a primary care practitioner. Home health agencies
+shall comply with the federal bonding requirements in a manner prescribed by
+the administration.
+F.The director shall adopt rules for the coverage
+of behavioral health services for persons who are eligible under section 362901,
+paragraph 6, subdivision (a).The
+administration shall contract with the department of health services for the
+delivery of all medically necessary behavioral health services to persons who
+are eligible under rules adopted pursuant to this subsection.The
+division of behavioral health in the department of health services
+the administration acting through the
+regional behavioral health authorities shall establish a
+diagnostic and evaluation program to which other state agencies shall refer
+children who are not already enrolled pursuant to this chapter and who may be
+in need of behavioral health services.In addition to an evaluation,
+the division of behavioral health
+administration acting through regional
+behavioral health authorities shall also identify children who
+may be eligible under section 362901, paragraph 6, subdivision (a) or
+section 362931, paragraph 5 and shall refer the children to the appropriate
+agency responsible for making the final eligibility determination.
+G.The director shall adopt rules for the provision
+of transportation services and rules providing for copayment by members for
+transportation for other than emergency purposes.Subject to
+approval by the centers for medicare and medicaid services, nonemergency
+medical transportation shall not be provided except for stretcher vans and
+ambulance transportation.Prior authorization is required for
+transportation by stretcher van and for medically necessary ambulance
+transportation initiated pursuant to a physician's direction. Prior
+authorization is not required for medically necessary ambulance transportation
+services rendered to members or eligible persons initiated by dialing telephone
+number 911 or other designated emergency response systems.
+H.The director may adopt rules to allow the
+administration, at the director's discretion, to use a second opinion procedure
+under which surgery may not be eligible for coverage pursuant to this chapter
+without documentation as to need by at least two physicians or primary care
+practitioners.
+I.If the director does not receive bids within the
+amounts budgeted or if at any time the amount remaining in the Arizona health
+care cost containment system fund is insufficient to pay for full contract
+services for the remainder of the contract term, the administration, on
+notification to system contractors at least thirty days in advance, may modify
+the list of services required under subsection A of this section for persons
+defined as eligible other than those persons defined pursuant to section 362901,
+paragraph 6, subdivision (a). The director may also suspend services or may
+limit categories of expense for services defined as optional pursuant to title
+XIX of the social security act (P.L. 8997; 79 Stat. 344; 42 United
+States Code section 1396 (1980)) for persons defined pursuant to section 362901,
+paragraph 6, subdivision (a). Such reductions or suspensions do not apply to
+the continuity of care for persons already receiving these services.
+J.Additional, reduced or modified hospitalization
+and medical care benefits may be provided under the system to enrolled members
+who are eligible pursuant to section 362901, paragraph 6, subdivision
+(b), (c), (d) or (e).
+K.All health and medical services provided under
+this article shall be provided in the geographic service area of the member,
+except:
+1.Emergency services and specialty services
+provided pursuant to section 362908.
+2.That the director may permit the delivery of
+health and medical services in other than the geographic service area in this
+state or in an adjoining state if the director determines that medical practice
+patterns justify the delivery of services or a net reduction in transportation
+costs can reasonably be expected. Notwithstanding the definition of physician
+as prescribed in section 362901, if services are procured from a
+physician or primary care practitioner in an adjoining state, the physician or
+primary care practitioner shall be licensed to practice in that state pursuant
+to licensing statutes in that state similar to title 32, chapter 13, 15, 17 or
+25 and shall complete a provider agreement for this state.
+L.Covered outpatient services shall be
+subcontracted by a primary care physician or primary care practitioner to other
+licensed health care providers to the extent practicable for purposes
+including, but not limited to, making health care services available to
+underserved areas, reducing costs of providing medical care and reducing
+transportation costs.
+M.The director shall adopt rules that prescribe the
+coordination of medical care for persons who are eligible for system
+services.The rules shall include provisions for the transfer of
+patients, the transfer of medical records and the initiation of medical care.
+N.For the purposes of this section,
+"ambulance" has the same meaning prescribed in section 362201.END_STATUTE
+Sec.6.Repeal
+Section 41-2501,
+Arizona Revised Statutes, as amended by Laws 2015, chapter 195, section 82, is
+repealed.
+Sec.7.Section 41-2501, Arizona Revised
+Statutes, as amended by Laws 2015, chapter 257, section 30, is amended to read:
+START_STATUTE41-2501.Applicability
+A.This chapter applies only to procurements
+initiated after January1, 1985 unless the parties agree to its
+application to procurements initiated before that date.
+B.This chapter applies to every expenditure of public
+monies, including federal assistance monies except as otherwise specified in
+section 412637, by this state, acting through a state governmental unit
+as defined in this chapter, under any contract, except that this chapter does
+not apply to either grants as defined in this chapter, or contracts between
+this state and its political subdivisions or other governments, except as
+provided in chapter 24 of this title and in article 10 of this
+chapter.This chapter also applies to the disposal of state materials.This
+chapter and rules adopted under this chapter do not prevent any state
+governmental unit or political subdivision from complying with the terms of any
+grant, gift, bequest or cooperative agreement.
+C.All political subdivisions and other local public
+agencies of this state may adopt all or any part of this chapter and the rules
+adopted pursuant to this chapter.
+D.Notwithstanding any other law, sections 412517
+and 412546 apply to any agency as defined in section 411001,
+including the office of the governor.
+E.The Arizona board of regents and the legislative
+and judicial branches of state government are not subject to this chapter
+except as prescribed in subsection F of this section.
+F.The Arizona board of regents and the judicial
+branch shall adopt rules prescribing procurement policies and procedures for
+themselves and institutions under their jurisdiction.The rules must
+be substantially equivalent to the policies and procedures prescribed in this
+chapter.
+G.The Arizona state lottery commission is exempt
+from this chapter for procurement relating to the design and operation of the
+lottery or purchase of lottery equipment, tickets and related
+materials.The executive director of the Arizona state lottery
+commission shall adopt rules substantially equivalent to the policies and
+procedures in this chapter for procurement relating to the design and operation
+of the lottery or purchase of lottery equipment, tickets or related materials.
+All other procurement shall be as prescribed by this chapter.
+H.The Arizona health care cost containment system
+administration is exempt from this chapter for provider contracts pursuant to
+section 362904, subsection A and contracts for goods and services,
+including program contractor contracts pursuant to title 36, chapter 29,
+articles 2 and 3 and contracts with
+regional behavioral health authorities pursuant to title 36, chapter 34.All
+other procurement, including contracts for the statewide administrator of the
+program pursuant to section 362903, subsection B, shall be as prescribed
+by this chapter.
+I.Arizona industries for the blind is exempt from
+this chapter for purchases of finished goods from members of national
+industries for the blind and for purchases of raw materials for use in the
+manufacture of products for sale pursuant to section 411972.All
+other procurement shall be as prescribed by this chapter.
+J.Arizona correctional industries is exempt from
+this chapter for purchases of raw materials, components and supplies that are
+used in the manufacture or production of goods or services for sale entered
+into pursuant to section 411622. All other procurement shall be as
+prescribed by this chapter.
+K.The state transportation board and the director
+of the department of transportation are exempt from this chapter other than
+section 412586 for the procurement of construction or reconstruction,
+including engineering services, of transportation facilities or highway
+facilities and any other services that are directly related to land titles, appraisals,
+real property acquisition, relocation, property management or building facility
+design and construction for highway development and that are required pursuant
+to title 28, chapter 20.
+L.The Arizona highways magazine is exempt from this
+chapter for contracts for the production, promotion, distribution and sale of
+the magazine and related products and for contracts for sole source creative
+works entered into pursuant to section 287314, subsection A, paragraph
+5. All other procurement shall be as prescribed by this chapter.
+M.The secretary of state is exempt from this
+chapter for contracts entered into pursuant to section 411012 to publish
+and sell the administrative code.All other procurement shall be as
+prescribed by this chapter.
+N.This chapter is not applicable to contracts for
+professional witnesses if the purpose of such contracts is to provide for
+professional services or testimony relating to an existing or probable judicial
+proceeding in which this state is or may become a party or to contract for
+special investigative services for law enforcement purposes.
+O.The head of any state governmental unit, in
+relation to any contract exempted by this section from this chapter, has the
+same authority to adopt rules, procedures or policies as is delegated to the
+director pursuant to this chapter.
+P.Agreements negotiated by legal counsel
+representing this state in settlement of litigation or threatened litigation
+are exempt from this chapter.
+Q.This chapter is not applicable to contracts entered
+into by the department of economic security:
+1.With a provider licensed or certified by an
+agency of this state to provide child day care services.
+2.With area agencies on aging created pursuant to
+the older Americans act of 1965 (P.L. 8973; 79 Stat. 218; 42 United
+States Code sections 3001 through 3058ff).
+3.For services pursuant to title 36, chapter 29,
+article 2.
+4.With an eligible entity as defined by Public Law
+105285, section 673(1)(A)(i), as amended, for designated community services
+block grant program monies and any other monies given to the eligible entity
+that accomplishes the purpose of Public Law 105285, section 672.
+R.The department
+of health services Arizona
+health care cost containment system may not require that persons
+with whom it contracts follow this chapter for the purposes of subcontracts
+entered into for the provision of the following:
+1.Mental health services pursuant to section 36189,
+subsection B.
+2.Services for the seriously mentally ill pursuant
+to title 36, chapter 5, article 10.
+3.Drug and alcohol services pursuant to section 36141.
+4.S.The department of health
+services may not require that persons with whom it contracts follow this
+chapter for the purpose of subcontracts entered into for the provision of domestic
+violence services pursuant to title 36, chapter 30, article 1.
+S.T.The department of
+health services is exempt from this chapter for contracts for services of
+physicians at the Arizona state hospital.
+T.U.Contracts for
+goods and services approved by the board of trustees of the public safety
+personnel retirement system are exempt from this chapter.
+U.V.The Arizona
+department of agriculture is exempt from this chapter with respect to contracts
+for private labor and equipment to effect cotton or cotton stubble plowup
+pursuant to rules adopted under title 3, chapter2, article 1.
+V.W.The Arizona state
+parks board is exempt from this chapter for purchases of guest supplies and
+items for resale such as food, linens, gift items, sundries, furniture, china,
+glassware and utensils for the facilities located in the Tonto natural bridge
+state park.
+W.X.The Arizona state
+parks board is exempt from this chapter for the purchase, production,
+promotion, distribution and sale of publications, souvenirs and sundry items
+obtained and produced for resale.
+X.Y.The Arizona state
+schools for the deaf and the blind are exempt from this chapter for the
+purchase of textbooks and when purchasing products through a cooperative that
+is organized and operates in accordance with state law if such products are not
+available on a statewide contract and are related to the operation of the
+schools or are products for which special discounts are offered for educational
+institutions.
+Y.Z.Expenditures of
+monies in the morale, welfare and recreational fund established by section 26153
+are exempt from this chapter.
+Z.AA.Notwithstanding
+section 412534, the director of the state department of corrections may
+contract with local medical providers in counties with a population of less
+than four hundred thousand persons for the following purposes:
+1.To acquire hospital and professional medical
+services for inmates who are incarcerated in state department of corrections
+facilities that are located in those counties.
+2.To ensure the availability of emergency medical
+services to inmates in all counties by contracting with the closest medical
+facility that offers emergency treatment and stabilization.
+AA.BB.The department
+of environmental quality is exempt from this chapter for contracting for
+procurements relating to the water quality assurance revolving fund program
+established pursuant to title 49, chapter 2, article5. The department
+shall engage in a source selection process that is similar to the procedures
+prescribed by this chapter.The department may contract for remedial
+actions with a single selection process. The exclusive remedy for disputes or
+claims relating to contracting pursuant to this subsection is as prescribed by article
+9 of this chapter and the rules adopted pursuant to that article. All other
+procurement by the department shall be as prescribed by this chapter.
+BB.CC.The motor
+vehicle division of the department of transportation is exempt from this
+chapter for thirdparty authorizations pursuant to title 28, chapter 13,
+only if all of the following conditions exist:
+1.The division does not pay any public monies to an
+authorized third party.
+2.Exclusivity is not granted to an authorized third
+party.
+3.The director has complied with the requirements
+prescribed in title 28, chapter 13 in selecting an authorized third party.
+CC.DD.This section
+does not exempt thirdparty authorizations pursuant to title 28, chapter
+13 from any other applicable law.
+DD.EE.The state
+forester is exempt from this chapter for purchases and contracts relating to
+wildland fire suppression and prepositioning equipment resources and for
+other activities related to combating wildland fires and other unplanned risk
+activities, including fire, flood, earthquake, wind and hazardous material
+responses. All other procurement by the state forester shall be as prescribed
+by this chapter.
+EE.FF.The cotton
+research and protection council is exempt from this chapter for procurements.
+FF.GG.Expenditures of
+monies in the Arizona agricultural protection fund established by section 33304
+are exempt from this chapter.
+GG.HH.The Arizona
+commerce authority is exempt from this chapter, except article 10 for the
+purpose of cooperative purchases. The authority shall adopt policies,
+procedures and practices, in consultation with the department of
+administration, that are similar to and based on the policies and procedures
+prescribed by this chapter for the purpose of increased public confidence, fair
+and equitable treatment of all persons engaged in the process and fostering
+broad competition while accomplishing flexibility to achieve the authority's
+statutory requirements. The authority shall make its policies, procedures and
+practices available to the public. The authority may exempt specific
+expenditures from the policies, procedures and practices. 
+HH.II.The Arizona
+exposition and state fair board is exempt from this chapter for contracts for
+professional entertainment.
+II.JJ.This chapter
+does not apply to the purchase of water, gas or electric utilities.
+JJ.KK.This chapter
+does not apply to professional certifications, professional memberships and
+conference registrations.
+KK.LL.The
+department of gaming is exempt from this chapter for problem gambling treatment
+services contracts with licensed behavioral health professionals.
+LL.MM.This chapter
+does not apply to contracts for credit reporting services.
+MM.NN.This chapter
+does not apply to contracts entered into by the department of child safety: 
+1.With a provider of family foster care pursuant to
+section 8503.
+2.With an eligible entity as defined by Public Law
+105285, section 673(1)(A)(i), as amended, for designated community
+services block grant program monies and any other monies given to the eligible
+entity that accomplishes the purpose of Public Law 105285, section 672. END_STATUTE
+Sec.8.Repeal
+Section 41-3803,
+Arizona Revised Statutes, as amended by Laws 2015, chapter 195, section 83, is
+repealed.
+Sec.9.Section 41-3803, Arizona Revised
+Statutes, as amended by Laws 2015, chapter 167, section 1, is amended to read:
+START_STATUTE41-3803.Human rights committee on the mentally ill; training plan
+A.The human rights committee on the mentally ill is
+established in the department of health
+services Arizona health
+care cost containment system to promote the rights of persons who
+receive behavioral health services pursuant to title 36, chapters 5 and 34.
+B.Each region of the state covered by a regional
+behavioral health authority shall have at least one human rights committee with
+the authority and responsibilities as prescribed by the department of health services Arizona health care cost containment system administration pursuant
+to rules adopted by the department
+administration relating
+to behavioral health services. 
+C.The director of the department of health services Arizona health care cost containment system administration may
+establish additional committees to serve persons who receive behavioral health
+services or to oversee the activities of any service provider.
+D.Each committee established pursuant to this
+section shall consist of at least seven and not more than fifteen members
+appointed by the director of the department
+of health services Arizona
+health care cost containment system administration with expertise
+in at least one of the following areas:
+1.Psychology.
+2.Law.
+3.Medicine.
+4.Education.
+5.Special education.
+6.Social work.
+7.Mental health.
+8.Housing for the mentally ill.
+E.Each human rights committee, if appropriate,
+shall include at least two parents of children who receive behavioral health
+services pursuant to title 36, chapter 34.
+F.Each human rights committee shall include at
+least one member who is a current or former client of the behavioral health
+system.
+G.Current or former providers or employees of
+providers that have contracted with a regional behavioral health authority may
+serve on a human rights committee.
+H.The department of health services shall ensure
+that each regional behavioral health authority and its providers develop and
+implement a human rights training plan to ensure that providers are trained
+regarding clients' human rights and the duties of the human rights committees.
+I.Each committee shall be organized pursuant to
+this section and the requirements of section 413804. END_STATUTE
+Sec.10.Repeal
+Section 41-3804,
+Arizona Revised Statutes, as amended by Laws 2015, chapter 195, section 84, is
+repealed.
+Sec.11.Section 41-3804, Arizona Revised
+Statutes, as amended by Laws 2015, chapter 167, section 2, is amended to read:
+START_STATUTE41-3804.Human rights committees; membership; duties; client
+information; immunity; violation; classification
+A.Subject to the approval of the appropriate
+department director, each committee established pursuant to this article shall
+adopt guidelines that govern its operation, including terms of members, quorum
+and attendance requirements and removal of a committee member if necessary.
+Each committee shall adopt these guidelines by majority vote within the first
+three months of its formation.These guidelines shall not conflict
+with this article. The director of the appropriate department shall approve
+the guidelines unless they are inconsistent with the department's statutes,
+policies, procedures or rules, or if the guidelines do not promote participation by all interested
+members of the community that the committee serves.In addition to
+the procedures in the guidelines, each human rights committee must approve the
+removal of any committee member on majority vote of the committee.
+B.Employees of the department of economic security,
+the department of child safety, the department
+of health services Arizona
+health care cost containment system and the Arizona health care
+cost containment system administration may serve on a committee only as
+nonvoting members whose presence is not counted for the purpose of determining
+a quorum.
+C.Advocacy groups, local advisory councils,
+committee members and the director of the appropriate department may submit
+names of candidates to fill committee vacancies. The appropriate director
+shall appoint a person to fill a vacancy subject to the approval of the
+committee.
+D.Each committee shall meet at least quarterly each
+calendar year.
+E.Each committee shall provide independent
+oversight to:
+1.Ensure that the rights of clients are protected.
+2.Review incidents of possible abuse, neglect or
+denial of a client's rights.
+3.Make recommendations to the appropriate
+department director and the legislature regarding laws, rules, policies,
+procedures and practices to ensure the protection of the rights of clients
+receiving behavioral health and developmental disability services.
+F.Each committee shall submit written objections to
+specific problems or violations of client rights by department employees or
+service providers to the director of the appropriate department for review.
+The appropriate department director shall respond, in writing, to written
+objections within twentyone days after receiving the objections.
+G.Each committee shall issue an annual report of
+its activities and recommendations for changes to the director of the
+appropriate department, the president of the senate, the speaker of the house
+of representatives and the chairpersons of the senate health and human services
+committee and the house of representatives health committee, or their successor
+committees.
+H.A committee may request from the appropriate
+department the services of a consultant or department employee to advise it on
+specific issues. The consultant may be a member of another human rights
+committee, a department employee or a service provider. Subject to the
+availability of monies, the appropriate department shall assume the cost of the
+consultant. A consultant shall not participate in committee votes.
+I.Subject to federal law, committee members and
+consultants have access to client information and records, including quality of
+care reports and, on request, case presentations, adult protective services
+investigation case status and outcomes, substantiations, recommendations and
+other quality of care findings from peer reviews or any successor report or
+process, maintained by the appropriate department, provider or regional
+behavioral health authorities to the extent necessary to conduct committee
+duties. Each person who receives information or records pursuant to this
+subsection shall maintain the information or records as confidential and sign
+an agreement to comply with all confidentiality requirements.Any
+client information or records shall be released to the committee without the
+designation of personally identifiable information unless the personally
+identifiable information is required for the official purposes of the
+committee.A violation of
+this subsection is a class 2 misdemeanor. For the purposes of
+this subsection, "personally
+identifiable information" includes a person's name, address, date of
+birth, social security number, tribal enrollment number, telephone or fax number, email address,
+social media identifier, driver
+license number, places of employment,
+or school identification or
+military identification number or any other distinguishing characteristic that
+tends to identify a particular person. A
+violation of this subsection is a class 2 misdemeanor.
+J.If a committee's request for information or
+records from a department is denied, the committee may request in writing that
+the director of the appropriate department review this decision. The agency
+director or designee shall conduct the review within five business days after
+receiving the request for review. The agency shall bear the costs of
+conducting the review. A final agency decision made pursuant to this
+subsection is subject to judicial review pursuant to title 12, chapter 7,
+article 6. The agency shall not release any information or records during the
+period an appeal may be filed or is pending.
+K.Confidential records and information received by
+the committee or its consultant are subject to the same provisions concerning
+subpoenas, discovery and use in legal actions as are the original records and
+information.
+L.The human rights committees may exchange
+information and engage in planning and coordination activities between
+committee members in the performance of committee duties pursuant to this
+section.
+M.The human rights committees may encourage public
+awareness and involvement in their activities by supporting committee members
+with affiliation agreements with postsecondary educationsponsored
+internship placements pursuant to the appropriate department's approved
+operating procedures.
+N.The appropriate departments shall coordinate
+education and training programs for committee members to facilitate their role
+as human rights committee members.The appropriate departments shall
+coordinate statewide meetings of committees at least every two years and
+provide staff for the committees.
+O.Any person who, in good faith and without malice
+and in connection with duties or functions of a committee established pursuant
+to this article, takes an action or makes a decision or recommendation as a
+member or agent of a committee or who furnishes records, information or
+assistance that is related to the duties of a committee is not subject to
+liability for civil damages in consequence of that action. The court shall
+determine the presence of malice by clear and convincing evidence.
+P.Title 38, chapter 3, article 8, relating to
+conflict of interest, applies to all committee members. END_STATUTE
+Sec.12.Repeal
+Section 41-3955.01,
+Arizona Revised Statutes, as amended by Laws 2015, chapter 195, section 85, is
+repealed.
+Sec.13.Section 41-3955.01, Arizona Revised
+Statutes, as amended by Laws 2015, chapter 312, section 1, is amended to read:
+START_STATUTE41-3955.01.Seriously mentally ill housing trust fund; purpose; report
+A.The seriously mentally ill housing trust fund is
+established.The director of the department of health services Arizona health care cost containment system administration
+shall administer the fund. The fund consists of monies received pursuant to
+section 44313 and investment earnings.
+B.On notice from the department of health services director of the Arizona health care cost containment system
+administration, the state treasurer shall invest and divest
+monies in the fund as provided by section 35313, and monies earned from
+investment shall be credited to the fund.
+C.Fund monies shall be spent on approval of the department of health services Arizona health care cost containment system
+administration solely for housing projects and rental assistance
+for seriously mentally ill persons.
+D.The director of the department of health services Arizona health care cost containment system administration
+shall report annually to the legislature on the status of the seriously
+mentally ill housing trust fund. The report shall include a summary of
+facilities for which funding was provided during the preceding fiscal year and
+shall show the cost and geographic location of each facility and the number of
+individuals benefiting from the operation, construction or renovation of the
+facility. The report shall be submitted to the president of the senate and the
+speaker of the house of representatives no later than September 1 of each year.
+E.Monies in the seriously mentally ill housing
+trust fund are exempt from the provisions of section 35190 relating to
+lapsing of appropriations.
+F.An amount not to exceed ten percent of the
+seriously mentally ill housing trust fund monies may be appropriated annually
+by the legislature to the department of
+health services Arizona
+health care cost containment system for administrative costs in
+providing services relating to the seriously mentally ill housing trust fund.
+G.For any construction project financed by the department of health services Arizona health care cost containment system
+administration pursuant to this section, the department of health services administration shall notify a city, town,
+county or tribal government that a project is planned for its jurisdiction and,
+before proceeding, shall seek comment from the governing body of the city,
+town, county or tribal government or an official authorized by the governing
+body of the city, town, county or tribal government.The department of health services Arizona health care cost containment system
+administration shall not interfere with or attempt to override
+the local jurisdiction's planning, zoning or land use regulations. END_STATUTE
+Sec.14.Section 41-3955.01, Arizona Revised
+Statutes, as amended by Laws 2015, chapter 312, section 2, is amended to read:
+START_STATUTE41-3955.01.Seriously mentally ill housing trust fund; purpose; report
+A.The seriously mentally ill housing trust fund is
+established.The director of the department of health services Arizona health care cost containment system administration
+shall administer the fund.The fund consists of monies received
+pursuant to section 44313 and investment earnings.
+B.On notice from the department of health services director of the Arizona health care cost containment system
+administration, the state treasurer shall invest and divest
+monies in the fund as provided by section 35313, and monies earned from
+investment shall be credited to the fund.
+C.Fund monies shall be spent on approval of the department of health services Arizona health care cost containment system
+administration solely for housing projects for seriously mentally
+ill persons.
+D.The director of the department of health services Arizona health care cost containment system administration
+shall report annually to the legislature on the status of the seriously
+mentally ill housing trust fund. The report shall include a summary of
+facilities for which funding was provided during the preceding fiscal year and
+shall show the cost and geographic location of each facility and the number of
+individuals benefiting from the operation, construction or renovation of the
+facility. The report shall be submitted to the president of the senate and the
+speaker of the house of representatives no later than September 1 of each year.
+E.Monies in the seriously mentally ill housing
+trust fund are exempt from the provisions of section 35190 relating to
+lapsing of appropriations.
+F.An amount not to exceed ten percent of the seriously mentally
+ill housing trust fund monies may be appropriated annually by the legislature
+to the department of health services
+Arizona health care cost containment
+system for administrative costs in providing services relating to
+the seriously mentally ill housing trust fund.
+G.For any construction project financed by the department of health services Arizona health care cost containment system
+administration pursuant to this section, the department of health services administration shall notify a city, town,
+county or tribal government that a project is planned for its jurisdiction and,
+before proceeding, shall seek comment from the governing body of the city,
+town, county or tribal government or an official authorized by the governing
+body of the city, town, county or tribal government.The department of health services Arizona health care cost containment system
+administration shall not interfere with or attempt to override
+the local jurisdiction's planning, zoning or land use regulations. END_STATUTE
+Sec.15.Repeal
+Section 49-123,
+Arizona Revised Statutes, as amended by Laws 2015, chapter 208, section 25, is
+repealed.
+Sec.16.Section 26343,
+Arizona Revised Statutes, as amended by Laws 2013, chapter 205, section 1, and
+as renumbered by Laws 2015, chapter 208, section 12, as section 49-123, is
+amended to read:
+START_STATUTE49123.Hazardous materials emergency management program; Arizona
+emergency response commission; emergency planning and community righttoknow
+A.The
+Arizona emergency response commission is established consisting of the director
+of the division, who shall serve as chairperson, and the directors, or their
+respective designees, of the department of environmental quality, the
+department of health services, the department of public safety and the
+department of transportation.
+B.An
+advisory committee to the commission is established consisting of:
+1.The
+state fire marshal.
+2.The
+chief administrative officer, or the officer's designee, of the following
+agencies:
+(a)Arizona
+department of agriculture.
+(b)Corporation
+commission.
+(c)Industrial
+commission of Arizona.
+(d)Radiation
+regulatory agency.
+(e)State
+mine inspector.
+3.Two
+representatives nominated by the Arizona fire chiefs association incorporated
+or its successor agency.One nominee shall represent a fire
+department serving a population of two hundred fifty thousand or more
+persons.One nominee shall represent a fire department or fire
+district serving a population of less than two hundred fifty thousand
+persons.The term of appointment is for two years.
+C.The
+governor shall appoint four private sector representatives to the advisory
+committee to the commission after reviewing the recommendations provided by the
+commission.The governor shall appoint, or reappoint, two of the
+members each year from the private sector, to serve terms of two years. These
+members, to the extent practicable, shall have technical expertise in the
+emergency response field.
+D.The
+members of the commission shall serve without compensation but are eligible for
+reimbursement for travel and other expenses as provided by law. The division
+and the department of environmental quality shall provide such professional,
+technical or administrative staff support as necessary to implement and perform
+the commission duties.
+E.The
+commission shall meet as often as necessary and may organize itself into such
+support committees as necessary to implement this article and title III in this
+state.The full commission shall meet at least annually. The
+commission may adopt internal operating rules.
+A.The department is designated the lead agency
+for developing and implementing a state hazardous materials emergency
+management program.
+B.The director shall appoint a coordinator to
+work in consultation with the Arizona emergency response commission in the
+development and implementation of the hazardous materials emergency management
+program.
+C.The Arizona emergency response commission is
+established consisting of representatives from the following agencies and
+departments:
+1.The division of emergency management.
+2.The department of health services.
+3.The department of public safety.
+4.The department of transportation.
+5.The Arizona department of agriculture.
+6.The corporation commission.
+7.The industrial commission of Arizona.
+8.The office of state fire marshal.
+9.The office of state mine inspector.
+10.The radiation regulatory agency.
+11.Two representatives nominated by the Arizona
+fire chiefs association or its successor organization, one of whom represents a
+fire department or a fire district serving a population of less than two
+hundred fifty thousand persons.
+12.Other agencies or offices deemed necessary by
+the director.
+D.This article does not change or alter the
+existing regulatory authority or provisions of law relating to the agencies and
+departments listed in subsection C of this section.
+E.The department is designated as the lead
+agency for implementing title III of the superfund amendments and
+reauthorization act of 1986 (P.L.99499).The director
+shall administer any monies received under subsection G of this section.
+F.The commission department shall administer this article and the rules
+adopted under this article.The commission
+department shall
+administer title III in this state and may conduct whatever activities are
+necessary to implement this article and title III in this state.The
+commission department is granted all the authority and
+responsibilities of a state emergency response commission for purposes of title
+III.
+G.The commission department may procure by contract the temporary or
+intermittent services of experts or consultants if such services are to be
+performed on a parttime or feeforservices basis and do not
+involve the performance of administrative duties.The commission department may also enter into agreements with the federal
+government, Indian tribes, other states and political subdivisions of this
+state for the purposes of this article.The commission department may also accept on behalf of this state any
+reimbursement, grant or gift that may become available for purposes of this chapter article. The commission
+department shall
+deposit, pursuant to sections 35146 and 35147, any such monies in
+the emergency response fund.
+H.The commission department shall establish a program of financial grants to
+local governments funded through the division
+department by
+appropriations to the emergency response fund.The grants shall be
+dedicated to and used for local compliance with this article.The commission department shall include procedures for applying for the
+grants and qualifying criteria for awarding the grants.
+I.The commission department shall adopt and may modify, suspend or repeal
+rules pursuant to title 41, chapter 6.The rules may not be more
+stringent than title III and the federal regulations adopted under title III,
+except as specifically authorized in this article.These rules shall
+implement this chapter article and title III in
+this state.The authority to adopt rules includes establishing:
+1.Procedures for
+handling public information requests.
+2.Procedures and
+implementing programs for chemical emergency planning and preparedness.
+3.Community righttoknow
+program reporting requirements.
+4.Through December 31, 2018, Fees to implement the
+community righttoknow program.The fees shall be
+deposited, pursuant to sections 35146 and 35147, in the emergency
+response fund established by section 26352 49132.The
+governor's regulatory review council must approve rules adopted pursuant to
+this paragraph.
+5.Release reporting
+requirements.
+J.Commissioners and advisory committee members The department shall ensure
+that mandatory hazardous materials training programs for on-scene command
+personnel that are developed, delivered or managed by their respective
+agencies, departments or divisions address notification procedures,
+coordination of services and comprehensive management for protection of the
+public health during and after a chemical or other toxic fire
+event.The training shall include notification and coordination with
+the emergency response unit of the department of
+environmental quality, the department of public safety, the
+department of transportation, the radiation regulatory agency, the commission,
+local emergency planning committees, the department of health services, the
+division of emergency management, the national response center and the Arizona
+poison control system.Training shall also include orientation on
+the state emergency response and recovery plan concerning hazardous materials.Commissioners and advisory committee members The department shall encourage private companies that deliver
+similar training in Arizona this state to include the
+same curriculum in their programs. END_STATUTE
+Sec.17.Repeal
+Section 49-127,
+Arizona Revised Statutes, as amended by Laws 2015, chapter 208, section 26, is
+repealed.
+Sec.18.Section 26347,
+Arizona Revised Statutes, as amended by Laws 1989, chapter 238, section 5, and
+as renumbered by Laws 2015, chapter 208, section 12, as section 49-127, is
+amended to read:
+START_STATUTE49127.Facilities subject to emergency planning; facility
+emergency response plans
+A.A facility is subject
+to emergency planning requirements if a substance identified under section 26346 49126 is present at the facility in an amount at or in
+excess of the threshold planning quantity for that substance.
+B.For purposes of
+emergency planning, the commission department may designate
+additional facilities which that are subject to this
+section.The designation shall be accomplished after providing at
+least thirty days' prior public notice in a newspaper of general circulation in
+the county where the facility is located, after allowing public comment to the commission department for thirty days and after notification to the
+facility of the proposed designation.
+C.The owner or operator
+of a facility subject to this section shall provide to the committee department the identity of a facility representative who will
+provide a facility emergency response plan and who will participate in the
+emergency planning process as the facility emergency coordinator.
+D.Each facility that is subject to this
+section shall prepare a facility emergency response plan and submit copies of
+that plan to the commission department, the local
+emergency planning committee for the district in which the facility is located
+and the fire department with jurisdiction over the facility.A
+facility that is required to prepare a contingency plan under title 49, chapter 5, article 2 of this title or the
+resource conservation and recovery act of 1976 (P.L. 94580; 90 Stat.
+2795) may submit that contingency plan in lieu of the emergency response plan
+required by this section if the information in paragraphs 1 through 7 of this
+subsection is included in the plan.In preparing the plan required
+by this section, the facility emergency coordinator shall consult with the
+local emergency planning committee and other emergency and health professionals
+to assure maximum coordination with those whose cooperation or services may be
+required in the event of a reportable release.The facility
+emergency response plan shall include specific actions to be taken in the event
+of an imminent or accidental reportable release to safeguard the public health,
+safety and welfare and the environment to the maximum extent practicable. The
+facility emergency response plan shall include:
+1.Names, addresses and
+emergency telephone numbers of a facility emergency coordinator and alternate.
+2.A description of
+emergency warning systems and a list of emergency units, emergency personnel
+and health professionals in close proximity to the facility.
+3.A description of
+employee emergency response training and emergency preparedness programs.
+4.A description of
+appropriate emergency equipment necessary to respond to a release.
+5.A description of
+emergency response procedures,
+including notification procedures and evacuation plans in the event of a
+release.
+6.Identification of
+transport routes and transportation methods used to transport extremely
+hazardous substances to and from the facility, if known.
+7.Provisions for at
+least an annual review of the plan and provisions to demonstrate the capability
+to execute the plan on the request of the commission department. END_STATUTE
+Sec.19.Repeal
+Section 49-128,
+Arizona Revised Statutes, as amended by Laws 2015, chapter 208, section 27, is
+repealed.
+Sec.20.Section 26348, Arizona Revised Statutes, as amended by Laws
+2011, chapter 36, section 1, and as renumbered by Laws 2015, chapter 208,
+section 12, as section 49-128, is amended to read:
+START_STATUTE49128.Emergency notification of reportable releases
+A.If a reportable
+release of an extremely hazardous substance listed under section 26346 49126 occurs from a facility at which a hazardous
+chemical is produced, used or stored, the owner or operator of the facility,
+except as excluded under 40 Code of Federal Regulations sections 355.31 and
+355.32, in addition to any other notification required by law or rule, shall
+immediately orally notify the community emergency coordinator for the local
+emergency planning committee for any area likely to be affected by the
+reportable release, and the commission, by notifying
+the emergency response unit of the department of environmental quality and appropriate emergency
+responders designated by rule of the commission department, in the manner
+prescribed by rule of the commission department.Unless
+impracticable under the circumstances, this oral notification shall occur
+immediately after the facility emergency coordinator or his the
+coordinator's designee has knowledge of the reportable
+release.The notice of the reportable release shall include the
+following to the extent known at the time of the notice and as long as no delay
+in responding to the emergency results:
+1.The specific location
+of the release.
+2.The chemical name or
+identity of substances released and a description of the container or vessel
+from which the release occurred.
+3.An estimate of the
+quantity of substances which that were released into the
+environment.
+4.The time and duration
+of the release.
+5.The medium or media
+into which the release occurred.
+6.Any known or
+anticipated acute or chronic health risks associated with the release and, if
+within the informant's knowledge, advice regarding medical attention necessary
+for exposed individuals.
+7.Proper precautions to
+take as a result of the release, including evacuation and other proposed
+response actions.
+8.The name and
+telephone number of the person or persons to be contacted for further
+information.
+B.Within thirty days
+after the reportable release, the owner or operator of a facility where a
+release occurred requiring notification pursuant to this section shall submit
+to the local emergency planning committee and to the commission department
+a written followup emergency notice stating and updating the
+information originally provided pursuant to subsection A of this section and
+including the following additional information:
+1.Actions taken to
+respond to and contain the release.
+2.Any known or
+anticipated acute or chronic health risks associated with the release.
+3.If appropriate,
+advice regarding medical attention necessary for exposed individuals.
+4.Measures which
+that have been or will be taken at the facility to avoid a reoccurrence
+of similar releases.
+C.After additional
+information becomes known, the owner or operator shall update the notice in
+writing within seven calendar days. END_STATUTE
+Sec.21.Repeal
+Section 49-129,
+Arizona Revised Statutes, as amended by Laws 2015, chapter 208, section 28, is
+repealed.
+Sec.22.Section 26349,
+Arizona Revised Statutes, as amended by Laws 1989, chapter 238, section 7, and
+as renumbered by Laws 2015, chapter 208, section 12, as section 49-129, is amended
+to read:
+START_STATUTE49129.Material safety data sheets
+A.A person who owns or
+operates a facility which that is required to prepare
+or have available a material safety data sheet for a hazardous chemical under
+the occupational safety and health act of 1970 (P.L. 91593; 84 Stat.
+1590), and federal regulations adopted under that act, or under title 23,
+chapter 2, article 10, and rules adopted under that article, shall submit to
+the local emergency planning committee for the district in which the facility
+is located, the commission department, and the fire
+department with jurisdiction over the facility material safety data sheets or
+lists of hazardous chemicals and any extremely hazardous substances stored, handled
+or processed at the facility pursuant to minimum threshold levels prescribed in
+title 40 Code of Federal Regulations part
+370 as well as comply with section 311 of title III and regulations adopted
+under that act.
+B.If a list of
+hazardous chemicals or extremely hazardous substances is submitted under this
+section, it shall include:
+1.Information
+prescribed by section 311 of title III.
+2.The chemical abstract
+service registry number applicable to each such chemical and substance, if
+available.
+3.An indication of
+whether the owner elects to withhold information about the hazardous chemical
+or extremely hazardous substance from disclosure as a trade secret.
+C.On request of a local
+emergency planning committee, the commission
+department or the local
+fire department with jurisdiction over the facility, an owner or operator of a
+facility who has submitted a list pursuant to this section shall also submit
+the material safety data sheet for any chemical on the list to the requesting
+agency.On request by any person, the local emergency planning
+committee may make available a material safety data sheet to the person or
+transmit the request to the commission department, which shall make
+the material safety data sheet available, subject to the trade secret
+provisions and regulations adopted under title III.If the committee
+or commission department does not have the requested
+material safety data sheet, the committee or commission
+department shall
+request the sheet from the facility owner or operator.The facility
+owner or operator shall make the sheet available within thirty days after
+receiving the request to the committee or commission
+department and the
+committee or commission department shall make the
+sheet available to the requesting person subject to the trade secret provisions
+and regulations adopted under title III.
+D.Within three months
+after discovery by an owner or operator of a facility of significant new
+information concerning an aspect of a hazardous chemical for which a list or
+material safety data sheet was submitted, or within three months after a
+facility obtains a new hazardous chemical subject to the reporting requirements
+of this section, the owner or operator shall update and submit a revised list
+or material safety data sheet to the local emergency planning committee, the commission department and the fire department with jurisdiction over the
+facility. END_STATUTE
+Sec.23.Repeal
+Section 49-130,
+Arizona Revised Statutes, as amended by Laws 2015, chapter 208, section 29, is
+repealed.
+Sec.24.Section 26350,
+Arizona Revised Statutes, as amended by Laws 2002, chapter 138, section 1, and
+as renumbered by Laws 2015, chapter 208, section 12, as section 49-130, is
+amended to read:
+START_STATUTE49130.Emergency and hazardous chemical inventory forms
+A.A person who owns or
+operates a facility which that is required to prepare
+or have available a material safety data sheet for a hazardous chemical under
+the occupational safety and health act of 1970 (P.L. 91593; 84 Stat.
+1590) and federal regulations adopted under that act or which that
+has to provide a material safety data sheet or listing under this
+article shall either file electronically as prescribed by subsection D of this section or submit to
+the local emergency planning committee for the district in which the facility
+is located, the commission department and the fire
+department with jurisdiction over the facility an emergency and hazardous
+chemical inventory form pursuant to section 312 of title III as well as comply
+with section 312 of title III and regulations adopted under that act, except
+that the tier II emergency and hazardous chemical inventory form shall be the
+required form to comply with section 312 of title III effective with inventory
+forms due on or after March 1, 1991.
+B.The tier II inventory
+form shall contain the following information:
+1.The chemical name or
+the common name of the chemical as provided on the material safety data sheet
+and the CAS number.
+2.An estimate, in
+ranges, of the maximum amount of the hazardous chemical present at the facility
+at any time during the preceding year.
+3.An estimate, in
+ranges, of the average daily amount of the hazardous chemical present at the
+facility during the preceding year.
+4.A brief description
+of the manner of storage of the hazardous chemical.
+5.The location of the
+hazardous chemical at the facility.
+6.An indication of
+whether the owner elects to withhold location information or other information
+about a specific hazardous chemical from disclosure to the public as a trade
+secret.
+7.The fire department
+or district with jurisdiction for the facility, including a notation of whether
+the facility is located on Indian lands.
+C.An owner or operator
+of a facility subject to this section shall submit the information required by
+this section on the inventory form provided by the commission department. The tier II
+inventory form provided by the commission
+department shall be
+available in electronic and paper formats and shall be based on and contain at
+least the information required by the federal forms as prescribed by 40 Code of
+Federal Regulations section 370.41.The commission
+department shall
+identify on its tier II inventory form each item that is required to be
+reported by 40 Code of Federal Regulations section 370.41. The commission department shall provide notice on the form that the
+provision of the information items not required by 40 Code of Federal Regulations
+section 370.41 is optional.
+D.Facilities that are
+subject to reporting under this article may file reports electronically at an
+internet web site website that is designated by the Arizona emergency response commission department. A facility that
+files electronically pursuant to this subsection is deemed to have complied
+with the reporting requirements of the commission
+department and with
+the requirements of title III. Local emergency planning committees, fire
+departments and fire districts
+also may accept electronic reporting if they have agreed to do so in a written
+agreement with the commission department that provides for
+the electronic filing and sharing of reports. The commission
+department shall
+publish on the commission's web site department's website a
+listing of local emergency planning committees, fire departments and fire
+districts that have agreed to accept electronic reporting to assist facilities
+in determining submission requirements.
+E.On certifying an
+electronic submittal pursuant to subsection D of this section, the facility is deemed to
+have complied with the original signature requirements of section 312 of title
+III. The commission department and the facility
+shall each maintain tracking information for the submittal for purposes of
+confirmation.
+F.Information that is
+collected pursuant to this section shall be made available to the public
+pursuant to 40 Code of Federal Regulations part 370, subpart C, except for
+confidential information.
+G.For purposes of this
+section, tier II forms are the forms established under 40 Code of Federal
+Regulations part 370. END_STATUTE
+Sec.25.Repeal
+Section 49-131,
+Arizona Revised Statutes, as amended by Laws 2015, chapter 208, section 30, is
+repealed.
+Sec.26.Section 26351, Arizona Revised Statutes, as amended by Laws
+1989, chapter 238, section 9, and as renumbered by Laws 2015, chapter 208,
+section 12, as section 49-131, is amended to read:
+START_STATUTE49131.Toxic chemical release forms; definitions
+A.In order to implement
+section 313 of title III,
+the owner or operator of a facility subject to the requirements of this section
+and section 313 of title III and regulations adopted under that act shall
+complete a toxic chemical release form as supplied by the administrator,
+pursuant to section 313(g) of title III, or as supplied by the commission department, for each toxic chemical listed in the Code of
+Federal Regulations by the administrator pursuant to section 313(c) of title
+III that was manufactured, processed or otherwise used in quantities exceeding
+the toxic chemical threshold quantity established by subsection E of this
+section during the preceding calendar year at that facility.The
+form shall be submitted to the administrator and to the commission department on or before July 1 of each year and shall contain
+data reflecting releases in excess of the quantity of that toxic chemical
+established under subsection E of this section during the preceding calendar
+year.
+B.The requirements of
+this section apply to owners and operators of facilities that have ten or more
+fulltime employees and that are in standard industrial classification
+codes 20 through 39 in effect on July 1, 1987 as prepared by the statistical
+policy division of the United States office of management and budget, office of
+the president and that manufactured, processed or otherwise used a toxic
+chemical listed in title 40 Code of
+Federal Regulations part 372 pursuant to section 313(c) and (d) of title III in
+excess of the quantity of that toxic chemical established under subsection E of
+this section during the calendar year for which the release form is required
+under this section.
+C.The director of environmental quality as the representative of
+the governor pursuant to this section department may request the administrator to
+apply the requirements of this section to the owners and operators of any
+particular facility that manufactures, processes or otherwise uses a toxic
+chemical listed pursuant to section 313(c) of title III if the administrator
+determines that such action is warranted on the basis of toxicity of the toxic
+chemical, the proximity to other facilities that release the toxic chemical or
+to population centers, the history of releases of the chemical at the facility
+or such other factors as the administrator deems appropriate.
+D.The toxic chemicals
+subject to the requirements of this section are those chemicals listed in title 40 Code of Federal Regulations by the
+administrator pursuant to section 313(c) of title III, including any revised
+version of the list as may be made pursuant to section 313(d) or (e) of
+titleIII.The director of
+environmental quality as the representative of the governor department, pursuant to
+section 313(e)(2) of title III, may petition the administrator to add a
+chemical to or delete a chemical from the list identified in this section.
+E.The threshold amounts
+for purposes of reporting toxic chemicals under this section are:
+1.With respect to a
+toxic chemical used at a facility, ten thousand pounds of the toxic chemical
+for the applicable calendar year.
+2.With respect to a
+toxic chemical manufactured or processed at a facility:
+(a)For the toxic
+chemical release form required to be submitted under this section on or before
+July 1, 1988, seventyfive thousand pounds of the toxic chemical per
+year.
+(b)For the toxic
+chemical release form required to be submitted under this section on or before
+July 1, 1989, fifty thousand pounds of the toxic chemical per year.
+(c)For the toxic
+chemical release form required to be submitted under this section on or before
+July 1, 1990 and for each year thereafter, twentyfive thousand pounds of
+the toxic chemical per year.
+F.The threshold amounts
+for purposes of reporting toxic chemicals under this section shall be adjusted
+pursuant to revisions by the administrator.
+G.Owners and operators
+of facilities subject to the requirements of this section shall provide the
+information required under this section on a uniform toxic chemical release
+form published by the administrator or on a uniform toxic chemical release form
+published by the director of environmental quality department.The
+form shall:
+1.Provide for the name
+and location of and principal business activities at the facility.
+2.Include an
+appropriate certification, signed by a senior official with management
+responsibility for the person or persons completing the form, regarding the
+accuracy or completeness of the report.
+3.Provide for the
+following information for each listed toxic chemical known to be present at the
+facility:
+(a)Whether the toxic
+chemical at the facility is manufactured, processed or otherwise used, and the
+general category or categories of use of the chemical.
+(b)An estimate of the
+maximum amount in ranges of the toxic chemical present at the facility at any
+time during the preceding calendar year.
+(c)For each
+wastestream, the waste treatment or disposal methods employed and an estimate
+of the treatment efficiency typically achieved by such methods for that
+wastestream.
+(d)The annual quantity
+of the toxic chemical entering each environmental medium.
+H.The release forms
+required under this section are intended to provide information to the federal,
+state and local governments and to the public, including citizens of
+communities surrounding facilities covered by this section.The
+release form shall be available consistent with the trade secret provisions of
+title III to inform persons about releases of toxic chemicals to the
+environment, to assist governmental agencies, researchers and other persons in
+conducting research and data gathering, to aid in developing appropriate rules
+and regulations, guidelines and standards and for similar purposes.
+I.For purposes of this
+section:
+1."Administrator"
+means the administrator of the United States environmental protection agency.
+2."Manufacture"
+means to produce, prepare, import or compound a toxic chemical.
+3."Process"
+means the preparation of a toxic chemical after its manufacture for
+distribution in commerce either:
+(a)In the same form or
+physical state as, or in a different form or physical state from, that in which
+it was received by the person so preparing the chemical.
+(b)As part of an
+article containing the toxic chemical. END_STATUTE
+Sec.27.Repeal
+Section 49-132,
+Arizona Revised Statutes, as amended by Laws 2015, chapter 208, section 31, is
+repealed.
+Sec.28.Section 26352,
+Arizona Revised Statutes, as amended by Laws 1991, chapter 315, section 4, and
+as renumbered by Laws 2015, chapter 208, section 12, as section 49-132, is
+amended to read:
+START_STATUTE49132.Emergency response fund
+The emergency response fund is
+established consisting of monies appropriated by the legislature for purposes
+of section 26305.02 and this
+article and federal, private and other monies available for that purpose. The chairman of the commission department shall manage the fund and
+expend monies in the fund in performing the functions required or authorized by
+this article.All interest earned from investing monies in the fund
+shall be credited to the fund.Monies in the fund are subject to
+legislative appropriation and are exempt from section 35190 relating to
+lapsing of appropriations. END_STATUTE
+Sec.29.Repeal
+Laws 2015, chapter 208, section 35 is repealed.
+Sec.30.Transfer of monies
+All unexpended and unencumbered
+monies remaining in the national guard relief fund established by section
+26-183, Arizona Revised Statutes, are transferred to the department of
+veterans' services. Using the rules or policies for grants adopted pursuant to
+section 41-608, Arizona Revised Statutes, the department of veterans' services
+shall distribute the monies transferred pursuant to this section to a nonprofit
+organization that provides financial assistance to Arizona national guard
+members and their families.
+Sec.31.Retroactive application
+A.Sections 15, 16,
+17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29 and 30 of this act apply
+retroactively to from and after July 2, 2015.
+B.Sections 2, 3, 4,
+5, 6, 7, 8, 9, 10, 11, 12 and 13 of this act apply retroactively to from and
+after June 30, 2016.
+Sec.32.Effective date
+Section 14 of this act is effective from and after December 31,
+2017.
+

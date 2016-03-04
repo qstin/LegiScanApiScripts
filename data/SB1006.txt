@@ -1,0 +1,132 @@
+
+
+
+
+PREFILED DEC 07 2015
+
+
+
+REFERENCE TITLE: institutional investor; definition
+
+
+
+
+
+
+
+State of Arizona
+Senate
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+SB 1006
+
+
+
+
+
+
+
+
+
+Introduced by
+Senators
+  Farnsworth D, Begay, Farley: Shooter; Representatives Boyer, Cobb, Lawrence,
+  Norgaard, Petersen, Thorpe, Townsend
+
+
+
+
+
+AN ACT
+
+amending section
+6-971, Arizona Revised Statutes; relating to commercial mortgage bankers.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 6-971, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE6-971.Definitions
+In this article, unless the context otherwise requires:
+1."Affiliate" means an entity that
+directly or indirectly, through one or more intermediaries, controls, is
+controlled by or is under common control with the specified entity.
+2."Commercial
+business purpose loan" means a loan that has a commercial business purpose
+and that may be directly or indirectly secured by a mortgage, deed of trust or
+any lien interest on a property that is established with the property owner's
+consent.
+2.3."Commercial
+mortgage banker" means a person who engages in the following:
+(a)Originating commercial mortgage loans.
+(b)Servicing commercial mortgage loans.
+(c)Either directly or indirectly making,
+negotiating or offering to make or negotiate commercial mortgage loans.
+3.4."Commercial
+mortgage loan" means a loan that is directly or indirectly secured by a
+mortgage or deed of trust or any lien interest on commercial property and
+created with the consent of the owner of the commercial property.
+4.5."Commercial
+mortgage loan closing" means the day by which all documents relating to
+the commercial mortgage loan have been executed and recorded and all monies
+have been accounted for under the terms of the escrow instructions.
+5.6."Commercial
+property" means real estate that is located in this state and that is not
+used for a one to four family residence.
+6.7."Compensation"
+means anything of value or any benefit including points, commissions, bonuses,
+referral fees, loan origination fees and other similar fees but excluding
+periodic interest resulting from the application of the note rate of interest
+to the outstanding principal balance remaining unpaid from time to time.
+7.8."Institutional
+investor" means a person who in the regular course of business makes
+commercial mortgage loans of more than
+two hundred fifty thousand dollars or commercial business purpose loans that are
+funded exclusively from the institutional investor's own resources.
+8.9."Investor"
+means a person who directly or indirectly provides monies to a commercial
+mortgage banker that are, or are intended to be, used to make a loan, and any
+person who purchases a loan, or any interest in a loan, from a commercial
+mortgage banker or in a transaction that has been directly or indirectly
+arranged or negotiated by a commercial mortgage banker.
+9.10."License"
+means a license issued under this article.
+10.11."Licensee"
+means a person who is licensed under this article.
+11.12."Own
+resources" means any of the following:
+(a)Cash, corporate capital, warehouse credit lines
+at commercial banks, savings banks or savings and loan associations or other
+sources that are liability items on the person's financial statements.
+(b)Correspondent contracts between the commercial
+mortgage banker and an institutional investor, bank, savings bank, trust
+company, savings and loan association, credit union, profit sharing or
+pensiontrust, consumer lender or insurance company.
+(c)The person's affiliates' cash, corporate
+capital, warehouse credit lines at commercial banks or other sources that are
+liability items on the affiliates' financial statements for which the
+affiliates' assets are pledged.
+12.13."Servicing
+commercial mortgage loans" means collecting payments at a location in this
+state on commercial mortgage loans, including:
+(a)Principal.
+(b)Interest.
+(c)Trust items such as hazard insurance premiums,
+taxes and various reserves on an obligation under the terms of the obligation.
+(d)Operational procedures covering accounting,
+bookkeeping, insurance, tax records, loan payment followup, delinquency
+loan followup, loan analysis and property valuation. END_STATUTE
+

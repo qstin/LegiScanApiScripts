@@ -1,0 +1,1013 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: rural and tribal infrastructure;
+  development
+
+
+
+
+
+
+
+State of Arizona
+Senate
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+SB 1386
+
+
+
+
+
+
+
+
+
+Introduced by
+Senator
+  Begay
+
+
+
+
+
+AN ACT
+
+amending title
+41, Arizona Revised Statutes, by adding chapter 20; amending title 41, chapter
+27, article 2, Arizona Revised Statutes, by adding section 413026.01;
+amending section 425029, Arizona Revised Statutes; amending title 42,
+chapter 5, article 1, arizona revised statutes, by adding section 425031.02;
+relating to rural and tribal infrastructure development.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Title 41, Arizona Revised Statutes,
+is amended by adding chapter 20, to read:
+CHAPTER 20
+RURAL ARIZONA AND TRIBAL INFRASTRUCTURE CAPITAL
+IMPROVEMENT PLAN
+ARTICLE 1.GENERAL PROVISIONS
+START_STATUTE41-2351.Definitions
+In this chapter, unless the context otherwise requires:
+1."Authority" means the rural Arizona
+and tribal infrastructure authority established by section 412353.
+2."Board" means the board of directors
+of the authority.
+3."Fund" means the rural Arizona and
+tribal infrastructure revolving fund established by section 412356.
+4."Infrastructure capital improvement
+plan" or "plan" means the rural Arizona and tribal
+infrastructure capital improvement plan established by section 412352.
+5."Qualified project" means a project
+approved by the authority under the rural Arizona and tribal infrastructure
+capital improvement plan to receive financial or other assistance under this
+chapter.
+6."Rural
+Arizona and tribal community" means an Indian tribe in a county with a
+population of less than three hundred thousand persons, a city or town in a
+county with a population of less than three hundred thousand persons or a
+county with a population of less than three hundred thousand persons. END_STATUTE
+START_STATUTE41-2352.Rural Arizona and tribal infrastructure capital
+improvement plan
+The rural Arizona and
+tribal infrastructure capital improvement plan is established to ensure
+adequate financial resources for infrastructure development for rural Arizona
+and tribal communities, to provide for the planning and development of
+infrastructure in an efficient and cost-effective manner and to develop
+infrastructure in rural Arizona and tribal communities to improve the quality
+of life and stimulate economic development. The rural Arizona and tribal
+infrastructure authority established by section 412353 shall administer
+the plan. END_STATUTE
+START_STATUTE41-2353.Rural Arizona and tribal infrastructure authority; board
+of directors
+A.The rural
+Arizona and tribal infrastructure authority is established. The authority,
+through its board of directors, shall act as a central clearinghouse for the
+rural Arizona and tribal infrastructure capital improvement plan and shall
+administer and coordinate the plan, provide for a common application and
+funding process, evaluate infrastructure project proposals and award grants,
+financial assistance, technical assistance and loans to qualified projects from
+monies available in the rural Arizona and tribal infrastructure revolving fund.
+B.The board
+of directors of the authority consists of eleven members who are appointed by
+the governor as follows:
+1.Two
+members who represent rural counties with a population of less than three
+hundred thousand persons.
+2.Two
+members who represent cities or towns in a county with a population of less
+than three hundred thousand persons.
+3.Seven
+members who represent Indian tribes, one of whom is a member of a tribe with a
+population in this state of more than fifty thousand persons.Each
+tribe or tribal council may submit names of members of its tribe to be
+considered for appointment to the board.
+C.If the
+governor fails to make an appointment to the board to fill a vacancy resulting
+from expiration of a term or from the resignation or removal of a member within
+six months after the date of the vacancy, the senate shall nominate and confirm
+a member to fill the vacancy, except that for the members of the board
+representing Indian tribes other than a tribe with a population in this state
+of more than fifty thousand persons, the tribal council shall nominate the
+member of the board to fill the vacancy.
+D.The term
+of office of each member of the board is four years, unless the member resigns
+or is removed. The terms of six members expire on the first Monday in January
+evennumbered years and the terms of five members expire on the first
+Monday in January oddnumbered years. Each member of the board shall hold
+office until the member's successor is appointed and qualifies. Appointment to
+fill a vacancy caused other than by expiration of a term is for the unexpired
+portion of the term. A member representing a tribe may be removed at the
+request of that tribe or tribal council if the member's name was submitted by
+that tribe or tribal council to be considered for appointment to the board. A
+member of the board may not serve more than two terms.
+E.The board
+shall elect a chairperson and vice chairperson who shall adopt rules for the
+conduct of meetings. The board shall keep a record of all proceedings.
+F.The board
+shall meet at the call of the chairperson or whenever four members submit a
+request in writing to the chairperson, but at least two times each calendar
+year. A majority of members constitute a quorum for the transaction of
+business.The affirmative vote of at least a majority of a quorum of
+the board is necessary for action to be taken by the authority.
+G.Members
+of the board are not eligible to receive compensation but are eligible for
+reimbursement of expenses pursuant to title 38, chapter 4, article 2. END_STATUTE
+START_STATUTE41-2354.Powers and duties of the authority; rulemaking; definition
+A.The rural
+Arizona and tribal infrastructure authority is a corporate and politic body and
+shall have an official seal that is judicially noticed.The
+authority may sue and be sued, contract and acquire, hold, operate and dispose
+of property as necessary to carry out its responsibilities under this chapter.
+B.The
+authority, through its board, may:
+1.Issue
+negotiable infrastructure capital improvement bonds pursuant to section 412357
+for the following purposes:
+(a)To generate a state match for the rural
+Arizona and tribal infrastructure revolving fund.
+(b)To provide financial assistance
+to rural Arizona and tribal communities for qualified projects under the plan
+for Planning, designing, constructing, improving, expanding, acquiring or
+equipping wastewater treatment facilities, drinking water facilities, nonpoint
+source projects, major water systems, electrical power lines, communications
+infrastructure, roads, health infrastructure, emergency response facilities and
+infrastructure needed to stimulate economic development.
+2.Provide
+financial assistance pursuant to section 412362 to rural Arizona and
+tribal communities for qualified projects under the plan for Planning,
+designing, constructing, improving, expanding, acquiring or equipping
+wastewater treatment facilities, drinking water facilities, nonpoint source
+projects, major water systems, electrical power lines, communications
+infrastructure, roads, health infrastructure, emergency response facilities and
+infrastructure needed to stimulate economic development.
+3.Provide grants, staff assistance, short-term assistance or
+technical assistance in the form of a loan repayment agreement and other
+professional assistance to rural Arizona and tribal communities in connection
+with a qualified project. The board shall determine the form and terms of
+assistance provided under a technical assistance loan repayment agreement. The
+rural Arizona and tribal community shall repay the loan not more than three
+years after the date the monies are advanced to the rural Arizona and tribal
+community. The provision of technical assistance by the authority or its board
+does not create any liability for the authority, its board or this state
+regarding the design, construction or operation of any qualified project. For
+the purposes of this paragraph:
+(a)Shortterm
+assistance represents an advance of financial assistance. The authority may
+not provide shortterm assistance unless the borrower has an approved
+financial assistance application on file with the authority.The
+borrower shall repay shortterm assistance pursuant to a technical
+assistance repayment agreement.
+(b)The authority shall establish an
+application process and method of determining the allocation of technical
+assistance.
+(c)Before technical assistance may
+be provided, the board shall approve the application for technical assistance.
+4.Guarantee
+debt obligations of rural Arizona and tribal communities to finance
+infrastructure projects under the plan.
+5.Provide
+linked deposit guarantees through third-party lenders to rural Arizona and
+tribal communities that are issued to finance or refinance infrastructure
+projects under the plan.
+6.Apply
+for, accept and administer grants and other financial assistance from the
+United States government and from other public and private sources.
+7.Enter
+into capitalization grant agreements with the United States environmental
+protection agency.
+8.Approve
+the projects that receive technical and financial assistance.
+9.Approve
+loan repayment agreements entered into with rural Arizona and tribal
+communities.
+10.Subject
+to chapter 4 of this title, hire a director and staff for the authority.
+11.Contract
+for the services of outside advisors, attorneys, consultants, aides and other
+professional assistance reasonably necessary or desirable to allow the
+authority and its board to adequately perform its duties.
+12.Contract
+and incur obligations as reasonably necessary or desirable within the general
+scope of the authority's activities and operations to allow the authority and
+its board to adequately perform its duties.
+13.Establish
+accounts and subaccounts of the fund as necessary to properly account for and
+use monies received by the authority.
+14.Use
+monies received in the fund pursuant to section 412356, subsection B,
+paragraph 1 solely for securing bonds of the authority.
+15.Use
+monies received in the fund pursuant to section 412356, subsection B,
+paragraphs 2 through 8 for:
+(a)Providing technical assistance
+to rural Arizona and tribal communities.
+(b)Providing financial assistance
+to rural Arizona and tribal communities.
+(c)Paying the compensation and
+employment-related expenses associated with the employees hired pursuant to
+this section.
+(d)Paying the costs to operate the
+authority, administer the fund and carry out the requirements of this chapter.
+(e)Paying the costs of professional
+assistance hired by the authority pursuant to this section.
+16.Assess
+financial assistance origination fees and annual fees for administering the
+authority and the rural Arizona and tribal infrastructure revolving fund. Any
+fees collected pursuant to this paragraph may be used for any purpose
+consistent with the mission and objectives of the authority.
+17.Adopt rules
+pursuant to chapter 6 of this title governing the application for and awarding
+of financial assistance and other assistance for qualified projects pursuant to
+this chapter, the administration of the fund and the issuance of infrastructure
+capital improvement bonds.
+C.The board
+shall:
+1.Administer
+the fund in compliance with the requirements of this chapter.
+2.Approve
+all policies and procedures of the authority.
+3.Separately
+account for monies received in the fund pursuant to section 412356 from
+each source listed in section 412356, subsection B.
+4.Not use
+monies received in the fund pursuant to subsection B, paragraph 1 of this
+section for any purpose except securing bonds issued by the authority and
+providing assistance under technical assistance repayment agreements if the
+amount used for providing this assistance is not more than eight hundred
+thousand dollars.This paragraph does not limit the power of the
+authority to pledge other monies in the fund to secure bonds issued by the
+authority or to provide assistance under technical assistance repayment
+agreements.
+5.Deposit,
+pursuant to sections 35146 and 35147, any monies received
+pursuant to subsection B, paragraph 5 of this section in the fund.
+D.On notice
+from the board, the state treasurer shall invest and divest monies in the fund
+as provided by section 35313, and monies earned from investment shall be
+credited to the fund.
+E.If the
+monies pledged to secure bonds issued under section 412357 become
+insufficient to pay the principal of and interest on the bonds, the board may
+direct the state treasurer to divest monies in the fund as may be necessary and
+may apply those proceeds to make current all payments then due on the
+bonds.The state treasurer shall immediately notify the attorney
+general and auditor general of the insufficiency.The auditor
+general shall audit the circumstances surrounding the depletion of the fund and
+shall report these findings to the attorney general. The attorney general shall
+conduct an investigation and report these findings to the governor and the
+legislature.
+F.Disbursements
+of monies by the board pursuant to a financial assistance agreement are not
+subject to chapter 23 of this title.
+G.For the
+purposes of this section, "nonpoint source project" has the same
+meaning prescribed in section 49-1201. END_STATUTE
+START_STATUTE41-2355.Administrative support; annual report
+A.The water
+infrastructure finance authority of Arizona shall provide general
+administrative support and office and meeting space for the rural Arizona and
+tribal infrastructure authority and its board.
+B.The rural
+Arizona and tribal infrastructure authority through its board shall submit a
+written report to the governor, president of the senate and speaker of the
+house of representatives not later than January 1 of each year providing an
+account of its activities, including a copy of the annual audit of the fund
+required by section 41-2356, subsection J. The authority shall submit a copy
+of this report to the secretary of state. END_STATUTE
+START_STATUTE41-2356.Rural Arizona and tribal infrastructure revolving fund;
+monies; expenditures; audit
+A.The rural
+Arizona and tribal infrastructure revolving fund is established. The authority
+through its board shall administer the fund in compliance with the requirements
+of this chapter.
+B.The fund
+consists of:
+1.Monies
+transferred pursuant to section 425031.02, subsection A, paragraph 1.
+2.Monies
+received under section 412354, subsection B, paragraph 6.
+3.Monies
+received under section 412357.
+4.Monies
+received from the United States government to carry out this chapter.
+5.Monies
+received as loan repayments, technical assistance repayments, interest,
+administrative fees and penalties.
+6.Gifts,
+grants and donations received from any public or private source to carry out
+this chapter.
+7.Interest
+and other income received from investing monies in the fund.
+8.Any other
+monies received by the authority.
+C.The board
+shall deposit, pursuant to sections 35146 and 35147, the monies
+into the fund monthly.Monies in the fund are continuously
+appropriated for the purposes of this chapter for providing financial
+assistance, grants, technical assistance or loans for qualified projects under
+the rural Arizona and tribal infrastructure capital improvement plan. Monies
+in the fund do not revert to the state general fund.
+D.The board shall
+separately account for monies received from each source listed in subsection b
+of this section. Monies received pursuant to subsection B, paragraph 1 of this
+section may not be used for any purpose except securing bonds issued by the
+authority and providing assistance under technical assistance repayment
+agreements if the amount used for providing this assistance is not more than
+eight hundred thousand dollars.This subsection does not limit the
+power of the authority to pledge other monies in the fund to secure bonds
+issued by the authority or to provide assistance under technical assistance
+repayment agreements.
+E.The board may
+establish accounts and subaccounts as necessary to properly account for and use
+monies received by the authority.
+F.Monies in the fund
+received pursuant to subsection b, paragraphs 2 through 8 of this section may
+be used for:
+1.Providing technical
+assistance to rural Arizona and tribal communities.
+2.Providing financial
+assistance to rural Arizona and tribal communities.
+3.Paying the
+compensation and employment-related expenses associated with the employees
+hired pursuant to section 412354.
+4.Paying the costs to
+operate the authority, to administer the fund and to carry out the requirements
+of this chapter.
+5.Paying the costs of
+professional assistance hired by the authority pursuant to section 412354.
+G.On notice from the
+board, the state treasurer shall invest and divest monies in the fund as
+provided by section 35-313, and monies earned from investment shall be credited
+to the fund.
+H.If the monies
+pledged to secure the bonds issued under section 412357 become
+insufficient to pay the principal of and interest on the bonds, the board may
+direct the state treasurer to divest monies in the fund as may be necessary and
+may apply those proceeds to make current all payments then due on the
+bonds.The state treasurer shall immediately notify the attorney
+general and auditor general of the insufficiency.The auditor general
+shall audit the circumstances surrounding the depletion of the fund and shall
+report these findings to the attorney general.The attorney general
+shall conduct an investigation and report these findings to the governor and
+the legislature.
+I.The
+authority shall spend seventyfive percent of the monies in the fund on
+exclusively tribal projects and twentyfive percent of the monies in the
+fund on cooperative projects between a tribe and a city or town in a county
+with a population of less than three hundred thousand persons or a county with
+a population of less than three hundred thousand persons.
+J.The authority through its board shall cause an
+annual audit to be conducted of the fund, including all accounts and
+subaccounts, by an independent certified public accountant within one hundred
+twenty days after the end of each fiscal year.The authority shall
+immediately file a certified copy of the audit with the auditor general. The
+auditor general may make further audits and examinations as necessary and may
+take appropriate action relating to the audit or examination pursuant to
+chapter 7, article 10.1 of this title.If the auditor general takes
+no official action within thirty days after the audit is filed, the audit is
+considered to be sufficient.The authority shall pay all fees and
+costs of the certified public accountant and auditor general under this
+subsection from the fund. END_STATUTE
+START_STATUTE41-2357.Infrastructure capital improvement bonds
+A.The authority
+through its board may issue negotiable infrastructure capital improvement bonds
+in a principal amount that in its opinion is necessary to provide sufficient
+monies for financial assistance under this chapter, maintaining sufficient
+reserves to secure the bonds, to refund the bonds when the authority deems it
+expedient to do so, to pay the necessary costs of issuing, selling and
+redeeming the bonds and to pay other expenditures of the authority incidental
+to and necessary and convenient to carry out the purposes of this chapter.
+B.The
+authority through its board shall authorize the bonds by a resolution that
+prescribes:
+1.The
+rate or rates of interest and the denominations of the bonds.
+2.The date or dates
+of the bonds and maturity.
+3.The coupon or
+registered form of the bonds.
+4.The manner of
+executing the bonds.
+5.The medium and
+place of payment.
+6.The terms of
+redemption.
+C.The authority shall
+sell the bonds at a public or private sale at the price and on the terms
+determined by its board.The authority shall deposit all proceeds
+from the issuance of bonds, except any amounts used to pay costs associated
+with the issuance and sale of the bonds, in the appropriate accounts of the
+fund as specified in the resolution.
+D.The authority shall
+publish a notice of its intention to issue bonds under this chapter for at
+least five consecutive days in a newspaper published in this state. The last
+day of publication shall be at least ten days before issuing the bonds. The
+notice shall state the amount of the bonds to be sold and the intended date of
+issuance.The authority shall hand deliver or send, by certified
+mail, return receipt requested, a copy of the notice to the director of the
+department of administration on or before the last day of publication.
+E.To secure any bonds
+authorized by this section, the authority by resolution of its board may:
+1.Provide that bonds
+issued under this section may be secured by a lien on all or part of the monies
+paid into the appropriate account or subaccount of the fund.
+2.Pledge or assign to
+or in trust for the benefit of the holder or holders of the bonds any part or
+appropriate account or subaccount of the monies in the fund as is necessary to
+pay the principal and interest of the bonds as they come due.
+3.Set aside, regulate
+and dispose of reserves and sinking funds.
+4.Provide that
+sufficient amounts of the proceeds from the sale of the bonds may be used to
+fully or partly fund any reserves or sinking funds set up by the bond
+resolution.
+5.Prescribe the
+procedure, if any, by which the terms of any contract with bondholders may be
+amended or abrogated, the amount of bonds the bondholders must consent to and
+the manner in which consent may be given.
+6.Provide for payment
+from the proceeds of the sale of the bonds of all legal and financial services
+incurred by the authority and board in issuing, selling, delivering and paying
+the bonds.
+7.Provide terms
+necessary to secure credit enhancement or other sources of payment or security.
+8.Do any other
+matters that in any way may affect the security and protection of the bonds.
+F.The authority, the
+members of the board and any person executing the bonds are not personally
+liable for the payment of the bonds. The bonds are valid and binding
+obligations notwithstanding that before the delivery of the bonds any person
+whose signature appears on the bonds ceases to be a member of the
+board.From and after the sale and delivery of the bonds, they are
+incontestable by the authority or its board.
+G.The authority, out
+of any available monies, may purchase bonds, which may be canceled, at a price
+not exceeding either of the following:
+1.If the bonds are
+then redeemable, the redemption price then applicable plus accrued interest to
+the next interest payment date.
+2.If the bonds are
+not then redeemable, the redemption price applicable on the first date after
+purchase on which the bonds become subject to redemption plus accrued interest
+to that date.
+H.The bonds issued
+under this section, their transfer and the income they produce are exempt from
+taxation by this state or by any political subdivision of this state.
+I.If a rural Arizona
+and tribal community fails to make a payment due to the authority under its
+loan repayment agreement or bonds, the authority shall certify to the state
+treasurer and notify the governing body of the defaulting rural Arizona and
+tribal community that the rural Arizona and tribal community has failed to make
+the payment and direct withholding pursuant to subsection J of this section.
+The authority may determine the form of the certificate of default, except that
+the certificate shall specify the amount of money required to satisfy the
+unpaid payment obligation of the rural Arizona and tribal community.
+J.On receipt of a
+certificate of default from the authority, the state treasurer, to the extent
+not otherwise expressly prohibited by law, shall withhold an amount from the
+defaulting rural Arizona and tribal community's next distribution of monies
+pursuant to section 42-5029 and an amount from a defaulting city's or town's
+next distribution of monies pursuant to section 43-206 necessary to meet the
+certified amount of the deficiency. The state treasurer shall immediately
+deposit in the fund the amount withheld.The state treasurer shall
+continue to withhold distributions pursuant to sections 42-5029 and 43-206 and
+deposit them into the fund until the authority certifies to the state treasurer
+that the default has been cured.
+K.Notwithstanding
+subsection J of this section, the state treasurer shall not withhold from the
+distribution of monies under section 42-5029 any amount, as certified by the
+defaulting rural Arizona and tribal community to the state treasurer and the
+authority, that is necessary to make any required deposits then due for payment
+of principal and interest on bonds of the rural Arizona and tribal community
+that have been secured by a pledge of the distribution. END_STATUTE
+START_STATUTE41-2358.Bond obligations of the authority
+Bonds issued
+under this chapter are obligations of the rural Arizona and tribal
+infrastructure authority, are payable only according to their terms and are not
+obligations general, special or otherwise of this state. The bonds do not
+constitute a legal debt of this state and are not enforceable against this
+state. Payment of the bonds is not enforceable out of any state monies other
+than the income and revenue pledged and assigned to, or in trust for the
+benefit of, the holder or holders of the bonds. END_STATUTE
+START_STATUTE41-2359.Certification of bonds by attorney general
+The board may submit any
+infrastructure capital improvement bonds issued under this chapter to the
+attorney general after all proceedings for their authorization have been
+completed. On submission the attorney general shall examine and pass on the
+validity of the bonds and the regularity of the proceedings.If the
+proceedings comply with this chapter, and if the attorney general determines
+that, when delivered and paid for, the bonds will constitute binding and legal
+obligations of the authority, the attorney general shall certify on the back of
+each bond, in substance, that it is issued according to the constitution and
+laws of this state. END_STATUTE
+START_STATUTE41-2360.Infrastructure capital improvement bonds as legal
+investments
+Infrastructure capital
+improvement bonds issued under this chapter are securities in which public
+officers and bodies of this state and of municipalities and political
+subdivisions of this state, all companies, associations and other persons
+carrying on an insurance business, all financial institutions, investment
+companies and other persons carrying on a banking business, all fiduciaries and
+all other persons who are authorized to invest in obligations of this state may
+properly and legally invest.The bonds are also securities that may
+be deposited with public officers or bodies of this state and municipalities
+and political subdivisions of this state for purposes that require the deposit
+of state bonds or obligations. END_STATUTE
+START_STATUTE41-2361.Agreement of state
+This state pledges to and agrees
+with the bondholders that this state will not limit or alter the rights vested
+in the rural Arizona and tribal infrastructure authority or any successor
+entity to collect the monies necessary to produce sufficient revenue to fulfill
+the terms of any agreements made with the bondholders, or in any way impair the
+rights and remedies of the bondholders, until all bonds issued under this
+chapter, together with interest, including interest on any unpaid installments
+of interest, and all costs and expenses in connection with any action or
+proceedings by or on behalf of the bondholders, are fully met and discharged.
+The board as agent for this state may include this pledge and undertaking in
+its resolutions and indentures securing its bonds. END_STATUTE
+START_STATUTE41-2362.Financial assistance
+A.The authority may
+provide financial assistance to rural Arizona and tribal communities in
+developing, acquiring, constructing, improving, equipping or refinancing
+infrastructure.The financial assistance shall include:
+1.Loans as provided
+by this section.
+2.Credit enhancements
+purchased for a rural Arizona and tribal community bond or other form of
+indebtedness.
+B.A loan shall be
+evidenced by a loan repayment agreement, lease purchase agreement or bonds of a
+rural Arizona and tribal community that are delivered to and held by the
+authority.
+C.The authority shall
+prescribe a principal repayment schedule for each loan made. Loan principal
+payments may be rescheduled at the discretion of the authority.
+D.A loan under this
+section shall:
+1.Be repaid not more
+than thirty years after the date it is incurred.
+2.Require that
+interest payments begin not later than the next date that either principal or
+interest must be paid by the authority to holders of any of the authority's
+bonds that provided funding for the loan.The authority may provide
+that loan interest accruing during construction of the borrower's
+infrastructure project and up to one year after completion of the construction
+be capitalized in the loan.
+3.Be repayable in at
+least annual principal installments and at least semiannual interest
+installments.
+4.Be conditioned on
+the identification of pledged revenues for repaying the loan. If the
+infrastructure financed by the loan is part of a municipal utility and the city
+or town pledges revenues of the utility to repay the loan, the loan shall be
+treated under section 9-530, subsection B as a lawful long-term obligation
+incurred for a specific capital purpose.
+5.To the extent
+permitted by law, be secured by a debt service reserve account that is held in
+trust and that is in such an amount, if any, as determined by the authority.
+E.The authority shall
+prescribe the rate or rates of interest on loans made under this section, but
+the rate or rates may not exceed the prevailing market rate for similar types
+of loans.A rural Arizona and tribal community may negotiate the
+sale of its bonds to or a loan repayment agreement with the authority without
+complying with any public or accelerated bidding requirements imposed by any
+other law for the sale of its bonds.
+F.The approval of a
+loan is conditioned on a written commitment by the rural Arizona and tribal
+community to complete all applicable reviews and approvals and to secure all
+required permits in a timely manner.
+G.The approval of
+financial assistance to a city or town having a population of more than fifty
+thousand persons is conditioned on approval of its voters. An election is not
+required if voter approval has previously been received for substantially the
+same project.
+H.The approval of
+financial assistance to a county having a population of more than two hundred
+thousand persons is conditioned on approval of its voters. An election is not
+required if voter approval has previously been received for substantially the
+same project.
+I.By resolution of
+the board, the authority may impose any additional requirements it considers
+necessary to ensure that the loan principal and interest are timely paid.
+J.All monies received
+from rural Arizona and tribal communities as loan repayments, interest and
+penalties shall be deposited, pursuant to sections 35-146 and 35-147, in the
+fund.
+K.If a rural Arizona
+and tribal community fails to make any payment due to the authority under its
+loan repayment agreement or bonds, the authority shall certify to the state
+treasurer and notify the governing body of the defaulting rural Arizona and
+tribal community that the rural Arizona and tribal community has failed to make
+the required payment and direct a withholding of state shared revenues as
+provided in subsection L of this section. The certificate of default shall be
+in the form determined by the authority, provided the certificate specifies the
+amount required to satisfy the unpaid payment obligation of the rural Arizona
+and tribal community.
+L.On receipt of a
+certificate of default from the authority, the state treasurer, to the extent
+not otherwise expressly prohibited by law, shall withhold the monies from the
+next succeeding distribution of monies pursuant to section 42-5029 due to the
+defaulting rural Arizona and tribal community. In the case of a city or town,
+the state treasurer shall also withhold from the next succeeding distribution
+of monies pursuant to section 43-206 due to the defaulting city or town the
+amount specified in the certificate of default and immediately deposit the
+amount withheld in the fund. The state treasurer shall continue to withhold
+and deposit the monies until the authority certifies to the state treasurer
+that the default has been cured.The state treasurer may not
+withhold any amount that is necessary, as certified by the defaulting rural
+Arizona and tribal community to the state treasurer and the authority, to make
+any required deposits then due for the payment of principal of and interest on
+bonds of the rural Arizona and tribal community that were issued before the
+date of the loan repayment agreement or bonds and that have been secured by a
+pledge of distributions made pursuant to sections 42-5029 and 43-206. END_STATUTE
+START_STATUTE41-2363.Enforcement; attorney general
+The attorney general may take
+actions necessary to enforce the loan contract and achieve repayment of loans
+provided by the authority pursuant to section 412362. END_STATUTE
+Sec.2.Title 41, chapter 27, article 2,
+Arizona Revised Statutes, is amended by adding section 41-3026.01, to read:
+START_STATUTE41-3026.01.Rural Arizona and tribal infrastructure authority board;
+termination July1, 2026
+A.The rural
+Arizona and tribal infrastructure authority board terminates on July 1, 2026.
+B.Title 41,
+chapter 20 is repealed on January 1, 2027. END_STATUTE
+Sec.3.Section 42-5029, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE42-5029.Remission and distribution of monies; definition
+A.The department shall
+deposit, pursuant to sections 35146 and 35147, all revenues
+collected under this article and articles 4, 5 and 8 of this chapter pursuant
+to section 421116, separately accounting for:
+1.Payments of estimated
+tax under section 425014, subsection D.
+2.Revenues collected
+pursuant to section 425070.
+3.Revenues collected
+under this article and article 5 of this chapter from and after June 30, 2000
+from sources located on Indian reservations in this state.These revenues shall be distributed first as
+prescribed by sections 425031.01 and 425031.02, and the remainder
+of the revenues shall be distributed as otherwise required by this article.
+4.Revenues collected
+pursuant to section 425010, subsection G and section 425155,
+subsection D.
+B.The department shall
+credit payments of estimated tax to an estimated tax clearing account and each
+month shall transfer all monies in the estimated tax clearing account to a fund
+designated as the transaction privilege and severance tax clearing account.
+The department shall credit all other payments to the transaction privilege and
+severance tax clearing account, separately accounting for the monies designated
+as distribution base under sections 425010, 425164, 425205
+and 425353.Each month the department shall report to the
+state treasurer the amount of monies collected pursuant to this article and
+articles 4, 5 and 8 of this chapter.
+C.On notification by
+the department, the state treasurer shall distribute the monies deposited in
+the transaction privilege and severance tax clearing account in the manner
+prescribed by this section and by sections 425164, 425205 and 425353,
+after deducting warrants drawn against the account pursuant to sections 421118
+and 421254.
+D.Of the monies
+designated as distribution base, and subject to the requirements of section 425041,
+the department shall:
+1.Pay twentyfive
+percent to the various incorporated municipalities in this state in proportion
+to their population to be used by the municipalities for any municipal purpose.
+2.Pay 38.08 percent to
+the counties in this state by averaging the following proportions:
+(a)The proportion that
+the population of each county bears to the total state population.
+(b)The proportion that
+the distribution base monies collected during the calendar month in each county
+under this article, section 425164, subsection B, section 425205,
+subsection B and section 425353 bear to the total distribution base
+monies collected under this article, section 425164, subsection B,
+section 425205, subsection B and section 425353 throughout the
+state for the calendar month.
+3.Pay
+an additional 2.43 percent to the counties in this state as follows:
+(a)Average
+the following proportions:
+(i)The proportion that
+the assessed valuation used to determine secondary property taxes of each
+county, after deducting that part of the assessed valuation that is exempt from
+taxation at the beginning of the month for which the amount is to be paid,
+bears to the total assessed valuations used to determine secondary property
+taxes of all the counties after deducting that portion of the assessed
+valuations that is exempt from taxation at the beginning of the month for which
+the amount is to be paid. Property of a city or town that is not within or
+contiguous to the municipal corporate boundaries and from which water is or may
+be withdrawn or diverted and transported for use on other property is
+considered to be taxable property in the county for purposes of determining
+assessed valuation in the county under this item.
+(ii)The proportion that
+the distribution base monies collected during the calendar month in each county
+under this article, section 425164, subsection B, section 425205,
+subsection B and section 425353 bear to the total distribution base
+monies collected under this article, section 425164, subsection B,
+section 425205, subsection B and section 425353 throughout the
+state for the calendar month.
+(b)If the proportion
+computed under subdivision (a) of this paragraph for any county is greater than
+the proportion computed under paragraph 2 of this subsection, the department
+shall compute the difference between the amount distributed to that county
+under paragraph 2 of this subsection and the amount that would have been
+distributed under paragraph 2 of this subsection using the proportion computed
+under subdivision (a) of this paragraph and shall pay that difference to the
+county from the amount available for distribution under this paragraph.Any
+monies remaining after all payments under this subdivision shall be distributed
+among the counties according to the proportions computed under paragraph 2 of
+this subsection.
+4.After any
+distributions required by sections 425030, 425030.01, 425031,
+425032, 425032.01 and 425032.02, and after making any
+transfer to the water quality assurance revolving fund as required by section
+49282, subsection B, credit the remainder of the monies designated as
+distribution base to the state general fund.From this amount the
+legislature shall annually appropriate to:
+(a)The department of
+revenue sufficient monies to administer and enforce this article and articles 5
+and 8 of this chapter.
+(b)The department of
+economic security monies to be used for the purposes stated in title 46,
+chapter 1.
+(c)The
+firearms safety and ranges fund established by section 17273, fifty
+thousand dollars derived from the taxes collected from the retail
+classification pursuant to section 425061 for the current fiscal year.
+E.If approved by the
+qualified electors voting at a statewide general election, all monies collected
+pursuant to section 425010, subsection G and section 425155,
+subsection D shall be distributed each fiscal year pursuant to this
+subsection.The monies distributed pursuant to this subsection are
+in addition to any other appropriation, transfer or other allocation of public
+or private monies from any other source and shall not supplant, replace or
+cause a reduction in other school district, charter school, university or
+community college funding sources.The monies shall be distributed
+as follows:
+1.If there are
+outstanding state school facilities revenue bonds pursuant to title 15, chapter
+16, article 7, each month onetwelfth of the amount that is necessary to
+pay the fiscal year's debt service on outstanding state school improvement
+revenue bonds for the current fiscal year shall be transferred each month to
+the school improvement revenue bond debt service fund established by section 152084.The
+total amount of bonds for which these monies may be allocated for the payment
+of debt service shall not exceed a principal amount of eight hundred million
+dollars exclusive of refunding bonds and other refinancing obligations.
+2.After any transfer of
+monies pursuant to paragraph 1 of this subsection, twelve per cent of the
+remaining monies collected during the preceding month shall be transferred to
+the technology and research initiative fund established by section 151648
+to be distributed among the universities for the purpose of investment in
+technology and researchbased initiatives.
+3.After the transfer of
+monies pursuant to paragraph 1 of this subsection, three per cent of the
+remaining monies collected during the preceding month shall be transferred to
+the workforce development account established in each community college
+district pursuant to section 151472 for the purpose of investment in
+workforce development programs.
+4.After transferring
+monies pursuant to paragraphs 1, 2 and 3 of this subsection, onetwelfth
+of the amount a community college that is owned, operated or chartered by a
+qualifying Indian tribe on its own Indian reservation would receive pursuant to
+section 151472, subsection D, paragraph 2 if it were a community college
+district shall be distributed each month to the treasurer or other designated
+depository of a qualifying Indian tribe. Monies distributed pursuant to this
+paragraph are for the exclusive purpose of providing support to one or more
+community colleges owned, operated or chartered by a qualifying Indian tribe
+and shall be used in a manner consistent with section 151472, subsection
+B. For the purposes of this paragraph, "qualifying Indian tribe" has
+the same meaning as defined in section 425031.01, subsection D.
+5.After transferring
+monies pursuant to paragraphs 1, 2 and 3 of this subsection, onetwelfth
+of the following amounts shall be transferred each month to the department of
+education for the increased cost of basic state aid under section 15971
+due to added school days and associated teacher salary increases enacted in
+2000:
+(a)In fiscal year 20012002,
+$15,305,900.
+(b)In fiscal year 20022003,
+$31,530,100.
+(c)In fiscal year 20032004,
+$48,727,700.
+(d)In fiscal year 20042005,
+$66,957,200.
+(e)In fiscal year 20052006
+and each fiscal year thereafter, $86,280,500.
+6.After transferring
+monies pursuant to paragraphs 1, 2 and 3 of this subsection, seven million
+eight hundred thousand dollars is appropriated each fiscal year, to be paid in
+monthly installments, to the department of education to be used for school
+safety as provided in section 15154 and two hundred thousand dollars is
+appropriated each fiscal year, to be paid in monthly installments to the
+department of education to be used for the character education matching grant
+program as provided in section 15154.01.
+7.After transferring
+monies pursuant to paragraphs 1, 2 and 3 of this subsection, no more than seven
+million dollars may be appropriated by the legislature each fiscal year to the
+department of education to be used for accountability purposes as described in
+section 15241 and title 15, chapter 9, article 8.
+8.After transferring
+monies pursuant to paragraphs 1, 2 and 3 of this subsection, one million five
+hundred thousand dollars is appropriated each fiscal year, to be paid in
+monthly installments, to the failing schools tutoring fund established by
+section 15241.
+9.After transferring
+monies pursuant to paragraphs 1, 2 and 3 of this subsection, twentyfive
+million dollars shall be transferred each fiscal year to the state general fund
+to reimburse the general fund for the cost of the income tax credit allowed by
+section 431072.01.
+10.After the payment of
+monies pursuant to paragraphs 1 through 9 of this subsection, the remaining
+monies collected during the preceding month shall be transferred to the
+classroom site fund established by section 15977. The monies shall be
+allocated as follows in the manner prescribed by section 15977:
+(a)Forty per cent shall
+be allocated for teacher compensation based on performance.
+(b)Twenty per cent
+shall be allocated for increases in teacher base compensation and employee
+related expenses.
+(c)Forty per cent shall
+be allocated for maintenance and operation purposes.
+F.The department shall
+credit the remainder of the monies in the transaction privilege and severance
+tax clearing account to the state general fund, subject to any distribution
+required by section 425030.01.
+G.Notwithstanding
+subsection D of this section, if a court of competent jurisdiction finally
+determines that tax monies distributed under this section were illegally
+collected under this article or articles 5 and 8 of this chapter and orders the
+monies to be refunded to the taxpayer, the department shall compute the amount
+of such monies that was distributed to each city, town and county under this
+section. Each city's, town's and county's proportionate share of the costs
+shall be based on the amount of the original tax payment each municipality and
+county received. Each month the state treasurer shall reduce the amount
+otherwise distributable to the city, town and county under this section by one
+thirtysixth of the total amount to be recovered from the city, town or
+county until the total amount has been recovered, but the monthly reduction for
+any city, town or county shall not exceed ten per cent of the full monthly
+distribution to that entity.The reduction shall begin for the first
+calendar month after the final disposition of the case and shall continue until
+the total amount, including interest and costs, has been recovered.
+H.On receiving a
+certificate of default from the greater Arizona development authority pursuant
+to section 412257 or 412258 and to the extent not otherwise
+expressly prohibited by law, the state treasurer shall withhold from the next
+succeeding distribution of monies pursuant to this section due to the
+defaulting political subdivision the amount specified in the certificate of
+default and immediately deposit the amount withheld in the greater Arizona
+development authority revolving fund.The state treasurer shall
+continue to withhold and deposit the monies until the greater Arizona
+development authority certifies to the state treasurer that the default has
+been cured.In no event may the state treasurer withhold any amount
+that the defaulting political subdivision certifies to the state treasurer and
+the authority as being necessary to make any required deposits then due for the
+payment of principal and interest on bonds of the political subdivision that
+were issued before the date of the loan repayment agreement or bonds and that
+have been secured by a pledge of distributions made pursuant to this section.
+I.Except as provided by
+sections 425033 and 425033.01, the population of a county, city
+or town as determined by the most recent United States decennial census plus
+any revisions to the decennial census certified by the United States bureau of
+the census shall be used as the basis for apportioning monies pursuant to
+subsection D of this section.
+J.Except as otherwise
+provided by this subsection, on notice from the department of revenue pursuant
+to section 426010, subsection B, the state treasurer shall withhold from
+the distribution of monies pursuant to this section to the affected city or
+town the amount of the penalty for business location municipal tax incentives
+provided by the city or town to a business entity that locates a retail
+business facility in the city or town.The state treasurer shall
+continue to withhold monies pursuant to this subsection until the entire amount
+of the penalty has been withheld.The state treasurer shall credit
+any monies withheld pursuant to this subsection to the state general fund as
+provided by subsection D, paragraph 4 of this section. The state treasurer
+shall not withhold any amount that the city or town certifies to the department
+of revenue and the state treasurer as being necessary to make any required
+deposits or payments for debt service on bonds or other longterm
+obligations of the city or town that were issued or incurred before the
+location incentives provided by the city or town.
+K.On notice from the
+auditor general pursuant to section 9626, subsection D, the state
+treasurer shall withhold from the distribution of monies pursuant to this
+section to the affected city the amount computed pursuant to section 9626,
+subsection D.The state treasurer shall continue to withhold monies
+pursuant to this subsection until the entire amount specified in the notice has
+been withheld. The state treasurer shall credit any monies withheld pursuant
+to this subsection to the state general fund as provided by subsection D, paragraph
+4 of this section.
+L.For
+the purposes of this section, "community college district" means a
+community college district that is established pursuant to sections 151402
+and 151403 and that is a political subdivision of this state and, unless
+otherwise specified, includes a community college tuition financing district established pursuant
+to section 151409. END_STATUTE
+Sec.4.Title 42, chapter 5, article 1, Arizona
+Revised Statutes, is amended by adding section 42-5031.02, to read:
+START_STATUTE42-5031.02.Distribution of revenues to rural Indian tribes for
+infrastructure and community development; distribution of revenues to rural
+Arizona and tribal infrastructure revolving fund; definition 
+A.After any
+distributions made pursuant to section 42-5031.01, the state treasurer shall
+make distributions of the revenues collected under this article and article 5
+of this chapter in the preceding month from all sources located on Indian
+reservations in this state pursuant to section 425029, subsection A,
+paragraph 3 to the rural Arizona and tribal infrastructure revolving fund and
+rural Indian tribes, as follows:
+1.To the
+rural Arizona and tribal infrastructure revolving fund established by section
+41-2356, fifteen percent.
+2.To be
+distributed among the rural Indian tribes as provided by subsection B of this
+section:
+(a)For fiscal year 2016-2017, ten percent.
+(b)For fiscal year 2017-2018, twenty percent.
+(c)For every fiscal year after fiscal year
+2017-2018, thirtyfive percent.
+B.The
+monies under subsection a, paragraph 2 of this section shall be distributed to
+the treasurer or other designated depository of each rural Indian tribe as
+follows:
+1.Divide
+the amount of revenues collected under this article and article 5 of this
+chapter in the preceding month from each rural Indian tribe pursuant to section
+425029, subsection a, paragraph 3 by the amount of revenues collected
+under this article and article 5 of this chapter in the preceding month from
+all rural Indian tribes pursuant to section 425029, subsection a,
+paragraph 3.
+2.Multiply
+the amount of monies under subsection a, paragraph 2 of this section by the
+quotient obtained under paragraph 1 of this subsection.
+3.For
+purposes of the calculation of the revenue collected from a single rural Indian
+tribe under this article and article 5 of this chapter under paragraph 1 of
+this subsection, a rural Indian tribe that has a negative amount of revenues
+collected shall be treated as having zero revenues collected.
+C.Each
+rural Indian tribe shall use the monies received under this section for
+infrastructure development and community development projects, including
+multipurpose buildings and roads on the Indian reservation that are located
+within this state.
+D.For the
+purposes of this section, "rural Indian tribe" means an Indian tribe
+in a county with a population of less than three hundred thousand persons. END_STATUTE
+Sec.5.Initial terms of members of the rural Arizona and tribal
+infrastructure authority board
+A.Notwithstanding section 41-2353, Arizona Revised
+Statutes, as added by this act, the initial terms of members of the rural
+Arizona and tribal infrastructure authority board are as follows:
+1.For one member representing a county, one member
+representing a city or town and four members representing Indian tribes, the
+initial term ends in January 2019.
+2.For the remaining members, the initial term ends
+in January 2020.
+B.The governor shall make all subsequent
+appointments as prescribed by statute.
+Sec.6.Purpose
+Pursuant to section 41-2955,
+subsection E, Arizona Revised Statutes, the legislature establishes the rural
+Arizona and tribal infrastructure authority board pursuant to section 41-2353,
+Arizona Revised Statutes, as added by this act, to administer the funding for
+capital projects in rural Arizona and tribal communities.
+

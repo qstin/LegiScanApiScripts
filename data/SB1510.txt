@@ -1,0 +1,221 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: judicial productivity credits;
+  calculation; salary
+
+
+
+
+
+
+
+State of Arizona
+Senate
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+SB 1510
+
+
+
+
+
+
+
+
+
+Introduced by
+Senator
+  Driggs
+
+
+
+
+
+AN ACT
+
+amending section
+22125, Arizona Revised Statutes; relating to justices of the peace.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 22-125, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE22-125.Justice of the peace compensation; judicial productivity
+credits; annual report; definitions
+A.The annual salary of each justice of the peace is
+determinable on the basis of
+determined by the total
+judicial productivity credits of each court as reported in statistics compiled
+by the Arizona supreme court.
+according to the following formula:
+1.Total civil
+filings, excluding those small claims filings heard by a volunteer hearing
+officer, divided by ten equals __________ judicial productivity
+credits.Juvenile hearings pursuant to section 8323,
+excluding juvenile traffic violations, shall be counted as civil filings.
+2.Total
+felony complaint filings divided by ten equals __________ judicial productivity
+credits.
+3.Total misdemeanor
+filings divided by ten equals __________ judicial productivity credits.
+4.Total
+traffic filings of a violation of sections 28662 through 28664,
+28693, 28702.01, 28702.04, 28708, 281381 and
+281382 divided by ten equals __________ judicial productivity credits.
+5.Total of
+all other traffic filings divided by sixty equals ___________ judicial
+productivity credits.
+B.Total
+judicial productivity credits for a justice of the peace is the sum of the
+figures computed in subsection A of this section.
+C.The board
+of supervisors shall use the average number of cases filed annually in each
+justice court for the two year period ending December 31, 1979 to determine the
+initial judicial productivity credits for each of the case load categories described
+in subsection A of this section.The board of supervisors shall
+compute judicial productivity credits every two years thereafter using the
+average annual filings for the preceding two year period.
+D.In
+determining the compensation levels appropriate to the case load of each
+justice of the peace, the board of supervisors shall use the total judicial
+productivity credits as follows:
+1.Five
+hundred or more judicial productivity credits, seventy per cent of the annual
+compensation payable to a judge of the superior court.
+2.Two hundred
+to four hundred ninetynine total judicial productivity credits, sixtyfive
+per cent of the annual compensation payable to a judge of the superior court.
+3.One hundred
+fifty to one hundred ninetynine total judicial productivity credits,
+fiftyfive per cent of the annual compensation payable to a judge of the
+superior court.
+4.One hundred
+to one hundred fortynine total judicial productivity credits, fifty per
+cent of the annual compensation payable to a judge of the superior court.
+5.Fifty to
+ninetynine total judicial productivity credits, fortyfive per
+cent of the annual compensation payable to a judge of the superior court.
+6.Twentyfive
+to fortynine total judicial productivity credits, thirtyfive per
+cent of the annual compensation payable to a judge of the superior court.
+7.Twentyfour
+or fewer total judicial productivity credits, a parttime case load for
+one justice of the peace, twentyfive per cent of the annual compensation
+payable to a judge of the superior court.
+B.Judicial
+productivity credits are calculated according to the following formula:
+1.All civil
+filings divided by ten equals __________ Judicial productivity credits.
+2.All
+felony counts divided by ten equals __________ Judicial productivity credits.
+3.All
+misdemeanor counts, except those included in paragraph 4 of this subsection,
+divided by ten equals __________ judicial productivity credits.
+4.All
+counts filed alleging a violation of title 5, chapter 3, article 10, title 28,
+chapter 4, article 3 or section 288282 divided by five equals __________
+judicial productivity credits.
+5.All civil
+traffic counts divided by sixty equals __________ judicial productivity
+credits.
+6.All
+protective order filings divided by five equals __________ judicial
+productivity credits.
+C.Beginning
+July 1, 2017, the Arizona supreme court shall annually perform the calculations
+required by subsection B of this section in each justice court for the previous
+twelve-month period ending on June 30 to determine the total judicial
+productivity credits. The Arizona supreme court shall report the total
+judicial productivity credits for each justice court to the applicable board of
+supervisors by November 1 of each year.Any adjustment to the salary
+of a justice of the peace is effective on the following January 1.
+D.Each
+justice of the peace shall be paid a percentage of the salary of a superior
+court judge based on the following schedule of levels:
+1.Five
+hundred or more judicial productivity credits equals seventy percent.
+2.Two
+hundred or more but less than five hundred judicial productivity credits equals
+sixtyfive percent.
+3.One
+hundred fifty or more but less than two hundred judicial productivity credits
+equals sixty percent.
+4.One hundred
+or more but less than one hundred fifty judicial productivity credits equals
+fiftyfive percent.
+5.Fifty or
+more but less than one hundred judicial productivity credits equals fifty
+percent.
+6.Twenty
+five or more but less than fifty judicial productivity credits equals fortyfive
+percent.
+7.Twentyfour
+or fewer judicial productivity credits equals thirtyfive percent.
+E.If a justice court is not assigned clerical help,
+the board of supervisors shall multiply the total judicial productivity credits
+by two for purposes of determining compensation the salary of the justice of the peace.
+F.If the board of supervisors divides a justice
+precinct into two or more precincts, the board shall set the level of compensation consistent with the intent of this
+section until such time as statistics are available for computation of
+compensation levels using the formula prescribed by this section salary of the justice of the peace of each
+affected precinct equal to the highest salary of any of the justices of the
+peace whose precinct population is affected by the division. on January 1
+following the end of the first full fiscal year after the precincts are
+divided, the salary of each justice of the peace shall be adjusted pursuant to
+the justice court's actual judicial productivity credits.
+G.The board of supervisors shall review and adjust
+the level of compensation annual salary for each justice of the peace within
+the county pursuant to subsection D of
+this this section every two
+years beginning January 1, 1983 year beginning january 1, 2018.
+H.The judicial productivity credits for any justice
+court precinct shall not exceed twelve hundred credits.If the total
+judicial productivity credits of a justice court precinct exceed twelve hundred
+credits, the county board of supervisors shall create sufficient courts, or
+redraw the justice court precinct boundaries according to section 22101,
+in order to reduce the judicial productivity credits for any precinct which
+exceeds that limit.
+I.Except as
+provided in subsection F of this section, the salary of a justice of the peace
+may not be reduced during the term in office of the justice of the peace and,
+if a justice of the peace serves consecutive terms, the salary of the justice
+of the peace may not be reduced before the start of the consecutive term by
+more than one level pursuant to subsection D of this section.
+J.A filing
+against a juvenile is determined in the same manner as a similar filing against
+an adult.
+K.For the
+purposes of this section:
+1."Civil"
+means a lawsuit, eviction action, petition for provisional remedy or other
+civil petition, small claims case or civil local ordinance.
+2."Civil
+traffic" means a traffic violation that is not a misdemeanor or felony.
+3."Felony"
+includes each felony count that is filed in a complaint.
+4."Misdemeanor"
+includes each misdemeanor and petty offense count that is filed in a complaint
+or uniform traffic ticket and complaint.
+5."Protective
+order" means a petition for an order of protection, an injunction against
+harassment or workplace harassment or a peace bond. END_STATUTE
+

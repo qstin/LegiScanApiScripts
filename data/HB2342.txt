@@ -1,0 +1,207 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: insurance; licensed entities
+
+
+
+
+
+
+
+State of Arizona
+House of Representatives
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+HB 2342
+
+
+
+
+
+
+
+
+
+Introduced by
+Representatives
+  Livingston: Fann
+
+
+
+
+
+AN ACT
+
+Amending sections
+20286, 20321 and 201693, Arizona Revised Statutes;
+relating to insurance.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 20-286, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE20-286.Licensure; lines of authority
+A.Unless the director denies a license pursuant to
+section 20295, the director shall issue a resident insurance producer
+license to any person who meets the requirements prescribed in sections 20284
+and 20285. An insurance producer may qualify for a license in one or
+more of the following lines of authority:
+1.Life. Life insurance is coverage on human lives,
+including benefits of endowment and annuities, and may include benefits in the
+event of death or dismemberment by accident and benefits for disability income.
+2.Accident and health or sickness. Accident and
+health or sickness insurance is coverage for sickness, bodily injury or
+accidental death and may include benefits for disability income.
+3.Property. Property insurance is coverage for the
+direct or consequential loss or damage to property of every kind.
+4.Casualty. Casualty insurance is coverage against
+legal liability, including liability for death, injury, disability or damage to
+real or personal property.
+5.Variable life and variable annuity products.
+Variable life and variable annuity is insurance coverage that is provided under
+a variable life insurance contract or a variable annuity.
+6.Personal lines. Personal lines is property and
+casualty insurance coverage that is sold to individuals and families for
+primarily noncommercial purposes.
+7.Credit. Credit insurance is limited line credit
+insurance.
+8.Any other line of insurance allowed under state
+law or rules adopted by the director.
+B.The license shall contain the licensee's name,
+address and identification number, the date of issuance, the lines of
+authority, the expiration date and any other information the director deems
+necessary. The director may make the information prescribed by this section
+available electronically.
+C.A licensee shall inform the director in writing
+within thirty days of any change in the licensee's:
+1.Residential, or
+business or email address.
+2.Members, directors, officers or designated
+producer. The director may require that a licensee who notifies the director
+of a change pursuant to this paragraph submit a full set of fingerprints of
+each new member, director, officer or designated producer to the director for
+the purpose of obtaining a state and federal criminal records check pursuant to
+section 411750 and Public Law 92544. The department of public
+safety may exchange this fingerprint data with the federal bureau of
+investigation.
+3.Name.
+D.In order to assist in the performance of the
+director's duties, the director may contract with a third party to perform any
+ministerial functions that are related to producer licensing and that the
+director deems appropriate, including the collection of fees. END_STATUTE
+Sec.2.Section 20-321, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE20-321.Definitions 
+In this article, unless the context otherwise requires:
+1."Adjuster":
+(a)Means any person who for compensation, fee or
+commission either:
+(i)Adjusts, investigates or negotiates settlement
+of claims arising under property and casualty insurance contracts on behalf of either the insurer or the insured.
+(ii)Holds oneself out to perform a service listed
+in item (i) of this subdivision.
+(b)Does not include:
+(i)A licensed attorneyatlaw who is
+qualified to practice law in this state.
+(ii)A salaried employee of an insurer or of a
+managing general agent. For the purposes of this item, "salaried
+employee" means an employee whose compensation is not contingent on the
+outcome of a claim determination.
+(iii)A licensed insurance producer who adjusts or
+assists in adjustment of losses arising under policies procured through the
+insurance producer.
+(iv)An employee of a political subdivision who
+adjusts or assists in the adjustment of losses arising under policies covering
+the political subdivision or persons indemnified by the political subdivision.
+(v)An independent contractor retained by a licensed
+adjuster or a person listed in items (i) through (iv) of this subdivision for
+the sole purpose of providing technical assistance in connection with a claim.
+Independent contractors may include photographers, estimators, engineers,
+private detectives or handwriting experts.
+(vi)An individual who collects claim information
+from or furnishes claim information to insureds or claimants and who conducts
+data entry, including entering data into an automated claims adjudication
+system, if no more than twentyfive persons, as described in this item,
+are under the supervision of a single licensed adjuster or licensed producer.
+A licensed insurance producer who is supervising or adjusting claims pursuant
+to this item is not required to be licensed as an adjuster.
+(vii)Registered thirdparty administrators
+and their employees who are engaged in administering accident and health or
+life insurance claims.
+2."Automated claims adjudication system"
+means a preprogrammed computer system that is designed for the collection, data
+entry, calculation and final resolution of portable consumer electronic
+products insurance claims and that:
+(a)May be used only by a licensed adjuster, a
+licensed producer or supervised individuals operating pursuant to this
+paragraph.
+(b)Must comply with all claims payment requirements
+under this title and be certified as compliant by a licensed adjuster.
+3."Portable consumer electronic products"
+means electronic devices and related accessories that are portable in nature. END_STATUTE
+Sec.3.Section 20-1693, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE20-1693.Definitions
+In this article, unless the context otherwise requires:
+1."Customer" means a person who purchases
+portable electronics or services.
+2."Enrolled customer" means a customer
+who elects coverage under a portable electronics insurance policy issued to a
+vendor of portable electronics.
+3."Location" means any physical location
+in this state or any website, call center site or similar location directed to
+residents of this state.
+4."Portable electronics" means personal,
+self-contained, easily carried by an individual, batteryoperated
+electronic communication, viewing, listening, recording, gaming, computing or
+global positioning devices, including cell or satellite phones, pagers,
+personal global positioning satellite units, portable computers, portable audio
+listening devices, video viewing or recording devices, digital cameras, video
+camcorders, portable gaming systems, docking stations, automatic answering
+devices and other similar devices and the devices' accessories.
+5."Portable electronics insurance":
+(a)Means insurance providing coverage for the
+repair or replacement of portable electronics that may provide coverage for
+portable electronics against loss, theft or inoperability, or any combination
+thereof, due to mechanical failure, malfunction, damage or other similar causes
+of loss.
+(b)Does not include:
+(i)A service contract under chapter 4, article 11
+of this title.
+(ii)An insurance policy covering a seller's or
+manufacturer's obligations under a warranty.
+(iii)A homeowner's, renter's, private passenger
+automobile, commercial multiperil or similar policy.
+6."Portable electronics transaction"
+means either:
+(a)The sale or lease of portable electronics by a
+vendor to a customer.
+(b)The sale of a service related to the use of
+portable electronics by a vendor to a customer.
+7."Supervising entity" means a business
+entity that is a licensed insurer or insurance producer and that is authorized
+by an insurer to supervise the administration of a portable electronics
+insurance policy.
+8."Vendor" means a person
+business in the business of engaging in portable electronics
+transactions directly or indirectly. END_STATUTE
+

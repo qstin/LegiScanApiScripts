@@ -1,0 +1,145 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: voter registration deadlines;
+  registration method
+
+
+
+
+
+
+
+State of Arizona
+Senate
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+SB 1079
+
+
+
+
+
+
+
+
+
+Introduced by
+Senators
+  Quezada, Farley, Hobbs; Representatives Andrade, Clark, Espinoza, Velasquez:
+  Senator Contreras
+
+
+
+
+
+AN ACT
+
+amending sections
+16-120 and 16-134, Arizona Revised Statutes; relating to qualification and
+registration of electors.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 16-120, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE16-120.Eligibility to vote
+No elector shall vote in an election called pursuant to the
+laws of this state unless the elector has been registered to vote as a resident
+within the boundaries or the proposed boundaries of the election district for
+which the election is being conducted and the registration has been is any one of the following:
+1.Mailed to
+and received by the county recorder or his the
+recorder's designee pursuant to section 16134 prior to before midnight of the twentyninth day
+preceding the date of the election or
+dated twenty-nine days or more before an election and received by first class
+mail within five days after the last day to register to vote in that election.
+
+2.Completed
+in person at a county recorder's office before midnight of the fourteenth day
+preceding the date of the election and received by the county recorder by 7:00
+p.m. on the day of that election.
+3.Electronically
+generated and transmitted to the department of transportation before midnight
+of the fourteenth day preceding the date of the election as shown on the
+transmittal confirmation receipt and received by the county recorder by 7:00
+p.m. on the day of that election.
+4.If
+submitted by any means other than as prescribed in paragraph 1, 2 or 3 of this
+section, dated twenty-nine days or more before the election and received by the
+county recorder by 7:00 p.m. on the day of that election.END_STATUTE
+Sec.2.Section 16-134, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE16-134.Return of registrations made outside office of county
+recorder; incomplete or illegible forms
+A.A county recorder shall authorize persons to
+accept registration forms, shall designate places for receipt of registration
+forms and shall designate additional locations for distribution of voter
+registration forms. Public assistance agencies and disabilities agencies as
+defined in section 16140 shall return or mail completed voter
+registrations to the county recorder of the county in which the applicant
+resides within five days after receipt of those registrations.
+B.If the information on the registration form is
+incomplete or illegible and the county recorder is not able to process the
+registration form, the county recorder shall notify the applicant within ten
+business days of receipt of the registration form, shall specify the missing or
+illegible information and, if the missing or illegible information includes any
+of the information prescribed by section 16121.01, subsection A, shall
+state that the registration cannot be completed until the information is
+supplied. If the missing or illegible information is supplied before 7:00 p.m.
+on election day, that person is deemed to have been registered on the date the
+registration was first received.
+C.In the case of registration by mail, a voter
+registration is valid for an election if it complies with either of the
+following:
+1.The form is postmarked twentynine days or
+more before an election and is received by the county recorder by 7:00 p.m. on
+the day of that election.
+2.The registration is dated twentynine days
+or more before an election and is received by the county recorder by first
+class mail within five days after the last day to register to vote in that
+election.
+D.In the
+case of registrations that are electronically generated and transmitted to the
+department of transportation, a voter registration is valid for an election if
+it is transmitted to the department of transportation before midnight of the
+fourteenth day preceding the date of the election as shown on the transmittal
+confirmation receipt and is received by the county recorder by 7:00 p.m. on the
+day of that election. The department of transportation and the secretary of
+state shall transmit all electronically generated voter registrations to the
+appropriate county recorder within five days after receipt.
+E.All
+registrations completed outside the county recorder's office by any means or at
+any locations other than as prescribed in subsections c and d of this section
+are valid for an election if they are dated twenty-nine days or more before the
+election and are received by the county recorder by 7:00 p.m. On the day of
+that election.
+D.F.The date of
+registration entered for registration forms that are received by the county
+recorder from persons, groups or agencies that are not authorized to accept
+registrations pursuant to subsection A of this section and that do not bear a
+legible postmark date or an otherwise reliable date shall be the date that
+those forms are received by the county recorder.END_STATUTE
+Sec.3.Conforming legislation
+The legislative council staff shall prepare proposed
+legislation conforming the Arizona Revised Statutes to the provisions of this
+act for consideration in the fifty-third legislature, first regular session.
+

@@ -1,0 +1,458 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: state law; local violations; penalties
+
+
+
+
+
+
+
+State of Arizona
+Senate
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+SB 1487
+
+
+
+
+
+
+
+
+
+Introduced by
+Senators
+  Biggs, Kavanagh, Smith, Yee; Representatives Farnsworth E, Petersen: Senators
+  Allen S, Begay, Farnsworth D, Shooter
+
+
+
+
+
+AN ACT
+
+Amending title
+41, chapter 1, article 5, Arizona Revised Statutes, by adding section
+41-194.01; amending sections 42-5029 and 43-206, Arizona Revised Statutes;
+relating to state shared revenues.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Title 41, chapter 1, article 5,
+Arizona Revised Statutes, is amended by adding section 41-194.01, to read:
+START_STATUTE41-194.01.Violations of state law by counties, cities and towns;
+attorney general investigation; report; withholding of state shared revenues
+A.At the
+request of one or more members of the legislature, the attorney general shall
+investigate any ordinance, regulation, order or other official action adopted
+or taken by the governing body of a county, city or town that the member
+alleges violates state law or the Constitution of Arizona.
+B.The
+attorney general shall make a written report of findings and conclusions as a
+result of the investigation within thirty days after receipt of the request and
+shall provide a copy of the report to the governor, the president of the
+senate, the speaker of the house of representatives, the member or members of
+the legislature making the original request and the secretary of state. If the
+attorney general concludes that the ordinance, regulation, order or other
+action under investigation:
+1.Violates
+any provision of state law or the Constitution of Arizona, the attorney general
+shall provide notice to the county, city or town, by certified mail, of the
+violation and shall indicate that the county, city or town has thirty days to
+resolve the violation.If the attorney general determines that the
+county, city or town has failed to resolve the violation within thirty days,
+the attorney general shall:
+(a)Notify
+the state treasurer who shall withhold and redistribute state shared monies
+from the county, city or town as provided by section 425029, subsection L
+and from the city or town as provided by section 43206, subsection F.
+(b)Continue
+to monitor the response of the governing body, and when the offending
+ordinance, regulation, order or action is repealed or the violation is
+otherwise resolved, the attorney general shall notify:
+(i)The
+governor, the president of the senate, the speaker of the house of
+representatives and the member or members of the legislature making the
+original request that the violation has been resolved.
+(ii)The
+state treasurer to restore the distribution of state shared revenues to the
+county, city or town.
+2.May
+violate a provision of state law or the Constitution of Arizona, the attorney
+general shall file a special action in supreme court to resolve the issue, and
+the supreme court shall give the action precedence over all other cases. the
+court shall require the county, city or town to post a bond equal to the amount
+of state shared revenue paid to the county, city or town pursuant to section 425029
+and 43206 in the preceding six months.
+3.does not
+violate any provision of state law or the Constitution of Arizona, the attorney
+general shall take no further action pursuant to this section. END_STATUTE
+Sec.2.Section
+42-5029, Arizona Revised Statutes, is amended to read:
+START_STATUTE42-5029.Remission and distribution of monies; withholding;
+definition
+A.The
+department shall deposit, pursuant to sections 35146 and 35147,
+all revenues collected under this article and articles 4, 5 and 8 of this
+chapter pursuant to section 421116, separately accounting for:
+1.Payments of estimated
+tax under section 425014, subsection D.
+2.Revenues collected
+pursuant to section 425070.
+3.Revenues collected
+under this article and article 5 of this chapter from and after June 30, 2000
+from sources located on Indian reservations in this state.
+4.Revenues collected
+pursuant to section 425010, subsection G and section 425155,
+subsection D.
+B.The department shall
+credit payments of estimated tax to an estimated tax clearing account and each
+month shall transfer all monies in the estimated tax clearing account to a fund
+designated as the transaction privilege and severance tax clearing account.
+The department shall credit all other payments to the transaction privilege and
+severance tax clearing account, separately accounting for the monies designated
+as distribution base under sections 425010, 425164, 425205
+and 425353.Each month the department shall report to the
+state treasurer the amount of monies collected pursuant to this article and
+articles 4, 5 and 8 of this chapter.
+C.On notification by
+the department, the state treasurer shall distribute the monies deposited in
+the transaction privilege and severance tax clearing account in the manner
+prescribed by this section and by sections 425164, 425205 and 425353,
+after deducting warrants drawn against the account pursuant to sections 421118
+and 421254.
+D.Of the monies designated
+as distribution base, and subject to the requirements of section 425041,
+the department shall:
+1.Pay twentyfive
+percent to the various incorporated municipalities in this state in proportion
+to their population to be used by the municipalities for any municipal purpose.
+2.Pay 38.08 percent to
+the counties in this state by averaging the following proportions:
+(a)The proportion that
+the population of each county bears to the total state population.
+(b)The proportion that
+the distribution base monies collected during the calendar month in each county
+under this article, section 425164, subsection B, section 425205,
+subsection B and section 425353 bear to the total distribution base
+monies collected under this article, section 425164, subsection B,
+section 425205, subsection B and section 425353 throughout the
+state for the calendar month.
+3.Pay an additional
+2.43 percent to the counties in this state as follows:
+(a)Average the
+following proportions:
+(i)The proportion that
+the assessed valuation used to determine secondary property taxes of each
+county, after deducting that part of the assessed valuation that is exempt from
+taxation at the beginning of the month for which the amount is to be paid,
+bears to the total assessed valuations used to determine secondary property
+taxes of all the counties after deducting that portion of the assessed
+valuations that is exempt from taxation at the beginning of the month for which
+the amount is to be paid. Property of a city or town that is not within or
+contiguous to the municipal corporate boundaries and from which water is or may
+be withdrawn or diverted and transported for use on other property is
+considered to be taxable property in the county for purposes of determining
+assessed valuation in the county under this item.
+(ii)The proportion that
+the distribution base monies collected during the calendar month in each county
+under this article, section 425164, subsection B, section 425205,
+subsection B and section 425353 bear to the total distribution base
+monies collected under this article, section 425164, subsection B,
+section 425205, subsection B and section 425353 throughout the
+state for the calendar month.
+(b)If the proportion
+computed under subdivision (a) of this paragraph for any county is greater than
+the proportion computed under paragraph 2 of this subsection, the department
+shall compute the difference between the amount distributed to that county
+under paragraph 2 of this subsection and the amount that would have been
+distributed under paragraph 2 of this subsection using the proportion computed
+under subdivision (a) of this paragraph and shall pay that difference to the
+county from the amount available for distribution under this
+paragraph.Any monies remaining after all payments under this
+subdivision shall be distributed among the counties according to the
+proportions computed under paragraph 2 of this subsection.
+4.After any
+distributions required by sections 425030, 425030.01, 425031,
+425032, 425032.01 and 425032.02, and after making any
+transfer to the water quality assurance revolving fund as required by section
+49282, subsection B, credit the remainder of the monies designated as
+distribution base to the state general fund.From this amount the
+legislature shall annually appropriate to:
+(a)The department of
+revenue sufficient monies to administer and enforce this article and articles 5
+and 8 of this chapter.
+(b)The department of
+economic security monies to be used for the purposes stated in title 46,
+chapter 1.
+(c)The
+firearms safety and ranges fund established by section 17273, fifty
+thousand dollars derived from the taxes collected from the retail
+classification pursuant to section 425061 for the current fiscal year.
+E.If approved by the
+qualified electors voting at a statewide general election, all monies collected
+pursuant to section 425010, subsection G and section 425155,
+subsection D shall be distributed each fiscal year pursuant to this
+subsection.The monies distributed pursuant to this subsection are
+in addition to any other appropriation, transfer or other allocation of public
+or private monies from any other source and shall not supplant, replace or
+cause a reduction in other school district, charter school, university or
+community college funding sources.The monies shall be distributed
+as follows:
+1.If there are
+outstanding state school facilities revenue bonds pursuant to title 15, chapter
+16, article 7, each month onetwelfth of the amount that is necessary to
+pay the fiscal year's debt service on outstanding state school improvement
+revenue bonds for the current fiscal year shall be transferred each month to
+the school improvement revenue bond debt service fund established by section 152084.The
+total amount of bonds for which these monies may be allocated for the payment
+of debt service shall not exceed a principal amount of eight hundred million
+dollars exclusive of refunding bonds and other refinancing obligations.
+2.After any transfer of
+monies pursuant to paragraph 1 of this subsection, twelve per cent of the
+remaining monies collected during the preceding month shall be transferred to
+the technology and research initiative fund established by section 151648
+to be distributed among the universities for the purpose of investment in
+technology and researchbased initiatives.
+3.After the transfer of
+monies pursuant to paragraph 1 of this subsection, three per cent of the
+remaining monies collected during the preceding month shall be transferred to
+the workforce development account established in each community college
+district pursuant to section 151472 for the purpose of investment in
+workforce development programs.
+4.After transferring
+monies pursuant to paragraphs 1, 2 and 3 of this subsection, onetwelfth
+of the amount a community college that is owned, operated or chartered by a
+qualifying Indian tribe on its own Indian reservation would receive pursuant to
+section 151472, subsection D, paragraph 2 if it were a community college
+district shall be distributed each month to the treasurer or other designated
+depository of a qualifying Indian tribe. Monies distributed pursuant to this
+paragraph are for the exclusive purpose of providing support to one or more
+community colleges owned, operated or chartered by a qualifying Indian tribe
+and shall be used in a manner consistent with section 151472, subsection
+B. For the purposes of this paragraph, "qualifying Indian tribe" has
+the same meaning as defined in section 425031.01, subsection D.
+5.After transferring
+monies pursuant to paragraphs 1, 2 and 3 of this subsection, onetwelfth
+of the following amounts shall be transferred each month to the department of
+education for the increased cost of basic state aid under section 15971
+due to added school days and associated teacher salary increases enacted in
+2000:
+(a)In fiscal year 20012002,
+$15,305,900.
+(b)In fiscal year 20022003,
+$31,530,100.
+(c)In fiscal year 20032004,
+$48,727,700.
+(d)In fiscal year 20042005,
+$66,957,200.
+(e)In fiscal year 20052006
+and each fiscal year thereafter, $86,280,500.
+6.After transferring
+monies pursuant to paragraphs 1, 2 and 3 of this subsection, seven million
+eight hundred thousand dollars is appropriated each fiscal year, to be paid in
+monthly installments, to the department of education to be used for school
+safety as provided in section 15154 and two hundred thousand dollars is
+appropriated each fiscal year, to be paid in monthly installments to the
+department of education to be used for the character education matching grant
+program as provided in section 15154.01.
+7.After transferring
+monies pursuant to paragraphs 1, 2 and 3 of this subsection, no more than seven
+million dollars may be appropriated by the legislature each fiscal year to the
+department of education to be used for accountability purposes as described in
+section 15241 and title 15, chapter 9, article 8.
+8.After transferring
+monies pursuant to paragraphs 1, 2 and 3 of this subsection, one million five
+hundred thousand dollars is appropriated each fiscal year, to be paid in
+monthly installments, to the failing schools tutoring fund established by
+section 15241.
+9.After transferring
+monies pursuant to paragraphs 1, 2 and 3 of this subsection, twentyfive
+million dollars shall be transferred each fiscal year to the state general fund
+to reimburse the general fund for the cost of the income tax credit allowed by
+section 431072.01.
+10.After the payment of
+monies pursuant to paragraphs 1 through 9 of this subsection, the remaining
+monies collected during the preceding month shall be transferred to the
+classroom site fund established by section 15977. The monies shall be
+allocated as follows in the manner prescribed by section 15977:
+(a)Forty per cent shall
+be allocated for teacher compensation based on performance.
+(b)Twenty per cent
+shall be allocated for increases in teacher base compensation and employee
+related expenses.
+(c)Forty per cent shall
+be allocated for maintenance and operation purposes.
+F.The department shall
+credit the remainder of the monies in the transaction privilege and severance
+tax clearing account to the state general fund, subject to any distribution
+required by section 425030.01.
+G.Notwithstanding
+subsection D of this section, if a court of competent jurisdiction finally
+determines that tax monies distributed under this section were illegally
+collected under this article or articles 5 and 8 of this chapter and orders the
+monies to be refunded to the taxpayer, the department shall compute the amount
+of such monies that was distributed to each city, town and county under this
+section. Each city's, town's and county's proportionate share of the costs
+shall be based on the amount of the original tax payment each municipality and
+county received. Each month the state treasurer shall reduce the amount
+otherwise distributable to the city, town and county under this section by one
+thirtysixth of the total amount to be recovered from the city, town or
+county until the total amount has been recovered, but the monthly reduction for
+any city, town or county shall not exceed ten per cent of the full monthly
+distribution to that entity.The reduction shall begin for the first
+calendar month after the final disposition of the case and shall continue until
+the total amount, including interest and costs, has been recovered.
+H.On receiving a
+certificate of default from the greater Arizona development authority pursuant
+to section 412257 or 412258 and to the extent not otherwise
+expressly prohibited by law, the state treasurer shall withhold from the next
+succeeding distribution of monies pursuant to this section due to the
+defaulting political subdivision the amount specified in the certificate of
+default and immediately deposit the amount withheld in the greater Arizona
+development authority revolving fund.The state treasurer shall
+continue to withhold and deposit the monies until the greater Arizona
+development authority certifies to the state treasurer that the default has
+been cured.In no event may the state treasurer withhold any amount
+that the defaulting political subdivision certifies to the state treasurer and
+the authority as being necessary to make any required deposits then due for the
+payment of principal and interest on bonds of the political subdivision that
+were issued before the date of the loan repayment agreement or bonds and that
+have been secured by a pledge of distributions made pursuant to this section.
+I.Except as provided by
+sections 425033 and 425033.01, the population of a county, city
+or town as determined by the most recent United States decennial census plus
+any revisions to the decennial census certified by the United States bureau of
+the census shall be used as the basis for apportioning monies pursuant to
+subsection D of this section.
+J.Except as otherwise
+provided by this subsection, on notice from the department of revenue pursuant
+to section 426010, subsection B, the state treasurer shall withhold from
+the distribution of monies pursuant to this section to the affected city or
+town the amount of the penalty for business location municipal tax incentives
+provided by the city or town to a business entity that locates a retail
+business facility in the city or town.The state treasurer shall
+continue to withhold monies pursuant to this subsection until the entire amount
+of the penalty has been withheld.The state treasurer shall credit
+any monies withheld pursuant to this subsection to the state general fund as
+provided by subsection D, paragraph 4 of this section. The state treasurer
+shall not withhold any amount that the city or town certifies to the department
+of revenue and the state treasurer as being necessary to make any required
+deposits or payments for debt service on bonds or other longterm
+obligations of the city or town that were issued or incurred before the
+location incentives provided by the city or town.
+K.On notice from the
+auditor general pursuant to section 9626, subsection D, the state
+treasurer shall withhold from the distribution of monies pursuant to this
+section to the affected city the amount computed pursuant to section 9626,
+subsection D.The state treasurer shall continue to withhold monies
+pursuant to this subsection until the entire amount specified in the notice has
+been withheld. The state treasurer shall credit any monies withheld pursuant
+to this subsection to the state general fund as provided by subsection D,
+paragraph 4 of this section.
+L.Except as otherwise provided by this
+subsection, on notice from the attorney general pursuant to section 41-194.01,
+subsection B, paragraph 1 that an ordinance, regulation, order or other
+official action adopted or taken by the governing body of a county, city or
+town violates state law or the Constitution of Arizona, the state treasurer
+shall withhold the distribution of monies pursuant to this section to the
+affected county, city or town and shall continue to withhold monies pursuant to
+this subsection until the attorney general certifies to the state treasurer
+that the violation has been resolved.The state treasurer shall redistribute
+the monies withheld pursuant to this subsection among all other counties,
+cities and towns in proportion to their population as provided by subsection D
+of this section. The state treasurer shall not withhold any amount that the
+county, city or town certifies to the attorney general and the state treasurer
+as being necessary to make any required deposits or payments for debt service
+on bonds or other longterm obligations of the county, city or town that
+were issued or incurred before committing the violation.
+L.M.For the purposes of this
+section, "community college district" means a community college
+district that is established pursuant to sections 151402 and 151403
+and that is a political subdivision of this state and, unless otherwise specified,
+includes a community college tuition financing district established pursuant to section 151409.
+END_STATUTE
+Sec.3.Section 43-206, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE43-206.Urban revenue sharing fund; allocation; distribution;
+withholding
+A.There is
+established an The urban
+revenue sharing fund is established.
+The fund shall consist of an amount equal to fifteen per cent
+percent of the net proceeds of the state income taxes for the
+fiscal year two years preceding the current fiscal year. The fund shall be
+distributed to incorporated cities and towns as provided in this section,
+except that a city or town shall receive at least an amount equal to what a
+city or town with a population of fifteen hundred or more persons would
+receive.The transfer of net proceeds prescribed by section 49282,
+subsection B does not affect the calculation of net proceeds prescribed by this
+subsection.
+B.Each city or town shall share in the urban
+revenue sharing fund in the proportion that the population of each bears to the
+population of all. Except as provided by sections 425033 and 425033.01,
+the population of a city or town as determined by the most recent United States
+decennial census plus any revisions to the decennial census certified by the
+United States bureau of the census shall be used as the basis for apportioning
+monies pursuant to this subsection.
+C.The treasurer, upon on
+instruction from the department, shall transmit, no later than the tenth day of
+each month, to each city or town an amount equal to onetwelfth of that
+city's or town's total entitlement for the current fiscal year from the urban
+revenue sharing fund as determined by the department.
+D.A newly incorporated city or town shall share in
+the urban revenue sharing fund beginning the first month of the first full
+fiscal year following incorporation.
+E.On receipt of a certificate of default from the
+greater Arizona development authority pursuant to section 412257 or 412258,
+the state treasurer, to the extent not otherwise expressly prohibited by law,
+shall withhold from the next succeeding distribution of monies pursuant to this
+section due to the city or town the amount specified in the certificate of
+default and immediately deposit the amount withheld in the greater Arizona
+development authority revolving fund. The state treasurer shall continue to
+withhold and deposit the monies until the authority certifies to the state
+treasurer that the default has been cured.In no event shall the
+state treasurer withhold any amount that is necessary, as certified by the
+defaulting political subdivision to the state treasurer and the authority, to
+make any required deposits then due for the payment of principal and interest
+on bonds of the political subdivision that were issued prior to the date of the
+loan repayment agreement or bonds and that have been secured by a pledge of
+distributions made pursuant to this section.
+F.Except as otherwise provided by this
+subsection, on notice from the attorney general pursuant to section 41-194.01,
+subsection B, paragraph 1 that an ordinance, regulation, order or other
+official action adopted or taken by the governing body of a city or town
+violates state law or the Constitution of Arizona, the state treasurer shall
+withhold the distribution of monies pursuant to this section to the affected
+city or town and shall continue to withhold monies pursuant to this subsection
+until the attorney general certifies to the state treasurer that the violation
+has been resolved.The state treasurer shall redistribute the monies
+withheld pursuant to this subsection among all other cities and towns in
+proportion to their population as provided by subsection B of this section.
+The state treasurer shall not withhold any amount that the city or town certifies
+to the attorney general and the state treasurer as being necessary to make any
+required deposits or payments for debt service on bonds or other longterm
+obligations of the city or town that were issued or incurred before committing
+the violation. END_STATUTE
+

@@ -1,0 +1,108 @@
+
+
+
+
+PREFILED DEC 04 2015
+
+
+
+REFERENCE TITLE: tax abatement; no parcel number
+
+
+
+
+
+
+
+State of Arizona
+House of Representatives
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+HB 2005
+
+
+
+
+
+
+
+
+
+Introduced by
+Representatives
+  Finchem, Mitchell: Lawrence, Livingston, Norgaard, Thorpe, Townsend
+
+
+
+
+
+AN ACT
+
+Amending sections
+42-18351 and 42-18353, Arizona Revised Statutes; relating to property tax
+abatement.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 42-18351, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE42-18351.Circumstances for abating tax and removing tax lien
+This article applies in the following situations:
+1.An error or omission resulting in an improper
+imposition of a property tax.
+2.An event or circumstance that existed at the time
+of the levy and assessment, or that occurred afterwards, and that invalidates
+the lien of the property tax or the sale of the lien.
+3.The property tax lien was not advertised for sale
+pursuant to section 42-18105 within five years after the delinquency, unless
+the failure to advertise within five years after the delinquency was due to a
+restraining order or injunction issued by a court of competent jurisdiction.
+4.The cost of pursuing the statutory lien sale and
+collection procedures or the sale of lands under article 7 of this chapter or
+the cost of the seizure and sale of personal property pursuant to section
+42-18401 would equal or exceed the revenue that could be derived.
+5.The
+failure by the county assessor to assign a valid property tax parcel
+identification number. END_STATUTE
+Sec.2.Section 42-18353, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE42-18353.Certificate of removal and abatement; purging record of
+tax, penalty and interest
+A.On finding that a situation described in section
+42-18351 exists for any taxable year or years, and on receiving the approval of
+the board of supervisors, the county treasurer shall prepare a certificate of
+removal and abatement stating:
+1.The name of the property owner.
+2.A description of the property.
+3.The tax parcel number if known.
+4.The years and amounts of tax, penalty and
+interest involved.
+5.The extent to which the lien is proposed to be
+removed and the extent to which the tax, penalty and interest are proposed to
+be abated pursuant to this section.
+B.The county treasurer shall present the
+certificate of removal and abatement to the board of supervisors for the
+board's approval. The certificate of removal and abatement is final and
+effective when approved by the board of supervisors.
+C.When a certificate of removal and abatement
+becomes final and effective,
+the county treasurer shall:
+1.Delete from the delinquent list and the record of
+tax lien sales the tax, interest and penalty covered by the certificate.
+2.Make a notation in those records that the
+deletion was made pursuant to a certificate that was duly issued pursuant to
+this section and stating the number of the certificate. END_STATUTE
+

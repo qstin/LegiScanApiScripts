@@ -1,0 +1,379 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: domestic violence service providers
+
+
+
+
+
+
+
+State of Arizona
+House of Representatives
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+HB 2462
+
+
+
+
+
+
+
+
+
+Introduced by
+Representatives
+  Brophy McGee, Plumlee: Carter
+
+
+
+
+
+AN ACT
+
+Amending sections
+12116.06, 12284.03, 363001 and 363002, arizona
+revised statutes; repealing sections 363003 and 363004, arizona
+revised statutes; amending sections 363005, 363006, 363007,
+363008, 41178 and 43618, Arizona Revised Statutes;
+relating to domestic violence.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 12-116.06, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE12-116.06.Assessment for family offenses, harassment and stalking
+In addition to any other penalty, fine, fee, or assessment authorized by law, a
+person who is convicted of a violation of section 13-2921, 132921.01 or
+132923 or an offense listed in title 13, chapter 36 shall pay an
+additional assessment of fifty dollars to be deposited by the state treasurer
+in the domestic violence shelter
+services fund established
+by section 363002. This assessment is not subject to any surcharge. If
+the conviction occurred in the superior court or a justice court, the court
+shall transmit the assessed monies to the county treasurer. If the conviction
+occurred in a municipal court, the court shall transmit the assessed monies to
+the city treasurer. The city or county treasurer shall transmit the monies
+received to the state treasurer. END_STATUTE
+Sec.2.Section 12-284.03, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE12-284.03.Distribution of fees
+A.Excluding the monies that are kept by the court
+pursuant to subsection B of this section, the county treasurer shall transmit,
+distribute or deposit all monies received from the clerk of the superior court
+pursuant to section 12284, subsection K as follows:
+1.1.31 per
+cent percent to
+the state treasurer for deposit in the drug and gang enforcement account
+established by section 412402 for the purposes of section 412402,
+subsection G.
+2.8.87 per
+cent percent to
+the state treasurer for deposit in the domestic violence shelter services
+fund established by section 363002.
+3.1.93 per
+cent percent to
+the state treasurer for deposit in the child abuse prevention fund established
+by section 8550.01.
+4.In the county law library fund established by
+section 12305, either:
+(a)7.62 per
+cent percent if
+the county treasurer is serving in a county with a population of more than five
+hundred thousand persons according to the
+most recent United States decennial census. 
+(b)15.30 per
+cent percent if
+the county treasurer is serving in a county with a population of five hundred
+thousand persons or less according to the
+most recent United States decennial census.
+5.0.35 per
+cent percent to
+the state treasurer for deposit in the alternative dispute resolution fund
+established by section 12135.
+6.To the elected officials' retirement plan fund
+established by section 38802, either of the following percentages, which
+shall be distributed to the fund pursuant to section 38810:
+(a)23.79 per
+cent percent if
+the county treasurer is serving in a county with a population of more than five
+hundred thousand persons according to the
+most recent United States decennial census. 
+(b)15.30 per
+cent percent if
+the county treasurer is serving in a county with a population of five hundred
+thousand persons or less according to the
+most recent United States decennial census.
+7.17.07 per
+cent percent to
+the state treasurer for deposit in the judicial collection enhancement fund
+established by section 12113.
+8.0.26 per
+cent percent to
+the state treasurer for deposit in the confidential intermediary and fiduciary
+fund established by section 8135.
+9.In the county general fund, the following
+percentages:
+(a)31.29 per
+cent percent if
+the county treasurer is serving in a county with a population of more than five
+hundred thousand persons according to the
+most recent United States decennial census.
+(b)32.10 per
+cent percent if
+the county treasurer is serving in a county with a population of five hundred
+thousand persons or less according to the
+most recent United States decennial census.
+B.7.51 per
+cent percent of
+the monies transmitted, distributed or deposited pursuant to subsection A of
+this section shall be kept and used by the court collecting the fees in the
+same manner as the seven dollars of the time payment fee prescribed by section
+12116, subsection B. END_STATUTE
+Sec.3.Heading change
+The chapter heading of title 36, chapter 30, Arizona Revised
+Statutes, is changed from "SHELTERS FOR DOMESTIC VIOLENCE VICTIMS" to
+"DOMESTIC VIOLENCE SERVICES".
+Sec.4.Section 36-3001, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE36-3001.Definitions
+In this chapter, unless the context otherwise requires:
+1."Administration" means the community
+services administration in the department of economic security.
+2."Domestic violence" means attempting to
+cause or causing bodily injury to a family or household member or placing a
+family or household member by threat of force in fear of imminent physical
+harm.
+3."Domestic
+violence service provider" means a facility whose primary purpose is to
+provide services to family or household members who are victims of domestic
+violence, including:
+(a)Shelter for victims of domestic
+violence.
+(b)Domestic violence victim
+advocacy.
+(c)Other support services for
+domestic violence victims.
+3.4."Family
+or household member" means a spouse, a former spouse, a parent, a child or
+other another adult person related by consanguinity
+or affinity who is residing or has resided or has a child or children in common
+with the person committing the domestic violence and dependents of such
+persons.
+4.5."Fund"
+means the domestic violence shelter services fund.
+5.6."Program
+administrator" means the program administrator of the community services
+administration in the department of economic security.
+6.7."Shelter
+for victims of domestic violence" or "shelter" means a facility
+providing temporary residential service or facilities to family or household
+members who are victims of domestic violence. END_STATUTE
+Sec.5.Section 36-3002, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE36-3002.Domestic violence services fund; purpose
+A.The domestic violence shelter
+services fund is established consisting of monies received
+pursuant to section 12116.06, section 12284.03, subsection A,
+paragraph 2, and section 41178 and section 43618.The
+program administrator shall administer the fund for the purposes prescribed in
+this section.
+B.The department of economic security, after full
+consultation with a statewide coalition against domestic violence, shall
+establish program priorities for the fund.Subject to legislative
+appropriation, the department shall expend monies in the fund to provide
+financial assistance to shelters
+service providers for victims
+of domestic violence through contracts for shelter services.
+C.Monies in the fund do not revert to the state
+general fund. END_STATUTE
+Sec.6.Repeal
+Sections 36-3003
+through 36-3004,
+Arizona Revised Statutes, are repealed.
+Sec.7.Section 36-3005, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE36-3005.Domestic violence service provider requirements for
+eligibility
+A.To be eligible to receive fund monies under this
+chapter, a shelter
+domestic
+violence service provider shall:
+1.Provide
+crisis interventions and advocacy and support services for victims of domestic
+violence and their dependent children.
+2.Provide
+victims of domestic violence with information and referrals for community based
+services.
+3.Require
+persons employed by or volunteering services to the shelter to maintain the
+confidentiality of any information that would identify persons served by the
+shelter.
+4.Meet existing
+licensing requirements, if any. adhere to statewide service standards for domestic
+violence programs that are approved by the department of economic security in
+collaboration with a state coalition against domestic violence.
+B.A shelter
+for victims of domestic violence domestic
+violence service provider does not qualify for fund monies if it
+discriminates in its admissions or provision of services on the basis of race,
+religion, color, age, sex, gender
+identity, sexual orientation, disability, marital status, limited english proficiency,
+national origin or ancestry. END_STATUTE
+Sec.8.Section
+36-3006, Arizona Revised Statutes, is amended to read:
+START_STATUTE36-3006.Methodology for allocation of fund monies
+A.If the program administrator receives
+applications from more than one eligible shelter, and the requests for fund
+monies exceed the amount of fund monies available, fund monies shall be
+allocated based on the priorities established by the department of economic
+security and a state coalition against domestic violence and including the
+following priorities:
+1.To shelters
+receiving monies from this fund as of April 24, 1994.
+2.To shelters
+not receiving monies from this fund as of April 24, 1994.
+B.After
+full consultation with a state coalition against domestic violence, the
+department shall develop a weighted methodology for allocation of funding that includes the priorities prescribed in subsection
+A and that, at a minimum, considers the following:
+1.The need for services.
+2.Existing services.
+3.Geographic location.
+4.Population ratios.END_STATUTE
+Sec.9.Section 36-3007, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE36-3007.Annual report
+A.The department of economic security shall file an
+annual report with the governor, the speaker of the house of representatives
+and the president of the senate on or before October 1 and shall provide a copy of this report to the secretary of
+state. In preparing the report the department shall fully
+consult with a state coalition against domestic violence.
+B.The report shall include the following
+information from each shelter program domestic violence service provider that
+receives monies pursuant to this chapter:
+1.The population served.
+2.The services provided.
+3.The unmet needs of persons who receive services.
+C.Information contained in the report shall not
+identify any person served by a shelter
+service provider or
+enable any person to determine the identity of any such person.END_STATUTE
+Sec.10.Section 36-3008, Arizona Revised Statutes,
+is amended to read:
+START_STATUTE36-3008.Services for victims of domestic violence; personnel;
+fingerprinting; confidentiality; notification
+A.Employees and volunteers of a shelter for victims of domestic violence, as defined in section 363001,
+service provider shall
+have valid fingerprint clearance cards that are issued pursuant to title 41,
+chapter 12, article 3.1 or shall apply for a fingerprint clearance card within
+seven working days of employment or beginning volunteer
+work.Federally recognized Indian tribes or military bases may
+submit and the department shall accept certifications that state that employees
+of a shelter for victims of
+domestic violence service provider who
+are employed by a shelter domestic violence service provider and
+who provide services directly to victims of domestic violence have not been
+convicted of, have not admitted committing or are not awaiting trial on any
+offense under subsection B, paragraph 1 of this section.
+B.Personnel shall certify on forms that are
+provided by the department and notarized that:
+1.They are not awaiting trial on and have never
+been convicted of or admitted committing any of the criminal offenses listed in
+section 411758.03, subsections B and C in this state or similar offenses
+in another state or jurisdiction.
+2.They have not been denied a license to operate a shelter for cause facility that provides services for domestic violence
+victims in this state or another state or had a license to operate
+a shelter facility that provides services for domestic violence
+victims revoked.
+C.The notarized forms are confidential.
+D.The shelter domestic violence service provider
+shall make good faith efforts to contact previous employers to obtain information
+or recommendations that may be relevant to an individual's fitness to work in the shelter for the provider.
+E.The
+department of health services a domestic violence service provider shall
+notify the department of public safety if the department of health services provider receives credible evidence that a
+person who possesses a fingerprint clearance card either:
+1.Is arrested for or charged with an offense listed
+in section 411758.03, subsection B.
+2.Falsified information on the form required by
+subsection B of this section. END_STATUTE
+Sec.11.Section 41-178, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE41-178.Distribution of notary bond fees
+The state treasurer shall transmit, distribute or deposit all
+monies received pursuant to section 41126, subsection A, paragraphs 11
+and 12 as follows:
+1.1.31 per
+cent percent for
+deposit in the drug and gang enforcement account established by section 412402
+for the purposes of section 41-2402, subsection G.
+2.8.87 per
+cent percent for
+deposit in the domestic violence shelter
+services fund established
+by section 363002.
+3.1.93 per
+cent percent for
+deposit in the child abuse prevention fund established by section 8550.01.
+4.7.62 per
+cent percent for
+proportional deposit in each county's law library fund established by section
+12-305, based on the number of notaries commissioned per county.
+5.0.35 per
+cent percent for
+deposit in the alternative dispute resolution fund established by section 12135.
+6.23.79 per
+cent percent for
+deposit in the elected officials' retirement plan fund established by section
+38802, which shall be distributed to the fund pursuant to section 38810.
+7.17.07 per
+cent percent for
+deposit in the judicial collection enhancement fund established by section 12113.
+8.0.26 per
+cent percent for
+deposit in the confidential intermediary and fiduciary fund established by
+section 8135.
+9.31.29 per
+cent percent for
+deposit in the notary bond fund established by section 41314.
+10.7.51 per
+cent percent shall
+be distributed to the county where the notary is commissioned in the same
+manner as the seven dollars of the time payment fee prescribed by section 12116,
+subsection B. END_STATUTE
+Sec.12.Section 43-618, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE43-618.Contribution to domestic violence services fund
+A.The department shall provide a space on the
+individual income tax return form in which the taxpayer may designate an amount
+of the taxpayer's refund as a voluntary contribution to the domestic violence shelter services fund established pursuant to by section 363002.
+B.After subtracting any setoff for debts pursuant
+to section 421122, the department of revenue shall subtract the
+designated amount from the refund due the taxpayer and transfer it to the
+department of economic security for deposit in the fund.
+C.The taxpayer may also donate any amount to the
+fund, in lieu of or in addition to the designated portion of the tax refund, by
+an appropriate indication on the return and by including that amount with the
+return. END_STATUTE
+

@@ -1,0 +1,177 @@
+
+
+
+
+PREFILED DEC 29 2015
+
+
+
+REFERENCE TITLE: voter registration; social security
+  number
+
+
+
+
+
+
+
+State of Arizona
+Senate
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+SB 1029
+
+
+
+
+
+
+
+
+
+Introduced by
+Senator
+  Quezada; Representative Andrade
+
+
+
+
+
+AN ACT
+
+amending section
+16-166, Arizona Revised Statutes; relating to qualification and registration of
+electors.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Subject
+to the requirements of article IV, part 1, section1, Constitution of
+Arizona, section 16-166, Arizona Revised Statutes, is amended to read:
+START_STATUTE16-166.Verification of registration
+A.Except for the
+mailing of sample ballots, a county recorder who mails an item to any elector
+shall send the mailing by nonforwardable first class mail marked with the
+statement required by the postmaster to receive an address correction
+notification. If the item is returned undelivered, the county recorder shall
+send a followup notice to that elector within three weeks of receipt of
+the returned notice. The county recorder shall send the followup notice
+to the address that appears in the general county register or to the forwarding
+address provided by the United States postal service. The followup
+notice shall include a registration form and the information prescribed by
+section 16131, subsection C and shall state that if the elector does not
+complete and return a new registration form with current information to the
+county recorder within thirtyfive days, the elector's registration
+status shall be changed from active to inactive.
+B.If the elector
+provides the county recorder with a new registration form, the county recorder
+shall change the general register to reflect the changes indicated on the new
+registration. If the elector indicates a new residence address outside that
+county, the county recorder shall forward the voter registration form to the
+county recorder of the county in which the elector's address is located. If
+the elector provides a new residence address that is located outside this
+state, the county recorder shall cancel the elector's registration.
+C.The county recorder
+shall maintain on the inactive voter list the names of electors who have been
+removed from the general register pursuant to subsection A or E of this section
+for a period of four years or through the date of the second general election
+for federal office following the date of the notice from the county recorder
+that is sent pursuant to subsection E of this section.
+D.On notice that a
+government agency has changed the name of any street, route number, post office
+box number or other address designation, the county recorder shall revise the
+registration records and shall send a new verification of registration notice
+to the electors whose records were changed.
+E.The county recorder
+on or before May 1 of each year preceding a state primary and general election
+or more frequently as the recorder deems necessary may use the change of
+address information supplied by the postal service through its licensees to
+identify registrants whose addresses may have changed.If it appears
+from information provided by the postal service that a registrant has moved to
+a different residence address in the same county, the county recorder shall
+change the registration records to reflect the new address and shall send the
+registrant a notice of the change by forwardable mail and a postage prepaid
+preaddressed return form by which the registrant may verify or correct the
+registration information. If the registrant fails to return the form
+postmarked not later than thirty-five days after the mailing of the notice, the
+elector's registration status shall be changed from active to inactive.If
+the notice sent by the recorder is not returned, the registrant may be required
+to provide affirmation or confirmation of the registrant's address in order to
+vote. If the registrant does not vote in an election during the period after
+the date of the notice from the recorder through the date of the second general
+election for federal office following the date of that notice, the registrant's
+name shall be removed from the list of inactive voters. If the registrant has
+changed residence to a new county, the county recorder shall provide
+information on how the registrant can continue to be eligible to vote.
+F.The county recorder
+shall reject any application for registration that is not accompanied by
+satisfactory evidence of United States citizenship. Satisfactory evidence of
+citizenship shall include any of the following:
+1.The number of the
+applicant's driver license or nonoperating identification license issued after
+October 1, 1996 by the department of transportation or the equivalent
+governmental agency of another state within the United States if the agency
+indicates on the applicant's driver license or nonoperating identification
+license that the person has provided satisfactory proof of United States
+citizenship.
+2.A legible photocopy
+of the applicant's birth certificate that verifies citizenship to the
+satisfaction of the county recorder.
+3.A legible photocopy
+of pertinent pages of the applicant's United States passport identifying the
+applicant and the applicant's passport number or presentation to the county
+recorder of the applicant's United States passport.
+4.A presentation to the
+county recorder of the applicant's United States naturalization documents or
+the number of the certificate of naturalization. If only the number of the
+certificate of naturalization is provided, the applicant shall not be included
+in the registration rolls until the number of the certificate of naturalization
+is verified with the United States immigration and
+naturalization service citizenship
+and immigration services by the county recorder. 
+5.Other documents or
+methods of proof that are established pursuant to the immigration reform and
+control act of 1986.
+6.The applicant's
+bureau of Indian affairs card number, tribal treaty card number or tribal enrollment
+number.
+7.Verification of the last four digits of the
+applicant's social security number.
+G.Notwithstanding
+subsection F of this section, any person who is registered in this state on the effective date of this amendment to this section
+December 8, 2004 is
+deemed to have provided satisfactory evidence of citizenship and shall not be
+required to resubmit evidence of citizenship unless the person is changing
+voter registration from one county to another. 
+H.For the purposes of
+this section, proof of voter registration from another state or county is not
+satisfactory evidence of citizenship.
+I.A person who modifies
+voter registration records with a new residence ballot shall not be required to
+submit evidence of citizenship. After citizenship has been demonstrated to the
+county recorder, the person is not required to resubmit satisfactory evidence
+of citizenship in that county.
+J.After a person has
+submitted satisfactory evidence of citizenship, the county recorder shall
+indicate this information in the person's permanent voter file. After two
+years the county recorder may destroy all documents that were submitted as
+evidence of citizenship. END_STATUTE
+Sec.2.Requirements for enactment; three-fourths vote
+Pursuant to article IV, part 1,
+section 1, Constitution of Arizona, section 16-166, Arizona Revised Statutes,
+as amended by this act, is effective only on the affirmative vote of at least
+three-fourths of the members of each house of the legislature.
+

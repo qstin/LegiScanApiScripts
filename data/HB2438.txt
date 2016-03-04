@@ -1,0 +1,176 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: personal identifiable information
+
+
+
+
+
+
+
+State of Arizona
+House of Representatives
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+HB 2438
+
+
+
+
+
+
+
+
+
+Introduced by
+Representative
+  Stevens
+
+
+
+
+
+AN ACT
+
+amending section
+44-1373, Arizona Revised Statutes; relating to personal identifying
+information.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 44-1373, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE44-1373.Restricted use of personal identifying information; civil
+penalty; definitions
+A.Except as otherwise specifically provided by law,
+beginning on January 1, 2005, a person or entity shall not:
+1.Intentionally communicate or otherwise make an
+individual's social security number available to the general public.
+2.Print an individual's social security number on
+any card required for the individual to receive products or services provided
+by the person or entity.
+3.Require the transmission of an individual's
+social security number over the internet unless the connection is secure or the
+social security number is encrypted.
+4.Require the use of an individual's social
+security number to access an internet website website, unless a password or
+unique personal identification number or other authentication device is also
+required to access the site.
+5.Print a number that the person or entity knows to
+be an individual's social security number on any materials that are mailed to
+the individual, unless state or federal law requires the social security number
+to be on the document to be mailed. This paragraph does not prohibit the
+mailing of documents that include social security numbers sent as part of an
+application or enrollment process or to establish, amend or terminate an
+account, contract or policy or to confirm the accuracy of the social security
+number. In a transaction involving or otherwise relating to an individual, if
+a person or entity receives a number from a third party, the person or entity
+has no duty to inquire or otherwise determine if the number is or includes that
+individual's social security number. The person or entity may print that
+number on materials that are mailed to the individual, unless the person or
+entity that received the number has actual knowledge that the number is or
+includes the individual's social security number.This paragraph
+does not prohibit the mailing to the individual of any copy or reproduction of
+a document that includes a social security number if the social security number
+was included on the original document before January1, 2005.
+B.Notwithstanding subsection A of this section, a person or entity that
+before January 1, 2005 used an individual's social security number in a manner
+inconsistent with subsection A of this
+section may continue using that individual's social security
+number in that manner on and after January 1, 2005 subject to the following
+conditions:
+1.The use of the social security number must be
+continuous. If the use is stopped for any reason, subsection A of this section applies.
+2.Beginning in 2005, the person or entity must
+provide the individual with an annual written disclosure of the individual's
+right to stop the use of the social security number in a manner prohibited by
+subsection A of this section.
+3.If the individual requests in writing, the person
+or entity must stop using the social security number in a manner prohibited by
+subsection A of this section
+within thirty days after receiving the request. No fee or charge is allowed
+for implementing the request, and the person or entity shall not deny services
+to the individual because of the request.
+C.This section does not prohibit the collection,
+use or release of a social security number as required by the laws of this
+state or the United States or for internal verification or administrative
+purposes.
+D.Beginning on January 1, 2005, this state or any
+political subdivision of this state shall not use an individual's social security
+number on state issued or political subdivision issued forms of identification.
+E.This section does not prohibit an agency of this
+state or a political subdivision of this state from disseminating or using the
+last four numbers of an individual's social security number.
+F.A government agency shall not transmit to an
+individual material that contains both an individual's social security number
+and bank, savings and loan association or credit union account number. This
+subsection does not prohibit the transmitting of documents that include social
+security and bank, savings and loan association or credit union account numbers
+as a part of an application or enrollment process or to establish, amend or
+terminate an account, contract or policy or to confirm the accuracy of the
+social security, bank, savings and loan association or credit union account
+number.
+G.Except as otherwise provided by law, documents or
+records that are recorded and made available on the recording entity's public web site after the effective date of this
+amendment to this section
+website beginning January1, 2007 shall not contain more
+than five numbers that are reasonably identifiable as being part of an
+individual's social security number and shall not contain an individual's:
+1.Credit card, charge card or debit card numbers.
+2.Retirement account numbers.
+3.Savings, checking or securities entitlement
+account numbers.
+h.an
+individual's nonsensitive personal identifying information may be transmitted
+in an unencrypted form.
+i.an
+individual's sensitive personal identifying information may be encrypted when
+the data is in transit and when the data is at rest.
+H.j.Only
+the attorney general or a county attorney, or both, may commence a legal action
+for a violation of this section.
+I.k.A
+person or entity is subject to a civil penalty of up to five hundred dollars
+for each act of recording that violates subsection G of this section.The civil penalty
+shall not apply to a person or entity that transmits the document for recording
+but has no authority for the creation of the document.
+J.l.A
+county agency is not subject to civil liability for any action relating to
+information recorded pursuant to subsection G of this section.
+K.m.For
+the purposes of this section: , 
+1."Individual"
+means a resident of this state.
+2."nonsensitive
+personal identifying information" means information that both:
+(a)is easily gathered from public
+records, telephone or corporate directories or the internet.
+(b)when disclosed could not harm
+the individual whose information it is.
+3."sensitive
+personal identifying information":
+(a)means information that when
+disclosed could harm the individual whose information it is.
+(b)includes biometric information,
+medical information, personal identifiable financial information and unique
+identifiers such as passport numbers or social security numbers. END_STATUTE
+

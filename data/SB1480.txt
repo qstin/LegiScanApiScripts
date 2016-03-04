@@ -1,0 +1,682 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: campaign finance; clean elections;
+  violations
+
+
+
+
+
+
+
+State of Arizona
+Senate
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+SB 1480
+
+
+
+
+
+
+
+
+
+Introduced by
+Senator
+  Sherwood
+
+
+
+
+
+AN ACT
+
+amending sections
+16-903, 16-905, 16-913, 16916, 16-924, 16942 and 16956,
+Arizona Revised Statutes; relating to campaign contributions and expenses.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 16-903, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE16-903.Candidate's campaign committees; exploratory committees;
+designation; candidate as agent; violation; classification
+A.Each candidate who intends to receive contributions
+or make expenditures of more than five hundred dollars in connection with a
+campaign for office shall designate in the format prescribed by the filing
+officer a political committee for each election cycle to serve as the
+candidate's campaign committee. The candidate shall make the designation
+pursuant to this subsection by filing a statement of organization before making
+any expenditures, accepting any contributions, distributing any campaign
+literature or circulating any petitions.Each candidate who intends
+to receive contributions or make expenditures of five hundred dollars or less
+shall file a signed exemption statement in the format prescribed by the filing
+officer that states that intention before making any expenditures, accepting
+any contributions, distributing any campaign literature or circulating
+petitions.If a candidate who has filed a five hundred dollar
+exemption statement receives contributions or makes expenditures of more than
+five hundred dollars, that candidate shall file a statement of organization
+with the filing officer within five business days after exceeding the five
+hundred dollar limit.
+B.An individual who receives contributions or makes
+expenditures of more than five hundred dollars for the purpose of determining
+whether the individual will become a candidate for election to an office in
+this state shall designate in the format prescribed by the filing officer a
+political committee to serve as the individual's exploratory committee. The
+individual shall make the designation pursuant to this subsection before making
+any expenditures, accepting any contributions, circulating any petitions or
+distributing any campaign literature.
+C.An individual may have only one exploratory
+committee in existence at one time. A candidate may have only one campaign
+committee designated for each election cycle, but a candidate may have more
+than one campaign committee simultaneously in existence.
+D.A political committee that supports or has
+supported another candidate or more than one candidate may not be designated as
+a candidate's campaign committee.
+E.Any candidate who receives a contribution or any
+loan for use in connection with the campaign of that candidate for election or
+who makes a disbursement in connection with that campaign shall be deemed as
+having received the contribution or loan or as having made the disbursement as
+an agent of the candidate's campaign committee for purposes of this article.
+F.An elected official is not deemed to have offered
+himself for nomination or election to an office within the meaning of section
+38296 solely by the elected official's designation of a candidate
+campaign committee.
+G.After designating an exploratory committee, a
+candidate may lawfully collect signatures on nomination petitions and receive
+contributions.
+H.A person who violates this section is subject to a civil penalty imposed
+as prescribed in section 16924 of up to three times the amount of money
+that has been received, expended or promised in violation of this section or up
+to three times the value in money for an equivalent of money or other things of
+value that have been received, expended or promised in violation of this
+section knowingly or
+intentionally misstates or fails to fully disclose a contribution or
+expenditure or any other thing required to be reported by this article is
+guilty of a class 1 misdemeanor. END_STATUTE
+Sec.2.Section 16-905, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE16-905.Contribution limitations; violation; classification; civil
+penalty; complaint; reductions
+A.For an election other than for a statewide
+office, a contributor shall not give and an exploratory committee, a candidate
+or a candidate's campaign committee shall not accept contributions of more
+than:
+1.For an election for a legislative office, six
+thousand two hundred fifty dollars per election cycle from an individual.
+2.For an election other than for a legislative
+office, six thousand two hundred fifty dollars per election cycle from an
+individual.
+3.For an election for a legislative office, six
+thousand two hundred fifty dollars per election cycle from a single political
+committee, excluding a political party, not certified under subsection G of
+this section to make contributions at the higher limits prescribed by paragraph
+5 of this subsection and subsection B, paragraph 3 of this section.
+4.For an election other than for a legislative
+office, six thousand two hundred fifty dollars per election cycle from a single
+political committee, excluding a political party, not certified under
+subsection G of this section to make contributions at the higher limits
+prescribed by subsection B, paragraph 3 of this section.
+5.Twelve thousand five hundred dollars per election
+cycle from a single political committee that is certified pursuant to
+subsection G of this section, excluding a political party.
+6.Six thousand two hundred fifty dollars per
+election cycle from a single partnership. Contributions from a partnership
+shall be allocated to the individual partners who are contributing, as
+designated by the partnership.Partnership contributions from
+designated partners shall be combined with other contributions by that
+individual partner to the same recipient and are subject to the limits on an
+individual prescribed by this section. Nonpartnership monies that are
+contributed by an individual shall not be counted against the partnership
+contribution limit for that same recipient.
+B.For an election for a statewide office, a
+contributor shall not give and an exploratory committee, a candidate or a
+candidate's committee shall not accept contributions of more than:
+1.Six thousand two hundred fifty dollars per
+election cycle from an individual.
+2.Six thousand two hundred fifty dollars per
+election cycle from a single political committee, excluding a political party,
+not certified under subsection G of this section to make contributions at the
+higher limits prescribed by subsection A, paragraph 5 of this section and
+paragraph 3 of this subsection.
+3.Twelve thousand five hundred dollars per election
+cycle from a single political committee that is certified pursuant to
+subsection G of this section, excluding a political party.
+4.Six thousand two hundred fifty dollars per
+election cycle from a single partnership.Contributions from a
+partnership shall be allocated to the individual partners who are contributing,
+as designated by the partnership.Partnership contributions from
+designated partners shall be combined with other contributions by that
+individual partner to the same recipient and are subject to the limits on an
+individual prescribed by this section. Nonpartnership monies that are
+contributed by an individual shall not be counted against the partnership
+contribution limit for that same recipient.
+C.A candidate may accept contributions from
+political committees, excluding political parties, as otherwise prescribed in
+this section and a candidate is not restricted as to the aggregate total that a
+candidate may lawfully receive from all political committees, excluding
+political parties.
+D.A nominee of a political party shall not accept
+contributions from all political parties or political organizations combined
+totaling more than ten thousand dollars for an election for an office other
+than a statewide office, and one hundred thousand dollars for an election for a
+statewide office.
+E.An individual may make contributions as otherwise
+prescribed by this section, and an individual is not restricted as to the
+aggregate total that an individual may give.An individual may make
+an otherwise lawful contribution using personal monies contained in a revocable
+trust, which shall be reported as an individual contribution and which is subject
+to the limits on an individual contribution.
+F.A candidate's campaign committee or an
+individual's exploratory committee shall not make a loan and shall not transfer
+or contribute money to any other campaign or exploratory committee that is
+designated pursuant to this chapter or 52 United States Code section 30101
+except as follows:
+1.An exploratory committee may transfer monies to a
+subsequent candidate's campaign committee of the individual designating the
+exploratory committee, subject to the limits of subsection B of this section.
+2.A candidate's campaign committee may transfer or
+contribute monies to another campaign committee designated by the same
+candidate as follows:
+(a)Subject to the contribution limits of this
+section per contributor, transfer or contribute monies in the aggregate from
+one committee to another if both committees have been designated for an
+election in the same year including to a committee for another office or in
+another jurisdiction.
+(b)Without application of the contribution limits
+of this section, transfer or contribute monies from one committee to another
+designated for an election in a subsequent year.
+G.Only political committees that received monies
+from five hundred or more individuals in amounts of ten dollars or more in the
+two year period immediately before application to the secretary of state for
+qualification as a political committee pursuant to this section may make
+contributions to candidates under subsection A, paragraph 5 of this section and
+subsection B, paragraph 3 of this section. The secretary of state shall obtain
+information necessary to make the determination that a committee meets the
+requirements of this subsection and shall provide written certification of the
+fact to the committee. A political committee certification is valid for four
+years. A candidate's campaign committee shall not accept a contribution
+pursuant to this subsection unless it is accompanied by a copy of the
+certification.All political committees that do not meet the
+requirements of this subsection are subject to the individual campaign
+contribution limits of subsection A, paragraphs 1 and 2 of this section and
+subsection B, paragraph 1 of this section.
+H.The secretary of state biennially shall adjust to
+the nearest ten dollars the amounts in subsections A through E of this section
+by the percentage change in the consumer price index and publish the new
+amounts for distribution to election officials, candidates and campaign
+committees. For the purposes of this subsection, "consumer price
+index" means the consumer price index for all urban consumers, United
+States city average, that is published by the United States department of
+labor, bureau of labor statistics.
+I.The following specific limitations and procedures
+apply:
+1.The limits of subsections A through E of this
+section apply to each election cycle for any office or offices that the
+candidate seeks.
+2.The limits of subsections A and B of this section
+apply to the total contributions from all separate segregated funds
+established, as provided in section 16920, by a corporation, labor
+organization, trade association, cooperative or corporation without capital
+stock.
+3.A contribution by an unemancipated minor child
+shall be treated as a contribution by the child's custodial parent or parents
+for determining compliance with subsection A, paragraphs 1 and 2, subsection B,
+paragraph 1 and subsection E of this section.
+4.A contribution by an individual or a single
+political committee to two or more candidates in connection with a joint fundraising
+effort shall be divided among the candidates in direct proportion to each
+candidate campaign committee's share of the expenses for the fundraising
+effort.
+5.A candidate shall sign and file with the
+candidate's nomination paper a statement that the candidate has read all
+applicable laws relating to campaign financing and reporting.
+6.After the general election, all contributions may
+be combined for use in a subsequent election cycle.
+7.An individual or political committee shall not
+use economic influence to induce members of an organization to make
+contributions to a candidate, collect contributions from members of an
+organization for transmittal to a candidate, make payments to candidates for
+public appearances or services that are ordinarily uncompensated or use any
+similar device to circumvent any of the limitations of this section.
+J.A person who knowingly violates this section is guilty of a class 1 misdemeanor. A person
+who unknowingly violates this section is subject to a civil
+penalty imposed as prescribed in section 16924 of three times the amount
+of money that has been received, expended or promised in violation of this
+section or three times the value in money for an equivalent of money or other
+things of value that have been received, expended or promised in violation of
+this section.
+K.Any qualified elector may file a sworn complaint
+with the attorney general or the county attorney of the county in which a
+violation of this section is believed to have occurred, and the attorney
+general or the county attorney shall investigate the complaint for possible
+action.
+L.If the filing officer, attorney general or county
+attorney fails to institute an action within fortyfive working days
+after receiving a complaint under subsection K of this section, the individual
+filing the complaint may bring a civil action in the individual's own name and
+at the individual's own expense, with the same effect as if brought by the
+filing officer, attorney general or county attorney. The individual shall
+execute a bond payable to the defendant if the individual fails to prosecute
+the action successfully.The court shall award to the prevailing
+party costs and reasonable attorney fees.
+M.If a provision of this section or its application
+to any person or circumstance is held invalid, the invalidity does not affect
+other provisions or applications of the section that can be given effect
+without the invalid provision or application, and to this end the provisions of
+this section are severable.
+N.The use of a candidate's personal monies, or the
+use of personal monies by an individual who designates an exploratory
+committee, is not subject to the limitations of this section.
+O.For any statewide or legislative candidate who is
+not participating in the citizens clean elections act funding system
+established pursuant to article 2 of this chapter:
+1.Complaints and investigations relating to an
+alleged violation of this article are subject only to the jurisdiction,
+penalties and procedures established pursuant to this article and the
+enforcement and investigative authority of the secretary of state and attorney
+general.
+2.The citizens clean elections commission has no
+authority to accept, investigate or otherwise act on any complaint involving an
+alleged violation of this article. END_STATUTE
+Sec.3.Section 16-913, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE16-913.Campaign finance reports; reporting of receipts and
+disbursements; exemptions; civil penalty; violation; classification
+A.Except as provided in subsection K of this
+section, each political committee shall file campaign finance reports in the
+format prescribed by the filing officer setting forth the committee's receipts
+and disbursements according to the schedule prescribed in subsections B and C
+of this section.
+B.In any calendar year during which there is a
+regularly scheduled election at which any candidates, measures, questions or
+propositions appear or may appear on the ballot, the political committee shall
+file each of the following campaign finance reports:
+1.A report covering the period beginning January 1
+through May 31, filed no later than June 30.
+2.A preelection report,
+that shall be filed not less than four days before any election and that shall
+be complete through the twelfth day before the election.
+3.A postelection report, that shall be filed not
+more than thirty days after any election and that shall be complete through the
+twentieth day after the election.
+C.In any other calendar year, the political
+committee shall file a report covering the period beginning twentyone
+days after the date of the election in the preceding calendar year through
+December 31 of the nonelection year filed no later than January 31 of the
+following calendar year. For a special election for which the secretary of
+state is the filing officer, a political committee that receives contributions
+or makes expenditures to influence that election shall file the following:
+1.For an initiative, referendum or recall, a
+preelection report that is due within fifteen days of filing the petition with
+the secretary of state and that is current
+through the date the petition was filed.
+2.A preelection report that is due within fifteen
+days of the governor's proclamation calling the special election and that is current through the
+date of the governor's proclamation.
+3.A preelection report that is due as prescribed by
+subsection B, paragraph 2 of this section.
+4.A postelection report that is due as prescribed
+by subsection B, paragraph 3 of this section.
+D.In the event that a political committee receives
+no contributions and makes no expenditures during a period in which it is
+required to file a campaign finance report, the committee treasurer or if the
+treasurer is unavailable the candidate, in lieu of filing a report required by
+subsection B of this section, may sign and file a form prescribed by the
+secretary of state indicating no activity during the specific reporting period.
+E.In lieu of the reports prescribed in subsections
+B and C of this section, a candidate's political committee that remains active
+after an election due to outstanding debts may file a document no later than
+January 31 in a form prescribed by the secretary of state that states that the
+committee does not intend to receive any contributions or make any expenditures
+during the year.If a candidate's political committee does receive a
+contribution or make an expenditure during that year, the committee shall
+report as prescribed by subsection B or C of this section.
+F.A judge who has filed a declaration of the desire
+to be retained in office is exempt from filing any report required by this section
+if the judge, not later than twelve days before the general election, files a
+statement signed and sworn to by the judge certifying that the judge has
+received no contributions, has made no expenditures and has no campaign
+committee and that the judge does not intend to receive contributions, make
+expenditures or have a campaign committee for the purpose of influencing the
+result of the vote on the question of the judge's retention.With
+respect to superior court judges, a statement filed pursuant to this subsection
+is effective until the earlier of twelve days before the third general election
+following the filing of this statement or the judge receives contributions,
+makes expenditures or authorizes a campaign committee.Such a
+statement filed by a supreme court justice or a court of appeals judge is
+effective until the earlier of twelve days before the fourth general election
+following the filing of this statement or the justice or judge receives
+contributions, makes expenditures or authorizes a campaign committee.
+G.Reports in connection with special or recall
+elections shall conform to the filing deadlines set forth in subsections B and
+C of this section.
+H.Except as provided in section 16916,
+subsection B and subsection K of this section, a political committee shall
+comply with the requirements of this section in each jurisdiction in this state
+in which the committee has filed a statement of organization until the
+committee terminates pursuant to section 16914, and its statements,
+designations and reports shall be filed with each officer with whom it has
+filed a statement of organization, as appropriate.
+I.Each report required to be filed pursuant to this
+section shall be signed by the committee treasurer or the candidate or the
+designating individual if the treasurer is unavailable and shall contain the
+certification of the signer under penalty of perjury that the report is true
+and complete.
+J.A political committee and the candidate, in the
+case of a candidate's campaign committee, or the designating individual, in the
+case of an exploratory committee, who violate this section are subject to the
+penalty prescribed in section 16918.
+K.A standing political committee shall file reports
+with the secretary of state and is exempt from filing a report with any other
+jurisdiction in which it is active.The reports shall be in an
+electronic format as prescribed by the secretary of state or by use of the
+internet. The secretary of state shall promptly make the reports available to
+the public on the internet and shall make the reports available by electronic
+means by request. The standing committee shall file the following reports:
+1.A preelection report that is due as prescribed by
+subsection B, paragraph 2 of this section shall be filed for each consolidated
+election date prescribed by section 16204.
+2.A postelection report that is due as prescribed
+by subsection B, paragraph 3 of this section shall be filed for each
+consolidated election date prescribed by section 16204.
+3.An annual report that is due by January 31 in the
+year immediately following the calendar year that is the subject of the report.
+L.A person
+who knowingly or intentionally misstates or fails to fully disclose a
+contribution or expenditure or any other thing required to be reported by this
+article is guilty of a class 1 misdemeanor. END_STATUTE
+Sec.4.Subject to the requirements of article
+IV, part 1, section 1, Constitution of Arizona, section 16-916, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE16-916.Filing statements of contributions and
+expenditures; public inspection
+A.Except as provided in subsection B of this
+section, the statements, designations and reports required to be filed pursuant
+to this article shall be filed as follows:
+1.In the office of the secretary of state for
+political committees supporting or opposing the recall of a public officer
+elected statewide or to the legislature, supporting the circulation of
+petitions for ballot measures, questions and propositions appearing on a state
+general election ballot or recall of public officials elected statewide or to
+the legislature or supporting or opposing candidates for state offices and members
+of the legislature, for justices of the supreme court, for judges of the court
+of appeals and for a statewide initiative or referendum or any measure or
+proposition appearing on a state general election ballot. The office of the
+secretary of state shall post to its website in a format that is viewable by
+the public the campaign finance information prescribed by this section and shall provide that for all
+filings and other matters relating to all candidates and committees for state
+offices and members of the legislature, the citizens clean elections commission
+shall have joint and simultaneous access to those filings and matters.
+2.With the county officer in charge of elections
+for political committees supporting or opposing the recall of public officers
+elected to county offices, school district governing boards, community college
+district governing boards or judges of the superior court, supporting the
+circulation of petitions for ballot measures, questions and propositions
+appearing on a county election ballot or for the recall of a public officer
+elected to county offices, school district governing boards, community college
+district governing boards or judges of the superior court or supporting or
+opposing candidates for county offices, school district governing board members
+or ballot questions, community college district governing board members or
+ballot questions, judges of the superior court seeking retention, special
+taxing districts and a county initiative or referendum or any measure or proposition
+appearing on a county election ballot. For any county with a population of
+more than one hundred thousand persons that operates a website, the county
+officer in charge of elections shall post to that website in a format that is
+viewable by the public the campaign finance information prescribed by this
+section, which shall include the names of candidates who have filed an
+exemption statement pursuant to section 16902.01, subsection B with that
+filing officer.
+3.With the city or town clerk for political
+committees supporting or opposing the recall of public officers elected to city
+or town offices, supporting the circulation of petitions for ballot measures,
+questions and propositions appearing on a city or town election ballot or
+recall of public officers elected for city or town offices or supporting or
+opposing candidates for city or town offices and for a city or town initiative
+or referendum or any measure or proposition appearing on a city or town
+election ballot.For any city or town with a population of more than
+two thousand five hundred persons that operates a website, the city or town
+shall post to that website in a format that is viewable by the public the
+campaign finance information prescribed by this section, which shall include
+the names of candidates who have filed an exemption statement pursuant to
+section 16902.01, subsection B.For a city or town without a
+website, the information shall be posted on the website operated by an
+association of cities and towns in this state.
+B.Campaign finance reports required pursuant to
+section 16913 for the office of member of the legislature and statewide
+offices shall be filed with the secretary of state and with the citizens clean elections committees
+pursuant to subsection A of this section in the manner that is prescribed by the secretary of state and that provides for joint and
+simultaneous filing with the citizens clean elections commission. The
+secretary of state may provide through the procedures manual adopted pursuant
+to section 16452 for an alternative method for providing public access
+to the reports prescribed by this section.
+C.For all statements, designations and reports, the
+date of filing is the date of actual receipt by the officer with whom the
+document is required to be filed except as follows:
+1.For documents filed by certified mail with a
+United States mail postmark, the date of mailing constitutes the date of
+filing.
+2.For documents filed by commercial delivery
+services that provide a standardized delivery confirmation process, the date of
+delivery confirmation constitutes the date of filing.
+3.For documents filed by commercial delivery
+services that provide for electronic tracking of specific delivery packages,
+the date of electronic confirmation of delivery constitutes the date of filing.
+D.If the date for filing any statement, designation
+or report required by this article is a Saturday, a Sunday or another legal
+holiday, the filing deadline is the next day that is not a Saturday, a Sunday
+or another legal holiday. END_STATUTE
+Sec.5.Section 16-924, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE16-924.Civil penalties; attorney general; county, city or town
+attorney; violation; classification
+A.Unless another penalty is specifically prescribed
+in this title, if the filing officer for campaign finance reports designated
+pursuant to section 16916, subsection A has reasonable cause to believe
+that a person is violating any provision of this title, except for violations
+of chapter6, article 2, the secretary of state shall notify the attorney
+general for a violation regarding a statewide office or the legislature, the
+county officer in charge of elections shall notify the county attorney for that
+county for a violation regarding a county office or the city or town clerk
+shall notify the city or town attorney for a violation regarding a city or town
+office. In making a reasonable cause
+determination, there is a rebuttable presumption that the person has knowingly
+committed a violation unless the person demonstrates that the violation was
+unintentional.The attorney general, county attorney
+or city or town attorney, as appropriate, may serve on the person an order
+requiring compliance with that provision.The order shall state with
+reasonable particularity the nature of the violation and shall require
+compliance within twenty days from the date of issuance of the order. The
+alleged violator has twenty days from the date of issuance of the order to
+request a hearing pursuant to title 41, chapter6.
+B.If a person fails to take corrective action
+within the time specified in the compliance order issued pursuant to subsection
+A of this section, the
+attorney general, county attorney or city or town attorney, as appropriate,
+shall issue an order assessing a civil penalty of not more than one thousand
+dollars.The person alleged to have violated the compliance order
+has thirty days from the date of issuance of the order assessing the civil
+penalty to request a hearing pursuant to title 41, chapter 6.
+C.Any party aggrieved by an order or decision of
+the attorney general, county attorney or city or town attorney, as appropriate,
+may appeal to the superior court as provided in title 12, chapter 7, article 6.
+D.For the purposes of this section, failure to
+comply with a compliance order issued by the attorney general, county attorney
+or city or town attorney, as appropriate, as prescribed in subsection A is
+deemed an intentional act.
+E.In
+addition to being subject to a civil penalty, a violation of this article is a
+class 2 misdemeanor unless another CLASSIFICATION IS specifically prescribed in
+this title. END_STATUTE
+Sec.6.Subject to the requirements of article
+IV, part 1, section1, Constitution of Arizona, section 16-942, Arizona
+Revised Statutes, is amended to read:
+START_STATUTE16-942.Civil penalties and forfeiture of office
+A.The civil penalty issued by the commission for a violation of
+any contribution or expenditure limit in section 16941 by or on behalf
+of a participating candidate shall be ten times the amount by which the
+expenditures or contributions exceed the applicable limit. The civil penalty issued by the
+commission for a violation of any contribution or expenditure limit for any
+nonparticipating candidate shall be three times the amount by which the
+expenditures or contributions exceed the applicable limit.
+B.In addition to any other penalties imposed by
+law, the civil penalty issued
+by the commission for a violation by or on behalf of any participating or nonparticipating candidate
+of any reporting requirement imposed by this chapter shall be one hundred dollars
+per day for candidates for the legislature and three hundred dollars per day
+for candidates for statewide office.The penalty imposed by this
+subsection for a participating
+candidate shall be doubled if the amount not reported for a
+particular election cycle exceeds ten percent of the adjusted primary or
+general election spending limit.No penalty imposed pursuant to this
+subsection shall exceed twice the amount of expenditures or contributions not
+reported. The candidate and the candidate's campaign account shall be jointly
+and severally responsible for any penalty imposed pursuant to this subsection.
+C.Any campaign finance report filed indicating a
+violation of section 16941, subsections
+subsection A or B or section 16941, subsection
+C, paragraph 1 by a
+participating candidate and involving an amount in excess of ten percent
+of the sum of the adjusted primary election spending limit and the adjusted
+general election spending limit for a particular candidate shall result in
+disqualification of a candidate or forfeiture of office.
+D.Any participating candidate adjudged to have
+committed a knowing violation of section 16-941, subsection A or subsection C,
+paragraph 1 shall repay from the candidate's personal monies to the fund all
+monies expended from the candidate's campaign account and shall turn over the
+candidate's campaign account to the fund. A participating candidate is presumed to have committed a
+knowing violation unless the candidate rebuts that presumption by demonstrating
+that the violation was unintentional.
+E.All civil penalties collected pursuant to this
+article shall be deposited into the fund. END_STATUTE
+Sec.7.Subject to the requirements of article
+IV, part 1, section1, Constitution of Arizona, section 16-956, Arizona
+Revised Statutes, is amended to read:
+START_STATUTE16-956.Voter education and enforcement duties
+A.The commission shall:
+1.Develop a procedure for publishing a document or
+section of a document having a space of predefined size for a message chosen by
+each candidate. For the document that is delivered before the primary
+election, the document shall contain the names of every candidate for every
+statewide and legislative district office in that primary election without
+regard to whether the candidate is a participating candidate or a
+nonparticipating candidate. For the document that is delivered before the
+general election, the document shall contain the names of every candidate for
+every statewide and legislative district office in that general election
+without regard to whether the candidate is a participating candidate or a
+nonparticipating candidate. The commission shall deliver one copy of each
+document to every household that contains a registered voter.For
+the document that is delivered before the primary election, the delivery may be
+made over a period of days but shall be sent in time to be delivered to
+households before the earliest date for receipt by registered voters of any
+requested early ballots for the primary election.The commission may
+deliver the second document over a period of days but shall send the second
+document in order to be delivered to households before the earliest date for
+receipt by registered voters of any requested early ballots for the general
+election. The primary election and general election documents published by the
+commission shall comply with all of the following:
+(a)For any candidate who does not submit a message
+pursuant to this paragraph, the document shall include with the candidate's
+listing the words "no statement submitted".
+(b)The document shall have printed on its cover the
+words "citizens clean elections commission voter education guide" and
+the words "primary election" or "general election" and the
+applicable year. The document shall also contain at or near the bottom of the
+document cover in type that is no larger than onehalf the size of the
+type used for "citizens clean elections commission voter education
+guide" the words "paid for by the citizens clean elections
+fund".
+(c)In order to prevent voter confusion, the
+document shall be easily distinguishable from the publicity pamphlet that is
+required to be produced by the secretary of state pursuant to section 19123.
+2.Sponsor debates
+among candidates, in such manner as determined by the
+commission.The commission shall require participating candidates to
+attend and participate in debates and may specify by rule penalties for
+nonparticipation.The commission shall invite and permit
+nonparticipating candidates to participate in debates.
+3.Prescribe forms for reports, statements, notices
+and other documents required by this article.The commission shall
+not require a candidate to use a reporting system other than the reporting
+system jointly approved by the commission and the office of the secretary of
+state.
+4.Prepare and publish instructions setting forth
+methods of bookkeeping and preservation of records to facilitate compliance
+with this article and explaining the duties of persons and committees under
+this article.
+5.Produce a yearly report describing the
+commission's activities and any recommendations for changes of law,
+administration or funding amounts and accounting for monies in the fund.
+6.Adopt rules to implement the reporting
+requirements of section 16958, subsections D and E.
+7.Enforce this article chapter for both participating and
+nonparticipating candidates, ensure that money from the fund is placed
+in candidate campaign accounts or otherwise spent as specified in this article
+and not otherwise, monitor reports filed pursuant to this chapter and financial
+records of candidates as needed and ensure that money required by this article
+to be paid to the fund is deposited in the fund. The commission shall not take
+action on any external complaint that is filed more than ninety days after the
+postelection report is filed or ninety days after the completion of the canvass
+of the election to which the complaint relates, whichever is later.
+B.The commission may subpoena witnesses, compel
+their attendance and testimony, administer oaths and affirmations, take
+evidence and require by subpoena the production of any books, papers, records
+or other items material to the performance of the commission's duties or the
+exercise of its powers with
+respect to both participating and nonparticipating candidates.
+C.The commission may adopt rules to carry out the
+purposes of this article and to govern procedures of the commission.
+Commission rule making is exempt from title 41, chapter 6, article 3. The
+commission shall propose and adopt rules in public meetings, with at least
+sixty days allowed for interested parties to comment after the rules are
+proposed.The commission shall also file a notice of exempt rule
+making and the proposed rule in the format prescribed in section 411022
+with the secretary of state's office for publication in the Arizona
+administrative register. After consideration of the comments received in the
+sixty day comment period, the commission may adopt the rule in an open
+meeting. Any rules given final approval in an open meeting shall be filed in
+the format prescribed in section 411022 with the secretary of state's
+office for publication in the Arizona administrative register.Any
+rules adopted by the commission shall only be applied prospectively from the
+date the rule was adopted.
+D. Rules adopted by the commission are not
+effective until January 1 in the year following the adoption of the rule,
+except that rules adopted by unanimous vote of the commission may be made
+immediately effective and enforceable.
+E.If, in the view of the commission, the action of
+a particular candidate or committee requires immediate change to a commission
+rule, a unanimous vote of the commission is required. Any rule change made
+pursuant to this subsection that is enacted with less than a unanimous vote
+takes effect for the next election cycle.
+F.Based on the results of the elections in any
+quadrennial election after 2002, and within six months after such election, the
+commission may adopt rules changing the number of qualifying contributions
+required for any office from those listed in section 16950, subsection D, by no more than twenty per cent percent of the number applicable for the preceding
+election. END_STATUTE
+Sec.8.Requirements for enactment; three-fourths vote
+Pursuant to article IV, part 1, section 1, Constitution of
+Arizona, sections 16916, 16942 and 16956, Arizona Revised
+Statutes, as amended by this act, are effective only on the affirmative vote of
+at least threefourths of the members of each house of the legislature.
+

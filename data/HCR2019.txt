@@ -1,0 +1,278 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: medical marijuana
+
+
+
+
+
+
+
+State of Arizona
+House of Representatives
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+HCR 2019
+
+
+
+
+
+
+
+
+
+Introduced by
+Representatives
+  Lawrence, Thorpe: Boyer, Mitchell
+
+
+
+
+
+A CONCURRENT RESOLUTION
+
+Enacting and
+ordering the submission to the people of a measure relating to medical
+marijuana.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it resolved by the House of Representatives of the State of
+Arizona, the Senate concurring:
+1.Under the power of the referendum, as vested in
+the legislature, the following measure, relating to medical marijuana, is
+enacted to become valid as a law if approved by the voters and on proclamation
+of the Governor:
+AN ACT
+Amending sections 362801,
+362804.06 and 36-2815, Arizona Revised Statutes; relating to medical
+marijuana.
+Be it enacted by the Legislature of the State of Arizona:
+Section 1.Section 36-2801, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE36-2801.Definitions
+In this chapter, unless the context otherwise requires:
+1."Allowable amount of marijuana"
+(a)With respect to a qualifying patient, the
+"allowable amount of marijuana" means:
+(i)Two-and-one-half ounces of usable marijuana;
+and
+(ii)If the qualifying patient's registry
+identification card states that the qualifying patient is authorized to
+cultivate marijuana, twelve marijuana plants contained in an enclosed, locked
+facility, except that the
+plants are not required to be in an enclosed, locked facility if the plants are
+being transported because the qualifying patient is moving.
+(b)With respect to a designated caregiver, the
+"allowable amount of marijuana" for each patient assisted by the
+designated caregiver under this chapter means:
+(i)Two-and-one-half ounces of usable marijuana;
+and
+(ii)If the designated caregiver's registry
+identification card provides that the designated caregiver is authorized to
+cultivate marijuana, twelve marijuana plants contained in an enclosed, locked
+facility, except that the
+plants are not required to be in an enclosed, locked facility if the plants are
+being transported because the designated caregiver is moving.
+(c)Marijuana that is incidental to medical use,
+but is not usable marijuana as defined in this chapter, shall not be counted
+toward a qualifying patient's or designated caregiver's allowable amount of
+marijuana.
+2."Cardholder" means a qualifying
+patient, a designated caregiver or a nonprofit medical marijuana dispensary
+agent who has been issued and possesses a valid registry identification card.
+3."Debilitating medical condition"
+means one or more of the following:
+(a)Cancer, glaucoma, positive status for human
+immunodeficiency virus, acquired immune deficiency syndrome, hepatitis C,
+amyotrophic lateral sclerosis, crohn's disease, agitation of alzheimer's
+disease or the treatment of these conditions.
+(b)A chronic or debilitating disease or medical
+condition or its treatment that produces one or more of the following: cachexia
+or wasting syndrome; severe and chronic pain; severe nausea; seizures,
+including those characteristic of epilepsy; or severe and persistent muscle
+spasms, including those characteristic of multiple sclerosis.
+(c)Any other medical condition or its treatment
+added by the department pursuant to section 362801.01.
+4."Department" means the Arizona
+department of health services or its successor agency.
+5."Designated caregiver" means a person
+who:
+(a)Is at least twentyone years of age.
+(b)Has agreed to assist with a patient's medical
+use of marijuana.
+(c)Has not been convicted of an excluded felony
+offense.
+(d)Assists no more than five qualifying patients
+with the medical use of marijuana.
+(e)May receive reimbursement for actual costs
+incurred in assisting a registered qualifying patient's medical use of
+marijuana if the registered designated caregiver is connected to the registered
+qualifying patient through the department's registration process. The
+designated caregiver may not be paid any fee or compensation for his service as a caregiver. Payment for costs
+under this subdivision shall not constitute an offense under title 13, chapter
+34 or under title 36, chapter 27, article 4.
+6."Enclosed, locked facility" means a
+closet, room, greenhouse or other enclosed area equipped with locks or other
+security devices that permit access only by a cardholder.
+7."Excluded felony offense" means:
+(a)A violent crime as defined in section
+13-901.03, subsection B, that was classified as a felony in the jurisdiction
+where the person was convicted.
+(b)A violation of a state or federal controlled
+substance law that was classified as a felony in the jurisdiction where the
+person was convicted but does not include:
+(i)An offense for which the sentence, including
+any term of probation, incarceration or supervised release, was completed ten
+or more years earlier.
+(ii)An offense involving conduct that would be
+immune from arrest, prosecution or penalty under section 36-2811, except that the conduct occurred before the
+effective date of this chapter or was prosecuted by an authority other than the
+state of Arizona.
+8."Marijuana" means all parts of any
+plant of the genus cannabis whether growing or not, and the seeds of such
+plant.
+9."Medical use" means the acquisition, possession,
+cultivation, manufacture, use, administration, delivery, transfer or
+transportation of marijuana or paraphernalia relating to the administration of
+marijuana to treat or alleviate a registered qualifying patient's debilitating
+medical condition or symptoms associated with the patient's debilitating
+medical condition.
+11.10."Nonprofit
+medical marijuana dispensary" means a not-for-profit entity that acquires,
+possesses, cultivates, manufactures, delivers, transfers, transports, supplies,
+sells or dispenses marijuana or related supplies and educational materials to
+cardholders.A nonprofit medical marijuana dispensary may receive
+payment for all expenses incurred in its operation.
+10.11."Nonprofit
+medical marijuana dispensary agent" means a principal officer, board
+member, employee or volunteer of a nonprofit medical marijuana dispensary who
+is at least twenty-one years of age and has not been convicted of an excluded
+felony offense.
+12."Physician" means a doctor of
+medicine who holds a valid and existing license to practice medicine pursuant
+to title 32, chapter 13 or its successor, or a doctor of osteopathic medicine who holds
+a valid and existing license to practice osteopathic medicine pursuant to title
+32, chapter 17 or its successor, a
+naturopathic physician who holds a valid and existing license to practice
+naturopathic medicine pursuant to title 32, chapter 14 or its successor or a
+homeopathic physician who holds a valid and existing license to practice
+homeopathic medicine pursuant to title 32, chapter 29 or its successor.
+13."Qualifying patient" means a person
+who has been diagnosed by a physician as having a debilitating medical
+condition.
+14."Registry identification card" means
+a document issued by the department that identifies a person as a registered
+qualifying patient, registered designated caregiver or a registered nonprofit
+medical marijuana dispensary agent.
+15."Usable marijuana" means the dried
+flowers of the marijuana plant, and any mixture or preparation thereof, but
+does not include the seeds, stalks and roots of the plant and does not include
+the weight of any nonmarijuana ingredients combined with marijuana and
+prepared for consumption as food or drink.
+16."Verification system" means a
+secure, passwordprotected, web-based system established and maintained
+by the department that is available to law enforcement personnel and nonprofit
+medical marijuana dispensary agents on a twentyfour hour basis for
+verification of registry identification cards.
+17."Visiting qualifying patient" means
+a person:
+(a)Who is not a resident of Arizona or who has
+been a resident of Arizona less than thirty days.
+(b)Who has been diagnosed with a debilitating
+medical condition by a person who is licensed with authority to prescribe drugs to humans equivalent to a physician in the state of the
+person's residence or, in the case of a person who has been a resident of
+Arizona less than thirty days, the state of the person's former residence.
+18."Written certification" means a
+document dated and signed by a physician, stating that in the physician's
+professional opinion the patient is likely to receive therapeutic or palliative
+benefit from the medical use of marijuana to treat or alleviate the patient's
+debilitating medical condition or symptoms associated with the debilitating
+medical condition. The physician must:
+(a)Specify the qualifying patient's debilitating
+medical condition in the written certification.
+(b)Sign and date the written certification only
+in the course of a physician-patient relationship after the physician has
+completed a full assessment of the qualifying patient's medical history. END_STATUTE
+Sec.2.Section 36-2804.06, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE36-2804.06.Expiration and renewal of registry identification cards
+and registration certificates; replacement
+A.All A registry identification cards card and registration certificates certificate for a nonprofit medical marijuana dispensary
+agent or a designated
+caregiver expire one year after the date of issue. A registry identification card and registration
+certificate for a qualifying patient expire six months after the date of issue,
+at which time the qualifying patient shall obtain a new written certification
+from the patient's physician.
+B.A registry identification card of a nonprofit
+medical marijuana dispensary agent shall be cancelled and his access to the verification system shall be
+deactivated upon on notification to the
+department by a registered nonprofit medical marijuana dispensary that the
+nonprofit medical marijuana dispensary agent is no longer employed by or no
+longer volunteers at the registered nonprofit medical marijuana dispensary.
+C.A renewal nonprofit medical marijuana
+dispensary registration certificate shall be issued within ten days of receipt
+of the prescribed renewal application and renewal fee from a registered
+nonprofit medical marijuana dispensary if its registration certificate is not
+under suspension and has not been revoked.
+D.If a cardholder loses his the
+cardholder's registry identification card, he the
+cardholder shall promptly notify the
+department.Within five days of the notification, and upon on
+payment of a ten dollar fee, the department shall issue a new
+registry identification card with a new random identification number to the
+cardholder and, if the cardholder is a registered qualifying patient, to the
+registered qualifying patient's registered designated caregiver, if any. END_STATUTE
+Sec.3.Section 36-2815, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE36-2815.Revocation
+A.The department shall immediately revoke the
+registry identification card of a nonprofit medical marijuana dispensary agent
+who violates section 36-2804.01, subsection D, or section 36-2816, subsection
+B.The department shall suspend or revoke the registry identification
+card of a nonprofit medical marijuana dispensary agent for other violations of
+this chapter.
+B.The department shall immediately revoke the
+registration certificate of a registered nonprofit medical marijuana dispensary
+that violates section 2816 362816, subsections subsection B or C, and its board members and
+principal officers may not serve as the board members or principal officers for
+any other registered nonprofit medical marijuana dispensary.
+C.Any cardholder who sells marijuana to a person who
+is not allowed to possess marijuana for medical purposes under this chapter
+shall have his the cardholder's registry
+identification card revoked,
+and shall be subject to other penalties for the unauthorized sale of marijuana
+and other applicable offenses. A
+cardholder who sells or transfers marijuana to a person who is under eighteen
+years of age shall have the cardholder's registry identification card
+permanently revoked and may be guilty of a class 2 felony pursuant to section
+133409.
+D.The department may revoke the registry
+identification card of any cardholder who knowingly violates this chapter, and
+the cardholder shall be subject to other penalties for the applicable offense.
+E.Revocation is a final decision of the
+department subject to judicial review pursuant to title 12, chapter 7, article
+6. Jurisdiction and venue are vested in the superior court. END_STATUTE
+2.The Secretary of State shall submit this
+proposition to the voters at the next general election as provided by article
+IV, part 1, section 1, Constitution of Arizona.
+

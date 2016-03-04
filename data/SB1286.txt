@@ -1,0 +1,167 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: internet sex offender website; offenses
+
+
+
+
+
+
+
+State of Arizona
+Senate
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+SB 1286
+
+
+
+
+
+
+
+
+
+Introduced by
+Senator
+  Kavanagh
+
+
+
+
+
+AN ACT
+
+amending section
+133827, Arizona Revised Statutes; relating to the internet sex offender
+website.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 13-3827, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE13-3827.Internet sex offender website; investigation of records;
+immunity; definition
+A.The department of public safety shall establish
+and maintain an internet sex offender website for offenders whose risk assessment has been determined to be
+a level two or level three.for the purpose of the internet sex offender website is to provide
+providing sex offender
+information to the public.The
+internet sex offender website shall include the following offenders:
+1.Any
+offender whose risk assessment has been determined to be a level two or level
+three.
+2.Unless
+included under paragraph 1 of this subsection, any offender who was convicted
+of or adjudicated guilty except insane for any of the following completed or
+preparatory offenses:
+(a)Sexual assault pursuant to
+section 13-1406.
+(b)Sexual exploitation of a minor
+pursuant to section 13-3553.
+(c)Commercial sexual exploitation
+of a minor pursuant to section 133552.
+(d)Sexual abuse pursuant to section
+13-1404 if the victim is under twelve years of age.
+(e)Molestation of a child pursuant
+to section 13-1410 if the victim is under twelve years of age.
+(f)Sexual conduct with a minor
+pursuant to section 13-1405 if the victim is under twelve years of age.
+(g)Child prostitution pursuant to
+section 133212, subsection A or subsection B, paragraph 1 or 2.
+(h)Taking a child for the purpose
+of prostitution pursuant to section 13-3206.
+(i)Luring a minor for sexual
+exploitation pursuant to section 133554.
+(j)Aggravated luring a minor for
+sexual exploitation pursuant to section 13-3560.
+(k)Continuous sexual abuse of a
+child pursuant to section 13-1417 if the victim is under twelve years of age.
+B.The internet sex offender website shall include
+the following information for each convicted or adjudicated guilty except
+insane sex offender in this state who is required to register pursuant to
+section 133821:
+1.The offender's name, address and age.
+2.A current photograph.
+3.The offense committed and notification level
+pursuant to section 133825, subsection C, if a risk assessment has been
+completed pursuant to section 133825.
+C.The department of public safety shall annually
+update on the website the name, address and photograph of each sex offender.
+D.The department of public safety shall maintain a
+separate database and search function on the website that contains any required
+online identifier of sex offenders whose risk assessments have been determined
+to be a level two or level three and the name of any website or internet
+communication service where the required online identifier is being used. This
+information shall not be publicly connected to the name, address and photograph
+of a registered sex offender on the website.
+E.The department of public safety may disseminate a
+registered sex offender's required online identifier and the name of any
+corresponding website or internet communication service to a business or
+organization that offers electronic communication services for comparison with
+information that is held by the requesting business or organization. The
+requesting business or organization shall notify the department of public
+safety when a comparison of the information indicates that a registered sex
+offender's required online identifier is being used on the business's or
+organization's system.The requesting business or organization shall
+not further disseminate that the person is a registered sex offender.
+F.The motor vehicle division of the department of
+transportation shall send copies of each sex offender's nonoperating
+identification license or driver license photograph to the department of public
+safety for inclusion on the sex offender website.
+G.The department of public safety shall annually
+verify the addresses of all sex offender registration records contained within
+the Arizona criminal justice information system.Before including
+the address of a sex offender on the website, the department of public safety
+shall confirm that the address is correct.To confirm a sex offender's
+address, the department shall conduct a search of the Arizona criminal justice
+information system. If this search does not provide the necessary
+confirmation, the department shall use alternative public and private sector
+resources that are currently used for criminal investigation purposes to
+confirm the address.The department of public safety is prohibited
+from using or releasing the information from the alternative public and private
+sector resources except pursuant to this section.A custodian or
+public or private sector resource that releases information pursuant to this
+subsection is not civilly or criminally liable in any action alleging a
+violation of confidentiality.
+H.The department of public safety may petition the
+superior court for enforcement of subsection G of this section if a public or
+private sector resource refuses to comply.The court shall grant
+enforcement if the department has reasonable grounds to believe the records
+sought to be inspected are relevant to confirming the identity and address of a
+sex offender.
+I.Except for a
+person who is required to register pursuant to section 133821, a person
+who provides or fails to provide information required by this section is not
+civilly or criminally liable unless the act or omission is wanton or wilful.
+J.For the purpose of this section, "required
+online identifier" means any electronic email address information
+or instant message, chat, social networking or other similar internet
+communication name, but does not include a social security number, date of
+birth or pin number. END_STATUTE
+Sec.2.Applicability
+Section 133827, Arizona Revised Statutes, as amended by
+this act, applies to a person who is convicted of or adjudicated guilty except
+insane for an offense that is listed in section 133827, subsection A,
+Arizona Revised Statutes, as amended by this act, and that was committed
+before, on or after the effective date of this act.
+

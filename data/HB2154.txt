@@ -1,0 +1,736 @@
+
+
+
+
+
+
+
+
+REFERENCE TITLE: failure to appear; arrest;
+  fingerprinting
+
+
+
+
+
+
+
+State of Arizona
+House of Representatives
+Fifty-second Legislature
+Second Regular Session
+2016
+
+
+
+
+
+
+HB 2154
+
+
+
+
+
+
+
+
+
+Introduced by
+Representatives
+  Borrelli: Boyer, Carter, Cobb, Fann, Finchem, Lawrence, Senator Shooter
+
+
+
+
+
+AN ACT
+
+amending sections
+132506 and 133903, Arizona Revised Statutes; repealing section 133904,
+Arizona Revised Statutes; amending section 411750, Arizona Revised
+Statutes; relating to fingerprinting.
+
+
+(TEXT OF BILL BEGINS ON NEXT PAGE)
+
+
+
+
+
+Be it enacted by the Legislature of the State of Arizona:
+Section1.Section 13-2506, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE13-2506.Failure to appear in the second degree; classification
+A.A person commits failure to appear in the second
+degree if, having either:
+1.Been
+required by law to appear in connection with any misdemeanor or petty offense, such the person knowingly fails to appear as
+required, regardless of the disposition of the charge requiring the appearance.
+2.Given a
+written promise to appear in court or been personally served with a written
+notice to appear on a designated date pursuant to section 133903, the
+person thereafter fails to appear, personally or by counsel.
+B.Failure to appear in the second degree pursuant to subsection A, paragraph 1 of this
+section is a class 1 misdemeanor. Failure to appear in the second degree pursuant to
+subsection A, paragraph 2 of this section is a class 2 misdemeanor.
+END_STATUTE
+Sec.2.Section 13-3903, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE13-3903.Notice to appear and complaint
+A.In any case in which a person is arrested for a
+misdemeanor offense or a petty offense, the arresting officer may release the
+arrested person from custody in lieu of taking the person to a law enforcement
+facility by use of the procedure prescribed in this section.
+B.At any time after taking a person arrested for a
+misdemeanor offense or a petty offense to a law enforcement facility, the
+arresting officer, instead of taking the person to a magistrate, may release
+the person from further custody by use of the procedure prescribed in this
+section.
+C.If a person is arrested for a misdemeanor offense
+or a petty offense and the offense is listed in section 411750,
+subsection C, the person shall not be released pursuant to this section until
+the person provides either a fingerprint or a two fingerprint biometricbased
+identifier to the arresting agency.The arresting agency shall
+provide to the arrested person a mandatory fingerprint compliance form that
+includes instructions on reporting to
+the arresting agency for ten-print fingerprinting, including
+available times and locations for reporting for tenprint fingerprinting.
+D.In any case in which a person is arrested for a
+misdemeanor offense or a petty offense, the arresting officer may prepare in
+quadruplicate a written notice to appear and complaint, containing the name and
+address of the person, the offense charged, and the time and place where and
+when the person shall appear in court, provided:
+1.The time specified in the notice to appear is at
+least five days after arrest.
+2.The place specified in the notice shall be the
+court specified in section 133898.
+3.The arrested person, in order to secure release
+as provided in this section, shall give his written promise so to appear in
+court by signing at least one copy of the written notice and complaint prepared
+by the arresting officer. The officer shall deliver a copy of the notice and
+complaint to the person promising to appear.Thereupon, the officer
+shall forthwith release the person arrested from custody.
+4.The officer, as soon as practical, shall deliver
+the original notice and complaint to the magistrate specified
+therein.Thereupon, the magistrate shall promptly file the notice
+and complaint and enter it into the docket of the court.
+E.The Arizona traffic ticket and complaint may be
+utilized not only for the purposes provided by Arizona supreme court rule, but
+to satisfy the requirements of this section.
+F.When If a person has given gives his written promise to appear in court
+on a designated date pursuant to this section, and thereafter fails to appear,
+personally or by counsel, on or before that date, the court clerk or other
+court staff shall file a complaint, in writing, under oath, setting forth the offense of knowingly violating a written
+promise to appear in court in accordance with section 133904, and the
+magistrate shall issue a warrant of arrest thereon charging the defendant with a violation of section 132506,
+subsection A, paragraph 2.
+G.If the
+person has not previously been arraigned, on the person's
+appearance in court for arraignment on the charge of violating section 133904 132506, subsection A, paragraph 2, the
+court shall also arraign the person on the charge stated in the notice to
+appear and complaint for which the person had previously promised to appear.
+G.H.This
+section does not affect a peace officer's authority to conduct an otherwise
+lawful search incident to his arrest even though the arrested person is
+released before being taken to the police station or before a magistrate
+pursuant to this section. END_STATUTE
+Sec.3.Repeal
+Section 13-3904,
+Arizona Revised Statutes, is repealed.
+Sec.4.Section 41-1750, Arizona Revised
+Statutes, is amended to read:
+START_STATUTE41-1750.Central state repository; department of public safety;
+duties; funds; accounts; definitions
+A.The department is
+responsible for the effective operation of the central state repository in
+order to collect, store and disseminate complete and accurate Arizona criminal
+history records and related criminal justice information. The department
+shall:
+1.Procure from all
+criminal justice agencies in this state accurate and complete personal
+identification data, fingerprints, charges, process control numbers and
+dispositions and such other information as may be pertinent to all persons who
+have been charged with, arrested for, convicted of or summoned to court as a
+criminal defendant for a felony offense or an offense involving domestic
+violence as defined in section 133601 or a violation of title 13,
+chapter 14 or title 28, chapter 4.
+2.Collect information
+concerning the number and nature of offenses known to have been committed in
+this state and of the legal steps taken in connection with these offenses, such
+other information that is useful in the study of crime and in the
+administration of criminal justice and all other information deemed necessary
+to operate the statewide uniform crime reporting program and to cooperate with
+the federal government uniform crime reporting program.
+3.Collect information
+concerning criminal offenses that manifest evidence of prejudice based on race,
+color, religion, national origin, sexual orientation, gender or disability.
+4.Cooperate with the
+central state repositories in other states and with the appropriate agency of
+the federal government in the exchange of information pertinent to violators of
+the law.
+5.Ensure the rapid
+exchange of information concerning the commission of crime and the detection of
+violators of the law among the criminal justice agencies of other states and of
+the federal government.
+6.Furnish assistance to
+peace officers throughout this state in crime scene investigation for the
+detection of latent fingerprints and in the comparison of latent fingerprints.
+7.Conduct periodic
+operational audits of the central state repository and of a representative
+sample of other agencies that contribute records to or receive criminal justice
+information from the central state repository or through the Arizona criminal
+justice information system.
+8.Establish and enforce
+the necessary physical and system safeguards to ensure that the criminal
+justice information maintained and disseminated by the central state repository
+or through the Arizona criminal justice information system is appropriately
+protected from unauthorized inquiry, modification, destruction or dissemination
+as required by this section.
+9.Aid and encourage
+coordination and cooperation among criminal justice agencies through the
+statewide and interstate exchange of criminal justice information.
+10.Provide training and
+proficiency testing on the use of criminal justice information to agencies
+receiving information from the central state repository or through the Arizona
+criminal justice information system.
+11.Operate and maintain
+the Arizona automated fingerprint identification system established by section
+412411.
+12.Provide criminal
+history record information to the fingerprinting division for the purpose of
+screening applicants for fingerprint clearance cards.
+B.The director may
+establish guidelines for the submission and retention of criminal justice
+information as deemed useful for the study or prevention of crime and for the
+administration of criminal justice.
+C.The chief officers of
+criminal justice agencies of this state or its political subdivisions shall
+provide to the central state repository fingerprints and information concerning
+personal identification data, descriptions, crimes for which persons are
+arrested, process control numbers and dispositions and such other information
+as may be pertinent to all persons who have been charged with, arrested for,
+convicted of or summoned to court as criminal defendants for felony offenses or
+offenses involving domestic violence as defined in section 133601 or
+violations of title 13, chapter 14 or title 28, chapter 4 that have occurred in
+this state.
+D.The chief officers of
+law enforcement agencies of this state or its political subdivisions shall
+provide to the department such information as necessary to operate the
+statewide uniform crime reporting program and to cooperate with the federal
+government uniform crime reporting program.
+E.The chief officers of
+criminal justice agencies of this state or its political subdivisions shall
+comply with the training and proficiency testing guidelines as required by the
+department to comply with the federal national crime information center
+mandates.
+F.The chief officers of
+criminal justice agencies of this state or its political subdivisions also
+shall provide to the department information concerning crimes that manifest
+evidence of prejudice based on race, color, religion, national origin, sexual
+orientation, gender or disability.
+G.The director shall
+authorize the exchange of criminal justice information between the central
+state repository, or through the Arizona criminal justice information system,
+whether directly or through any intermediary, only as follows:
+1.With criminal justice
+agencies of the federal government, Indian tribes, this state or its political
+subdivisions and other states, on request by the chief officers of such
+agencies or their designated representatives, specifically for the purposes of
+the administration of criminal justice and for evaluating the fitness of
+current and prospective criminal justice employees.
+2.With any noncriminal
+justice agency pursuant to a statute, ordinance or executive order that
+specifically authorizes the noncriminal justice agency to receive criminal
+history record information for the purpose of evaluating the fitness of current
+or prospective licensees, employees, contract employees or volunteers, on
+submission of the subject's fingerprints and the prescribed fee. Each statute,
+ordinance, or executive order that authorizes noncriminal justice agencies to
+receive criminal history record information for these purposes shall identify
+the specific categories of licensees, employees, contract employees or
+volunteers, and shall require that fingerprints of the specified individuals be
+submitted in conjunction with such requests for criminal history record
+information.
+3.With the board of
+fingerprinting for the purpose of conducting good cause exceptions pursuant to
+section 41619.55 and central registry exceptions pursuant to section 41619.57.
+4.With any individual for
+any lawful purpose on submission of the subject of record's fingerprints and
+the prescribed fee.
+5.With the governor, if
+the governor elects to become actively involved in the investigation of
+criminal activity or the administration of criminal justice in accordance with
+the governor's constitutional duty to ensure that the laws are faithfully
+executed or as needed to carry out the other responsibilities of the governor's
+office.
+6.With regional computer
+centers that maintain authorized computertocomputer interfaces
+with the department, that are criminal justice agencies or under the management
+control of a criminal justice agency and that are established by a statute,
+ordinance or executive order to provide automated data processing services to
+criminal justice agencies specifically for the purposes of the administration
+of criminal justice or evaluating the fitness of regional computer center
+employees who have access to the Arizona criminal justice information system
+and the national crime information center system.
+7.With an individual who
+asserts a belief that criminal history record information relating to the
+individual is maintained by an agency or in an information system in this state
+that is subject to this section. On submission of fingerprints, the individual
+may review this information for the purpose of determining its accuracy and
+completeness by making application to the agency operating the system. Rules
+adopted under this section shall include provisions for administrative review
+and necessary correction of any inaccurate or incomplete
+information.The review and challenge process authorized by this
+paragraph is limited to criminal history record information.
+8.With individuals and
+agencies pursuant to a specific agreement with a criminal justice agency to
+provide services required for the administration of criminal justice pursuant
+to that agreement if the agreement specifically authorizes access to data,
+limits the use of data to purposes for which given and ensures the security and
+confidentiality of the data consistent with this section.
+9.With individuals and
+agencies for the express purpose of research, evaluative or statistical
+activities pursuant to an agreement with a criminal justice agency if the
+agreement specifically authorizes access to data, limits the use of data to
+research, evaluative or statistical purposes and ensures the confidentiality
+and security of the data consistent with this section.
+10.With the auditor
+general for audit purposes.
+11.With central state
+repositories of other states for noncriminal justice purposes for dissemination
+in accordance with the laws of those states.
+12.On submission of the
+fingerprint card, with the department of child safety and a tribal social
+services agency to provide criminal history record information on prospective
+adoptive parents for the purpose of conducting the preadoption certification
+investigation under title 8, chapter 1, article 1 if the department of economic
+security is conducting the investigation, or with an agency or a person
+appointed by the court, if the agency or person is conducting the
+investigation.Information received under this paragraph shall only
+be used for the purposes of the preadoption certification investigation.
+13.With the department of
+child safety, a tribal social services agency and the superior court for the
+purpose of evaluating the fitness of custodians or prospective custodians of
+juveniles, including parents, relatives and prospective
+guardians.Information received under this paragraph shall only be
+used for the purposes of that evaluation.The information shall be
+provided on submission of either:
+(a)The fingerprint card.
+(b)The name, date of
+birth and social security number of the person.
+14.On submission of a
+fingerprint card, provide criminal history record information to the superior
+court for the purpose of evaluating the fitness of investigators appointed
+under section 145303 or 145407, guardians appointed under section
+145206 or 145304 or conservators appointed under section 145401.
+15.With the supreme court
+to provide criminal history record information on prospective fiduciaries
+pursuant to section 145651.
+16.With the department of
+juvenile corrections to provide criminal history record information pursuant to
+section 412814.
+17.On submission of the
+fingerprint card, provide criminal history record information to the Arizona
+peace officer standards and training board or a board certified law enforcement
+academy to evaluate the fitness of prospective cadets.
+18.With the internet sex
+offender web site database established pursuant to section 133827.
+19.With licensees of the
+United States nuclear regulatory commission for the purpose of determining
+whether an individual should be granted unescorted access to the protected area
+of a commercial nuclear generating station on submission of the subject of
+record's fingerprints and the prescribed fee.
+20.With the state board
+of education for the purpose of evaluating the fitness of a certificated
+teacher or administrator or an applicant for a teaching or an administrative
+certificate provided that the state board of education or its employees or
+agents have reasonable suspicion that the certificated person engaged in
+conduct that would be a criminal violation of the laws of this state or was
+involved in immoral or unprofessional conduct or that the applicant engaged in
+conduct that would warrant disciplinary action if the applicant were
+certificated at the time of the alleged conduct. The information shall be
+provided on the submission of either:
+(a)The fingerprint card.
+(b)The name, date of birth and social security
+number of the person.
+21.With each school district and charter school in
+this state. The state board of education and the state board for charter
+schools shall provide the department of public safety with a current list of email
+addresses for each school district and charter school in this state and shall
+periodically provide the department of public safety with updated email
+addresses.If the department of public safety is notified that a
+person who is required to have a fingerprint clearance card to be employed by
+or to engage in volunteer activities at a school district or charter school has
+been arrested for or convicted of an offense listed in section 411758.03,
+subsection B or has been arrested for or convicted of an offense that amounts
+to unprofessional conduct under section 15550, the department of public
+safety shall notify each school district and charter school in this state that
+the person's fingerprint clearance card has been suspended or revoked.
+22.With a tribal social services agency and the
+department of child safety as provided by law, which currently is the Adam
+Walsh child protection and safety act of 2006 (42 United States Code section
+16961), for the purposes of investigating or responding to reports of child
+abuse, neglect or exploitation. Information received pursuant to this
+paragraph from the national crime information center, the interstate
+identification index and the Arizona criminal justice information system
+network shall only be used for the purposes of investigating or responding as
+prescribed in this paragraph.The information shall be provided on
+submission to the department of public safety of either:
+(a)The fingerprints of the person being
+investigated.
+(b)The name, date of birth and social security
+number of the person.
+23.With a nonprofit organization that interacts
+with children or vulnerable adults for the lawful purpose of evaluating the
+fitness of all current and prospective employees, contractors and volunteers of
+the organization. The criminal history record information shall be provided on
+submission of the applicant fingerprint card and the prescribed fee.
+24.With the superior court for the purpose of
+determining an individual's eligibility for substance abuse and treatment
+courts in a family or juvenile case.
+H.The director shall adopt rules necessary to
+execute this section.
+I.The director, in the manner prescribed by law,
+shall remove and destroy records that the director determines are no longer of
+value in the detection or prevention of crime.
+J.The director shall
+establish a fee in an amount necessary to cover the cost of federal noncriminal
+justice fingerprint processing for criminal history record information checks
+that are authorized by law for noncriminal justice employment, licensing or
+other lawful purposes. An additional fee may be charged by the department for
+state noncriminal justice fingerprint processing. Fees submitted to the
+department for state noncriminal justice fingerprint processing are not
+refundable.
+K.The director shall
+establish a fee in an amount necessary to cover the cost of processing copies
+of department reports, eight by ten inch black and white photographs or eight
+by ten inch color photographs of traffic accident scenes.
+L.Except as provided in
+subsection O of this section, each agency authorized by this section may charge
+a fee, in addition to any other fees prescribed by law, in an amount necessary
+to cover the cost of state and federal noncriminal justice fingerprint
+processing for criminal history record information checks that are authorized
+by law for noncriminal justice employment, licensing or other lawful purposes.
+M.A fingerprint account
+within the records processing fund is established for the purpose of separately
+accounting for the collection and payment of fees for noncriminal justice fingerprint
+processing by the department.Monies collected for this purpose
+shall be credited to the account, and payments by the department to the United
+States for federal noncriminal justice fingerprint processing shall be charged
+against the account. Monies in the account not required for payment to the
+United States shall be used by the department in support of the department's
+noncriminal justice fingerprint processing duties. At the end of each fiscal
+year, any balance in the account not required for payment to the United States
+or to support the department's noncriminal justice fingerprint processing
+duties reverts to the state general fund.
+N.A records processing
+fund is established for the purpose of separately accounting for the collection
+and payment of fees for department reports and photographs of traffic accident
+scenes processed by the department. Monies collected for this purpose shall be
+credited to the fund and shall be used by the department in support of
+functions related to providing copies of department reports and photographs.
+At the end of each fiscal year, any balance in the fund not required for
+support of the functions related to providing copies of department reports and
+photographs reverts to the state general fund.
+O.The department of child
+safety may pay from appropriated monies the cost of federal fingerprint
+processing or federal criminal history record information checks that are
+authorized by law for employees and volunteers of the department, guardians
+pursuant to section 8453, subsection A, paragraph 6, the licensing of
+foster parents or the certification of adoptive parents.
+P.The director shall
+adopt rules that provide for:
+1.The collection and
+disposition of fees pursuant to this section.
+2.The refusal of service
+to those agencies that are delinquent in paying these fees.
+Q.The director shall
+ensure that the following limitations are observed regarding dissemination of
+criminal justice information obtained from the central state repository or
+through the Arizona criminal justice information system:
+1.Any criminal justice
+agency that obtains criminal justice information from the central state
+repository or through the Arizona criminal justice information system assumes
+responsibility for the security of the information and shall not secondarily
+disseminate this information to any individual or agency not authorized to
+receive this information directly from the central state repository or
+originating agency.
+2.Dissemination to an
+authorized agency or individual may be accomplished by a criminal justice
+agency only if the dissemination is for criminal justice purposes in connection
+with the prescribed duties of the agency and not in violation of this section.
+3.Criminal history record
+information disseminated to noncriminal justice agencies or to individuals
+shall be used only for the purposes for which it was
+given.Secondary dissemination is prohibited unless otherwise
+authorized by law.
+4.The existence or
+nonexistence of criminal history record information shall not be confirmed to
+any individual or agency not authorized to receive the information itself.
+5.Criminal history record
+information to be released for noncriminal justice purposes to agencies of
+other states shall only be released to the central state repositories of those
+states for dissemination in accordance with the laws of those states.
+6.Criminal history record
+information shall be released to noncriminal justice agencies of the federal
+government pursuant to the terms of the federal security clearance information
+act (P.L. 99169).
+R.This section and the
+rules adopted under this section apply to all agencies and individuals
+collecting, storing or disseminating criminal justice information processed by
+manual or automated operations if the collection, storage or dissemination is
+funded in whole or in part with monies made available by the law enforcement
+assistance administration after July 1, 1973, pursuant to title I of the crime
+control act of 1973, and to all agencies that interact with or receive criminal
+justice information from or through the central state repository and through
+the Arizona criminal justice information system.
+S.This section does not
+apply to criminal history record information contained in:
+1.Posters, arrest
+warrants, announcements or lists for identifying or apprehending fugitives or
+wanted persons.
+2.Original records of
+entry such as police blotters maintained by criminal justice agencies, compiled
+chronologically and required by law or longstanding custom to be made
+public if these records are organized on a chronological basis.
+3.Transcripts or records
+of judicial proceedings if released by a court or legislative or administrative
+proceedings.
+4.Announcements of
+executive clemency or pardon.
+5.Computer databases,
+other than the Arizona criminal justice information system, that are
+specifically designed for community notification of an offender's presence in
+the community pursuant to section 133825 or for public informational
+purposes authorized by section 133827.
+T.Nothing in this section
+prevents a criminal justice agency from disclosing to the public criminal
+history record information that is reasonably contemporaneous to the event for
+which an individual is currently within the criminal justice system, including
+information noted on traffic accident reports concerning citations, blood
+alcohol tests or arrests made in connection with the traffic accident being
+investigated.
+U.In order to ensure that
+complete and accurate criminal history record information is maintained and
+disseminated by the central state repository:
+1.The arresting authority booking agency shall take legible tenprint
+fingerprints of all persons who are arrested for offenses listed in subsection
+C of this section. including persons who are arrested and released
+pursuant to section 133903, subsection C.The arresting
+authority may transfer an arrestee to a booking agency for ten-print
+fingerprinting.If the booking agency cannot determine whether
+legible tenprint fingerprints were taken from the arrestee, the booking
+agency shall take the arrestee's tenprint fingerprints.The
+arresting authority or
+booking agency shall obtain a process control number and provide to the person
+fingerprinted a document that indicates proof of the fingerprinting and that
+informs the person that the document must be presented to the court.
+2.Except as provided in paragraph 3 of this
+subsection, if a person is summoned to court as a result of an indictment or
+complaint for an offense listed in subsection C of this section, the court
+shall order the person to appear before the county sheriff and provide legible
+ten-print fingerprints. The county sheriff shall obtain a process control
+number and provide a document to the person fingerprinted that indicates proof
+of the fingerprinting and that informs the person that the document must be
+presented to the court.
+3.If a person is arrested for a misdemeanor
+offense listed in subsection C of this section and released from custody
+pursuant to section 13-3903, subsection C, the person shall appear before the
+law enforcement agency that arrested the defendant and provide legible
+ten-print fingerprints. The law enforcement agency shall obtain a process
+control number and provide a document to the person fingerprinted that
+indicates proof of the fingerprinting and that informs the person that the
+document must be presented to the court.
+2.4.The
+mandatory fingerprint compliance form shall contain the following information:
+(a)Whether ten-print fingerprints
+have been obtained from the person.
+(b)Whether a process
+control number was obtained.
+(c)The offense or
+offenses for which the process control number was obtained.
+(d)Any report number of
+the arresting authority.
+(e)Instructions on reporting
+for ten-print fingerprinting, including available times and locations for
+reporting for tenprint fingerprinting.
+(f)Instructions that
+direct the person to provide the form to the court at the person's next court
+appearance.
+3.5.Within
+ten days after a person is fingerprinted, the arresting authority or agency
+that took the fingerprints shall forward the fingerprints to the department in
+the manner or form required by the department.
+4.6.On
+the issuance of a summons for a defendant who is charged with an offense listed
+in subsection C of this section, the summons shall direct the defendant to
+provide tenprint fingerprints to the appropriate law enforcement agency.
+5.7.At
+the initial appearance or on the arraignment of a summoned defendant who is
+charged with an offense listed in subsection C of this section, if the person
+does not present a completed mandatory fingerprint compliance form to the court
+or if the court has not received the process control number, the court shall
+order that within twenty calendar days the defendant be ten-print fingerprinted
+at a designated time and place by the appropriate law enforcement agency.
+6.8.If
+the defendant fails to present a completed mandatory fingerprint compliance
+form or if the court has not received the process control number, the court, on
+its own motion, may remand the defendant into custody for tenprint
+fingerprinting. If otherwise eligible for release, the defendant shall be
+released from custody after being tenprint fingerprinted.
+7.9.In
+every criminal case in which the defendant is incarcerated or fingerprinted as
+a result of the charge, an originating law enforcement agency or prosecutor,
+within forty days of the disposition, shall advise the central state repository
+of all dispositions concerning the termination of criminal proceedings against
+an individual arrested for an offense specified in subsection C of this
+section. This information shall be submitted on a form or in a manner required
+by the department.
+8.10.Dispositions
+resulting from formal proceedings in a court having jurisdiction in a criminal
+action against an individual who is arrested for an offense specified in
+subsection C of this section or section 8341, subsection V, paragraph 3
+shall be reported to the central state repository within forty days of the date
+of the disposition.This information shall be submitted on a form or
+in a manner specified by rules approved by the supreme court.
+9.11.The
+state department of corrections or the department of juvenile corrections,
+within forty days, shall advise the central state repository that it has
+assumed supervision of a person convicted of an offense specified in subsection
+C of this section or section 8341, subsection V, paragraph 3. The state
+department of corrections or the department of juvenile corrections shall also
+report dispositions that occur thereafter to the central state repository
+within forty days of the date of the dispositions.This information
+shall be submitted on a form or in a manner required by the department of
+public safety.
+10.12.Each
+criminal justice agency shall query the central state repository before
+dissemination of any criminal history record information to ensure the
+completeness of the information. Inquiries shall be made before any
+dissemination except in those cases in which time is of the essence and the
+repository is technically incapable of responding within the necessary time
+period.If time is of the essence, the inquiry shall still be made
+and the response shall be provided as soon as possible.
+V.The director shall
+adopt rules specifying that any agency that collects, stores or disseminates
+criminal justice information that is subject to this section shall establish
+effective security measures to protect the information from unauthorized
+access, disclosure, modification or dissemination. The rules shall include
+reasonable safeguards to protect the affected information systems from fire,
+flood, wind, theft, sabotage or other natural or manmade hazards or
+disasters.
+W.The department shall
+make available to agencies that contribute to, or receive criminal justice
+information from, the central state repository or through the Arizona criminal
+justice information system a continuing training program in the proper methods
+for collecting, storing and disseminating information in compliance with this
+section.
+X.Nothing in this section
+creates a cause of action or a right to bring an action including an action
+based on discrimination due to sexual orientation.
+Y.For the purposes of
+this section:
+1."Administration of
+criminal justice" means performance of the detection, apprehension,
+detention, pretrial release, posttrial release, prosecution, adjudication,
+correctional supervision or rehabilitation of criminal offenders.Administration
+of criminal justice includes enforcement of criminal traffic offenses and civil
+traffic violations, including parking violations, when performed by a criminal
+justice agency.Administration of criminal justice also includes
+criminal identification activities and the collection, storage and
+dissemination of criminal history record information.
+2."Administrative
+records" means records that contain adequate and proper documentation of
+the organization, functions, policies, decisions, procedures and essential
+transactions of the agency and that are designed to furnish information to
+protect the rights of this state and of persons directly affected by the
+agency's activities.
+3."Arizona criminal
+justice information system" or "system" means the statewide
+information system managed by the director for the collection, processing,
+preservation, dissemination and exchange of criminal justice information and
+includes the electronic equipment, facilities, procedures and agreements
+necessary to exchange this information.
+4."Booking agency" means the county
+sheriff or, if a person is booked into a municipal jail, the municipal law
+enforcement agency.
+4.5."Central
+state repository" means the central location within the department for the
+collection, storage and dissemination of Arizona criminal history records and
+related criminal justice information.
+5.6."Criminal
+history record information" and "criminal history record" means
+information that is collected by criminal justice agencies on individuals and
+that consists of identifiable descriptions and notations of arrests,
+detentions, indictments and other formal criminal charges, and any disposition
+arising from those actions, sentencing, formal correctional supervisory action
+and release.Criminal history record information and criminal
+history record do not include identification information to the extent that the
+information does not indicate involvement of the individual in the criminal
+justice system or information relating to juveniles unless they have been
+adjudicated as adults.
+6.7."Criminal
+justice agency" means either:
+(a)A court at any
+governmental level with criminal or equivalent jurisdiction, including courts
+of any foreign sovereignty duly recognized by the federal government.
+(b)A government agency or
+subunit of a government agency that is specifically authorized to perform as
+its principal function the administration of criminal justice pursuant to a
+statute, ordinance or executive order and that allocates more than fifty
+percent of its annual budget to the administration of criminal justice. This
+subdivision includes agencies of any foreign sovereignty duly recognized by the
+federal government.
+7.8."Criminal
+justice information" means information that is collected by criminal
+justice agencies and that is needed for the performance of their legally
+authorized and required functions, such as criminal history record information,
+citation information, stolen property information, traffic accident reports,
+wanted persons information and system network log searches.Criminal
+justice information does not include the administrative records of a criminal
+justice agency.
+8.9."Disposition"
+means information disclosing that a decision has been made not to bring
+criminal charges or that criminal proceedings have been concluded or
+information relating to sentencing, correctional supervision, release from
+correctional supervision, the outcome of an appellate review of criminal
+proceedings or executive clemency.
+9.10."Dissemination"
+means the written, oral or electronic communication or transfer of criminal
+justice information to individuals and agencies other than the criminal justice
+agency that maintains the information. Dissemination includes the act of
+confirming the existence or nonexistence of criminal justice information.
+10.11."Management control":
+(a)Means
+the authority to set and enforce:
+(i)Priorities
+regarding development and operation of criminal justice information systems and
+programs.
+(ii)Standards for the
+selection, supervision and termination of personnel involved in the development
+of criminal justice information systems and programs and in the collection,
+maintenance, analysis and dissemination of criminal justice information.
+(iii)Policies governing
+the operation of computers, circuits and telecommunications terminals used to
+process criminal justice information to the extent that the equipment is used
+to process, store or transmit criminal justice information.
+(b)Includes the
+supervision of equipment, systems design, programming and operating procedures
+necessary for the development and implementation of automated criminal justice
+information systems.
+11.12."Process
+control number" means the Arizona automated fingerprint identification
+system number that attaches to each arrest event at the time of fingerprinting
+and that is assigned to the arrest fingerprint card, disposition form and other
+pertinent documents.
+12.13."Secondary
+dissemination" means the dissemination of criminal justice information
+from an individual or agency that originally obtained the information from the
+central state repository or through the Arizona criminal justice information
+system to another individual or agency.
+13.14."Sexual
+orientation" means consensual homosexuality or heterosexuality.
+14.15."Subject
+of record" means the person who is the primary subject of a criminal
+justice record. END_STATUTE
+
