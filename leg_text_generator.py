@@ -55,7 +55,7 @@ def getBillId():
         htmlText = str(bsObj2.getText())
 
         #print each instance of htmlText to a unique file
-        f = open("data/" + str(bill_num) + ".txt", "wb")
+        f = open("data/" + str(bill_num) + "_" + str(doc_id) + ".txt", "wb")
         f.write(htmlText.encode("ascii", errors="ignore"))
         f.close()
         ++num
