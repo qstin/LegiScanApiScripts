@@ -18,6 +18,4 @@ def getBillIdList():
     f.write("\n".join(map(lambda x: str(x), bill_id_list)))
     f.close()
 
-def get
-
 getBillIdList()

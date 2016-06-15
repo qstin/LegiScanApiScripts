@@ -58,13 +58,10 @@ def getBillId():
         f = open("data/" + str(bill_num) + "_" + str(doc_id) + ".txt", "wb")
         f.write(htmlText.encode("ascii", errors="ignore"))
         f.close()
-        ++num
-
-
+        num += 1
 
 def getBills(bill_list):
     """use the list of ids to increment api billText"""
-
     complete_bill_list = []
     for i in bill_list:
         billUrl = urlopen("https://api.legiscan.com/?key=2d28553a502d7fed3b68863b2f592f19&op=getBill&id="+str(i)).read().decode()
