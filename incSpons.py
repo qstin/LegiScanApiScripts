@@ -3,6 +3,10 @@ import json
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 
+"""
+This script prints a list of this session's sponsors' ids to a text file.
+"""
+
 def getBillIdList():
     r = urlopen("https://api.legiscan.com/?key=2d28553a502d7fed3b68863b2f592f19&op=getMasterList&state=AZ").read().decode('utf-8')
     json_obj = json.loads(r)
@@ -42,6 +46,5 @@ def getBill(bill_list):
         bill_over_list.append(json_obj)
 
     return bill_over_list
-
 
 getSponsors()

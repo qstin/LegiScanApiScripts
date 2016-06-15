@@ -6,9 +6,10 @@ import pandas as pd
 def find_high_results():
 
     regex = re.compile(r'[!^"az"]')
-    match_counter = 0
 
     for i in os.listdir(os.getcwd()):
+        
+        match_counter = 0
         if i.endswith(".csv"):
             df = pd.read_csv(i)
             for index, row in df.iterrows():
